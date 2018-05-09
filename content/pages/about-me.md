@@ -10,7 +10,7 @@ body_classes: "about-me colours-002"
 
 ## Basics
 
-I’m Laura Kalbag, a designer and British person, now living in Malmö, Sweden. I wrote a book about web accessibility called [Accessibility For Everyone](https://abookapart.com/products/accessibility-for-everyone). You can [buy it in paperback or ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone).
+I’m Laura Kalbag, a designer and British person, now living in Cork, Ireland. I wrote a book about web accessibility called [Accessibility For Everyone](https://abookapart.com/products/accessibility-for-everyone). You can [buy it in paperback or ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone).
 
 I’m one third of [Ind.ie](https://ind.ie), a tiny two-person-and-one-husky not-for-profit working for social justice in the digital age. At Ind.ie, we work on building a more ethical web, make [a web privacy tool called Better](https://better.fyi), and follow the [Ethical Design Manifesto](https://ind.ie/ethical-design).
 
@@ -26,6 +26,6 @@ My work means I’m always striving to make privacy and broader ethics in techno
 
 ## Principles
 
-Honest, sustainable, and independent design is important to me. I believe the web should be owned and controlled by the citizens that use it, and we who create technology should do so ethically and responsibly. Someone at Google once called me a socialist (and considered it an insult…)
+Honest, sustainable, and independent design is important to me. I believe the web should be owned and controlled by the citizens that use it, and we who create technology should do so ethically and responsibly.
 
 I also speak and write regularly about the importance of [accessibility](../tag/accessibility/index.html) and [diversity](https://ind.ie/summit/videos/laura-kalbag) in the tech and design industries. I first became interested in the web because I loved how it made information and shared experiences available to (almost) everybody. I want to work for a web that is equally accessible to all people. And to do that, our industry must be as diverse as the people who use what we create.
