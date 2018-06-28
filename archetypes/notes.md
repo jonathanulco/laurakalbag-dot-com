@@ -1,8 +1,8 @@
 ---
-title: "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"
+title: "{{ replace .TranslationBaseName "-" "Note from " | title }}"
 date: {{ .Date }}
-draft: true
 tags: []
 categories: []
-body_classes: "notes colours-001"
+visibility: ["public"]
+body_classes: "notes colours-008"
 ---
