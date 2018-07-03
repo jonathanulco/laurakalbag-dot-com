@@ -2,6 +2,17 @@
 	<article>
 		{{ .Content }}
 	</article>
+	{{ range first 1 (where .Data.Pages "Section" "notes") }}
+		<h2>Latest Note</h2>
+		<div class="notes-list">
+			<h3>
+				{{ .Title }}
+			</h3>
+			<div class="summary">
+				{{ .Content }}
+			</div>
+		</div>
+	{{ end }}
 	{{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
 	{{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
 	{{/* Create a variable with that section to use in multiple places. */}}
