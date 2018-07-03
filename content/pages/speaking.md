@@ -16,6 +16,11 @@ In the last couple of years, I’ve been really lucky to be invited to speak at 
 
 ## Past Talks
 
+* **Webinale** in Berlin, Germany <abbr class="dtstart" title="2018-06-5">5th June 2018</abbr>
+* **NZZ X.Days** in Interlaken, Switzerland <abbr class="dtstart" title="2018-03-21">21st March 2018</abbr>
+* **UX Copenhagen** in Copenhagen, Denmark <abbr class="dtstart" title="2018-02-27">27th February 2018</abbr>
+* **IxDA** in Lausanne, Switzerland <abbr class="dtstart" title="2018-02-20">20th February 2018</abbr>
+* **Webstock** in Wellington, New Zealand <abbr class="dtstart" title="2018-02-14">14th February 2018</abbr>
 * **ada_conf** in Malmö, Sweden <abbr class="dtstart" title="2017-11-25">25th November 2017</abbr>
 * **Chicago Digital Accessibility and Inclusive Design Meetup** in Chicago, USA (virtually!) <abbr class="dtstart" title="2017-11-15">15th November 2017</abbr>
 * **A11y Club** in Berlin, Germany <abbr class="dtstart" title="2017-11-06">6th November 2017</abbr>
