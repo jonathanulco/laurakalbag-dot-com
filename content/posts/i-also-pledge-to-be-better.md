@@ -36,11 +36,11 @@ I will call out people for behaviours that I deem offensive or unacceptable, but
 
 I acknowledge that I will make mistakes, and that I may offend someone unintentionally with my words or actions. Rather than get defensive when called out on it, I will try my hardest to listen respectfully, and learn more instead.
 
-I will not attend events that do not have clear [Code of Conduct policies][1], like an anti-harassment or diversity statement. I will also decline to attend events that feature, or permit to attend, any known offender of sexual assault.
+I will not attend events that do not have clear [Code of Conduct policies](#id-1), like an anti-harassment or diversity statement. I will also decline to attend events that feature, or permit to attend, any known offender of sexual assault.
 
 I pledge to be better, and set a positive example for others in our community, industry, and society.
 
-[1]: [http://adainitiative.org/what-we-do/conference-policies/](http://adainitiative.org/what-we-do/conference-policies/ "The Ada Initiative Conference anti-harassment policy")
+<p id="id-1">1: <a href="http://adainitiative.org/what-we-do/conference-policies/">The Ada Initiative Conference anti-harassment policy</a></p>
 
 ---
 
