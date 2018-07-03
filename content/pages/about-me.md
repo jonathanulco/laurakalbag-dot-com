@@ -26,6 +26,6 @@ My work means I’m always striving to make privacy and broader ethics in techno
 
 ## Principles
 
-Honest, sustainable, and independent design is important to me. I believe the web should be owned and controlled by the citizens that use it, and we who create technology should do so ethically and responsibly.
+Honest, sustainable, and independent design is important to me. I believe the web should be owned and controlled by the people who use it, and we who create technology should do so ethically and responsibly.
 
 I also speak and write regularly about the importance of [accessibility](../tag/accessibility/index.html) and [diversity](https://ind.ie/summit/videos/laura-kalbag) in the tech and design industries. I first became interested in the web because I loved how it made information and shared experiences available to (almost) everybody. I want to work for a web that is equally accessible to all people. And to do that, our industry must be as diverse as the people who use what we create.
