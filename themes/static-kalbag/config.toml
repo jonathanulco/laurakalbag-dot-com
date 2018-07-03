@@ -1,0 +1,8 @@
+baseURL = "https://laurakalbag.com"
+languageCode = "en-GB"
+title = "Laura Kalbag"
+theme = "static-kalbag"
+[permalinks]
+	pages = "/:filename/"
+	posts = "/:filename/"
+	projects = "/project/:filename/"

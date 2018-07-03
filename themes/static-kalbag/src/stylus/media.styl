@@ -1,0 +1,36 @@
+figure
+	margin 1em 0 1em
+	
+	a
+		display block
+		text-decoration none
+
+// use @css as stylus isn’t compiling grid properly yet
+@css {
+	figure {
+		display: grid;
+		grid-template-areas:
+    		"image1 image2 image3"
+        	"figcaption figcaption figcaption";
+	}
+
+	figcaption {
+        grid-area: figcaption;
+	}
+}
+
+figcaption
+	display block
+	margin-top 0.5em
+
+img
+	margin 1em 0
+	max-height 100vh // don’t exceed height of viewport
+	max-width 100% // don’t exceed width of viewport
+	
+	figure &
+		margin-bottom 0
+
+// for images with .always-full-height class, remove max-height
+figure.always-full-height img
+	max-height none

@@ -1,0 +1,17 @@
+{{ define "header" }}{{ partial "header.html" . }}{{ end }}
+{{ define "main" }}
+	<article>
+		<h1 class="page-title">{{ .Page.Title }}</h1>
+		{{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
+		<div class="entry-meta">
+			<p>Posted: 
+				<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+				{{ .Date.Format "2" | humanize }} {{ .Date.Format "January, 2006" }}
+				</time>
+			</p>
+		</div>
+		<div class="entry-content">
+		{{ .Content }}
+		</div>
+	</article>
+{{ end }}

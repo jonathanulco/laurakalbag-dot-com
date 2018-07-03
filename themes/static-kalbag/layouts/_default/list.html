@@ -1,0 +1,25 @@
+{{ define "main" }}
+	<article>
+		{{ .Content }}
+	</article>
+	{{ $section := where .Data.Pages "Section" .Section }}
+	<ul class="posts-list">
+		{{ range $section }}
+			<li>
+				<h2>
+					<a href="{{ .URL }}">
+					{{ .Title }}
+					</a>
+				</h2>
+				<div class="entry-meta"><p>Posted: <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+						{{ .Date.Format "2" | humanize }} {{ .Date.Format "January, 2006" }}
+						</time></p></div>
+				<div class="summary">
+					<p>
+					{{ .Summary }} <a href="{{ .URL }}">Read {{ .Title }}</a>.
+					</p>
+				</div>
+			</li>
+		{{ end }}
+	</ul>
+{{ end }}

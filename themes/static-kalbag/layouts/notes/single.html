@@ -1,0 +1,15 @@
+{{ define "header" }}{{ partial "header.html" . }}{{ end }}
+{{ define "main" }}
+	<article>
+		<h1 class="page-title">{{ .Page.Title }}</h1>
+		{{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
+		<div class="entry-content">
+		{{ .Content }}
+		</div>
+		{{ if or .Params.twitterurl .Params.instagramurl .Params.mastodonurl }}
+		<div class="entry-notes">
+			{{ if .Params.twitterurl }} <p><a href="{{ $.Param "twitterurl" }}">Also posted on Twitter at {{ $.Param "twitterurl" }}</a></p>{{ end }}
+		</div>
+		{{ end }}
+	</article>
+{{ end }}
