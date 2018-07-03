@@ -6,10 +6,71 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Mon, 26 Oct 2015 13:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jul 2018 19:25:46 +0100</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gallery Grid With CSS Grid</title>
+      <link>https://laurakalbag.com/gallery-grid-with-css-grid/</link>
+      <pubDate>Mon, 02 Jul 2018 19:25:46 +0100</pubDate>
+      
+      <guid>https://laurakalbag.com/gallery-grid-with-css-grid/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout&#34;&gt;CSS Grid Layout&lt;/a&gt; is great. My site layout is fairly simple, so had no need for lots of grid—I only used it for lining up comments and avatars on old blog posts.&lt;/p&gt;
+
+&lt;p&gt;Working on my &lt;a href=&#34;https://laurakalbag.com/notes&#34;&gt;Notes&lt;/a&gt; section, I realised I’d sometimes be adding multiple images (dog photos) in one note. The default style for my images is big and full-width, but two or three full-width images in rows would likely be overwhelming. It’d be much tidier if all the images auto-filled across the row. Regardless of how many images there are in the notes.&lt;/p&gt;
+
+&lt;p&gt;My HTML for these notes looks something like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;figure class=&amp;quot;note-image&amp;quot;&amp;gt;
+	&amp;lt;img src=&amp;quot;2018/06/14/21/osky1.jpg&amp;quot; alt=&amp;quot;Oskar with his head on a cushion and begging eyes.&amp;quot;/&amp;gt;
+	&amp;lt;img src=&amp;quot;2018/06/14/21/osky2.jpg&amp;quot; alt=&amp;quot;Oskar with his head on a cushion and closed eyes.&amp;quot;/&amp;gt;
+	&amp;lt;img src=&amp;quot;2018/06/14/21/osky3.jpg&amp;quot; alt=&amp;quot;Oskar with his head on a cushion and begging eyes open again.&amp;quot;/&amp;gt;
+    &amp;lt;figcaption&amp;gt;&amp;lt;p&amp;gt;How could you say no to this face?&amp;lt;/p&amp;gt;&amp;lt;/figcaption&amp;gt;
+&amp;lt;/figure&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Sometimes there is one image, sometimes two or three. I concluded there would rarely be more than three, though I’ll adjust the CSS accordingly if that is ever the case. Sometimes there is a caption, sometimes there isn’t.&lt;/p&gt;
+
+&lt;p&gt;The CSS is remarkably minimal:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;figure {
+    display: grid;
+    grid-template-areas:
+        &amp;quot;image1 image2 image3&amp;quot;
+        &amp;quot;figcaption figcaption figcaption&amp;quot;;
+}
+
+figcaption {
+    grid-area: figcaption;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The images auto-fill across the first row, filling all available space. If there’s no image2 or image3, image1 fills 100% of the available width.&lt;/p&gt;
+
+&lt;p&gt;The figcaption always fills the whole width, regardless of whether there is one, two, or three images above it.&lt;/p&gt;
+
+&lt;figure class=&#34;note-image always-full-height&#34;&gt;
+    &lt;a href=&#34;https://laurakalbag.com/images/2018/07/figures.jpg&#34;&gt;
+        &lt;img src=&#34;https://laurakalbag.com/images/2018/07/figures.jpg&#34; alt=&#34;Four sets of images showing single, double, and triple image layouts.&#34; width=&#34;500px&#34;&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;The results. Note the two side-by-side portrait images do not fill the width of the viewport as the &lt;code&gt;max-height&lt;/code&gt; of the images is set to &lt;code&gt;100vh&lt;/code&gt;.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Isn’t that fabulous?&lt;/p&gt;
+
+&lt;p&gt;As always, everything I’m learning about CSS Grid Layout is from work by Rachel Andrew and Jen Simmons. Resources I used to inform my decisions/cobble this together were from:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/&#34;&gt;Auto-Sizing Columns in CSS Grid: &lt;code&gt;auto-fill&lt;/code&gt; vs &lt;code&gt;auto-fit&lt;/code&gt; by Sara Soueidan on CSS Tricks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rachelandrew.co.uk/archives/2016/04/12/flexible-sized-grids-with-auto-fill-and-minmax/&#34;&gt;Flexible Sized Grids with auto-fill and minmax by Rachel Andrew&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gridbyexample.com/examples/example12/&#34;&gt;No Clearing Required by Rachel Andrew on Grid By Example&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Flexboxing the Universal Video Player</title>

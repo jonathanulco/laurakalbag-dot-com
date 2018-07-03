@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://laurakalbag.com/gallery-grid-with-css-grid/</loc>
+    <lastmod>2018-07-02T19:25:46+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://laurakalbag.com/notes/2018/06/29/09/25/</loc>
     <lastmod>2018-06-29T09:25:18+01:00</lastmod>
   </url>
@@ -1268,14 +1273,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/accessibility/</loc>
-    <lastmod>2018-03-12T12:17:46+01:00</lastmod>
+    <loc>https://laurakalbag.com/categories/accessibility/</loc>
+    <lastmod>2017-12-22T18:59:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/accessibility/</loc>
-    <lastmod>2017-12-22T18:59:08+01:00</lastmod>
+    <loc>https://laurakalbag.com/tags/accessibility/</loc>
+    <lastmod>2018-03-12T12:17:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1869,7 +1874,13 @@
   
   <url>
     <loc>https://laurakalbag.com/tags/css/</loc>
-    <lastmod>2014-05-02T13:10:30+00:00</lastmod>
+    <lastmod>2018-07-02T19:25:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurakalbag.com/tags/css-grid-layout/</loc>
+    <lastmod>2018-07-02T19:25:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1934,14 +1945,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/design/</loc>
-    <lastmod>2016-02-17T10:30:00+00:00</lastmod>
+    <loc>https://laurakalbag.com/categories/design/</loc>
+    <lastmod>2017-04-10T10:18:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/design/</loc>
-    <lastmod>2017-04-10T10:18:28+00:00</lastmod>
+    <loc>https://laurakalbag.com/tags/design/</loc>
+    <lastmod>2016-02-17T10:30:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2024,14 +2035,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/development/</loc>
-    <lastmod>2014-10-07T13:57:33+00:00</lastmod>
+    <loc>https://laurakalbag.com/categories/development/</loc>
+    <lastmod>2018-07-02T19:25:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/development/</loc>
-    <lastmod>2015-10-26T13:11:45+00:00</lastmod>
+    <loc>https://laurakalbag.com/tags/development/</loc>
+    <lastmod>2014-10-07T13:57:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2228,14 +2239,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/events/</loc>
-    <lastmod>2013-02-04T21:39:47+00:00</lastmod>
+    <loc>https://laurakalbag.com/categories/events/</loc>
+    <lastmod>2015-04-07T09:26:27+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/events/</loc>
-    <lastmod>2015-04-07T09:26:27+00:00</lastmod>
+    <loc>https://laurakalbag.com/tags/events/</loc>
+    <lastmod>2013-02-04T21:39:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2444,13 +2455,13 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/freelancing/</loc>
+    <loc>https://laurakalbag.com/categories/freelancing/</loc>
     <lastmod>2014-11-28T13:09:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/freelancing/</loc>
+    <loc>https://laurakalbag.com/tags/freelancing/</loc>
     <lastmod>2014-11-28T13:09:28+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2649,7 +2660,7 @@
   
   <url>
     <loc>https://laurakalbag.com/tags/html/</loc>
-    <lastmod>2017-12-22T18:59:08+01:00</lastmod>
+    <lastmod>2018-07-02T19:25:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2750,13 +2761,13 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/ind.ie/</loc>
+    <loc>https://laurakalbag.com/categories/ind.ie/</loc>
     <lastmod>2017-04-10T12:58:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/ind.ie/</loc>
+    <loc>https://laurakalbag.com/tags/ind.ie/</loc>
     <lastmod>2017-04-10T12:58:22+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2768,13 +2779,13 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/indie/</loc>
+    <loc>https://laurakalbag.com/categories/indie/</loc>
     <lastmod>2018-02-05T13:45:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/indie/</loc>
+    <loc>https://laurakalbag.com/tags/indie/</loc>
     <lastmod>2018-02-05T13:45:02+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2942,14 +2953,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/learning/</loc>
-    <lastmod>2014-11-28T13:09:28+00:00</lastmod>
+    <loc>https://laurakalbag.com/categories/learning/</loc>
+    <lastmod>2015-05-28T17:38:14+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/learning/</loc>
-    <lastmod>2015-05-28T17:38:14+00:00</lastmod>
+    <loc>https://laurakalbag.com/tags/learning/</loc>
+    <lastmod>2014-11-28T13:09:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3038,14 +3049,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/markup/</loc>
-    <lastmod>2013-04-01T22:52:39+00:00</lastmod>
+    <loc>https://laurakalbag.com/categories/markup/</loc>
+    <lastmod>2013-01-01T19:01:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/markup/</loc>
-    <lastmod>2013-01-01T19:01:59+00:00</lastmod>
+    <loc>https://laurakalbag.com/tags/markup/</loc>
+    <lastmod>2013-04-01T22:52:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3302,14 +3313,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/oskar/</loc>
-    <lastmod>2018-02-05T13:45:02+01:00</lastmod>
+    <loc>https://laurakalbag.com/categories/oskar/</loc>
+    <lastmod>2018-06-14T17:12:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/oskar/</loc>
-    <lastmod>2018-06-14T17:12:07+01:00</lastmod>
+    <loc>https://laurakalbag.com/tags/oskar/</loc>
+    <lastmod>2018-02-05T13:45:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3368,14 +3379,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/personal/</loc>
-    <lastmod>2015-05-23T16:12:38+00:00</lastmod>
+    <loc>https://laurakalbag.com/categories/personal/</loc>
+    <lastmod>2016-10-03T12:44:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/personal/</loc>
-    <lastmod>2016-10-03T12:44:47+00:00</lastmod>
+    <loc>https://laurakalbag.com/tags/personal/</loc>
+    <lastmod>2015-05-23T16:12:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3452,14 +3463,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/podcasts/</loc>
-    <lastmod>2013-12-31T17:14:04+00:00</lastmod>
+    <loc>https://laurakalbag.com/categories/podcasts/</loc>
+    <lastmod>2018-03-12T12:17:22+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/podcasts/</loc>
-    <lastmod>2018-03-12T12:17:22+01:00</lastmod>
+    <loc>https://laurakalbag.com/tags/podcasts/</loc>
+    <lastmod>2013-12-31T17:14:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3704,14 +3715,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/reviews/</loc>
-    <lastmod>2016-06-29T13:44:48+00:00</lastmod>
+    <loc>https://laurakalbag.com/categories/reviews/</loc>
+    <lastmod>2014-01-07T09:25:48+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/reviews/</loc>
-    <lastmod>2014-01-07T09:25:48+00:00</lastmod>
+    <loc>https://laurakalbag.com/tags/reviews/</loc>
+    <lastmod>2016-06-29T13:44:48+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4124,14 +4135,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/tools/</loc>
-    <lastmod>2013-03-30T20:09:49+00:00</lastmod>
+    <loc>https://laurakalbag.com/categories/tools/</loc>
+    <lastmod>2014-08-15T07:20:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/tools/</loc>
-    <lastmod>2014-08-15T07:20:40+00:00</lastmod>
+    <loc>https://laurakalbag.com/tags/tools/</loc>
+    <lastmod>2013-03-30T20:09:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4274,14 +4285,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/usability/</loc>
-    <lastmod>2013-12-10T09:45:22+00:00</lastmod>
+    <loc>https://laurakalbag.com/categories/usability/</loc>
+    <lastmod>2014-05-15T10:14:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/usability/</loc>
-    <lastmod>2014-05-15T10:14:06+00:00</lastmod>
+    <loc>https://laurakalbag.com/tags/usability/</loc>
+    <lastmod>2013-12-10T09:45:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4388,14 +4399,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/wordpress/</loc>
-    <lastmod>2013-02-02T13:09:26+00:00</lastmod>
+    <loc>https://laurakalbag.com/categories/wordpress/</loc>
+    <lastmod>2010-07-16T21:50:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/wordpress/</loc>
-    <lastmod>2010-07-16T21:50:57+00:00</lastmod>
+    <loc>https://laurakalbag.com/tags/wordpress/</loc>
+    <lastmod>2013-02-02T13:09:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4508,14 +4519,14 @@
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/tags/writing/</loc>
-    <lastmod>2015-01-01T14:21:02+00:00</lastmod>
+    <loc>https://laurakalbag.com/categories/writing/</loc>
+    <lastmod>2017-08-18T13:44:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://laurakalbag.com/categories/writing/</loc>
-    <lastmod>2017-08-18T13:44:22+00:00</lastmod>
+    <loc>https://laurakalbag.com/tags/writing/</loc>
+    <lastmod>2015-01-01T14:21:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
