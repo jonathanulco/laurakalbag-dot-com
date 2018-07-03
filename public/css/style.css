@@ -636,11 +636,13 @@ body.colours-001 #content .posts-list p {
     box-shadow: #e9e9e9 0 0 0 2.6rem;
   }
 }
-body.colours-001 #content figcaption p {
+body.colours-001 #content figcaption p,
+body.colours-001 #content .comment p {
   box-shadow: none;
 }
 @media screen and (min-width: 18em) {
-  body.colours-001 #content figcaption p {
+  body.colours-001 #content figcaption p,
+  body.colours-001 #content .comment p {
     box-shadow: none;
   }
 }
@@ -1072,11 +1074,13 @@ body.colours-002 #content .posts-list p {
     box-shadow: #c9ecff 0 0 0 2.6rem;
   }
 }
-body.colours-002 #content figcaption p {
+body.colours-002 #content figcaption p,
+body.colours-002 #content .comment p {
   box-shadow: none;
 }
 @media screen and (min-width: 18em) {
-  body.colours-002 #content figcaption p {
+  body.colours-002 #content figcaption p,
+  body.colours-002 #content .comment p {
     box-shadow: none;
   }
 }
@@ -1508,11 +1512,13 @@ body.colours-003 #content .posts-list p {
     box-shadow: #ece6ff 0 0 0 2.6rem;
   }
 }
-body.colours-003 #content figcaption p {
+body.colours-003 #content figcaption p,
+body.colours-003 #content .comment p {
   box-shadow: none;
 }
 @media screen and (min-width: 18em) {
-  body.colours-003 #content figcaption p {
+  body.colours-003 #content figcaption p,
+  body.colours-003 #content .comment p {
     box-shadow: none;
   }
 }
@@ -1944,11 +1950,13 @@ body.colours-004 #content .posts-list p {
     box-shadow: #ddffc9 0 0 0 2.6rem;
   }
 }
-body.colours-004 #content figcaption p {
+body.colours-004 #content figcaption p,
+body.colours-004 #content .comment p {
   box-shadow: none;
 }
 @media screen and (min-width: 18em) {
-  body.colours-004 #content figcaption p {
+  body.colours-004 #content figcaption p,
+  body.colours-004 #content .comment p {
     box-shadow: none;
   }
 }
@@ -2380,11 +2388,13 @@ body.colours-005 #content .posts-list p {
     box-shadow: #ffe7f6 0 0 0 2.6rem;
   }
 }
-body.colours-005 #content figcaption p {
+body.colours-005 #content figcaption p,
+body.colours-005 #content .comment p {
   box-shadow: none;
 }
 @media screen and (min-width: 18em) {
-  body.colours-005 #content figcaption p {
+  body.colours-005 #content figcaption p,
+  body.colours-005 #content .comment p {
     box-shadow: none;
   }
 }
@@ -2816,11 +2826,13 @@ body.colours-006 #content .posts-list p {
     box-shadow: #f3e8fe 0 0 0 2.6rem;
   }
 }
-body.colours-006 #content figcaption p {
+body.colours-006 #content figcaption p,
+body.colours-006 #content .comment p {
   box-shadow: none;
 }
 @media screen and (min-width: 18em) {
-  body.colours-006 #content figcaption p {
+  body.colours-006 #content figcaption p,
+  body.colours-006 #content .comment p {
     box-shadow: none;
   }
 }
@@ -3252,11 +3264,13 @@ body.colours-007 #content .posts-list p {
     box-shadow: #fdfca7 0 0 0 2.6rem;
   }
 }
-body.colours-007 #content figcaption p {
+body.colours-007 #content figcaption p,
+body.colours-007 #content .comment p {
   box-shadow: none;
 }
 @media screen and (min-width: 18em) {
-  body.colours-007 #content figcaption p {
+  body.colours-007 #content figcaption p,
+  body.colours-007 #content .comment p {
     box-shadow: none;
   }
 }
@@ -3688,11 +3702,13 @@ body.colours-008 #content .posts-list p {
     box-shadow: #ffd8d5 0 0 0 2.6rem;
   }
 }
-body.colours-008 #content figcaption p {
+body.colours-008 #content figcaption p,
+body.colours-008 #content .comment p {
   box-shadow: none;
 }
 @media screen and (min-width: 18em) {
-  body.colours-008 #content figcaption p {
+  body.colours-008 #content figcaption p,
+  body.colours-008 #content .comment p {
     box-shadow: none;
   }
 }
@@ -4124,11 +4140,13 @@ body.colours-009 #content .posts-list p {
     box-shadow: #c9ffee 0 0 0 2.6rem;
   }
 }
-body.colours-009 #content figcaption p {
+body.colours-009 #content figcaption p,
+body.colours-009 #content .comment p {
   box-shadow: none;
 }
 @media screen and (min-width: 18em) {
-  body.colours-009 #content figcaption p {
+  body.colours-009 #content figcaption p,
+  body.colours-009 #content .comment p {
     box-shadow: none;
   }
 }
@@ -4560,11 +4578,13 @@ body.colours-010 #content .posts-list p {
     box-shadow: #f0f0f0 0 0 0 2.6rem;
   }
 }
-body.colours-010 #content figcaption p {
+body.colours-010 #content figcaption p,
+body.colours-010 #content .comment p {
   box-shadow: none;
 }
 @media screen and (min-width: 18em) {
-  body.colours-010 #content figcaption p {
+  body.colours-010 #content figcaption p,
+  body.colours-010 #content .comment p {
     box-shadow: none;
   }
 }
@@ -4996,11 +5016,13 @@ body.colours-013 #content .posts-list p {
     box-shadow: #efffc9 0 0 0 2.6rem;
   }
 }
-body.colours-013 #content figcaption p {
+body.colours-013 #content figcaption p,
+body.colours-013 #content .comment p {
   box-shadow: none;
 }
 @media screen and (min-width: 18em) {
-  body.colours-013 #content figcaption p {
+  body.colours-013 #content figcaption p,
+  body.colours-013 #content .comment p {
     box-shadow: none;
   }
 }
