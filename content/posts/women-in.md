@@ -39,7 +39,7 @@ And finally, let me be completely honest. If anybody talks about me as being a â
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-184">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">pilky</cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">pilky</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-184"><time datetime="2011-03-02T14:26:26+00:00" pubdate class="published">
 		 at <span class="hours">14:26pm</span></time></a></p>
 	</aside>
@@ -72,7 +72,7 @@ And finally, let me be completely honest. If anybody talks about me as being a â
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-187">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">alaric</cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">alaric</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-187"><time datetime="2011-03-03T00:27:55+00:00" pubdate class="published">
 		 at <span class="hours">00:27am</span></time></a></p>
 	</aside>

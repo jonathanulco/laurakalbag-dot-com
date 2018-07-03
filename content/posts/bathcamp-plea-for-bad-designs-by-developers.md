@@ -42,7 +42,7 @@ If more than one design is volunteered, I will choose the best (that can be most
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-151">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">iamdanw</cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">iamdanw</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-151"><time datetime="2010-10-25T19:28:38+00:00" pubdate class="published">
 		 at <span class="hours">19:28pm</span></time></a></p>
 	</aside>
@@ -53,7 +53,7 @@ If more than one design is volunteered, I will choose the best (that can be most
 	<ul class="children">
 		<li class="comment odd alt depth-2" id="li-comment-152">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-152"><time datetime="2010-10-25T18:29:50+00:00" pubdate class="published">
 		 at <span class="hours">18:29pm</span></time></a></p>
 	</aside>
@@ -64,7 +64,7 @@ If more than one design is volunteered, I will choose the best (that can be most
 	</li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-153">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">bobbyshaw</cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">bobbyshaw</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-153"><time datetime="2010-10-25T19:28:43+00:00" pubdate class="published">
 		 at <span class="hours">19:28pm</span></time></a></p>
 	</aside>
@@ -75,7 +75,7 @@ If more than one design is volunteered, I will choose the best (that can be most
 	<ul class="children">
 		<li class="comment odd alt depth-2" id="li-comment-154">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitoaster.com/laurakalbag/' rel='external nofollow' class='url'>laurakalbag</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-154"><time datetime="2010-10-25T18:29:20+00:00" pubdate class="published">
 		 at <span class="hours">18:29pm</span></time></a></p>
 	</aside>
@@ -86,7 +86,7 @@ If more than one design is volunteered, I will choose the best (that can be most
 	</li>
 	<li class="comment even thread-even depth-1" id="li-comment-155">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">russbuelt</cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">russbuelt</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-155"><time datetime="2010-10-25T19:31:30+00:00" pubdate class="published">
 		 at <span class="hours">19:31pm</span></time></a></p>
 	</aside>
@@ -97,7 +97,7 @@ If more than one design is volunteered, I will choose the best (that can be most
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-156">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">ronaldpoi</cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">ronaldpoi</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-156"><time datetime="2010-10-25T20:56:36+00:00" pubdate class="published">
 		 at <span class="hours">20:56pm</span></time></a></p>
 	</aside>
@@ -119,7 +119,7 @@ If more than one design is volunteered, I will choose the best (that can be most
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-158">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">dansketchpad</cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">dansketchpad</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-158"><time datetime="2010-10-26T09:11:14+00:00" pubdate class="published">
 		 at <span class="hours">09:11am</span></time></a></p>
 	</aside>

@@ -43,7 +43,7 @@ I’ll definitely go to other conferences, and I’m all set for [Ampersand](htt
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-165">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/42b9b363555a4980183673b4ca16710f?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/42b9b363555a4980183673b4ca16710f?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">designjuju ('f.t.)</cite>
+			<img alt='' src='https://1.gravatar.com/avatar/42b9b363555a4980183673b4ca16710f?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/42b9b363555a4980183673b4ca16710f?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">designjuju ('f.t.)</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-165"><time datetime="2011-05-25T09:24:06+00:00" pubdate class="published">
 		 at <span class="hours">09:24am</span></time></a></p>
 	</aside>

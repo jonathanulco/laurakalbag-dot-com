@@ -196,7 +196,7 @@ x
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-161">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo avatar-default' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/jamienewman' rel='external nofollow' class='url'>@jamienewman</a></cite>
+			<img alt='' src='http://2.gravatar.com/avatar/?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo avatar-default' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/jamienewman' rel='external nofollow' class='url'>@jamienewman</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-161"><time datetime="2010-11-04T16:41:24+00:00" pubdate class="published">
 		 at <span class="hours">16:41pm</span></time></a></p>
 	</aside>
@@ -218,7 +218,7 @@ x
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-163">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/1aad914af34dbc6eac1b7cd9b40b86ed?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/1aad914af34dbc6eac1b7cd9b40b86ed?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://levibreederland.com' rel='external nofollow' class='url'>Levi</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/1aad914af34dbc6eac1b7cd9b40b86ed?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/1aad914af34dbc6eac1b7cd9b40b86ed?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://levibreederland.com' rel='external nofollow' class='url'>Levi</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-163"><time datetime="2010-11-08T20:39:50+00:00" pubdate class="published">
 		 at <span class="hours">20:39pm</span></time></a></p>
 	</aside>

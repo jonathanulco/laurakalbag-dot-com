@@ -67,7 +67,7 @@ Accessibility For Everyone will be published in a few months, and you can [sign 
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-160304">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/a9f0781ecb2f18bd767ced7ef545980d?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/a9f0781ecb2f18bd767ced7ef545980d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.destinosolutions.com' rel='external nofollow' class='url'>Noufal binu</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/a9f0781ecb2f18bd767ced7ef545980d?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/a9f0781ecb2f18bd767ced7ef545980d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.destinosolutions.com' rel='external nofollow' class='url'>Noufal binu</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-160304"><time datetime="2017-08-20T09:55:43+00:00" pubdate class="published">
 		 at <span class="hours">09:55am</span></time></a></p>
 	</aside>
@@ -89,7 +89,7 @@ Accessibility For Everyone will be published in a few months, and you can [sign 
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-160308">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d2c7a673e809d41f7a2eca6b13bcdc38?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d2c7a673e809d41f7a2eca6b13bcdc38?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='https://cedc.org' rel='external nofollow' class='url'>Laryn</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d2c7a673e809d41f7a2eca6b13bcdc38?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d2c7a673e809d41f7a2eca6b13bcdc38?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='https://cedc.org' rel='external nofollow' class='url'>Laryn</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-160308"><time datetime="2017-08-20T19:48:49+00:00" pubdate class="published">
 		 at <span class="hours">19:48pm</span></time></a></p>
 	</aside>
@@ -122,7 +122,7 @@ Accessibility For Everyone will be published in a few months, and you can [sign 
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-160314">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/1b9bcbb883f8a1e55f0a97c514569931?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/1b9bcbb883f8a1e55f0a97c514569931?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Marie Moyles</cite>
+			<img alt='' src='https://1.gravatar.com/avatar/1b9bcbb883f8a1e55f0a97c514569931?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/1b9bcbb883f8a1e55f0a97c514569931?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Marie Moyles</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-160314"><time datetime="2017-08-23T21:28:18+00:00" pubdate class="published">
 		 at <span class="hours">21:28pm</span></time></a></p>
 	</aside>

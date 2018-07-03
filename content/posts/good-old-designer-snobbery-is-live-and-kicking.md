@@ -57,7 +57,7 @@ This is the classic. That the majority of people slating the Gap logo could cert
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-121">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">neil_berry</cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">neil_berry</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-121"><time datetime="2010-10-06T10:09:12+00:00" pubdate class="published">
 		 at <span class="hours">10:09am</span></time></a></p>
 	</aside>
@@ -68,7 +68,7 @@ This is the classic. That the majority of people slating the Gap logo could cert
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-118">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Jack_Franklin</cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Jack_Franklin</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-118"><time datetime="2010-10-06T10:52:00+00:00" pubdate class="published">
 		 at <span class="hours">10:52am</span></time></a></p>
 	</aside>
@@ -79,7 +79,7 @@ This is the classic. That the majority of people slating the Gap logo could cert
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-125">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">mixn</cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">mixn</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-125"><time datetime="2010-10-06T11:29:08+00:00" pubdate class="published">
 		 at <span class="hours">11:29am</span></time></a></p>
 	</aside>
@@ -90,7 +90,7 @@ This is the classic. That the majority of people slating the Gap logo could cert
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-114">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/renniks' rel='external nofollow' class='url'>Mark S</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/renniks' rel='external nofollow' class='url'>Mark S</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-114"><time datetime="2010-10-06T11:55:03+00:00" pubdate class="published">
 		 at <span class="hours">11:55am</span></time></a></p>
 	</aside>
@@ -144,7 +144,7 @@ I call them cewebrity&#039;s btw.
 	</li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-116">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/1f56ccc21bdfffff411fde28b570ac96?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/1f56ccc21bdfffff411fde28b570ac96?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://zootool.com' rel='external nofollow' class='url'>Bastian Allgeier</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/1f56ccc21bdfffff411fde28b570ac96?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/1f56ccc21bdfffff411fde28b570ac96?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://zootool.com' rel='external nofollow' class='url'>Bastian Allgeier</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-116"><time datetime="2010-10-06T11:57:34+00:00" pubdate class="published">
 		 at <span class="hours">11:57am</span></time></a></p>
 	</aside>
@@ -231,7 +231,7 @@ Actually I&#039;m being to half-full here. My point would be that the few arroga
 	</li>
 	<li class="comment even depth-2" id="li-comment-133">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/renniks' rel='external nofollow' class='url'>Mark S</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d6ed43b7e3d721be99937bb1177b93b4?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/renniks' rel='external nofollow' class='url'>Mark S</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-133"><time datetime="2010-10-06T14:40:37+00:00" pubdate class="published">
 		 at <span class="hours">14:40pm</span></time></a></p>
 	</aside>
@@ -292,7 +292,7 @@ Also think about the people who are &quot;weblebrities&quot; they do not chose t
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-130">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://prandall.com' rel='external nofollow' class='url'>Paul Randall</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://prandall.com' rel='external nofollow' class='url'>Paul Randall</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-130"><time datetime="2010-10-06T13:51:04+00:00" pubdate class="published">
 		 at <span class="hours">13:51pm</span></time></a></p>
 	</aside>
@@ -322,7 +322,7 @@ Re: the Gap logo –; yes. It looks bad, but yeah, what the hell would we do whe
 </li>
 	<li class="comment even depth-2" id="li-comment-137">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://prandall.com' rel='external nofollow' class='url'>Paul Randall</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/40324a65c60787a466eac93339353d75?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://prandall.com' rel='external nofollow' class='url'>Paul Randall</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-137"><time datetime="2010-10-06T16:30:01+00:00" pubdate class="published">
 		 at <span class="hours">16:30pm</span></time></a></p>
 	</aside>
@@ -357,7 +357,7 @@ PS Anyone got  a dribbble invite? :-)
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-136">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/763e91e06797609a6c9571a0b4eb3568?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/763e91e06797609a6c9571a0b4eb3568?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/brettbergeron' rel='external nofollow' class='url'>brett bergeron</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/763e91e06797609a6c9571a0b4eb3568?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/763e91e06797609a6c9571a0b4eb3568?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/brettbergeron' rel='external nofollow' class='url'>brett bergeron</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-136"><time datetime="2010-10-06T16:09:21+00:00" pubdate class="published">
 		 at <span class="hours">16:09pm</span></time></a></p>
 	</aside>
@@ -387,7 +387,7 @@ It&#039;s all, for want of a better term, a load of bollocks. I joined Dribbble 
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-139">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.damianherrington.co.uk' rel='external nofollow' class='url'>Damian Herrington</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/4a4dcd983642d2d826337b4437c685ce?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.damianherrington.co.uk' rel='external nofollow' class='url'>Damian Herrington</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-139"><time datetime="2010-10-06T18:40:53+00:00" pubdate class="published">
 		 at <span class="hours">18:40pm</span></time></a></p>
 	</aside>
@@ -415,7 +415,7 @@ well there&#039;s the evidence&#8230;.
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-141">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/ac0b15b622a1397e55351d8a10f1bd36?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/ac0b15b622a1397e55351d8a10f1bd36?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://stephenclarkjr.com' rel='external nofollow' class='url'>Stephen Clark Jr.</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/ac0b15b622a1397e55351d8a10f1bd36?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/ac0b15b622a1397e55351d8a10f1bd36?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://stephenclarkjr.com' rel='external nofollow' class='url'>Stephen Clark Jr.</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-141"><time datetime="2010-10-07T01:17:19+00:00" pubdate class="published">
 		 at <span class="hours">01:17am</span></time></a></p>
 	</aside>
@@ -441,7 +441,7 @@ I almost never read the comments, by the way (I agree that the dialog on the sit
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-143">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/446d563a774ef177b74614243ea50d3c?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/446d563a774ef177b74614243ea50d3c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://madebyjordan.com' rel='external nofollow' class='url'>Jordan Moore</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/446d563a774ef177b74614243ea50d3c?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/446d563a774ef177b74614243ea50d3c?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://madebyjordan.com' rel='external nofollow' class='url'>Jordan Moore</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-143"><time datetime="2010-10-07T13:15:17+00:00" pubdate class="published">
 		 at <span class="hours">13:15pm</span></time></a></p>
 	</aside>
@@ -458,7 +458,7 @@ Now I feel like a bit of a hypocrite for releasing my own tirade of design snobb
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-144">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/7855a2784ba42f149b775a8ef911f83e?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/7855a2784ba42f149b775a8ef911f83e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://safetygoat.co.uk' rel='external nofollow' class='url'>kat neville</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/7855a2784ba42f149b775a8ef911f83e?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/7855a2784ba42f149b775a8ef911f83e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://safetygoat.co.uk' rel='external nofollow' class='url'>kat neville</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-144"><time datetime="2010-10-07T13:20:28+00:00" pubdate class="published">
 		 at <span class="hours">13:20pm</span></time></a></p>
 	</aside>

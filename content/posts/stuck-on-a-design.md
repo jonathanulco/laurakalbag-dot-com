@@ -61,7 +61,7 @@ Am I the only one? I think it’s hard to tell from the outside. Some people are
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-149">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/aff5641764408271f7bc398f2097edd0?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/aff5641764408271f7bc398f2097edd0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.robotregime.com' rel='external nofollow' class='url'>Dennis Kardys</a></cite>
+			<img alt='' src='https://1.gravatar.com/avatar/aff5641764408271f7bc398f2097edd0?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/aff5641764408271f7bc398f2097edd0?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.robotregime.com' rel='external nofollow' class='url'>Dennis Kardys</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-149"><time datetime="2010-10-15T19:44:10+00:00" pubdate class="published">
 		 at <span class="hours">19:44pm</span></time></a></p>
 	</aside>
@@ -78,7 +78,7 @@ I also totally agree that it&#039;s helpful to have someone who is not the clien
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-150">
 			<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">damilare</cite>
+			<img alt='' src='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=72&amp;d=mm&amp;r=g' srcset='https://1.gravatar.com/avatar/d281a23b55db2b3d1d6b0be43791bf6b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">damilare</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-150"><time datetime="2010-10-16T00:06:49+00:00" pubdate class="published">
 		 at <span class="hours">00:06am</span></time></a></p>
 	</aside>
