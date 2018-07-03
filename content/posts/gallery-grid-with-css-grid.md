@@ -43,7 +43,14 @@ The images auto-fill across the first row, filling all available space. If there
 
 The figcaption always fills the whole width, regardless of whether there is one, two, or three images above it.
 
-{{< figure class="note-image" src="/images/2018/06/office-dog.png" alt="alt text" caption="caption text"> }}
+<figure class="note-image always-full-height">
+    <a href="/images/2018/07/figures.jpg">
+        <img src="/images/2018/07/figures.jpg" alt="Four sets of images showing single, double, and triple image layouts." width="500px">
+    </a>
+    <figcaption>
+        <p>The results. Note the two side-by-side portrait images do not fill the width of the viewport as the <code>max-height</code> of the images is set to <code>100vh</code>.</p>
+    </figcaption>
+</figure>
 
 Isn’t that fabulous?
 
