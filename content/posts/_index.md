@@ -9,4 +9,4 @@ menu:
 
 # Blog
 
-Want these posts in your feed reader? You can [subscribe to my RSS feed](http://laurakalbag.com/index.xml).
+Want these posts in your feed reader? You can [subscribe to my posts RSS feed](https://laurakalbag.com/posts/index.xml). Want all these posts and the notes too? [Subscribe to my Posts and Notes feed](https://laurakalbag.com/posts/index.xml).
