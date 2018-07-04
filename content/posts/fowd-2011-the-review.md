@@ -55,7 +55,7 @@ Should we try to patent supersonic websites? or should we donate it to the commu
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor odd alt depth-2" id="li-comment-166">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+			<img alt='' src='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-166"><time datetime="2011-05-27T17:54:28+00:00" pubdate class="published">
 		 at <span class="hours">17:54pm</span></time></a></p>
 	</aside>

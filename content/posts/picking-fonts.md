@@ -81,7 +81,7 @@ This quick little guide is just the beginning of all the things I try to conside
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-4">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/2ecdcad7eefa02963363be36460ccc7b?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/2ecdcad7eefa02963363be36460ccc7b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://ashinyworld.blogspot.com' rel='external nofollow' class='url'>Loulouk</a></cite>
+			<img alt='' src='https://2.gravatar.com/avatar/2ecdcad7eefa02963363be36460ccc7b?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/2ecdcad7eefa02963363be36460ccc7b?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://ashinyworld.blogspot.com' rel='external nofollow' class='url'>Loulouk</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-4"><time datetime="2010-07-05T19:48:37+00:00" pubdate class="published">
 		 at <span class="hours">19:48pm</span></time></a></p>
 	</aside>
@@ -92,7 +92,7 @@ This quick little guide is just the beginning of all the things I try to conside
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-5">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+			<img alt='' src='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-5"><time datetime="2010-07-06T16:35:12+00:00" pubdate class="published">
 		 at <span class="hours">16:35pm</span></time></a></p>
 	</aside>
@@ -103,7 +103,7 @@ This quick little guide is just the beginning of all the things I try to conside
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-6">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/3785543bade130b2613346d12de80dfc?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/3785543bade130b2613346d12de80dfc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.cvwdesign.com/txp' rel='external nofollow' class='url'>Clive Walker</a></cite>
+			<img alt='' src='https://0.gravatar.com/avatar/3785543bade130b2613346d12de80dfc?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/3785543bade130b2613346d12de80dfc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.cvwdesign.com/txp' rel='external nofollow' class='url'>Clive Walker</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-6"><time datetime="2010-07-13T12:27:26+00:00" pubdate class="published">
 		 at <span class="hours">12:27pm</span></time></a></p>
 	</aside>
@@ -116,7 +116,7 @@ OK, rant over :-)
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-7">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/9a3a20b0ac41f570312843796cd8e53e?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/9a3a20b0ac41f570312843796cd8e53e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Yulie</cite>
+			<img alt='' src='https://0.gravatar.com/avatar/9a3a20b0ac41f570312843796cd8e53e?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/9a3a20b0ac41f570312843796cd8e53e?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Yulie</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-7"><time datetime="2010-07-17T23:29:38+00:00" pubdate class="published">
 		 at <span class="hours">23:29pm</span></time></a></p>
 	</aside>

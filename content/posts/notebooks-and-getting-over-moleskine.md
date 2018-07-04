@@ -76,7 +76,7 @@ This post was a love fest. I love my new notebook and I wanted to tell the world
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-189">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.fraserpearce.com' rel='external nofollow' class='url'>Fraser Pearce</a></cite>
+			<img alt='' src='https://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.fraserpearce.com' rel='external nofollow' class='url'>Fraser Pearce</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-189"><time datetime="2011-03-31T15:05:19+00:00" pubdate class="published">
 		 at <span class="hours">15:05pm</span></time></a></p>
 	</aside>
@@ -87,7 +87,7 @@ This post was a love fest. I love my new notebook and I wanted to tell the world
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor odd alt depth-2" id="li-comment-190">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+			<img alt='' src='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-190"><time datetime="2011-03-31T16:30:44+00:00" pubdate class="published">
 		 at <span class="hours">16:30pm</span></time></a></p>
 	</aside>
@@ -102,7 +102,7 @@ However, for drawing, I prefer any old cheap black biro. They’re lighter and s
 	</li>
 	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-191">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.fraserpearce.com' rel='external nofollow' class='url'>Fraser Pearce</a></cite>
+			<img alt='' src='https://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/c45ff332890356928cab94f6c6b74c04?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.fraserpearce.com' rel='external nofollow' class='url'>Fraser Pearce</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-191"><time datetime="2011-04-05T11:15:38+00:00" pubdate class="published">
 		 at <span class="hours">11:15am</span></time></a></p>
 	</aside>
@@ -113,7 +113,7 @@ However, for drawing, I prefer any old cheap black biro. They’re lighter and s
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor odd alt depth-2" id="li-comment-192">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+			<img alt='' src='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-192"><time datetime="2011-04-05T12:47:57+00:00" pubdate class="published">
 		 at <span class="hours">12:47pm</span></time></a></p>
 	</aside>
@@ -126,7 +126,7 @@ I find independent stationery shops or art shops tend to have the best range of 
 	</li>
 	<li class="comment even thread-even depth-1" id="li-comment-193">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/ee5e2834ac71eeb3f2a57c5a7cef8bec?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/ee5e2834ac71eeb3f2a57c5a7cef8bec?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://f6design.com/journal' rel='external nofollow' class='url'>Jonathan Nicol</a></cite>
+			<img alt='' src='https://2.gravatar.com/avatar/ee5e2834ac71eeb3f2a57c5a7cef8bec?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/ee5e2834ac71eeb3f2a57c5a7cef8bec?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://f6design.com/journal' rel='external nofollow' class='url'>Jonathan Nicol</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-193"><time datetime="2011-05-11T23:22:16+00:00" pubdate class="published">
 		 at <span class="hours">23:22pm</span></time></a></p>
 	</aside>
@@ -152,7 +152,7 @@ But I think you may have won me over with your description of the Leuchtturm1917
 	<ul class="children">
 		<li class="comment byuser comment-author-laura bypostauthor even depth-2" id="li-comment-195">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+			<img alt='' src='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-195"><time datetime="2011-06-20T17:53:36+00:00" pubdate class="published">
 		 at <span class="hours">17:53pm</span></time></a></p>
 	</aside>

@@ -135,7 +135,7 @@ I’d like to try using Dribbble and Forrst for feedback on a longer-term projec
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-107">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/99f531ec83a4be7bd4f3337fcdceb5bf?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/99f531ec83a4be7bd4f3337fcdceb5bf?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">dave</cite>
+			<img alt='' src='https://0.gravatar.com/avatar/99f531ec83a4be7bd4f3337fcdceb5bf?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/99f531ec83a4be7bd4f3337fcdceb5bf?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">dave</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-107"><time datetime="2010-09-14T20:45:58+00:00" pubdate class="published">
 		 at <span class="hours">20:45pm</span></time></a></p>
 	</aside>
@@ -146,7 +146,7 @@ I’d like to try using Dribbble and Forrst for feedback on a longer-term projec
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-108">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/316e15fdd29a190af0663d4752406383?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/316e15fdd29a190af0663d4752406383?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.stockyoo.com' rel='external nofollow' class='url'>AndyW</a></cite>
+			<img alt='' src='https://0.gravatar.com/avatar/316e15fdd29a190af0663d4752406383?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/316e15fdd29a190af0663d4752406383?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.stockyoo.com' rel='external nofollow' class='url'>AndyW</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-108"><time datetime="2010-09-15T09:39:31+00:00" pubdate class="published">
 		 at <span class="hours">09:39am</span></time></a></p>
 	</aside>
@@ -189,7 +189,7 @@ Andrew
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-112">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/cfa3e4cde2fff387f860412e42a7399a?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/cfa3e4cde2fff387f860412e42a7399a?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://enonavital.com/' rel='external nofollow' class='url'>Enon Avital</a></cite>
+			<img alt='' src='https://0.gravatar.com/avatar/cfa3e4cde2fff387f860412e42a7399a?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/cfa3e4cde2fff387f860412e42a7399a?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://enonavital.com/' rel='external nofollow' class='url'>Enon Avital</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-112"><time datetime="2011-01-31T22:01:08+00:00" pubdate class="published">
 		 at <span class="hours">22:01pm</span></time></a></p>
 	</aside>
@@ -202,7 +202,7 @@ Personally I find Dribbble more difficult to translate into speech. Is it “dri
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-113">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/cc4e24ee277ce6fa702bffac7d1af7b5?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/cc4e24ee277ce6fa702bffac7d1af7b5?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://Silvermapleweb.com' rel='external nofollow' class='url'>PeterWooster</a></cite>
+			<img alt='' src='https://0.gravatar.com/avatar/cc4e24ee277ce6fa702bffac7d1af7b5?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/cc4e24ee277ce6fa702bffac7d1af7b5?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://Silvermapleweb.com' rel='external nofollow' class='url'>PeterWooster</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-113"><time datetime="2012-12-02T18:15:09+00:00" pubdate class="published">
 		 at <span class="hours">18:15pm</span></time></a></p>
 	</aside>

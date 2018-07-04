@@ -85,7 +85,7 @@ It was good to see speakers I hadn’t seen before too. I think I’d already se
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-100">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/b044f70c056d8b959d812b28d57bfad7?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/b044f70c056d8b959d812b28d57bfad7?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Tom</cite>
+			<img alt='' src='https://2.gravatar.com/avatar/b044f70c056d8b959d812b28d57bfad7?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/b044f70c056d8b959d812b28d57bfad7?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Tom</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-100"><time datetime="2010-09-07T12:20:23+00:00" pubdate class="published">
 		 at <span class="hours">12:20pm</span></time></a></p>
 	</aside>
@@ -96,7 +96,7 @@ It was good to see speakers I hadn’t seen before too. I think I’d already se
 	<ul class="children">
 		<li class="comment even depth-2" id="li-comment-102">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+			<img alt='' src='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-102"><time datetime="2010-09-07T13:41:38+00:00" pubdate class="published">
 		 at <span class="hours">13:41pm</span></time></a></p>
 	</aside>
@@ -152,7 +152,7 @@ I realised it *was* an awesome conference, and I think you&#039;re descriptions 
 	<ul class="children">
 		<li class="comment even depth-2" id="li-comment-104">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
+			<img alt='' src='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/55bb2acf65203dbb95c35a83e62e9ae6?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Laura</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-104"><time datetime="2010-09-07T15:14:18+00:00" pubdate class="published">
 		 at <span class="hours">15:14pm</span></time></a></p>
 	</aside>

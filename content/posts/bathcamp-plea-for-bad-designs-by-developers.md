@@ -108,7 +108,7 @@ If more than one design is volunteered, I will choose the best (that can be most
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-157">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/9f097badb0b980f53649c7ba5daaa2ef?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/9f097badb0b980f53649c7ba5daaa2ef?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twookie.heroku.com/' rel='external nofollow' class='url'>Dan W</a></cite>
+			<img alt='' src='https://0.gravatar.com/avatar/9f097badb0b980f53649c7ba5daaa2ef?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/9f097badb0b980f53649c7ba5daaa2ef?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://twookie.heroku.com/' rel='external nofollow' class='url'>Dan W</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-157"><time datetime="2010-10-25T22:52:04+00:00" pubdate class="published">
 		 at <span class="hours">22:52pm</span></time></a></p>
 	</aside>

@@ -66,7 +66,7 @@ If there’s a New Adventures next year, I’ll definitely try to be there.
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-178">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/b2756817b2660e3e37a87fcaf69ee1ef?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/b2756817b2660e3e37a87fcaf69ee1ef?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://beneverard.co.uk' rel='external nofollow' class='url'>Ben Everard</a></cite>
+			<img alt='' src='https://2.gravatar.com/avatar/b2756817b2660e3e37a87fcaf69ee1ef?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/b2756817b2660e3e37a87fcaf69ee1ef?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://beneverard.co.uk' rel='external nofollow' class='url'>Ben Everard</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-178"><time datetime="2011-02-04T10:26:05+00:00" pubdate class="published">
 		 at <span class="hours">10:26am</span></time></a></p>
 	</aside>

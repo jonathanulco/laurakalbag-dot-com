@@ -69,7 +69,7 @@ And to be honest, not using any unfollow trackers or paying too much attention t
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-197">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/20baff407ac9c795a1a0a61eaa6d9a6d?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/20baff407ac9c795a1a0a61eaa6d9a6d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Nic Presley</cite>
+			<img alt='' src='https://2.gravatar.com/avatar/20baff407ac9c795a1a0a61eaa6d9a6d?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/20baff407ac9c795a1a0a61eaa6d9a6d?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Nic Presley</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-197"><time datetime="2011-05-18T20:43:02+00:00" pubdate class="published">
 		 at <span class="hours">20:43pm</span></time></a></p>
 	</aside>
@@ -80,7 +80,7 @@ And to be honest, not using any unfollow trackers or paying too much attention t
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-198">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/68b99c3d440ad63009478c58b4ec25f3?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/68b99c3d440ad63009478c58b4ec25f3?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Jeff K</cite>
+			<img alt='' src='https://0.gravatar.com/avatar/68b99c3d440ad63009478c58b4ec25f3?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/68b99c3d440ad63009478c58b4ec25f3?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Jeff K</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-198"><time datetime="2011-05-23T00:46:12+00:00" pubdate class="published">
 		 at <span class="hours">00:46am</span></time></a></p>
 	</aside>
@@ -91,7 +91,7 @@ And to be honest, not using any unfollow trackers or paying too much attention t
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-199">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/e00d8a7766a22de7d89d22f75f22f7d7?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/e00d8a7766a22de7d89d22f75f22f7d7?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.chezy.co.uk' rel='external nofollow' class='url'>Mike</a></cite>
+			<img alt='' src='https://2.gravatar.com/avatar/e00d8a7766a22de7d89d22f75f22f7d7?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/e00d8a7766a22de7d89d22f75f22f7d7?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.chezy.co.uk' rel='external nofollow' class='url'>Mike</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-199"><time datetime="2011-06-03T14:03:29+00:00" pubdate class="published">
 		 at <span class="hours">14:03pm</span></time></a></p>
 	</aside>

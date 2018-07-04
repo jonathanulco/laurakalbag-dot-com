@@ -50,7 +50,7 @@ And finally, let me be completely honest. If anybody talks about me as being a â
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-185">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/5d2ba25cc379899a37b46acae43f6ddc?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/5d2ba25cc379899a37b46acae43f6ddc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.stinkyink.com' rel='external nofollow' class='url'>Andy W</a></cite>
+			<img alt='' src='https://2.gravatar.com/avatar/5d2ba25cc379899a37b46acae43f6ddc?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/5d2ba25cc379899a37b46acae43f6ddc?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.stinkyink.com' rel='external nofollow' class='url'>Andy W</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-185"><time datetime="2011-03-02T14:44:13+00:00" pubdate class="published">
 		 at <span class="hours">14:44pm</span></time></a></p>
 	</aside>
@@ -61,7 +61,7 @@ And finally, let me be completely honest. If anybody talks about me as being a â
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-186">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/3d05b9773b7459c843453d783832de22?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/3d05b9773b7459c843453d783832de22?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://peterbailey.eu' rel='external nofollow' class='url'>Peter</a></cite>
+			<img alt='' src='https://0.gravatar.com/avatar/3d05b9773b7459c843453d783832de22?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/3d05b9773b7459c843453d783832de22?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://peterbailey.eu' rel='external nofollow' class='url'>Peter</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-186"><time datetime="2011-03-02T19:47:33+00:00" pubdate class="published">
 		 at <span class="hours">19:47pm</span></time></a></p>
 	</aside>

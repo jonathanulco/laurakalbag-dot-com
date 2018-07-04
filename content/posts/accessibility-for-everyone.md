@@ -23,7 +23,7 @@ Accessibility For Everyone will be published in a few months, and you can [sign 
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-160276">
 		<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/e489ba37b81a1b956b5dc03bf3f48246?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/e489ba37b81a1b956b5dc03bf3f48246?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Kathy Bray</cite>
+			<img alt='' src='https://2.gravatar.com/avatar/e489ba37b81a1b956b5dc03bf3f48246?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/e489ba37b81a1b956b5dc03bf3f48246?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Kathy Bray</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-160276"><time datetime="2017-08-19T18:35:55+00:00" pubdate class="published">
 		 at <span class="hours">18:35pm</span></time></a></p>
 	</aside>
@@ -34,7 +34,7 @@ Accessibility For Everyone will be published in a few months, and you can [sign 
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-160277">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/becd3c088396191cb8b09a629e8eade9?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/becd3c088396191cb8b09a629e8eade9?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='https://wendybarron.com/' rel='external nofollow' class='url'>Wendy Barron</a></cite>
+			<img alt='' src='https://2.gravatar.com/avatar/becd3c088396191cb8b09a629e8eade9?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/becd3c088396191cb8b09a629e8eade9?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='https://wendybarron.com/' rel='external nofollow' class='url'>Wendy Barron</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-160277"><time datetime="2017-08-19T19:26:48+00:00" pubdate class="published">
 		 at <span class="hours">19:26pm</span></time></a></p>
 	</aside>
@@ -45,7 +45,7 @@ Accessibility For Everyone will be published in a few months, and you can [sign 
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-160287">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/b573d65a811c1c22bb29f43de39f9e25?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/b573d65a811c1c22bb29f43de39f9e25?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">peter</cite>
+			<img alt='' src='https://2.gravatar.com/avatar/b573d65a811c1c22bb29f43de39f9e25?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/b573d65a811c1c22bb29f43de39f9e25?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">peter</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-160287"><time datetime="2017-08-19T20:10:57+00:00" pubdate class="published">
 		 at <span class="hours">20:10pm</span></time></a></p>
 	</aside>
@@ -56,7 +56,7 @@ Accessibility For Everyone will be published in a few months, and you can [sign 
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-160300">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/2f78dd5271ddfb98fe9a18f1308e23bb?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/2f78dd5271ddfb98fe9a18f1308e23bb?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='https://nuclearpengy.com' rel='external nofollow' class='url'>Nathan Jeffery</a></cite>
+			<img alt='' src='https://2.gravatar.com/avatar/2f78dd5271ddfb98fe9a18f1308e23bb?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/2f78dd5271ddfb98fe9a18f1308e23bb?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='https://nuclearpengy.com' rel='external nofollow' class='url'>Nathan Jeffery</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-160300"><time datetime="2017-08-20T00:56:23+00:00" pubdate class="published">
 		 at <span class="hours">00:56am</span></time></a></p>
 	</aside>
@@ -78,7 +78,7 @@ Accessibility For Everyone will be published in a few months, and you can [sign 
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-160307">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/c88ff35b0f29066d0cbcfd22efcf0f92?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/c88ff35b0f29066d0cbcfd22efcf0f92?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Jonathan Melton</cite>
+			<img alt='' src='https://0.gravatar.com/avatar/c88ff35b0f29066d0cbcfd22efcf0f92?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/c88ff35b0f29066d0cbcfd22efcf0f92?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn">Jonathan Melton</cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-160307"><time datetime="2017-08-20T15:59:36+00:00" pubdate class="published">
 		 at <span class="hours">15:59pm</span></time></a></p>
 	</aside>
@@ -100,7 +100,7 @@ Accessibility For Everyone will be published in a few months, and you can [sign 
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-160312">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/6cdc16dc0c08c1a3b660d7d45b13a303?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/6cdc16dc0c08c1a3b660d7d45b13a303?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.microassist.com' rel='external nofollow' class='url'>Jack McElaney</a></cite>
+			<img alt='' src='https://0.gravatar.com/avatar/6cdc16dc0c08c1a3b660d7d45b13a303?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/6cdc16dc0c08c1a3b660d7d45b13a303?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.microassist.com' rel='external nofollow' class='url'>Jack McElaney</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-160312"><time datetime="2017-08-22T01:55:24+00:00" pubdate class="published">
 		 at <span class="hours">01:55am</span></time></a></p>
 	</aside>
@@ -111,7 +111,7 @@ Accessibility For Everyone will be published in a few months, and you can [sign 
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-160313">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/febbffcb54abe1be1435720fc2268237?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/febbffcb54abe1be1435720fc2268237?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='https://ttimsmith.com' rel='external nofollow' class='url'>Tim Smith</a></cite>
+			<img alt='' src='https://0.gravatar.com/avatar/febbffcb54abe1be1435720fc2268237?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/febbffcb54abe1be1435720fc2268237?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='https://ttimsmith.com' rel='external nofollow' class='url'>Tim Smith</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-160313"><time datetime="2017-08-23T13:16:57+00:00" pubdate class="published">
 		 at <span class="hours">13:16pm</span></time></a></p>
 	</aside>

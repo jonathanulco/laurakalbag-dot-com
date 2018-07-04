@@ -619,7 +619,7 @@ Build the world you want to live in.
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-160273">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/8e942d1ef483b3486d3d8498e1d93454?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/8e942d1ef483b3486d3d8498e1d93454?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.darnelldigitalink.com' rel='external nofollow' class='url'>Wayne Darnell</a></cite>
+			<img alt='' src='https://2.gravatar.com/avatar/8e942d1ef483b3486d3d8498e1d93454?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/8e942d1ef483b3486d3d8498e1d93454?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://www.darnelldigitalink.com' rel='external nofollow' class='url'>Wayne Darnell</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-160273"><time datetime="2017-04-22T20:52:07+00:00" pubdate class="published">
 		 at <span class="hours">20:52pm</span></time></a></p>
 	</aside>
@@ -630,7 +630,7 @@ Build the world you want to live in.
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-160274">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/37f8e32692c57724169c062d09547d2f?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/37f8e32692c57724169c062d09547d2f?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='https://lifesimply.rocks' rel='external nofollow' class='url'>Alina &amp; Deian</a></cite>
+			<img alt='' src='https://0.gravatar.com/avatar/37f8e32692c57724169c062d09547d2f?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/37f8e32692c57724169c062d09547d2f?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='https://lifesimply.rocks' rel='external nofollow' class='url'>Alina &amp; Deian</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-160274"><time datetime="2017-04-23T12:21:58+00:00" pubdate class="published">
 		 at <span class="hours">12:21pm</span></time></a></p>
 	</aside>

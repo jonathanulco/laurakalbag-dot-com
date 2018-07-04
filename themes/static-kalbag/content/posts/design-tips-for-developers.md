@@ -172,7 +172,7 @@ I really hope these tips and this sort-of walkthrough has been helpful. I’ll b
 <ol class="commentlist">
 	<li class="comment even thread-even depth-1" id="li-comment-159">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/ccea4ad19061493912796b6877b9d526?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/ccea4ad19061493912796b6877b9d526?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://matt-fuller.com' rel='external nofollow' class='url'>Matt</a></cite>
+			<img alt='' src='https://0.gravatar.com/avatar/ccea4ad19061493912796b6877b9d526?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/ccea4ad19061493912796b6877b9d526?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://matt-fuller.com' rel='external nofollow' class='url'>Matt</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-159"><time datetime="2010-11-04T16:34:19+00:00" pubdate class="published">
 		 at <span class="hours">16:34pm</span></time></a></p>
 	</aside>
@@ -185,7 +185,7 @@ x
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-160">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=72&amp;d=mm&amp;r=g' srcset='http://2.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://jackfranklin.co.uk' rel='external nofollow' class='url'>Jack Franklin</a></cite>
+			<img alt='' src='https://2.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=72&amp;d=mm&amp;r=g' srcset='https://2.gravatar.com/avatar/576f5c4bb54b8c197174b1a61cd15ed2?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://jackfranklin.co.uk' rel='external nofollow' class='url'>Jack Franklin</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-160"><time datetime="2010-11-04T16:38:35+00:00" pubdate class="published">
 		 at <span class="hours">16:38pm</span></time></a></p>
 	</aside>
@@ -196,7 +196,7 @@ x
 </li>
 	<li class="comment even thread-even depth-1" id="li-comment-161">
 			<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo avatar-default' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/jamienewman' rel='external nofollow' class='url'>@jamienewman</a></cite>
+			<img alt='' src='https://2.gravatar.com/avatar/?s=72&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo avatar-default' height='72' width='72' /><cite class="fn"><a href='http://twitter.com/jamienewman' rel='external nofollow' class='url'>@jamienewman</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-161"><time datetime="2010-11-04T16:41:24+00:00" pubdate class="published">
 		 at <span class="hours">16:41pm</span></time></a></p>
 	</aside>
@@ -207,7 +207,7 @@ x
 </li>
 	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-162">
 			<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/0d26a7f9ca0188555680a8b8dcd71242?s=72&amp;d=mm&amp;r=g' srcset='http://0.gravatar.com/avatar/0d26a7f9ca0188555680a8b8dcd71242?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://experimentsincode.com/' rel='external nofollow' class='url'>Mike</a></cite>
+			<img alt='' src='https://0.gravatar.com/avatar/0d26a7f9ca0188555680a8b8dcd71242?s=72&amp;d=mm&amp;r=g' srcset='https://0.gravatar.com/avatar/0d26a7f9ca0188555680a8b8dcd71242?s=144&amp;d=mm&amp;r=g 2x' class='avatar avatar-72 photo' height='72' width='72' /><cite class="fn"><a href='http://experimentsincode.com/' rel='external nofollow' class='url'>Mike</a></cite>
 				<aside class="comment-meta commentmetadata"><p><a href="#comment-162"><time datetime="2010-11-04T16:54:36+00:00" pubdate class="published">
 		 at <span class="hours">16:54pm</span></time></a></p>
 	</aside>
