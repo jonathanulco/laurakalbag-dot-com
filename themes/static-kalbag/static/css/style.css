@@ -604,15 +604,15 @@ body.colours-001.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-001 #content h1,
-body.colours-001 #content h2:nth-of-type(1),
-body.colours-001 #content p:nth-of-type(1) {
+body.colours-001 #content main > h2:nth-of-type(1),
+body.colours-001 #content .entry-content > p:nth-of-type(1) {
   background: #e9e9e9;
   box-shadow: #e9e9e9 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-001 #content h1,
-  body.colours-001 #content h2:nth-of-type(1),
-  body.colours-001 #content p:nth-of-type(1) {
+  body.colours-001 #content main > h2:nth-of-type(1),
+  body.colours-001 #content .entry-content > p:nth-of-type(1) {
     box-shadow: #e9e9e9 0 0 0 2.6rem;
   }
 }
@@ -1006,15 +1006,15 @@ body.colours-002.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-002 #content h1,
-body.colours-002 #content h2:nth-of-type(1),
-body.colours-002 #content p:nth-of-type(1) {
+body.colours-002 #content main > h2:nth-of-type(1),
+body.colours-002 #content .entry-content > p:nth-of-type(1) {
   background: #c9ecff;
   box-shadow: #c9ecff 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-002 #content h1,
-  body.colours-002 #content h2:nth-of-type(1),
-  body.colours-002 #content p:nth-of-type(1) {
+  body.colours-002 #content main > h2:nth-of-type(1),
+  body.colours-002 #content .entry-content > p:nth-of-type(1) {
     box-shadow: #c9ecff 0 0 0 2.6rem;
   }
 }
@@ -1408,15 +1408,15 @@ body.colours-003.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-003 #content h1,
-body.colours-003 #content h2:nth-of-type(1),
-body.colours-003 #content p:nth-of-type(1) {
+body.colours-003 #content main > h2:nth-of-type(1),
+body.colours-003 #content .entry-content > p:nth-of-type(1) {
   background: #ece6ff;
   box-shadow: #ece6ff 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-003 #content h1,
-  body.colours-003 #content h2:nth-of-type(1),
-  body.colours-003 #content p:nth-of-type(1) {
+  body.colours-003 #content main > h2:nth-of-type(1),
+  body.colours-003 #content .entry-content > p:nth-of-type(1) {
     box-shadow: #ece6ff 0 0 0 2.6rem;
   }
 }
@@ -1810,15 +1810,15 @@ body.colours-004.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-004 #content h1,
-body.colours-004 #content h2:nth-of-type(1),
-body.colours-004 #content p:nth-of-type(1) {
+body.colours-004 #content main > h2:nth-of-type(1),
+body.colours-004 #content .entry-content > p:nth-of-type(1) {
   background: #ddffc9;
   box-shadow: #ddffc9 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-004 #content h1,
-  body.colours-004 #content h2:nth-of-type(1),
-  body.colours-004 #content p:nth-of-type(1) {
+  body.colours-004 #content main > h2:nth-of-type(1),
+  body.colours-004 #content .entry-content > p:nth-of-type(1) {
     box-shadow: #ddffc9 0 0 0 2.6rem;
   }
 }
@@ -2212,15 +2212,15 @@ body.colours-005.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-005 #content h1,
-body.colours-005 #content h2:nth-of-type(1),
-body.colours-005 #content p:nth-of-type(1) {
+body.colours-005 #content main > h2:nth-of-type(1),
+body.colours-005 #content .entry-content > p:nth-of-type(1) {
   background: #ffe7f6;
   box-shadow: #ffe7f6 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-005 #content h1,
-  body.colours-005 #content h2:nth-of-type(1),
-  body.colours-005 #content p:nth-of-type(1) {
+  body.colours-005 #content main > h2:nth-of-type(1),
+  body.colours-005 #content .entry-content > p:nth-of-type(1) {
     box-shadow: #ffe7f6 0 0 0 2.6rem;
   }
 }
@@ -2614,15 +2614,15 @@ body.colours-006.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-006 #content h1,
-body.colours-006 #content h2:nth-of-type(1),
-body.colours-006 #content p:nth-of-type(1) {
+body.colours-006 #content main > h2:nth-of-type(1),
+body.colours-006 #content .entry-content > p:nth-of-type(1) {
   background: #f3e8fe;
   box-shadow: #f3e8fe 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-006 #content h1,
-  body.colours-006 #content h2:nth-of-type(1),
-  body.colours-006 #content p:nth-of-type(1) {
+  body.colours-006 #content main > h2:nth-of-type(1),
+  body.colours-006 #content .entry-content > p:nth-of-type(1) {
     box-shadow: #f3e8fe 0 0 0 2.6rem;
   }
 }
@@ -3016,15 +3016,15 @@ body.colours-007.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-007 #content h1,
-body.colours-007 #content h2:nth-of-type(1),
-body.colours-007 #content p:nth-of-type(1) {
+body.colours-007 #content main > h2:nth-of-type(1),
+body.colours-007 #content .entry-content > p:nth-of-type(1) {
   background: #fdfca7;
   box-shadow: #fdfca7 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-007 #content h1,
-  body.colours-007 #content h2:nth-of-type(1),
-  body.colours-007 #content p:nth-of-type(1) {
+  body.colours-007 #content main > h2:nth-of-type(1),
+  body.colours-007 #content .entry-content > p:nth-of-type(1) {
     box-shadow: #fdfca7 0 0 0 2.6rem;
   }
 }
@@ -3418,15 +3418,15 @@ body.colours-008.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-008 #content h1,
-body.colours-008 #content h2:nth-of-type(1),
-body.colours-008 #content p:nth-of-type(1) {
+body.colours-008 #content main > h2:nth-of-type(1),
+body.colours-008 #content .entry-content > p:nth-of-type(1) {
   background: #ffd8d5;
   box-shadow: #ffd8d5 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-008 #content h1,
-  body.colours-008 #content h2:nth-of-type(1),
-  body.colours-008 #content p:nth-of-type(1) {
+  body.colours-008 #content main > h2:nth-of-type(1),
+  body.colours-008 #content .entry-content > p:nth-of-type(1) {
     box-shadow: #ffd8d5 0 0 0 2.6rem;
   }
 }
@@ -3820,15 +3820,15 @@ body.colours-009.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-009 #content h1,
-body.colours-009 #content h2:nth-of-type(1),
-body.colours-009 #content p:nth-of-type(1) {
+body.colours-009 #content main > h2:nth-of-type(1),
+body.colours-009 #content .entry-content > p:nth-of-type(1) {
   background: #c9ffee;
   box-shadow: #c9ffee 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-009 #content h1,
-  body.colours-009 #content h2:nth-of-type(1),
-  body.colours-009 #content p:nth-of-type(1) {
+  body.colours-009 #content main > h2:nth-of-type(1),
+  body.colours-009 #content .entry-content > p:nth-of-type(1) {
     box-shadow: #c9ffee 0 0 0 2.6rem;
   }
 }
@@ -4222,15 +4222,15 @@ body.colours-010.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-010 #content h1,
-body.colours-010 #content h2:nth-of-type(1),
-body.colours-010 #content p:nth-of-type(1) {
+body.colours-010 #content main > h2:nth-of-type(1),
+body.colours-010 #content .entry-content > p:nth-of-type(1) {
   background: #f0f0f0;
   box-shadow: #f0f0f0 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-010 #content h1,
-  body.colours-010 #content h2:nth-of-type(1),
-  body.colours-010 #content p:nth-of-type(1) {
+  body.colours-010 #content main > h2:nth-of-type(1),
+  body.colours-010 #content .entry-content > p:nth-of-type(1) {
     box-shadow: #f0f0f0 0 0 0 2.6rem;
   }
 }
@@ -4624,15 +4624,15 @@ body.colours-013.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-013 #content h1,
-body.colours-013 #content h2:nth-of-type(1),
-body.colours-013 #content p:nth-of-type(1) {
+body.colours-013 #content main > h2:nth-of-type(1),
+body.colours-013 #content .entry-content > p:nth-of-type(1) {
   background: #efffc9;
   box-shadow: #efffc9 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-013 #content h1,
-  body.colours-013 #content h2:nth-of-type(1),
-  body.colours-013 #content p:nth-of-type(1) {
+  body.colours-013 #content main > h2:nth-of-type(1),
+  body.colours-013 #content .entry-content > p:nth-of-type(1) {
     box-shadow: #efffc9 0 0 0 2.6rem;
   }
 }
