@@ -1,6 +1,8 @@
 {{ define "main" }}
 	<article>
-		{{ .Content }}
+		<div class="entry-content">
+			{{ .Content }}
+		</div>
 	</article>
 	{{ range first 1 (where .Data.Pages "Section" "notes") }}
 		<h2>Latest Note</h2>

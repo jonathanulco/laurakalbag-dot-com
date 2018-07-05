@@ -1,6 +1,8 @@
 {{ define "main" }}
 	<article>
-		{{ .Content }}
+		<div class="entry-content">
+			{{ .Content }}
+		</div>
 	</article>
 	{{ $section := where .Data.Pages "Section" .Section }}
 	<ul class="posts-list">
