@@ -604,53 +604,19 @@ body.colours-001.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-001 #content h1,
-body.colours-001 #content h2,
-body.colours-001 #content h3,
-body.colours-001 #content h4,
-body.colours-001 #content h5,
-body.colours-001 #content h6,
-body.colours-001 #content article p,
-body.colours-001 #content article ul,
-body.colours-001 #content article ol,
-body.colours-001 #content article blockquote,
-body.colours-001 #content .posts-list h3,
-body.colours-001 #content .posts-list .entry-meta,
-body.colours-001 #content .posts-list p {
+body.colours-001 #content h2:nth-of-type(1),
+body.colours-001 #content p:nth-of-type(1) {
   background: #e9e9e9;
   box-shadow: #e9e9e9 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-001 #content h1,
-  body.colours-001 #content h2,
-  body.colours-001 #content h3,
-  body.colours-001 #content h4,
-  body.colours-001 #content h5,
-  body.colours-001 #content h6,
-  body.colours-001 #content article p,
-  body.colours-001 #content article ul,
-  body.colours-001 #content article ol,
-  body.colours-001 #content article blockquote,
-  body.colours-001 #content .posts-list h3,
-  body.colours-001 #content .posts-list .entry-meta,
-  body.colours-001 #content .posts-list p {
+  body.colours-001 #content h2:nth-of-type(1),
+  body.colours-001 #content p:nth-of-type(1) {
     box-shadow: #e9e9e9 0 0 0 2.6rem;
   }
 }
-body.colours-001 #content figcaption p {
-  box-shadow: none;
-}
-@media screen and (min-width: 18em) {
-  body.colours-001 #content figcaption p {
-    box-shadow: none;
-  }
-}
-body.colours-001 h1,
-body.colours-001 h2,
-body.colours-001 h3,
-body.colours-001 h4,
-body.colours-001 h5,
-body.colours-001 h6,
-body.colours-001 .posts-lists h3 {
+body.colours-001 h1 {
   display: table;
 }
 body.colours-002 .site-header {
@@ -1040,53 +1006,19 @@ body.colours-002.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-002 #content h1,
-body.colours-002 #content h2,
-body.colours-002 #content h3,
-body.colours-002 #content h4,
-body.colours-002 #content h5,
-body.colours-002 #content h6,
-body.colours-002 #content article p,
-body.colours-002 #content article ul,
-body.colours-002 #content article ol,
-body.colours-002 #content article blockquote,
-body.colours-002 #content .posts-list h3,
-body.colours-002 #content .posts-list .entry-meta,
-body.colours-002 #content .posts-list p {
+body.colours-002 #content h2:nth-of-type(1),
+body.colours-002 #content p:nth-of-type(1) {
   background: #c9ecff;
   box-shadow: #c9ecff 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-002 #content h1,
-  body.colours-002 #content h2,
-  body.colours-002 #content h3,
-  body.colours-002 #content h4,
-  body.colours-002 #content h5,
-  body.colours-002 #content h6,
-  body.colours-002 #content article p,
-  body.colours-002 #content article ul,
-  body.colours-002 #content article ol,
-  body.colours-002 #content article blockquote,
-  body.colours-002 #content .posts-list h3,
-  body.colours-002 #content .posts-list .entry-meta,
-  body.colours-002 #content .posts-list p {
+  body.colours-002 #content h2:nth-of-type(1),
+  body.colours-002 #content p:nth-of-type(1) {
     box-shadow: #c9ecff 0 0 0 2.6rem;
   }
 }
-body.colours-002 #content figcaption p {
-  box-shadow: none;
-}
-@media screen and (min-width: 18em) {
-  body.colours-002 #content figcaption p {
-    box-shadow: none;
-  }
-}
-body.colours-002 h1,
-body.colours-002 h2,
-body.colours-002 h3,
-body.colours-002 h4,
-body.colours-002 h5,
-body.colours-002 h6,
-body.colours-002 .posts-lists h3 {
+body.colours-002 h1 {
   display: table;
 }
 body.colours-003 .site-header {
@@ -1476,53 +1408,19 @@ body.colours-003.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-003 #content h1,
-body.colours-003 #content h2,
-body.colours-003 #content h3,
-body.colours-003 #content h4,
-body.colours-003 #content h5,
-body.colours-003 #content h6,
-body.colours-003 #content article p,
-body.colours-003 #content article ul,
-body.colours-003 #content article ol,
-body.colours-003 #content article blockquote,
-body.colours-003 #content .posts-list h3,
-body.colours-003 #content .posts-list .entry-meta,
-body.colours-003 #content .posts-list p {
+body.colours-003 #content h2:nth-of-type(1),
+body.colours-003 #content p:nth-of-type(1) {
   background: #ece6ff;
   box-shadow: #ece6ff 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-003 #content h1,
-  body.colours-003 #content h2,
-  body.colours-003 #content h3,
-  body.colours-003 #content h4,
-  body.colours-003 #content h5,
-  body.colours-003 #content h6,
-  body.colours-003 #content article p,
-  body.colours-003 #content article ul,
-  body.colours-003 #content article ol,
-  body.colours-003 #content article blockquote,
-  body.colours-003 #content .posts-list h3,
-  body.colours-003 #content .posts-list .entry-meta,
-  body.colours-003 #content .posts-list p {
+  body.colours-003 #content h2:nth-of-type(1),
+  body.colours-003 #content p:nth-of-type(1) {
     box-shadow: #ece6ff 0 0 0 2.6rem;
   }
 }
-body.colours-003 #content figcaption p {
-  box-shadow: none;
-}
-@media screen and (min-width: 18em) {
-  body.colours-003 #content figcaption p {
-    box-shadow: none;
-  }
-}
-body.colours-003 h1,
-body.colours-003 h2,
-body.colours-003 h3,
-body.colours-003 h4,
-body.colours-003 h5,
-body.colours-003 h6,
-body.colours-003 .posts-lists h3 {
+body.colours-003 h1 {
   display: table;
 }
 body.colours-004 .site-header {
@@ -1912,53 +1810,19 @@ body.colours-004.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-004 #content h1,
-body.colours-004 #content h2,
-body.colours-004 #content h3,
-body.colours-004 #content h4,
-body.colours-004 #content h5,
-body.colours-004 #content h6,
-body.colours-004 #content article p,
-body.colours-004 #content article ul,
-body.colours-004 #content article ol,
-body.colours-004 #content article blockquote,
-body.colours-004 #content .posts-list h3,
-body.colours-004 #content .posts-list .entry-meta,
-body.colours-004 #content .posts-list p {
+body.colours-004 #content h2:nth-of-type(1),
+body.colours-004 #content p:nth-of-type(1) {
   background: #ddffc9;
   box-shadow: #ddffc9 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-004 #content h1,
-  body.colours-004 #content h2,
-  body.colours-004 #content h3,
-  body.colours-004 #content h4,
-  body.colours-004 #content h5,
-  body.colours-004 #content h6,
-  body.colours-004 #content article p,
-  body.colours-004 #content article ul,
-  body.colours-004 #content article ol,
-  body.colours-004 #content article blockquote,
-  body.colours-004 #content .posts-list h3,
-  body.colours-004 #content .posts-list .entry-meta,
-  body.colours-004 #content .posts-list p {
+  body.colours-004 #content h2:nth-of-type(1),
+  body.colours-004 #content p:nth-of-type(1) {
     box-shadow: #ddffc9 0 0 0 2.6rem;
   }
 }
-body.colours-004 #content figcaption p {
-  box-shadow: none;
-}
-@media screen and (min-width: 18em) {
-  body.colours-004 #content figcaption p {
-    box-shadow: none;
-  }
-}
-body.colours-004 h1,
-body.colours-004 h2,
-body.colours-004 h3,
-body.colours-004 h4,
-body.colours-004 h5,
-body.colours-004 h6,
-body.colours-004 .posts-lists h3 {
+body.colours-004 h1 {
   display: table;
 }
 body.colours-005 .site-header {
@@ -2348,53 +2212,19 @@ body.colours-005.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-005 #content h1,
-body.colours-005 #content h2,
-body.colours-005 #content h3,
-body.colours-005 #content h4,
-body.colours-005 #content h5,
-body.colours-005 #content h6,
-body.colours-005 #content article p,
-body.colours-005 #content article ul,
-body.colours-005 #content article ol,
-body.colours-005 #content article blockquote,
-body.colours-005 #content .posts-list h3,
-body.colours-005 #content .posts-list .entry-meta,
-body.colours-005 #content .posts-list p {
+body.colours-005 #content h2:nth-of-type(1),
+body.colours-005 #content p:nth-of-type(1) {
   background: #ffe7f6;
   box-shadow: #ffe7f6 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-005 #content h1,
-  body.colours-005 #content h2,
-  body.colours-005 #content h3,
-  body.colours-005 #content h4,
-  body.colours-005 #content h5,
-  body.colours-005 #content h6,
-  body.colours-005 #content article p,
-  body.colours-005 #content article ul,
-  body.colours-005 #content article ol,
-  body.colours-005 #content article blockquote,
-  body.colours-005 #content .posts-list h3,
-  body.colours-005 #content .posts-list .entry-meta,
-  body.colours-005 #content .posts-list p {
+  body.colours-005 #content h2:nth-of-type(1),
+  body.colours-005 #content p:nth-of-type(1) {
     box-shadow: #ffe7f6 0 0 0 2.6rem;
   }
 }
-body.colours-005 #content figcaption p {
-  box-shadow: none;
-}
-@media screen and (min-width: 18em) {
-  body.colours-005 #content figcaption p {
-    box-shadow: none;
-  }
-}
-body.colours-005 h1,
-body.colours-005 h2,
-body.colours-005 h3,
-body.colours-005 h4,
-body.colours-005 h5,
-body.colours-005 h6,
-body.colours-005 .posts-lists h3 {
+body.colours-005 h1 {
   display: table;
 }
 body.colours-006 .site-header {
@@ -2784,53 +2614,19 @@ body.colours-006.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-006 #content h1,
-body.colours-006 #content h2,
-body.colours-006 #content h3,
-body.colours-006 #content h4,
-body.colours-006 #content h5,
-body.colours-006 #content h6,
-body.colours-006 #content article p,
-body.colours-006 #content article ul,
-body.colours-006 #content article ol,
-body.colours-006 #content article blockquote,
-body.colours-006 #content .posts-list h3,
-body.colours-006 #content .posts-list .entry-meta,
-body.colours-006 #content .posts-list p {
+body.colours-006 #content h2:nth-of-type(1),
+body.colours-006 #content p:nth-of-type(1) {
   background: #f3e8fe;
   box-shadow: #f3e8fe 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-006 #content h1,
-  body.colours-006 #content h2,
-  body.colours-006 #content h3,
-  body.colours-006 #content h4,
-  body.colours-006 #content h5,
-  body.colours-006 #content h6,
-  body.colours-006 #content article p,
-  body.colours-006 #content article ul,
-  body.colours-006 #content article ol,
-  body.colours-006 #content article blockquote,
-  body.colours-006 #content .posts-list h3,
-  body.colours-006 #content .posts-list .entry-meta,
-  body.colours-006 #content .posts-list p {
+  body.colours-006 #content h2:nth-of-type(1),
+  body.colours-006 #content p:nth-of-type(1) {
     box-shadow: #f3e8fe 0 0 0 2.6rem;
   }
 }
-body.colours-006 #content figcaption p {
-  box-shadow: none;
-}
-@media screen and (min-width: 18em) {
-  body.colours-006 #content figcaption p {
-    box-shadow: none;
-  }
-}
-body.colours-006 h1,
-body.colours-006 h2,
-body.colours-006 h3,
-body.colours-006 h4,
-body.colours-006 h5,
-body.colours-006 h6,
-body.colours-006 .posts-lists h3 {
+body.colours-006 h1 {
   display: table;
 }
 body.colours-007 .site-header {
@@ -3220,53 +3016,19 @@ body.colours-007.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-007 #content h1,
-body.colours-007 #content h2,
-body.colours-007 #content h3,
-body.colours-007 #content h4,
-body.colours-007 #content h5,
-body.colours-007 #content h6,
-body.colours-007 #content article p,
-body.colours-007 #content article ul,
-body.colours-007 #content article ol,
-body.colours-007 #content article blockquote,
-body.colours-007 #content .posts-list h3,
-body.colours-007 #content .posts-list .entry-meta,
-body.colours-007 #content .posts-list p {
+body.colours-007 #content h2:nth-of-type(1),
+body.colours-007 #content p:nth-of-type(1) {
   background: #fdfca7;
   box-shadow: #fdfca7 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-007 #content h1,
-  body.colours-007 #content h2,
-  body.colours-007 #content h3,
-  body.colours-007 #content h4,
-  body.colours-007 #content h5,
-  body.colours-007 #content h6,
-  body.colours-007 #content article p,
-  body.colours-007 #content article ul,
-  body.colours-007 #content article ol,
-  body.colours-007 #content article blockquote,
-  body.colours-007 #content .posts-list h3,
-  body.colours-007 #content .posts-list .entry-meta,
-  body.colours-007 #content .posts-list p {
+  body.colours-007 #content h2:nth-of-type(1),
+  body.colours-007 #content p:nth-of-type(1) {
     box-shadow: #fdfca7 0 0 0 2.6rem;
   }
 }
-body.colours-007 #content figcaption p {
-  box-shadow: none;
-}
-@media screen and (min-width: 18em) {
-  body.colours-007 #content figcaption p {
-    box-shadow: none;
-  }
-}
-body.colours-007 h1,
-body.colours-007 h2,
-body.colours-007 h3,
-body.colours-007 h4,
-body.colours-007 h5,
-body.colours-007 h6,
-body.colours-007 .posts-lists h3 {
+body.colours-007 h1 {
   display: table;
 }
 body.colours-008 .site-header {
@@ -3656,53 +3418,19 @@ body.colours-008.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-008 #content h1,
-body.colours-008 #content h2,
-body.colours-008 #content h3,
-body.colours-008 #content h4,
-body.colours-008 #content h5,
-body.colours-008 #content h6,
-body.colours-008 #content article p,
-body.colours-008 #content article ul,
-body.colours-008 #content article ol,
-body.colours-008 #content article blockquote,
-body.colours-008 #content .posts-list h3,
-body.colours-008 #content .posts-list .entry-meta,
-body.colours-008 #content .posts-list p {
+body.colours-008 #content h2:nth-of-type(1),
+body.colours-008 #content p:nth-of-type(1) {
   background: #ffd8d5;
   box-shadow: #ffd8d5 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-008 #content h1,
-  body.colours-008 #content h2,
-  body.colours-008 #content h3,
-  body.colours-008 #content h4,
-  body.colours-008 #content h5,
-  body.colours-008 #content h6,
-  body.colours-008 #content article p,
-  body.colours-008 #content article ul,
-  body.colours-008 #content article ol,
-  body.colours-008 #content article blockquote,
-  body.colours-008 #content .posts-list h3,
-  body.colours-008 #content .posts-list .entry-meta,
-  body.colours-008 #content .posts-list p {
+  body.colours-008 #content h2:nth-of-type(1),
+  body.colours-008 #content p:nth-of-type(1) {
     box-shadow: #ffd8d5 0 0 0 2.6rem;
   }
 }
-body.colours-008 #content figcaption p {
-  box-shadow: none;
-}
-@media screen and (min-width: 18em) {
-  body.colours-008 #content figcaption p {
-    box-shadow: none;
-  }
-}
-body.colours-008 h1,
-body.colours-008 h2,
-body.colours-008 h3,
-body.colours-008 h4,
-body.colours-008 h5,
-body.colours-008 h6,
-body.colours-008 .posts-lists h3 {
+body.colours-008 h1 {
   display: table;
 }
 body.colours-009 .site-header {
@@ -4092,53 +3820,19 @@ body.colours-009.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-009 #content h1,
-body.colours-009 #content h2,
-body.colours-009 #content h3,
-body.colours-009 #content h4,
-body.colours-009 #content h5,
-body.colours-009 #content h6,
-body.colours-009 #content article p,
-body.colours-009 #content article ul,
-body.colours-009 #content article ol,
-body.colours-009 #content article blockquote,
-body.colours-009 #content .posts-list h3,
-body.colours-009 #content .posts-list .entry-meta,
-body.colours-009 #content .posts-list p {
+body.colours-009 #content h2:nth-of-type(1),
+body.colours-009 #content p:nth-of-type(1) {
   background: #c9ffee;
   box-shadow: #c9ffee 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-009 #content h1,
-  body.colours-009 #content h2,
-  body.colours-009 #content h3,
-  body.colours-009 #content h4,
-  body.colours-009 #content h5,
-  body.colours-009 #content h6,
-  body.colours-009 #content article p,
-  body.colours-009 #content article ul,
-  body.colours-009 #content article ol,
-  body.colours-009 #content article blockquote,
-  body.colours-009 #content .posts-list h3,
-  body.colours-009 #content .posts-list .entry-meta,
-  body.colours-009 #content .posts-list p {
+  body.colours-009 #content h2:nth-of-type(1),
+  body.colours-009 #content p:nth-of-type(1) {
     box-shadow: #c9ffee 0 0 0 2.6rem;
   }
 }
-body.colours-009 #content figcaption p {
-  box-shadow: none;
-}
-@media screen and (min-width: 18em) {
-  body.colours-009 #content figcaption p {
-    box-shadow: none;
-  }
-}
-body.colours-009 h1,
-body.colours-009 h2,
-body.colours-009 h3,
-body.colours-009 h4,
-body.colours-009 h5,
-body.colours-009 h6,
-body.colours-009 .posts-lists h3 {
+body.colours-009 h1 {
   display: table;
 }
 body.colours-010 .site-header {
@@ -4528,53 +4222,19 @@ body.colours-010.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-010 #content h1,
-body.colours-010 #content h2,
-body.colours-010 #content h3,
-body.colours-010 #content h4,
-body.colours-010 #content h5,
-body.colours-010 #content h6,
-body.colours-010 #content article p,
-body.colours-010 #content article ul,
-body.colours-010 #content article ol,
-body.colours-010 #content article blockquote,
-body.colours-010 #content .posts-list h3,
-body.colours-010 #content .posts-list .entry-meta,
-body.colours-010 #content .posts-list p {
+body.colours-010 #content h2:nth-of-type(1),
+body.colours-010 #content p:nth-of-type(1) {
   background: #f0f0f0;
   box-shadow: #f0f0f0 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-010 #content h1,
-  body.colours-010 #content h2,
-  body.colours-010 #content h3,
-  body.colours-010 #content h4,
-  body.colours-010 #content h5,
-  body.colours-010 #content h6,
-  body.colours-010 #content article p,
-  body.colours-010 #content article ul,
-  body.colours-010 #content article ol,
-  body.colours-010 #content article blockquote,
-  body.colours-010 #content .posts-list h3,
-  body.colours-010 #content .posts-list .entry-meta,
-  body.colours-010 #content .posts-list p {
+  body.colours-010 #content h2:nth-of-type(1),
+  body.colours-010 #content p:nth-of-type(1) {
     box-shadow: #f0f0f0 0 0 0 2.6rem;
   }
 }
-body.colours-010 #content figcaption p {
-  box-shadow: none;
-}
-@media screen and (min-width: 18em) {
-  body.colours-010 #content figcaption p {
-    box-shadow: none;
-  }
-}
-body.colours-010 h1,
-body.colours-010 h2,
-body.colours-010 h3,
-body.colours-010 h4,
-body.colours-010 h5,
-body.colours-010 h6,
-body.colours-010 .posts-lists h3 {
+body.colours-010 h1 {
   display: table;
 }
 body.colours-013 .site-header {
@@ -4964,53 +4624,19 @@ body.colours-013.contact-me .navigation-menu a[href="/"]:active:after {
   width: auto;
 }
 body.colours-013 #content h1,
-body.colours-013 #content h2,
-body.colours-013 #content h3,
-body.colours-013 #content h4,
-body.colours-013 #content h5,
-body.colours-013 #content h6,
-body.colours-013 #content article p,
-body.colours-013 #content article ul,
-body.colours-013 #content article ol,
-body.colours-013 #content article blockquote,
-body.colours-013 #content .posts-list h3,
-body.colours-013 #content .posts-list .entry-meta,
-body.colours-013 #content .posts-list p {
+body.colours-013 #content h2:nth-of-type(1),
+body.colours-013 #content p:nth-of-type(1) {
   background: #efffc9;
   box-shadow: #efffc9 0 0 0 1.4rem;
 }
 @media screen and (min-width: 18em) {
   body.colours-013 #content h1,
-  body.colours-013 #content h2,
-  body.colours-013 #content h3,
-  body.colours-013 #content h4,
-  body.colours-013 #content h5,
-  body.colours-013 #content h6,
-  body.colours-013 #content article p,
-  body.colours-013 #content article ul,
-  body.colours-013 #content article ol,
-  body.colours-013 #content article blockquote,
-  body.colours-013 #content .posts-list h3,
-  body.colours-013 #content .posts-list .entry-meta,
-  body.colours-013 #content .posts-list p {
+  body.colours-013 #content h2:nth-of-type(1),
+  body.colours-013 #content p:nth-of-type(1) {
     box-shadow: #efffc9 0 0 0 2.6rem;
   }
 }
-body.colours-013 #content figcaption p {
-  box-shadow: none;
-}
-@media screen and (min-width: 18em) {
-  body.colours-013 #content figcaption p {
-    box-shadow: none;
-  }
-}
-body.colours-013 h1,
-body.colours-013 h2,
-body.colours-013 h3,
-body.colours-013 h4,
-body.colours-013 h5,
-body.colours-013 h6,
-body.colours-013 .posts-lists h3 {
+body.colours-013 h1 {
   display: table;
 }
 body {
