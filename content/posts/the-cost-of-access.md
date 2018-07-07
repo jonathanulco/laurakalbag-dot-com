@@ -1,13 +1,12 @@
 ---
 title: "The cost of access"
-date: 2018-07-04T17:03:24+01:00
-draft: true
-tags: []
-categories: []
+date: 2018-07-07T22:07:24+01:00
+tags: ["access", "inclusivity", "assistive technology"]
+categories: ["Accessibility", "Ind.ie" ]
 body_classes: "blog colours-008"
 ---
 
-What follows is my opening talk for Futurefest’s “Who Is the Internet For?” debate taking place this Saturday in London.
+This was my opening introduction for Futurefest’s “Who Is the Internet For?” debate today in London. I didn’t hit all the points as smoothly as this, but I covered most of it throughout the debate.
 
 <hr/>
 
