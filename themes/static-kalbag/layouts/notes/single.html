@@ -6,9 +6,10 @@
 		<div class="entry-content">
 		{{ .Content }}
 		</div>
-		{{ if or .Params.twitterurl .Params.instagramurl .Params.mastodonurl }}
+		{{ if or .Params.twitterurl .Params.instagramurl .Params.mastodonurl .Params.forumurl }}
 		<div class="entry-notes">
 			{{ if .Params.twitterurl }} <p><a href="{{ $.Param "twitterurl" }}">Also posted on Twitter at {{ $.Param "twitterurl" }}</a></p>{{ end }}
+			{{ if .Params.forumurl }} <p><a href="{{ $.Param "forumurl" }}">Also posted on the Ind.ie forum at {{ $.Param "forumurl" }}</a></p>{{ end }}
 		</div>
 		{{ end }}
 	</article>
