@@ -298,11 +298,11 @@ body.colours-001.blog .navigation-menu li a[href="/posts/"] {
 body.colours-001.notes .navigation-menu li a[href="/notes/"] {
   background: #e9e9e9;
 }
-body.colours-001.colours-001 .navigation-menu li a[href="/"] {
+body.colours-001.kind-404 .navigation-menu li a[href="/"] {
   background: #e9e9e9;
 }
 body.colours-001.home .navigation-menu a[href="/about-me/"],
-body.colours-001.colours-001 .navigation-menu a[href="/about-me/"],
+body.colours-001.kind-404 .navigation-menu a[href="/about-me/"],
 body.colours-001.about-me .navigation-menu a[href="/"],
 body.colours-001.about-me .navigation-menu a[href="/book/"],
 body.colours-001.book .navigation-menu a[href="/about-me/"],
@@ -318,7 +318,7 @@ body.colours-001.contact-me .navigation-menu a[href="/speaking/"] {
   color: #020202;
 }
 body.colours-001.home .navigation-menu a[href="/about-me/"]:hover,
-body.colours-001.colours-001 .navigation-menu a[href="/about-me/"]:hover,
+body.colours-001.kind-404 .navigation-menu a[href="/about-me/"]:hover,
 body.colours-001.about-me .navigation-menu a[href="/"]:hover,
 body.colours-001.about-me .navigation-menu a[href="/book/"]:hover,
 body.colours-001.book .navigation-menu a[href="/about-me/"]:hover,
@@ -331,7 +331,7 @@ body.colours-001.speaking .navigation-menu a[href="/notes/"]:hover,
 body.colours-001.speaking .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-001.contact-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-001.home .navigation-menu a[href="/about-me/"]:active,
-body.colours-001.colours-001 .navigation-menu a[href="/about-me/"]:active,
+body.colours-001.kind-404 .navigation-menu a[href="/about-me/"]:active,
 body.colours-001.about-me .navigation-menu a[href="/"]:active,
 body.colours-001.about-me .navigation-menu a[href="/book/"]:active,
 body.colours-001.book .navigation-menu a[href="/about-me/"]:active,
@@ -346,7 +346,7 @@ body.colours-001.contact-me .navigation-menu a[href="/speaking/"]:active {
   position: relative;
 }
 body.colours-001.home .navigation-menu a[href="/about-me/"]:hover:after,
-body.colours-001.colours-001 .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-001.kind-404 .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-001.about-me .navigation-menu a[href="/"]:hover:after,
 body.colours-001.about-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-001.book .navigation-menu a[href="/about-me/"]:hover:after,
@@ -359,7 +359,7 @@ body.colours-001.speaking .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-001.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-001.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-001.home .navigation-menu a[href="/about-me/"]:active:after,
-body.colours-001.colours-001 .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-001.kind-404 .navigation-menu a[href="/about-me/"]:active:after,
 body.colours-001.about-me .navigation-menu a[href="/"]:active:after,
 body.colours-001.about-me .navigation-menu a[href="/book/"]:active:after,
 body.colours-001.book .navigation-menu a[href="/about-me/"]:active:after,
@@ -382,7 +382,7 @@ body.colours-001.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   width: auto;
 }
 body.colours-001.home .navigation-menu a[href="/book/"],
-body.colours-001.colours-001 .navigation-menu a[href="/book/"],
+body.colours-001.kind-404 .navigation-menu a[href="/book/"],
 body.colours-001.about-me .navigation-menu a[href="/posts/"],
 body.colours-001.book .navigation-menu a[href="/"],
 body.colours-001.book .navigation-menu a[href="/notes/"],
@@ -396,7 +396,7 @@ body.colours-001.contact-me .navigation-menu a[href="/notes/"] {
   color: #020202;
 }
 body.colours-001.home .navigation-menu a[href="/book/"]:hover,
-body.colours-001.colours-001 .navigation-menu a[href="/book/"]:hover,
+body.colours-001.kind-404 .navigation-menu a[href="/book/"]:hover,
 body.colours-001.about-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-001.book .navigation-menu a[href="/"]:hover,
 body.colours-001.book .navigation-menu a[href="/notes/"]:hover,
@@ -407,7 +407,7 @@ body.colours-001.notes .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-001.speaking .navigation-menu a[href="/posts/"]:hover,
 body.colours-001.contact-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-001.home .navigation-menu a[href="/book/"]:active,
-body.colours-001.colours-001 .navigation-menu a[href="/book/"]:active,
+body.colours-001.kind-404 .navigation-menu a[href="/book/"]:active,
 body.colours-001.about-me .navigation-menu a[href="/posts/"]:active,
 body.colours-001.book .navigation-menu a[href="/"]:active,
 body.colours-001.book .navigation-menu a[href="/notes/"]:active,
@@ -420,7 +420,7 @@ body.colours-001.contact-me .navigation-menu a[href="/notes/"]:active {
   position: relative;
 }
 body.colours-001.home .navigation-menu a[href="/book/"]:hover:after,
-body.colours-001.colours-001 .navigation-menu a[href="/book/"]:hover:after,
+body.colours-001.kind-404 .navigation-menu a[href="/book/"]:hover:after,
 body.colours-001.about-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-001.book .navigation-menu a[href="/"]:hover:after,
 body.colours-001.book .navigation-menu a[href="/notes/"]:hover:after,
@@ -431,7 +431,7 @@ body.colours-001.notes .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-001.speaking .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-001.contact-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-001.home .navigation-menu a[href="/book/"]:active:after,
-body.colours-001.colours-001 .navigation-menu a[href="/book/"]:active:after,
+body.colours-001.kind-404 .navigation-menu a[href="/book/"]:active:after,
 body.colours-001.about-me .navigation-menu a[href="/posts/"]:active:after,
 body.colours-001.book .navigation-menu a[href="/"]:active:after,
 body.colours-001.book .navigation-menu a[href="/notes/"]:active:after,
@@ -452,7 +452,7 @@ body.colours-001.contact-me .navigation-menu a[href="/notes/"]:active:after {
   width: auto;
 }
 body.colours-001.home .navigation-menu a[href="/posts/"],
-body.colours-001.colours-001 .navigation-menu a[href="/posts/"],
+body.colours-001.kind-404 .navigation-menu a[href="/posts/"],
 body.colours-001.about-me .navigation-menu a[href="/notes/"],
 body.colours-001.blog .navigation-menu a[href="/"],
 body.colours-001.blog .navigation-menu a[href="/contact-me/"],
@@ -464,7 +464,7 @@ body.colours-001.contact-me .navigation-menu a[href="/posts/"] {
   color: #020202;
 }
 body.colours-001.home .navigation-menu a[href="/posts/"]:hover,
-body.colours-001.colours-001 .navigation-menu a[href="/posts/"]:hover,
+body.colours-001.kind-404 .navigation-menu a[href="/posts/"]:hover,
 body.colours-001.about-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-001.blog .navigation-menu a[href="/"]:hover,
 body.colours-001.blog .navigation-menu a[href="/contact-me/"]:hover,
@@ -473,7 +473,7 @@ body.colours-001.notes .navigation-menu a[href="/about-me/"]:hover,
 body.colours-001.speaking .navigation-menu a[href="/book/"]:hover,
 body.colours-001.contact-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-001.home .navigation-menu a[href="/posts/"]:active,
-body.colours-001.colours-001 .navigation-menu a[href="/posts/"]:active,
+body.colours-001.kind-404 .navigation-menu a[href="/posts/"]:active,
 body.colours-001.about-me .navigation-menu a[href="/notes/"]:active,
 body.colours-001.blog .navigation-menu a[href="/"]:active,
 body.colours-001.blog .navigation-menu a[href="/contact-me/"]:active,
@@ -484,7 +484,7 @@ body.colours-001.contact-me .navigation-menu a[href="/posts/"]:active {
   position: relative;
 }
 body.colours-001.home .navigation-menu a[href="/posts/"]:hover:after,
-body.colours-001.colours-001 .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-001.kind-404 .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-001.about-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-001.blog .navigation-menu a[href="/"]:hover:after,
 body.colours-001.blog .navigation-menu a[href="/contact-me/"]:hover:after,
@@ -493,7 +493,7 @@ body.colours-001.notes .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-001.speaking .navigation-menu a[href="/book/"]:hover:after,
 body.colours-001.contact-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-001.home .navigation-menu a[href="/posts/"]:active:after,
-body.colours-001.colours-001 .navigation-menu a[href="/posts/"]:active:after,
+body.colours-001.kind-404 .navigation-menu a[href="/posts/"]:active:after,
 body.colours-001.about-me .navigation-menu a[href="/notes/"]:active:after,
 body.colours-001.blog .navigation-menu a[href="/"]:active:after,
 body.colours-001.blog .navigation-menu a[href="/contact-me/"]:active:after,
@@ -512,7 +512,7 @@ body.colours-001.contact-me .navigation-menu a[href="/posts/"]:active:after {
   width: auto;
 }
 body.colours-001.home .navigation-menu a[href="/notes/"],
-body.colours-001.colours-001 .navigation-menu a[href="/notes/"],
+body.colours-001.kind-404 .navigation-menu a[href="/notes/"],
 body.colours-001.about-me .navigation-menu a[href="/speaking/"],
 body.colours-001.book .navigation-menu a[href="/contact-me/"],
 body.colours-001.notes .navigation-menu a[href="/"],
@@ -522,14 +522,14 @@ body.colours-001.contact-me .navigation-menu a[href="/book/"] {
   color: #020202;
 }
 body.colours-001.home .navigation-menu a[href="/notes/"]:hover,
-body.colours-001.colours-001 .navigation-menu a[href="/notes/"]:hover,
+body.colours-001.kind-404 .navigation-menu a[href="/notes/"]:hover,
 body.colours-001.about-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-001.book .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-001.notes .navigation-menu a[href="/"]:hover,
 body.colours-001.speaking .navigation-menu a[href="/about-me/"]:hover,
 body.colours-001.contact-me .navigation-menu a[href="/book/"]:hover,
 body.colours-001.home .navigation-menu a[href="/notes/"]:active,
-body.colours-001.colours-001 .navigation-menu a[href="/notes/"]:active,
+body.colours-001.kind-404 .navigation-menu a[href="/notes/"]:active,
 body.colours-001.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-001.book .navigation-menu a[href="/contact-me/"]:active,
 body.colours-001.notes .navigation-menu a[href="/"]:active,
@@ -538,14 +538,14 @@ body.colours-001.contact-me .navigation-menu a[href="/book/"]:active {
   position: relative;
 }
 body.colours-001.home .navigation-menu a[href="/notes/"]:hover:after,
-body.colours-001.colours-001 .navigation-menu a[href="/notes/"]:hover:after,
+body.colours-001.kind-404 .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-001.about-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-001.book .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-001.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-001.speaking .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-001.contact-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-001.home .navigation-menu a[href="/notes/"]:active:after,
-body.colours-001.colours-001 .navigation-menu a[href="/notes/"]:active:after,
+body.colours-001.kind-404 .navigation-menu a[href="/notes/"]:active:after,
 body.colours-001.about-me .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-001.book .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-001.notes .navigation-menu a[href="/"]:active:after,
@@ -562,7 +562,7 @@ body.colours-001.contact-me .navigation-menu a[href="/book/"]:active:after {
   width: auto;
 }
 body.colours-001.home .navigation-menu a[href="/speaking/"],
-body.colours-001.colours-001 .navigation-menu a[href="/speaking/"],
+body.colours-001.kind-404 .navigation-menu a[href="/speaking/"],
 body.colours-001.about-me .navigation-menu a[href="/contact-me/"],
 body.colours-001.notes .navigation-menu a[href="/"],
 body.colours-001.speaking .navigation-menu a[href="/"],
@@ -571,13 +571,13 @@ body.colours-001.contact-me .navigation-menu a[href="/about-me/"] {
   color: #020202;
 }
 body.colours-001.home .navigation-menu a[href="/speaking/"]:hover,
-body.colours-001.colours-001 .navigation-menu a[href="/speaking/"]:hover,
+body.colours-001.kind-404 .navigation-menu a[href="/speaking/"]:hover,
 body.colours-001.about-me .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-001.notes .navigation-menu a[href="/"]:hover,
 body.colours-001.speaking .navigation-menu a[href="/"]:hover,
 body.colours-001.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-001.home .navigation-menu a[href="/speaking/"]:active,
-body.colours-001.colours-001 .navigation-menu a[href="/speaking/"]:active,
+body.colours-001.kind-404 .navigation-menu a[href="/speaking/"]:active,
 body.colours-001.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-001.notes .navigation-menu a[href="/"]:active,
 body.colours-001.speaking .navigation-menu a[href="/"]:active,
@@ -585,13 +585,13 @@ body.colours-001.contact-me .navigation-menu a[href="/about-me/"]:active {
   position: relative;
 }
 body.colours-001.home .navigation-menu a[href="/speaking/"]:hover:after,
-body.colours-001.colours-001 .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-001.kind-404 .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-001.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-001.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-001.speaking .navigation-menu a[href="/"]:hover:after,
 body.colours-001.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-001.home .navigation-menu a[href="/speaking/"]:active:after,
-body.colours-001.colours-001 .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-001.kind-404 .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-001.about-me .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-001.notes .navigation-menu a[href="/"]:active:after,
 body.colours-001.speaking .navigation-menu a[href="/"]:active:after,
@@ -607,24 +607,24 @@ body.colours-001.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   width: auto;
 }
 body.colours-001.home .navigation-menu a[href="/contact-me/"],
-body.colours-001.colours-001 .navigation-menu a[href="/contact-me/"],
+body.colours-001.kind-404 .navigation-menu a[href="/contact-me/"],
 body.colours-001.contact-me .navigation-menu a[href="/"] {
   background: rgba(126,128,128,0.8);
   color: #020202;
 }
 body.colours-001.home .navigation-menu a[href="/contact-me/"]:hover,
-body.colours-001.colours-001 .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-001.kind-404 .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-001.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-001.home .navigation-menu a[href="/contact-me/"]:active,
-body.colours-001.colours-001 .navigation-menu a[href="/contact-me/"]:active,
+body.colours-001.kind-404 .navigation-menu a[href="/contact-me/"]:active,
 body.colours-001.contact-me .navigation-menu a[href="/"]:active {
   position: relative;
 }
 body.colours-001.home .navigation-menu a[href="/contact-me/"]:hover:after,
-body.colours-001.colours-001 .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-001.kind-404 .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-001.contact-me .navigation-menu a[href="/"]:hover:after,
 body.colours-001.home .navigation-menu a[href="/contact-me/"]:active:after,
-body.colours-001.colours-001 .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-001.kind-404 .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-001.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
   border-bottom: 0.15em rgba(68,64,64,0.5) solid;
@@ -733,11 +733,11 @@ body.colours-002.blog .navigation-menu li a[href="/posts/"] {
 body.colours-002.notes .navigation-menu li a[href="/notes/"] {
   background: #c9ecff;
 }
-body.colours-002.colours-001 .navigation-menu li a[href="/"] {
+body.colours-002.kind-404 .navigation-menu li a[href="/"] {
   background: #c9ecff;
 }
 body.colours-002.home .navigation-menu a[href="/about-me/"],
-body.colours-002.colours-001 .navigation-menu a[href="/about-me/"],
+body.colours-002.kind-404 .navigation-menu a[href="/about-me/"],
 body.colours-002.about-me .navigation-menu a[href="/"],
 body.colours-002.about-me .navigation-menu a[href="/book/"],
 body.colours-002.book .navigation-menu a[href="/about-me/"],
@@ -753,7 +753,7 @@ body.colours-002.contact-me .navigation-menu a[href="/speaking/"] {
   color: #1b1326;
 }
 body.colours-002.home .navigation-menu a[href="/about-me/"]:hover,
-body.colours-002.colours-001 .navigation-menu a[href="/about-me/"]:hover,
+body.colours-002.kind-404 .navigation-menu a[href="/about-me/"]:hover,
 body.colours-002.about-me .navigation-menu a[href="/"]:hover,
 body.colours-002.about-me .navigation-menu a[href="/book/"]:hover,
 body.colours-002.book .navigation-menu a[href="/about-me/"]:hover,
@@ -766,7 +766,7 @@ body.colours-002.speaking .navigation-menu a[href="/notes/"]:hover,
 body.colours-002.speaking .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-002.contact-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-002.home .navigation-menu a[href="/about-me/"]:active,
-body.colours-002.colours-001 .navigation-menu a[href="/about-me/"]:active,
+body.colours-002.kind-404 .navigation-menu a[href="/about-me/"]:active,
 body.colours-002.about-me .navigation-menu a[href="/"]:active,
 body.colours-002.about-me .navigation-menu a[href="/book/"]:active,
 body.colours-002.book .navigation-menu a[href="/about-me/"]:active,
@@ -781,7 +781,7 @@ body.colours-002.contact-me .navigation-menu a[href="/speaking/"]:active {
   position: relative;
 }
 body.colours-002.home .navigation-menu a[href="/about-me/"]:hover:after,
-body.colours-002.colours-001 .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-002.kind-404 .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-002.about-me .navigation-menu a[href="/"]:hover:after,
 body.colours-002.about-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-002.book .navigation-menu a[href="/about-me/"]:hover:after,
@@ -794,7 +794,7 @@ body.colours-002.speaking .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-002.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-002.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-002.home .navigation-menu a[href="/about-me/"]:active:after,
-body.colours-002.colours-001 .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-002.kind-404 .navigation-menu a[href="/about-me/"]:active:after,
 body.colours-002.about-me .navigation-menu a[href="/"]:active:after,
 body.colours-002.about-me .navigation-menu a[href="/book/"]:active:after,
 body.colours-002.book .navigation-menu a[href="/about-me/"]:active:after,
@@ -817,7 +817,7 @@ body.colours-002.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   width: auto;
 }
 body.colours-002.home .navigation-menu a[href="/book/"],
-body.colours-002.colours-001 .navigation-menu a[href="/book/"],
+body.colours-002.kind-404 .navigation-menu a[href="/book/"],
 body.colours-002.about-me .navigation-menu a[href="/posts/"],
 body.colours-002.book .navigation-menu a[href="/"],
 body.colours-002.book .navigation-menu a[href="/notes/"],
@@ -831,7 +831,7 @@ body.colours-002.contact-me .navigation-menu a[href="/notes/"] {
   color: #1b1326;
 }
 body.colours-002.home .navigation-menu a[href="/book/"]:hover,
-body.colours-002.colours-001 .navigation-menu a[href="/book/"]:hover,
+body.colours-002.kind-404 .navigation-menu a[href="/book/"]:hover,
 body.colours-002.about-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-002.book .navigation-menu a[href="/"]:hover,
 body.colours-002.book .navigation-menu a[href="/notes/"]:hover,
@@ -842,7 +842,7 @@ body.colours-002.notes .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-002.speaking .navigation-menu a[href="/posts/"]:hover,
 body.colours-002.contact-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-002.home .navigation-menu a[href="/book/"]:active,
-body.colours-002.colours-001 .navigation-menu a[href="/book/"]:active,
+body.colours-002.kind-404 .navigation-menu a[href="/book/"]:active,
 body.colours-002.about-me .navigation-menu a[href="/posts/"]:active,
 body.colours-002.book .navigation-menu a[href="/"]:active,
 body.colours-002.book .navigation-menu a[href="/notes/"]:active,
@@ -855,7 +855,7 @@ body.colours-002.contact-me .navigation-menu a[href="/notes/"]:active {
   position: relative;
 }
 body.colours-002.home .navigation-menu a[href="/book/"]:hover:after,
-body.colours-002.colours-001 .navigation-menu a[href="/book/"]:hover:after,
+body.colours-002.kind-404 .navigation-menu a[href="/book/"]:hover:after,
 body.colours-002.about-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-002.book .navigation-menu a[href="/"]:hover:after,
 body.colours-002.book .navigation-menu a[href="/notes/"]:hover:after,
@@ -866,7 +866,7 @@ body.colours-002.notes .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-002.speaking .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-002.contact-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-002.home .navigation-menu a[href="/book/"]:active:after,
-body.colours-002.colours-001 .navigation-menu a[href="/book/"]:active:after,
+body.colours-002.kind-404 .navigation-menu a[href="/book/"]:active:after,
 body.colours-002.about-me .navigation-menu a[href="/posts/"]:active:after,
 body.colours-002.book .navigation-menu a[href="/"]:active:after,
 body.colours-002.book .navigation-menu a[href="/notes/"]:active:after,
@@ -887,7 +887,7 @@ body.colours-002.contact-me .navigation-menu a[href="/notes/"]:active:after {
   width: auto;
 }
 body.colours-002.home .navigation-menu a[href="/posts/"],
-body.colours-002.colours-001 .navigation-menu a[href="/posts/"],
+body.colours-002.kind-404 .navigation-menu a[href="/posts/"],
 body.colours-002.about-me .navigation-menu a[href="/notes/"],
 body.colours-002.blog .navigation-menu a[href="/"],
 body.colours-002.blog .navigation-menu a[href="/contact-me/"],
@@ -899,7 +899,7 @@ body.colours-002.contact-me .navigation-menu a[href="/posts/"] {
   color: #1b1326;
 }
 body.colours-002.home .navigation-menu a[href="/posts/"]:hover,
-body.colours-002.colours-001 .navigation-menu a[href="/posts/"]:hover,
+body.colours-002.kind-404 .navigation-menu a[href="/posts/"]:hover,
 body.colours-002.about-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-002.blog .navigation-menu a[href="/"]:hover,
 body.colours-002.blog .navigation-menu a[href="/contact-me/"]:hover,
@@ -908,7 +908,7 @@ body.colours-002.notes .navigation-menu a[href="/about-me/"]:hover,
 body.colours-002.speaking .navigation-menu a[href="/book/"]:hover,
 body.colours-002.contact-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-002.home .navigation-menu a[href="/posts/"]:active,
-body.colours-002.colours-001 .navigation-menu a[href="/posts/"]:active,
+body.colours-002.kind-404 .navigation-menu a[href="/posts/"]:active,
 body.colours-002.about-me .navigation-menu a[href="/notes/"]:active,
 body.colours-002.blog .navigation-menu a[href="/"]:active,
 body.colours-002.blog .navigation-menu a[href="/contact-me/"]:active,
@@ -919,7 +919,7 @@ body.colours-002.contact-me .navigation-menu a[href="/posts/"]:active {
   position: relative;
 }
 body.colours-002.home .navigation-menu a[href="/posts/"]:hover:after,
-body.colours-002.colours-001 .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-002.kind-404 .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-002.about-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-002.blog .navigation-menu a[href="/"]:hover:after,
 body.colours-002.blog .navigation-menu a[href="/contact-me/"]:hover:after,
@@ -928,7 +928,7 @@ body.colours-002.notes .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-002.speaking .navigation-menu a[href="/book/"]:hover:after,
 body.colours-002.contact-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-002.home .navigation-menu a[href="/posts/"]:active:after,
-body.colours-002.colours-001 .navigation-menu a[href="/posts/"]:active:after,
+body.colours-002.kind-404 .navigation-menu a[href="/posts/"]:active:after,
 body.colours-002.about-me .navigation-menu a[href="/notes/"]:active:after,
 body.colours-002.blog .navigation-menu a[href="/"]:active:after,
 body.colours-002.blog .navigation-menu a[href="/contact-me/"]:active:after,
@@ -947,7 +947,7 @@ body.colours-002.contact-me .navigation-menu a[href="/posts/"]:active:after {
   width: auto;
 }
 body.colours-002.home .navigation-menu a[href="/notes/"],
-body.colours-002.colours-001 .navigation-menu a[href="/notes/"],
+body.colours-002.kind-404 .navigation-menu a[href="/notes/"],
 body.colours-002.about-me .navigation-menu a[href="/speaking/"],
 body.colours-002.book .navigation-menu a[href="/contact-me/"],
 body.colours-002.notes .navigation-menu a[href="/"],
@@ -957,14 +957,14 @@ body.colours-002.contact-me .navigation-menu a[href="/book/"] {
   color: #1b1326;
 }
 body.colours-002.home .navigation-menu a[href="/notes/"]:hover,
-body.colours-002.colours-001 .navigation-menu a[href="/notes/"]:hover,
+body.colours-002.kind-404 .navigation-menu a[href="/notes/"]:hover,
 body.colours-002.about-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-002.book .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-002.notes .navigation-menu a[href="/"]:hover,
 body.colours-002.speaking .navigation-menu a[href="/about-me/"]:hover,
 body.colours-002.contact-me .navigation-menu a[href="/book/"]:hover,
 body.colours-002.home .navigation-menu a[href="/notes/"]:active,
-body.colours-002.colours-001 .navigation-menu a[href="/notes/"]:active,
+body.colours-002.kind-404 .navigation-menu a[href="/notes/"]:active,
 body.colours-002.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-002.book .navigation-menu a[href="/contact-me/"]:active,
 body.colours-002.notes .navigation-menu a[href="/"]:active,
@@ -973,14 +973,14 @@ body.colours-002.contact-me .navigation-menu a[href="/book/"]:active {
   position: relative;
 }
 body.colours-002.home .navigation-menu a[href="/notes/"]:hover:after,
-body.colours-002.colours-001 .navigation-menu a[href="/notes/"]:hover:after,
+body.colours-002.kind-404 .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-002.about-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-002.book .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-002.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-002.speaking .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-002.contact-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-002.home .navigation-menu a[href="/notes/"]:active:after,
-body.colours-002.colours-001 .navigation-menu a[href="/notes/"]:active:after,
+body.colours-002.kind-404 .navigation-menu a[href="/notes/"]:active:after,
 body.colours-002.about-me .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-002.book .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-002.notes .navigation-menu a[href="/"]:active:after,
@@ -997,7 +997,7 @@ body.colours-002.contact-me .navigation-menu a[href="/book/"]:active:after {
   width: auto;
 }
 body.colours-002.home .navigation-menu a[href="/speaking/"],
-body.colours-002.colours-001 .navigation-menu a[href="/speaking/"],
+body.colours-002.kind-404 .navigation-menu a[href="/speaking/"],
 body.colours-002.about-me .navigation-menu a[href="/contact-me/"],
 body.colours-002.notes .navigation-menu a[href="/"],
 body.colours-002.speaking .navigation-menu a[href="/"],
@@ -1006,13 +1006,13 @@ body.colours-002.contact-me .navigation-menu a[href="/about-me/"] {
   color: #1b1326;
 }
 body.colours-002.home .navigation-menu a[href="/speaking/"]:hover,
-body.colours-002.colours-001 .navigation-menu a[href="/speaking/"]:hover,
+body.colours-002.kind-404 .navigation-menu a[href="/speaking/"]:hover,
 body.colours-002.about-me .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-002.notes .navigation-menu a[href="/"]:hover,
 body.colours-002.speaking .navigation-menu a[href="/"]:hover,
 body.colours-002.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-002.home .navigation-menu a[href="/speaking/"]:active,
-body.colours-002.colours-001 .navigation-menu a[href="/speaking/"]:active,
+body.colours-002.kind-404 .navigation-menu a[href="/speaking/"]:active,
 body.colours-002.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-002.notes .navigation-menu a[href="/"]:active,
 body.colours-002.speaking .navigation-menu a[href="/"]:active,
@@ -1020,13 +1020,13 @@ body.colours-002.contact-me .navigation-menu a[href="/about-me/"]:active {
   position: relative;
 }
 body.colours-002.home .navigation-menu a[href="/speaking/"]:hover:after,
-body.colours-002.colours-001 .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-002.kind-404 .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-002.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-002.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-002.speaking .navigation-menu a[href="/"]:hover:after,
 body.colours-002.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-002.home .navigation-menu a[href="/speaking/"]:active:after,
-body.colours-002.colours-001 .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-002.kind-404 .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-002.about-me .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-002.notes .navigation-menu a[href="/"]:active:after,
 body.colours-002.speaking .navigation-menu a[href="/"]:active:after,
@@ -1042,24 +1042,24 @@ body.colours-002.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   width: auto;
 }
 body.colours-002.home .navigation-menu a[href="/contact-me/"],
-body.colours-002.colours-001 .navigation-menu a[href="/contact-me/"],
+body.colours-002.kind-404 .navigation-menu a[href="/contact-me/"],
 body.colours-002.contact-me .navigation-menu a[href="/"] {
   background: rgba(148,93,249,0.8);
   color: #1b1326;
 }
 body.colours-002.home .navigation-menu a[href="/contact-me/"]:hover,
-body.colours-002.colours-001 .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-002.kind-404 .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-002.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-002.home .navigation-menu a[href="/contact-me/"]:active,
-body.colours-002.colours-001 .navigation-menu a[href="/contact-me/"]:active,
+body.colours-002.kind-404 .navigation-menu a[href="/contact-me/"]:active,
 body.colours-002.contact-me .navigation-menu a[href="/"]:active {
   position: relative;
 }
 body.colours-002.home .navigation-menu a[href="/contact-me/"]:hover:after,
-body.colours-002.colours-001 .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-002.kind-404 .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-002.contact-me .navigation-menu a[href="/"]:hover:after,
 body.colours-002.home .navigation-menu a[href="/contact-me/"]:active:after,
-body.colours-002.colours-001 .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-002.kind-404 .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-002.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
   border-bottom: 0.15em rgba(94,59,119,0.5) solid;
@@ -1168,11 +1168,11 @@ body.colours-003.blog .navigation-menu li a[href="/posts/"] {
 body.colours-003.notes .navigation-menu li a[href="/notes/"] {
   background: #ece6ff;
 }
-body.colours-003.colours-001 .navigation-menu li a[href="/"] {
+body.colours-003.kind-404 .navigation-menu li a[href="/"] {
   background: #ece6ff;
 }
 body.colours-003.home .navigation-menu a[href="/about-me/"],
-body.colours-003.colours-001 .navigation-menu a[href="/about-me/"],
+body.colours-003.kind-404 .navigation-menu a[href="/about-me/"],
 body.colours-003.about-me .navigation-menu a[href="/"],
 body.colours-003.about-me .navigation-menu a[href="/book/"],
 body.colours-003.book .navigation-menu a[href="/about-me/"],
@@ -1188,7 +1188,7 @@ body.colours-003.contact-me .navigation-menu a[href="/speaking/"] {
   color: #3d1d2e;
 }
 body.colours-003.home .navigation-menu a[href="/about-me/"]:hover,
-body.colours-003.colours-001 .navigation-menu a[href="/about-me/"]:hover,
+body.colours-003.kind-404 .navigation-menu a[href="/about-me/"]:hover,
 body.colours-003.about-me .navigation-menu a[href="/"]:hover,
 body.colours-003.about-me .navigation-menu a[href="/book/"]:hover,
 body.colours-003.book .navigation-menu a[href="/about-me/"]:hover,
@@ -1201,7 +1201,7 @@ body.colours-003.speaking .navigation-menu a[href="/notes/"]:hover,
 body.colours-003.speaking .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-003.contact-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-003.home .navigation-menu a[href="/about-me/"]:active,
-body.colours-003.colours-001 .navigation-menu a[href="/about-me/"]:active,
+body.colours-003.kind-404 .navigation-menu a[href="/about-me/"]:active,
 body.colours-003.about-me .navigation-menu a[href="/"]:active,
 body.colours-003.about-me .navigation-menu a[href="/book/"]:active,
 body.colours-003.book .navigation-menu a[href="/about-me/"]:active,
@@ -1216,7 +1216,7 @@ body.colours-003.contact-me .navigation-menu a[href="/speaking/"]:active {
   position: relative;
 }
 body.colours-003.home .navigation-menu a[href="/about-me/"]:hover:after,
-body.colours-003.colours-001 .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-003.kind-404 .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-003.about-me .navigation-menu a[href="/"]:hover:after,
 body.colours-003.about-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-003.book .navigation-menu a[href="/about-me/"]:hover:after,
@@ -1229,7 +1229,7 @@ body.colours-003.speaking .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-003.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-003.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-003.home .navigation-menu a[href="/about-me/"]:active:after,
-body.colours-003.colours-001 .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-003.kind-404 .navigation-menu a[href="/about-me/"]:active:after,
 body.colours-003.about-me .navigation-menu a[href="/"]:active:after,
 body.colours-003.about-me .navigation-menu a[href="/book/"]:active:after,
 body.colours-003.book .navigation-menu a[href="/about-me/"]:active:after,
@@ -1252,7 +1252,7 @@ body.colours-003.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   width: auto;
 }
 body.colours-003.home .navigation-menu a[href="/book/"],
-body.colours-003.colours-001 .navigation-menu a[href="/book/"],
+body.colours-003.kind-404 .navigation-menu a[href="/book/"],
 body.colours-003.about-me .navigation-menu a[href="/posts/"],
 body.colours-003.book .navigation-menu a[href="/"],
 body.colours-003.book .navigation-menu a[href="/notes/"],
@@ -1266,7 +1266,7 @@ body.colours-003.contact-me .navigation-menu a[href="/notes/"] {
   color: #3d1d2e;
 }
 body.colours-003.home .navigation-menu a[href="/book/"]:hover,
-body.colours-003.colours-001 .navigation-menu a[href="/book/"]:hover,
+body.colours-003.kind-404 .navigation-menu a[href="/book/"]:hover,
 body.colours-003.about-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-003.book .navigation-menu a[href="/"]:hover,
 body.colours-003.book .navigation-menu a[href="/notes/"]:hover,
@@ -1277,7 +1277,7 @@ body.colours-003.notes .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-003.speaking .navigation-menu a[href="/posts/"]:hover,
 body.colours-003.contact-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-003.home .navigation-menu a[href="/book/"]:active,
-body.colours-003.colours-001 .navigation-menu a[href="/book/"]:active,
+body.colours-003.kind-404 .navigation-menu a[href="/book/"]:active,
 body.colours-003.about-me .navigation-menu a[href="/posts/"]:active,
 body.colours-003.book .navigation-menu a[href="/"]:active,
 body.colours-003.book .navigation-menu a[href="/notes/"]:active,
@@ -1290,7 +1290,7 @@ body.colours-003.contact-me .navigation-menu a[href="/notes/"]:active {
   position: relative;
 }
 body.colours-003.home .navigation-menu a[href="/book/"]:hover:after,
-body.colours-003.colours-001 .navigation-menu a[href="/book/"]:hover:after,
+body.colours-003.kind-404 .navigation-menu a[href="/book/"]:hover:after,
 body.colours-003.about-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-003.book .navigation-menu a[href="/"]:hover:after,
 body.colours-003.book .navigation-menu a[href="/notes/"]:hover:after,
@@ -1301,7 +1301,7 @@ body.colours-003.notes .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-003.speaking .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-003.contact-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-003.home .navigation-menu a[href="/book/"]:active:after,
-body.colours-003.colours-001 .navigation-menu a[href="/book/"]:active:after,
+body.colours-003.kind-404 .navigation-menu a[href="/book/"]:active:after,
 body.colours-003.about-me .navigation-menu a[href="/posts/"]:active:after,
 body.colours-003.book .navigation-menu a[href="/"]:active:after,
 body.colours-003.book .navigation-menu a[href="/notes/"]:active:after,
@@ -1322,7 +1322,7 @@ body.colours-003.contact-me .navigation-menu a[href="/notes/"]:active:after {
   width: auto;
 }
 body.colours-003.home .navigation-menu a[href="/posts/"],
-body.colours-003.colours-001 .navigation-menu a[href="/posts/"],
+body.colours-003.kind-404 .navigation-menu a[href="/posts/"],
 body.colours-003.about-me .navigation-menu a[href="/notes/"],
 body.colours-003.blog .navigation-menu a[href="/"],
 body.colours-003.blog .navigation-menu a[href="/contact-me/"],
@@ -1334,7 +1334,7 @@ body.colours-003.contact-me .navigation-menu a[href="/posts/"] {
   color: #3d1d2e;
 }
 body.colours-003.home .navigation-menu a[href="/posts/"]:hover,
-body.colours-003.colours-001 .navigation-menu a[href="/posts/"]:hover,
+body.colours-003.kind-404 .navigation-menu a[href="/posts/"]:hover,
 body.colours-003.about-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-003.blog .navigation-menu a[href="/"]:hover,
 body.colours-003.blog .navigation-menu a[href="/contact-me/"]:hover,
@@ -1343,7 +1343,7 @@ body.colours-003.notes .navigation-menu a[href="/about-me/"]:hover,
 body.colours-003.speaking .navigation-menu a[href="/book/"]:hover,
 body.colours-003.contact-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-003.home .navigation-menu a[href="/posts/"]:active,
-body.colours-003.colours-001 .navigation-menu a[href="/posts/"]:active,
+body.colours-003.kind-404 .navigation-menu a[href="/posts/"]:active,
 body.colours-003.about-me .navigation-menu a[href="/notes/"]:active,
 body.colours-003.blog .navigation-menu a[href="/"]:active,
 body.colours-003.blog .navigation-menu a[href="/contact-me/"]:active,
@@ -1354,7 +1354,7 @@ body.colours-003.contact-me .navigation-menu a[href="/posts/"]:active {
   position: relative;
 }
 body.colours-003.home .navigation-menu a[href="/posts/"]:hover:after,
-body.colours-003.colours-001 .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-003.kind-404 .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-003.about-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-003.blog .navigation-menu a[href="/"]:hover:after,
 body.colours-003.blog .navigation-menu a[href="/contact-me/"]:hover:after,
@@ -1363,7 +1363,7 @@ body.colours-003.notes .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-003.speaking .navigation-menu a[href="/book/"]:hover:after,
 body.colours-003.contact-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-003.home .navigation-menu a[href="/posts/"]:active:after,
-body.colours-003.colours-001 .navigation-menu a[href="/posts/"]:active:after,
+body.colours-003.kind-404 .navigation-menu a[href="/posts/"]:active:after,
 body.colours-003.about-me .navigation-menu a[href="/notes/"]:active:after,
 body.colours-003.blog .navigation-menu a[href="/"]:active:after,
 body.colours-003.blog .navigation-menu a[href="/contact-me/"]:active:after,
@@ -1382,7 +1382,7 @@ body.colours-003.contact-me .navigation-menu a[href="/posts/"]:active:after {
   width: auto;
 }
 body.colours-003.home .navigation-menu a[href="/notes/"],
-body.colours-003.colours-001 .navigation-menu a[href="/notes/"],
+body.colours-003.kind-404 .navigation-menu a[href="/notes/"],
 body.colours-003.about-me .navigation-menu a[href="/speaking/"],
 body.colours-003.book .navigation-menu a[href="/contact-me/"],
 body.colours-003.notes .navigation-menu a[href="/"],
@@ -1392,14 +1392,14 @@ body.colours-003.contact-me .navigation-menu a[href="/book/"] {
   color: #3d1d2e;
 }
 body.colours-003.home .navigation-menu a[href="/notes/"]:hover,
-body.colours-003.colours-001 .navigation-menu a[href="/notes/"]:hover,
+body.colours-003.kind-404 .navigation-menu a[href="/notes/"]:hover,
 body.colours-003.about-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-003.book .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-003.notes .navigation-menu a[href="/"]:hover,
 body.colours-003.speaking .navigation-menu a[href="/about-me/"]:hover,
 body.colours-003.contact-me .navigation-menu a[href="/book/"]:hover,
 body.colours-003.home .navigation-menu a[href="/notes/"]:active,
-body.colours-003.colours-001 .navigation-menu a[href="/notes/"]:active,
+body.colours-003.kind-404 .navigation-menu a[href="/notes/"]:active,
 body.colours-003.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-003.book .navigation-menu a[href="/contact-me/"]:active,
 body.colours-003.notes .navigation-menu a[href="/"]:active,
@@ -1408,14 +1408,14 @@ body.colours-003.contact-me .navigation-menu a[href="/book/"]:active {
   position: relative;
 }
 body.colours-003.home .navigation-menu a[href="/notes/"]:hover:after,
-body.colours-003.colours-001 .navigation-menu a[href="/notes/"]:hover:after,
+body.colours-003.kind-404 .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-003.about-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-003.book .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-003.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-003.speaking .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-003.contact-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-003.home .navigation-menu a[href="/notes/"]:active:after,
-body.colours-003.colours-001 .navigation-menu a[href="/notes/"]:active:after,
+body.colours-003.kind-404 .navigation-menu a[href="/notes/"]:active:after,
 body.colours-003.about-me .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-003.book .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-003.notes .navigation-menu a[href="/"]:active:after,
@@ -1432,7 +1432,7 @@ body.colours-003.contact-me .navigation-menu a[href="/book/"]:active:after {
   width: auto;
 }
 body.colours-003.home .navigation-menu a[href="/speaking/"],
-body.colours-003.colours-001 .navigation-menu a[href="/speaking/"],
+body.colours-003.kind-404 .navigation-menu a[href="/speaking/"],
 body.colours-003.about-me .navigation-menu a[href="/contact-me/"],
 body.colours-003.notes .navigation-menu a[href="/"],
 body.colours-003.speaking .navigation-menu a[href="/"],
@@ -1441,13 +1441,13 @@ body.colours-003.contact-me .navigation-menu a[href="/about-me/"] {
   color: #3d1d2e;
 }
 body.colours-003.home .navigation-menu a[href="/speaking/"]:hover,
-body.colours-003.colours-001 .navigation-menu a[href="/speaking/"]:hover,
+body.colours-003.kind-404 .navigation-menu a[href="/speaking/"]:hover,
 body.colours-003.about-me .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-003.notes .navigation-menu a[href="/"]:hover,
 body.colours-003.speaking .navigation-menu a[href="/"]:hover,
 body.colours-003.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-003.home .navigation-menu a[href="/speaking/"]:active,
-body.colours-003.colours-001 .navigation-menu a[href="/speaking/"]:active,
+body.colours-003.kind-404 .navigation-menu a[href="/speaking/"]:active,
 body.colours-003.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-003.notes .navigation-menu a[href="/"]:active,
 body.colours-003.speaking .navigation-menu a[href="/"]:active,
@@ -1455,13 +1455,13 @@ body.colours-003.contact-me .navigation-menu a[href="/about-me/"]:active {
   position: relative;
 }
 body.colours-003.home .navigation-menu a[href="/speaking/"]:hover:after,
-body.colours-003.colours-001 .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-003.kind-404 .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-003.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-003.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-003.speaking .navigation-menu a[href="/"]:hover:after,
 body.colours-003.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-003.home .navigation-menu a[href="/speaking/"]:active:after,
-body.colours-003.colours-001 .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-003.kind-404 .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-003.about-me .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-003.notes .navigation-menu a[href="/"]:active:after,
 body.colours-003.speaking .navigation-menu a[href="/"]:active:after,
@@ -1477,24 +1477,24 @@ body.colours-003.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   width: auto;
 }
 body.colours-003.home .navigation-menu a[href="/contact-me/"],
-body.colours-003.colours-001 .navigation-menu a[href="/contact-me/"],
+body.colours-003.kind-404 .navigation-menu a[href="/contact-me/"],
 body.colours-003.contact-me .navigation-menu a[href="/"] {
   background: rgba(255,82,104,0.8);
   color: #3d1d2e;
 }
 body.colours-003.home .navigation-menu a[href="/contact-me/"]:hover,
-body.colours-003.colours-001 .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-003.kind-404 .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-003.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-003.home .navigation-menu a[href="/contact-me/"]:active,
-body.colours-003.colours-001 .navigation-menu a[href="/contact-me/"]:active,
+body.colours-003.kind-404 .navigation-menu a[href="/contact-me/"]:active,
 body.colours-003.contact-me .navigation-menu a[href="/"]:active {
   position: relative;
 }
 body.colours-003.home .navigation-menu a[href="/contact-me/"]:hover:after,
-body.colours-003.colours-001 .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-003.kind-404 .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-003.contact-me .navigation-menu a[href="/"]:hover:after,
 body.colours-003.home .navigation-menu a[href="/contact-me/"]:active:after,
-body.colours-003.colours-001 .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-003.kind-404 .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-003.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
   border-bottom: 0.15em rgba(131,45,63,0.5) solid;
@@ -1603,11 +1603,11 @@ body.colours-004.blog .navigation-menu li a[href="/posts/"] {
 body.colours-004.notes .navigation-menu li a[href="/notes/"] {
   background: #ddffc9;
 }
-body.colours-004.colours-001 .navigation-menu li a[href="/"] {
+body.colours-004.kind-404 .navigation-menu li a[href="/"] {
   background: #ddffc9;
 }
 body.colours-004.home .navigation-menu a[href="/about-me/"],
-body.colours-004.colours-001 .navigation-menu a[href="/about-me/"],
+body.colours-004.kind-404 .navigation-menu a[href="/about-me/"],
 body.colours-004.about-me .navigation-menu a[href="/"],
 body.colours-004.about-me .navigation-menu a[href="/book/"],
 body.colours-004.book .navigation-menu a[href="/about-me/"],
@@ -1623,7 +1623,7 @@ body.colours-004.contact-me .navigation-menu a[href="/speaking/"] {
   color: #132426;
 }
 body.colours-004.home .navigation-menu a[href="/about-me/"]:hover,
-body.colours-004.colours-001 .navigation-menu a[href="/about-me/"]:hover,
+body.colours-004.kind-404 .navigation-menu a[href="/about-me/"]:hover,
 body.colours-004.about-me .navigation-menu a[href="/"]:hover,
 body.colours-004.about-me .navigation-menu a[href="/book/"]:hover,
 body.colours-004.book .navigation-menu a[href="/about-me/"]:hover,
@@ -1636,7 +1636,7 @@ body.colours-004.speaking .navigation-menu a[href="/notes/"]:hover,
 body.colours-004.speaking .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-004.contact-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-004.home .navigation-menu a[href="/about-me/"]:active,
-body.colours-004.colours-001 .navigation-menu a[href="/about-me/"]:active,
+body.colours-004.kind-404 .navigation-menu a[href="/about-me/"]:active,
 body.colours-004.about-me .navigation-menu a[href="/"]:active,
 body.colours-004.about-me .navigation-menu a[href="/book/"]:active,
 body.colours-004.book .navigation-menu a[href="/about-me/"]:active,
@@ -1651,7 +1651,7 @@ body.colours-004.contact-me .navigation-menu a[href="/speaking/"]:active {
   position: relative;
 }
 body.colours-004.home .navigation-menu a[href="/about-me/"]:hover:after,
-body.colours-004.colours-001 .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-004.kind-404 .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-004.about-me .navigation-menu a[href="/"]:hover:after,
 body.colours-004.about-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-004.book .navigation-menu a[href="/about-me/"]:hover:after,
@@ -1664,7 +1664,7 @@ body.colours-004.speaking .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-004.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-004.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-004.home .navigation-menu a[href="/about-me/"]:active:after,
-body.colours-004.colours-001 .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-004.kind-404 .navigation-menu a[href="/about-me/"]:active:after,
 body.colours-004.about-me .navigation-menu a[href="/"]:active:after,
 body.colours-004.about-me .navigation-menu a[href="/book/"]:active:after,
 body.colours-004.book .navigation-menu a[href="/about-me/"]:active:after,
@@ -1687,7 +1687,7 @@ body.colours-004.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   width: auto;
 }
 body.colours-004.home .navigation-menu a[href="/book/"],
-body.colours-004.colours-001 .navigation-menu a[href="/book/"],
+body.colours-004.kind-404 .navigation-menu a[href="/book/"],
 body.colours-004.about-me .navigation-menu a[href="/posts/"],
 body.colours-004.book .navigation-menu a[href="/"],
 body.colours-004.book .navigation-menu a[href="/notes/"],
@@ -1701,7 +1701,7 @@ body.colours-004.contact-me .navigation-menu a[href="/notes/"] {
   color: #132426;
 }
 body.colours-004.home .navigation-menu a[href="/book/"]:hover,
-body.colours-004.colours-001 .navigation-menu a[href="/book/"]:hover,
+body.colours-004.kind-404 .navigation-menu a[href="/book/"]:hover,
 body.colours-004.about-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-004.book .navigation-menu a[href="/"]:hover,
 body.colours-004.book .navigation-menu a[href="/notes/"]:hover,
@@ -1712,7 +1712,7 @@ body.colours-004.notes .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-004.speaking .navigation-menu a[href="/posts/"]:hover,
 body.colours-004.contact-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-004.home .navigation-menu a[href="/book/"]:active,
-body.colours-004.colours-001 .navigation-menu a[href="/book/"]:active,
+body.colours-004.kind-404 .navigation-menu a[href="/book/"]:active,
 body.colours-004.about-me .navigation-menu a[href="/posts/"]:active,
 body.colours-004.book .navigation-menu a[href="/"]:active,
 body.colours-004.book .navigation-menu a[href="/notes/"]:active,
@@ -1725,7 +1725,7 @@ body.colours-004.contact-me .navigation-menu a[href="/notes/"]:active {
   position: relative;
 }
 body.colours-004.home .navigation-menu a[href="/book/"]:hover:after,
-body.colours-004.colours-001 .navigation-menu a[href="/book/"]:hover:after,
+body.colours-004.kind-404 .navigation-menu a[href="/book/"]:hover:after,
 body.colours-004.about-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-004.book .navigation-menu a[href="/"]:hover:after,
 body.colours-004.book .navigation-menu a[href="/notes/"]:hover:after,
@@ -1736,7 +1736,7 @@ body.colours-004.notes .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-004.speaking .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-004.contact-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-004.home .navigation-menu a[href="/book/"]:active:after,
-body.colours-004.colours-001 .navigation-menu a[href="/book/"]:active:after,
+body.colours-004.kind-404 .navigation-menu a[href="/book/"]:active:after,
 body.colours-004.about-me .navigation-menu a[href="/posts/"]:active:after,
 body.colours-004.book .navigation-menu a[href="/"]:active:after,
 body.colours-004.book .navigation-menu a[href="/notes/"]:active:after,
@@ -1757,7 +1757,7 @@ body.colours-004.contact-me .navigation-menu a[href="/notes/"]:active:after {
   width: auto;
 }
 body.colours-004.home .navigation-menu a[href="/posts/"],
-body.colours-004.colours-001 .navigation-menu a[href="/posts/"],
+body.colours-004.kind-404 .navigation-menu a[href="/posts/"],
 body.colours-004.about-me .navigation-menu a[href="/notes/"],
 body.colours-004.blog .navigation-menu a[href="/"],
 body.colours-004.blog .navigation-menu a[href="/contact-me/"],
@@ -1769,7 +1769,7 @@ body.colours-004.contact-me .navigation-menu a[href="/posts/"] {
   color: #132426;
 }
 body.colours-004.home .navigation-menu a[href="/posts/"]:hover,
-body.colours-004.colours-001 .navigation-menu a[href="/posts/"]:hover,
+body.colours-004.kind-404 .navigation-menu a[href="/posts/"]:hover,
 body.colours-004.about-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-004.blog .navigation-menu a[href="/"]:hover,
 body.colours-004.blog .navigation-menu a[href="/contact-me/"]:hover,
@@ -1778,7 +1778,7 @@ body.colours-004.notes .navigation-menu a[href="/about-me/"]:hover,
 body.colours-004.speaking .navigation-menu a[href="/book/"]:hover,
 body.colours-004.contact-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-004.home .navigation-menu a[href="/posts/"]:active,
-body.colours-004.colours-001 .navigation-menu a[href="/posts/"]:active,
+body.colours-004.kind-404 .navigation-menu a[href="/posts/"]:active,
 body.colours-004.about-me .navigation-menu a[href="/notes/"]:active,
 body.colours-004.blog .navigation-menu a[href="/"]:active,
 body.colours-004.blog .navigation-menu a[href="/contact-me/"]:active,
@@ -1789,7 +1789,7 @@ body.colours-004.contact-me .navigation-menu a[href="/posts/"]:active {
   position: relative;
 }
 body.colours-004.home .navigation-menu a[href="/posts/"]:hover:after,
-body.colours-004.colours-001 .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-004.kind-404 .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-004.about-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-004.blog .navigation-menu a[href="/"]:hover:after,
 body.colours-004.blog .navigation-menu a[href="/contact-me/"]:hover:after,
@@ -1798,7 +1798,7 @@ body.colours-004.notes .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-004.speaking .navigation-menu a[href="/book/"]:hover:after,
 body.colours-004.contact-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-004.home .navigation-menu a[href="/posts/"]:active:after,
-body.colours-004.colours-001 .navigation-menu a[href="/posts/"]:active:after,
+body.colours-004.kind-404 .navigation-menu a[href="/posts/"]:active:after,
 body.colours-004.about-me .navigation-menu a[href="/notes/"]:active:after,
 body.colours-004.blog .navigation-menu a[href="/"]:active:after,
 body.colours-004.blog .navigation-menu a[href="/contact-me/"]:active:after,
@@ -1817,7 +1817,7 @@ body.colours-004.contact-me .navigation-menu a[href="/posts/"]:active:after {
   width: auto;
 }
 body.colours-004.home .navigation-menu a[href="/notes/"],
-body.colours-004.colours-001 .navigation-menu a[href="/notes/"],
+body.colours-004.kind-404 .navigation-menu a[href="/notes/"],
 body.colours-004.about-me .navigation-menu a[href="/speaking/"],
 body.colours-004.book .navigation-menu a[href="/contact-me/"],
 body.colours-004.notes .navigation-menu a[href="/"],
@@ -1827,14 +1827,14 @@ body.colours-004.contact-me .navigation-menu a[href="/book/"] {
   color: #132426;
 }
 body.colours-004.home .navigation-menu a[href="/notes/"]:hover,
-body.colours-004.colours-001 .navigation-menu a[href="/notes/"]:hover,
+body.colours-004.kind-404 .navigation-menu a[href="/notes/"]:hover,
 body.colours-004.about-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-004.book .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-004.notes .navigation-menu a[href="/"]:hover,
 body.colours-004.speaking .navigation-menu a[href="/about-me/"]:hover,
 body.colours-004.contact-me .navigation-menu a[href="/book/"]:hover,
 body.colours-004.home .navigation-menu a[href="/notes/"]:active,
-body.colours-004.colours-001 .navigation-menu a[href="/notes/"]:active,
+body.colours-004.kind-404 .navigation-menu a[href="/notes/"]:active,
 body.colours-004.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-004.book .navigation-menu a[href="/contact-me/"]:active,
 body.colours-004.notes .navigation-menu a[href="/"]:active,
@@ -1843,14 +1843,14 @@ body.colours-004.contact-me .navigation-menu a[href="/book/"]:active {
   position: relative;
 }
 body.colours-004.home .navigation-menu a[href="/notes/"]:hover:after,
-body.colours-004.colours-001 .navigation-menu a[href="/notes/"]:hover:after,
+body.colours-004.kind-404 .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-004.about-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-004.book .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-004.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-004.speaking .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-004.contact-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-004.home .navigation-menu a[href="/notes/"]:active:after,
-body.colours-004.colours-001 .navigation-menu a[href="/notes/"]:active:after,
+body.colours-004.kind-404 .navigation-menu a[href="/notes/"]:active:after,
 body.colours-004.about-me .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-004.book .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-004.notes .navigation-menu a[href="/"]:active:after,
@@ -1867,7 +1867,7 @@ body.colours-004.contact-me .navigation-menu a[href="/book/"]:active:after {
   width: auto;
 }
 body.colours-004.home .navigation-menu a[href="/speaking/"],
-body.colours-004.colours-001 .navigation-menu a[href="/speaking/"],
+body.colours-004.kind-404 .navigation-menu a[href="/speaking/"],
 body.colours-004.about-me .navigation-menu a[href="/contact-me/"],
 body.colours-004.notes .navigation-menu a[href="/"],
 body.colours-004.speaking .navigation-menu a[href="/"],
@@ -1876,13 +1876,13 @@ body.colours-004.contact-me .navigation-menu a[href="/about-me/"] {
   color: #132426;
 }
 body.colours-004.home .navigation-menu a[href="/speaking/"]:hover,
-body.colours-004.colours-001 .navigation-menu a[href="/speaking/"]:hover,
+body.colours-004.kind-404 .navigation-menu a[href="/speaking/"]:hover,
 body.colours-004.about-me .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-004.notes .navigation-menu a[href="/"]:hover,
 body.colours-004.speaking .navigation-menu a[href="/"]:hover,
 body.colours-004.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-004.home .navigation-menu a[href="/speaking/"]:active,
-body.colours-004.colours-001 .navigation-menu a[href="/speaking/"]:active,
+body.colours-004.kind-404 .navigation-menu a[href="/speaking/"]:active,
 body.colours-004.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-004.notes .navigation-menu a[href="/"]:active,
 body.colours-004.speaking .navigation-menu a[href="/"]:active,
@@ -1890,13 +1890,13 @@ body.colours-004.contact-me .navigation-menu a[href="/about-me/"]:active {
   position: relative;
 }
 body.colours-004.home .navigation-menu a[href="/speaking/"]:hover:after,
-body.colours-004.colours-001 .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-004.kind-404 .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-004.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-004.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-004.speaking .navigation-menu a[href="/"]:hover:after,
 body.colours-004.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-004.home .navigation-menu a[href="/speaking/"]:active:after,
-body.colours-004.colours-001 .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-004.kind-404 .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-004.about-me .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-004.notes .navigation-menu a[href="/"]:active:after,
 body.colours-004.speaking .navigation-menu a[href="/"]:active:after,
@@ -1912,24 +1912,24 @@ body.colours-004.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   width: auto;
 }
 body.colours-004.home .navigation-menu a[href="/contact-me/"],
-body.colours-004.colours-001 .navigation-menu a[href="/contact-me/"],
+body.colours-004.kind-404 .navigation-menu a[href="/contact-me/"],
 body.colours-004.contact-me .navigation-menu a[href="/"] {
   background: rgba(0,160,43,0.8);
   color: #132426;
 }
 body.colours-004.home .navigation-menu a[href="/contact-me/"]:hover,
-body.colours-004.colours-001 .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-004.kind-404 .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-004.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-004.home .navigation-menu a[href="/contact-me/"]:active,
-body.colours-004.colours-001 .navigation-menu a[href="/contact-me/"]:active,
+body.colours-004.kind-404 .navigation-menu a[href="/contact-me/"]:active,
 body.colours-004.contact-me .navigation-menu a[href="/"]:active {
   position: relative;
 }
 body.colours-004.home .navigation-menu a[href="/contact-me/"]:hover:after,
-body.colours-004.colours-001 .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-004.kind-404 .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-004.contact-me .navigation-menu a[href="/"]:hover:after,
 body.colours-004.home .navigation-menu a[href="/contact-me/"]:active:after,
-body.colours-004.colours-001 .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-004.kind-404 .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-004.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
   border-bottom: 0.15em rgba(0,91,92,0.5) solid;
@@ -2038,11 +2038,11 @@ body.colours-005.blog .navigation-menu li a[href="/posts/"] {
 body.colours-005.notes .navigation-menu li a[href="/notes/"] {
   background: #ffe7f6;
 }
-body.colours-005.colours-001 .navigation-menu li a[href="/"] {
+body.colours-005.kind-404 .navigation-menu li a[href="/"] {
   background: #ffe7f6;
 }
 body.colours-005.home .navigation-menu a[href="/about-me/"],
-body.colours-005.colours-001 .navigation-menu a[href="/about-me/"],
+body.colours-005.kind-404 .navigation-menu a[href="/about-me/"],
 body.colours-005.about-me .navigation-menu a[href="/"],
 body.colours-005.about-me .navigation-menu a[href="/book/"],
 body.colours-005.book .navigation-menu a[href="/about-me/"],
@@ -2058,7 +2058,7 @@ body.colours-005.contact-me .navigation-menu a[href="/speaking/"] {
   color: #1e1909;
 }
 body.colours-005.home .navigation-menu a[href="/about-me/"]:hover,
-body.colours-005.colours-001 .navigation-menu a[href="/about-me/"]:hover,
+body.colours-005.kind-404 .navigation-menu a[href="/about-me/"]:hover,
 body.colours-005.about-me .navigation-menu a[href="/"]:hover,
 body.colours-005.about-me .navigation-menu a[href="/book/"]:hover,
 body.colours-005.book .navigation-menu a[href="/about-me/"]:hover,
@@ -2071,7 +2071,7 @@ body.colours-005.speaking .navigation-menu a[href="/notes/"]:hover,
 body.colours-005.speaking .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-005.contact-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-005.home .navigation-menu a[href="/about-me/"]:active,
-body.colours-005.colours-001 .navigation-menu a[href="/about-me/"]:active,
+body.colours-005.kind-404 .navigation-menu a[href="/about-me/"]:active,
 body.colours-005.about-me .navigation-menu a[href="/"]:active,
 body.colours-005.about-me .navigation-menu a[href="/book/"]:active,
 body.colours-005.book .navigation-menu a[href="/about-me/"]:active,
@@ -2086,7 +2086,7 @@ body.colours-005.contact-me .navigation-menu a[href="/speaking/"]:active {
   position: relative;
 }
 body.colours-005.home .navigation-menu a[href="/about-me/"]:hover:after,
-body.colours-005.colours-001 .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-005.kind-404 .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-005.about-me .navigation-menu a[href="/"]:hover:after,
 body.colours-005.about-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-005.book .navigation-menu a[href="/about-me/"]:hover:after,
@@ -2099,7 +2099,7 @@ body.colours-005.speaking .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-005.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-005.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-005.home .navigation-menu a[href="/about-me/"]:active:after,
-body.colours-005.colours-001 .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-005.kind-404 .navigation-menu a[href="/about-me/"]:active:after,
 body.colours-005.about-me .navigation-menu a[href="/"]:active:after,
 body.colours-005.about-me .navigation-menu a[href="/book/"]:active:after,
 body.colours-005.book .navigation-menu a[href="/about-me/"]:active:after,
@@ -2122,7 +2122,7 @@ body.colours-005.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   width: auto;
 }
 body.colours-005.home .navigation-menu a[href="/book/"],
-body.colours-005.colours-001 .navigation-menu a[href="/book/"],
+body.colours-005.kind-404 .navigation-menu a[href="/book/"],
 body.colours-005.about-me .navigation-menu a[href="/posts/"],
 body.colours-005.book .navigation-menu a[href="/"],
 body.colours-005.book .navigation-menu a[href="/notes/"],
@@ -2136,7 +2136,7 @@ body.colours-005.contact-me .navigation-menu a[href="/notes/"] {
   color: #1e1909;
 }
 body.colours-005.home .navigation-menu a[href="/book/"]:hover,
-body.colours-005.colours-001 .navigation-menu a[href="/book/"]:hover,
+body.colours-005.kind-404 .navigation-menu a[href="/book/"]:hover,
 body.colours-005.about-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-005.book .navigation-menu a[href="/"]:hover,
 body.colours-005.book .navigation-menu a[href="/notes/"]:hover,
@@ -2147,7 +2147,7 @@ body.colours-005.notes .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-005.speaking .navigation-menu a[href="/posts/"]:hover,
 body.colours-005.contact-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-005.home .navigation-menu a[href="/book/"]:active,
-body.colours-005.colours-001 .navigation-menu a[href="/book/"]:active,
+body.colours-005.kind-404 .navigation-menu a[href="/book/"]:active,
 body.colours-005.about-me .navigation-menu a[href="/posts/"]:active,
 body.colours-005.book .navigation-menu a[href="/"]:active,
 body.colours-005.book .navigation-menu a[href="/notes/"]:active,
@@ -2160,7 +2160,7 @@ body.colours-005.contact-me .navigation-menu a[href="/notes/"]:active {
   position: relative;
 }
 body.colours-005.home .navigation-menu a[href="/book/"]:hover:after,
-body.colours-005.colours-001 .navigation-menu a[href="/book/"]:hover:after,
+body.colours-005.kind-404 .navigation-menu a[href="/book/"]:hover:after,
 body.colours-005.about-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-005.book .navigation-menu a[href="/"]:hover:after,
 body.colours-005.book .navigation-menu a[href="/notes/"]:hover:after,
@@ -2171,7 +2171,7 @@ body.colours-005.notes .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-005.speaking .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-005.contact-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-005.home .navigation-menu a[href="/book/"]:active:after,
-body.colours-005.colours-001 .navigation-menu a[href="/book/"]:active:after,
+body.colours-005.kind-404 .navigation-menu a[href="/book/"]:active:after,
 body.colours-005.about-me .navigation-menu a[href="/posts/"]:active:after,
 body.colours-005.book .navigation-menu a[href="/"]:active:after,
 body.colours-005.book .navigation-menu a[href="/notes/"]:active:after,
@@ -2192,7 +2192,7 @@ body.colours-005.contact-me .navigation-menu a[href="/notes/"]:active:after {
   width: auto;
 }
 body.colours-005.home .navigation-menu a[href="/posts/"],
-body.colours-005.colours-001 .navigation-menu a[href="/posts/"],
+body.colours-005.kind-404 .navigation-menu a[href="/posts/"],
 body.colours-005.about-me .navigation-menu a[href="/notes/"],
 body.colours-005.blog .navigation-menu a[href="/"],
 body.colours-005.blog .navigation-menu a[href="/contact-me/"],
@@ -2204,7 +2204,7 @@ body.colours-005.contact-me .navigation-menu a[href="/posts/"] {
   color: #1e1909;
 }
 body.colours-005.home .navigation-menu a[href="/posts/"]:hover,
-body.colours-005.colours-001 .navigation-menu a[href="/posts/"]:hover,
+body.colours-005.kind-404 .navigation-menu a[href="/posts/"]:hover,
 body.colours-005.about-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-005.blog .navigation-menu a[href="/"]:hover,
 body.colours-005.blog .navigation-menu a[href="/contact-me/"]:hover,
@@ -2213,7 +2213,7 @@ body.colours-005.notes .navigation-menu a[href="/about-me/"]:hover,
 body.colours-005.speaking .navigation-menu a[href="/book/"]:hover,
 body.colours-005.contact-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-005.home .navigation-menu a[href="/posts/"]:active,
-body.colours-005.colours-001 .navigation-menu a[href="/posts/"]:active,
+body.colours-005.kind-404 .navigation-menu a[href="/posts/"]:active,
 body.colours-005.about-me .navigation-menu a[href="/notes/"]:active,
 body.colours-005.blog .navigation-menu a[href="/"]:active,
 body.colours-005.blog .navigation-menu a[href="/contact-me/"]:active,
@@ -2224,7 +2224,7 @@ body.colours-005.contact-me .navigation-menu a[href="/posts/"]:active {
   position: relative;
 }
 body.colours-005.home .navigation-menu a[href="/posts/"]:hover:after,
-body.colours-005.colours-001 .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-005.kind-404 .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-005.about-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-005.blog .navigation-menu a[href="/"]:hover:after,
 body.colours-005.blog .navigation-menu a[href="/contact-me/"]:hover:after,
@@ -2233,7 +2233,7 @@ body.colours-005.notes .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-005.speaking .navigation-menu a[href="/book/"]:hover:after,
 body.colours-005.contact-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-005.home .navigation-menu a[href="/posts/"]:active:after,
-body.colours-005.colours-001 .navigation-menu a[href="/posts/"]:active:after,
+body.colours-005.kind-404 .navigation-menu a[href="/posts/"]:active:after,
 body.colours-005.about-me .navigation-menu a[href="/notes/"]:active:after,
 body.colours-005.blog .navigation-menu a[href="/"]:active:after,
 body.colours-005.blog .navigation-menu a[href="/contact-me/"]:active:after,
@@ -2252,7 +2252,7 @@ body.colours-005.contact-me .navigation-menu a[href="/posts/"]:active:after {
   width: auto;
 }
 body.colours-005.home .navigation-menu a[href="/notes/"],
-body.colours-005.colours-001 .navigation-menu a[href="/notes/"],
+body.colours-005.kind-404 .navigation-menu a[href="/notes/"],
 body.colours-005.about-me .navigation-menu a[href="/speaking/"],
 body.colours-005.book .navigation-menu a[href="/contact-me/"],
 body.colours-005.notes .navigation-menu a[href="/"],
@@ -2262,14 +2262,14 @@ body.colours-005.contact-me .navigation-menu a[href="/book/"] {
   color: #1e1909;
 }
 body.colours-005.home .navigation-menu a[href="/notes/"]:hover,
-body.colours-005.colours-001 .navigation-menu a[href="/notes/"]:hover,
+body.colours-005.kind-404 .navigation-menu a[href="/notes/"]:hover,
 body.colours-005.about-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-005.book .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-005.notes .navigation-menu a[href="/"]:hover,
 body.colours-005.speaking .navigation-menu a[href="/about-me/"]:hover,
 body.colours-005.contact-me .navigation-menu a[href="/book/"]:hover,
 body.colours-005.home .navigation-menu a[href="/notes/"]:active,
-body.colours-005.colours-001 .navigation-menu a[href="/notes/"]:active,
+body.colours-005.kind-404 .navigation-menu a[href="/notes/"]:active,
 body.colours-005.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-005.book .navigation-menu a[href="/contact-me/"]:active,
 body.colours-005.notes .navigation-menu a[href="/"]:active,
@@ -2278,14 +2278,14 @@ body.colours-005.contact-me .navigation-menu a[href="/book/"]:active {
   position: relative;
 }
 body.colours-005.home .navigation-menu a[href="/notes/"]:hover:after,
-body.colours-005.colours-001 .navigation-menu a[href="/notes/"]:hover:after,
+body.colours-005.kind-404 .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-005.about-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-005.book .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-005.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-005.speaking .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-005.contact-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-005.home .navigation-menu a[href="/notes/"]:active:after,
-body.colours-005.colours-001 .navigation-menu a[href="/notes/"]:active:after,
+body.colours-005.kind-404 .navigation-menu a[href="/notes/"]:active:after,
 body.colours-005.about-me .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-005.book .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-005.notes .navigation-menu a[href="/"]:active:after,
@@ -2302,7 +2302,7 @@ body.colours-005.contact-me .navigation-menu a[href="/book/"]:active:after {
   width: auto;
 }
 body.colours-005.home .navigation-menu a[href="/speaking/"],
-body.colours-005.colours-001 .navigation-menu a[href="/speaking/"],
+body.colours-005.kind-404 .navigation-menu a[href="/speaking/"],
 body.colours-005.about-me .navigation-menu a[href="/contact-me/"],
 body.colours-005.notes .navigation-menu a[href="/"],
 body.colours-005.speaking .navigation-menu a[href="/"],
@@ -2311,13 +2311,13 @@ body.colours-005.contact-me .navigation-menu a[href="/about-me/"] {
   color: #1e1909;
 }
 body.colours-005.home .navigation-menu a[href="/speaking/"]:hover,
-body.colours-005.colours-001 .navigation-menu a[href="/speaking/"]:hover,
+body.colours-005.kind-404 .navigation-menu a[href="/speaking/"]:hover,
 body.colours-005.about-me .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-005.notes .navigation-menu a[href="/"]:hover,
 body.colours-005.speaking .navigation-menu a[href="/"]:hover,
 body.colours-005.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-005.home .navigation-menu a[href="/speaking/"]:active,
-body.colours-005.colours-001 .navigation-menu a[href="/speaking/"]:active,
+body.colours-005.kind-404 .navigation-menu a[href="/speaking/"]:active,
 body.colours-005.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-005.notes .navigation-menu a[href="/"]:active,
 body.colours-005.speaking .navigation-menu a[href="/"]:active,
@@ -2325,13 +2325,13 @@ body.colours-005.contact-me .navigation-menu a[href="/about-me/"]:active {
   position: relative;
 }
 body.colours-005.home .navigation-menu a[href="/speaking/"]:hover:after,
-body.colours-005.colours-001 .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-005.kind-404 .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-005.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-005.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-005.speaking .navigation-menu a[href="/"]:hover:after,
 body.colours-005.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-005.home .navigation-menu a[href="/speaking/"]:active:after,
-body.colours-005.colours-001 .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-005.kind-404 .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-005.about-me .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-005.notes .navigation-menu a[href="/"]:active:after,
 body.colours-005.speaking .navigation-menu a[href="/"]:active:after,
@@ -2347,24 +2347,24 @@ body.colours-005.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   width: auto;
 }
 body.colours-005.home .navigation-menu a[href="/contact-me/"],
-body.colours-005.colours-001 .navigation-menu a[href="/contact-me/"],
+body.colours-005.kind-404 .navigation-menu a[href="/contact-me/"],
 body.colours-005.contact-me .navigation-menu a[href="/"] {
   background: rgba(183,113,54,0.8);
   color: #1e1909;
 }
 body.colours-005.home .navigation-menu a[href="/contact-me/"]:hover,
-body.colours-005.colours-001 .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-005.kind-404 .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-005.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-005.home .navigation-menu a[href="/contact-me/"]:active,
-body.colours-005.colours-001 .navigation-menu a[href="/contact-me/"]:active,
+body.colours-005.kind-404 .navigation-menu a[href="/contact-me/"]:active,
 body.colours-005.contact-me .navigation-menu a[href="/"]:active {
   position: relative;
 }
 body.colours-005.home .navigation-menu a[href="/contact-me/"]:hover:after,
-body.colours-005.colours-001 .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-005.kind-404 .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-005.contact-me .navigation-menu a[href="/"]:hover:after,
 body.colours-005.home .navigation-menu a[href="/contact-me/"]:active:after,
-body.colours-005.colours-001 .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-005.kind-404 .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-005.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
   border-bottom: 0.15em rgba(108,69,22,0.5) solid;
@@ -2473,11 +2473,11 @@ body.colours-006.blog .navigation-menu li a[href="/posts/"] {
 body.colours-006.notes .navigation-menu li a[href="/notes/"] {
   background: #f3e8fe;
 }
-body.colours-006.colours-001 .navigation-menu li a[href="/"] {
+body.colours-006.kind-404 .navigation-menu li a[href="/"] {
   background: #f3e8fe;
 }
 body.colours-006.home .navigation-menu a[href="/about-me/"],
-body.colours-006.colours-001 .navigation-menu a[href="/about-me/"],
+body.colours-006.kind-404 .navigation-menu a[href="/about-me/"],
 body.colours-006.about-me .navigation-menu a[href="/"],
 body.colours-006.about-me .navigation-menu a[href="/book/"],
 body.colours-006.book .navigation-menu a[href="/about-me/"],
@@ -2493,7 +2493,7 @@ body.colours-006.contact-me .navigation-menu a[href="/speaking/"] {
   color: #340022;
 }
 body.colours-006.home .navigation-menu a[href="/about-me/"]:hover,
-body.colours-006.colours-001 .navigation-menu a[href="/about-me/"]:hover,
+body.colours-006.kind-404 .navigation-menu a[href="/about-me/"]:hover,
 body.colours-006.about-me .navigation-menu a[href="/"]:hover,
 body.colours-006.about-me .navigation-menu a[href="/book/"]:hover,
 body.colours-006.book .navigation-menu a[href="/about-me/"]:hover,
@@ -2506,7 +2506,7 @@ body.colours-006.speaking .navigation-menu a[href="/notes/"]:hover,
 body.colours-006.speaking .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-006.contact-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-006.home .navigation-menu a[href="/about-me/"]:active,
-body.colours-006.colours-001 .navigation-menu a[href="/about-me/"]:active,
+body.colours-006.kind-404 .navigation-menu a[href="/about-me/"]:active,
 body.colours-006.about-me .navigation-menu a[href="/"]:active,
 body.colours-006.about-me .navigation-menu a[href="/book/"]:active,
 body.colours-006.book .navigation-menu a[href="/about-me/"]:active,
@@ -2521,7 +2521,7 @@ body.colours-006.contact-me .navigation-menu a[href="/speaking/"]:active {
   position: relative;
 }
 body.colours-006.home .navigation-menu a[href="/about-me/"]:hover:after,
-body.colours-006.colours-001 .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-006.kind-404 .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-006.about-me .navigation-menu a[href="/"]:hover:after,
 body.colours-006.about-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-006.book .navigation-menu a[href="/about-me/"]:hover:after,
@@ -2534,7 +2534,7 @@ body.colours-006.speaking .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-006.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-006.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-006.home .navigation-menu a[href="/about-me/"]:active:after,
-body.colours-006.colours-001 .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-006.kind-404 .navigation-menu a[href="/about-me/"]:active:after,
 body.colours-006.about-me .navigation-menu a[href="/"]:active:after,
 body.colours-006.about-me .navigation-menu a[href="/book/"]:active:after,
 body.colours-006.book .navigation-menu a[href="/about-me/"]:active:after,
@@ -2557,7 +2557,7 @@ body.colours-006.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   width: auto;
 }
 body.colours-006.home .navigation-menu a[href="/book/"],
-body.colours-006.colours-001 .navigation-menu a[href="/book/"],
+body.colours-006.kind-404 .navigation-menu a[href="/book/"],
 body.colours-006.about-me .navigation-menu a[href="/posts/"],
 body.colours-006.book .navigation-menu a[href="/"],
 body.colours-006.book .navigation-menu a[href="/notes/"],
@@ -2571,7 +2571,7 @@ body.colours-006.contact-me .navigation-menu a[href="/notes/"] {
   color: #340022;
 }
 body.colours-006.home .navigation-menu a[href="/book/"]:hover,
-body.colours-006.colours-001 .navigation-menu a[href="/book/"]:hover,
+body.colours-006.kind-404 .navigation-menu a[href="/book/"]:hover,
 body.colours-006.about-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-006.book .navigation-menu a[href="/"]:hover,
 body.colours-006.book .navigation-menu a[href="/notes/"]:hover,
@@ -2582,7 +2582,7 @@ body.colours-006.notes .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-006.speaking .navigation-menu a[href="/posts/"]:hover,
 body.colours-006.contact-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-006.home .navigation-menu a[href="/book/"]:active,
-body.colours-006.colours-001 .navigation-menu a[href="/book/"]:active,
+body.colours-006.kind-404 .navigation-menu a[href="/book/"]:active,
 body.colours-006.about-me .navigation-menu a[href="/posts/"]:active,
 body.colours-006.book .navigation-menu a[href="/"]:active,
 body.colours-006.book .navigation-menu a[href="/notes/"]:active,
@@ -2595,7 +2595,7 @@ body.colours-006.contact-me .navigation-menu a[href="/notes/"]:active {
   position: relative;
 }
 body.colours-006.home .navigation-menu a[href="/book/"]:hover:after,
-body.colours-006.colours-001 .navigation-menu a[href="/book/"]:hover:after,
+body.colours-006.kind-404 .navigation-menu a[href="/book/"]:hover:after,
 body.colours-006.about-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-006.book .navigation-menu a[href="/"]:hover:after,
 body.colours-006.book .navigation-menu a[href="/notes/"]:hover:after,
@@ -2606,7 +2606,7 @@ body.colours-006.notes .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-006.speaking .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-006.contact-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-006.home .navigation-menu a[href="/book/"]:active:after,
-body.colours-006.colours-001 .navigation-menu a[href="/book/"]:active:after,
+body.colours-006.kind-404 .navigation-menu a[href="/book/"]:active:after,
 body.colours-006.about-me .navigation-menu a[href="/posts/"]:active:after,
 body.colours-006.book .navigation-menu a[href="/"]:active:after,
 body.colours-006.book .navigation-menu a[href="/notes/"]:active:after,
@@ -2627,7 +2627,7 @@ body.colours-006.contact-me .navigation-menu a[href="/notes/"]:active:after {
   width: auto;
 }
 body.colours-006.home .navigation-menu a[href="/posts/"],
-body.colours-006.colours-001 .navigation-menu a[href="/posts/"],
+body.colours-006.kind-404 .navigation-menu a[href="/posts/"],
 body.colours-006.about-me .navigation-menu a[href="/notes/"],
 body.colours-006.blog .navigation-menu a[href="/"],
 body.colours-006.blog .navigation-menu a[href="/contact-me/"],
@@ -2639,7 +2639,7 @@ body.colours-006.contact-me .navigation-menu a[href="/posts/"] {
   color: #340022;
 }
 body.colours-006.home .navigation-menu a[href="/posts/"]:hover,
-body.colours-006.colours-001 .navigation-menu a[href="/posts/"]:hover,
+body.colours-006.kind-404 .navigation-menu a[href="/posts/"]:hover,
 body.colours-006.about-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-006.blog .navigation-menu a[href="/"]:hover,
 body.colours-006.blog .navigation-menu a[href="/contact-me/"]:hover,
@@ -2648,7 +2648,7 @@ body.colours-006.notes .navigation-menu a[href="/about-me/"]:hover,
 body.colours-006.speaking .navigation-menu a[href="/book/"]:hover,
 body.colours-006.contact-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-006.home .navigation-menu a[href="/posts/"]:active,
-body.colours-006.colours-001 .navigation-menu a[href="/posts/"]:active,
+body.colours-006.kind-404 .navigation-menu a[href="/posts/"]:active,
 body.colours-006.about-me .navigation-menu a[href="/notes/"]:active,
 body.colours-006.blog .navigation-menu a[href="/"]:active,
 body.colours-006.blog .navigation-menu a[href="/contact-me/"]:active,
@@ -2659,7 +2659,7 @@ body.colours-006.contact-me .navigation-menu a[href="/posts/"]:active {
   position: relative;
 }
 body.colours-006.home .navigation-menu a[href="/posts/"]:hover:after,
-body.colours-006.colours-001 .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-006.kind-404 .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-006.about-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-006.blog .navigation-menu a[href="/"]:hover:after,
 body.colours-006.blog .navigation-menu a[href="/contact-me/"]:hover:after,
@@ -2668,7 +2668,7 @@ body.colours-006.notes .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-006.speaking .navigation-menu a[href="/book/"]:hover:after,
 body.colours-006.contact-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-006.home .navigation-menu a[href="/posts/"]:active:after,
-body.colours-006.colours-001 .navigation-menu a[href="/posts/"]:active:after,
+body.colours-006.kind-404 .navigation-menu a[href="/posts/"]:active:after,
 body.colours-006.about-me .navigation-menu a[href="/notes/"]:active:after,
 body.colours-006.blog .navigation-menu a[href="/"]:active:after,
 body.colours-006.blog .navigation-menu a[href="/contact-me/"]:active:after,
@@ -2687,7 +2687,7 @@ body.colours-006.contact-me .navigation-menu a[href="/posts/"]:active:after {
   width: auto;
 }
 body.colours-006.home .navigation-menu a[href="/notes/"],
-body.colours-006.colours-001 .navigation-menu a[href="/notes/"],
+body.colours-006.kind-404 .navigation-menu a[href="/notes/"],
 body.colours-006.about-me .navigation-menu a[href="/speaking/"],
 body.colours-006.book .navigation-menu a[href="/contact-me/"],
 body.colours-006.notes .navigation-menu a[href="/"],
@@ -2697,14 +2697,14 @@ body.colours-006.contact-me .navigation-menu a[href="/book/"] {
   color: #340022;
 }
 body.colours-006.home .navigation-menu a[href="/notes/"]:hover,
-body.colours-006.colours-001 .navigation-menu a[href="/notes/"]:hover,
+body.colours-006.kind-404 .navigation-menu a[href="/notes/"]:hover,
 body.colours-006.about-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-006.book .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-006.notes .navigation-menu a[href="/"]:hover,
 body.colours-006.speaking .navigation-menu a[href="/about-me/"]:hover,
 body.colours-006.contact-me .navigation-menu a[href="/book/"]:hover,
 body.colours-006.home .navigation-menu a[href="/notes/"]:active,
-body.colours-006.colours-001 .navigation-menu a[href="/notes/"]:active,
+body.colours-006.kind-404 .navigation-menu a[href="/notes/"]:active,
 body.colours-006.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-006.book .navigation-menu a[href="/contact-me/"]:active,
 body.colours-006.notes .navigation-menu a[href="/"]:active,
@@ -2713,14 +2713,14 @@ body.colours-006.contact-me .navigation-menu a[href="/book/"]:active {
   position: relative;
 }
 body.colours-006.home .navigation-menu a[href="/notes/"]:hover:after,
-body.colours-006.colours-001 .navigation-menu a[href="/notes/"]:hover:after,
+body.colours-006.kind-404 .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-006.about-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-006.book .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-006.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-006.speaking .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-006.contact-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-006.home .navigation-menu a[href="/notes/"]:active:after,
-body.colours-006.colours-001 .navigation-menu a[href="/notes/"]:active:after,
+body.colours-006.kind-404 .navigation-menu a[href="/notes/"]:active:after,
 body.colours-006.about-me .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-006.book .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-006.notes .navigation-menu a[href="/"]:active:after,
@@ -2737,7 +2737,7 @@ body.colours-006.contact-me .navigation-menu a[href="/book/"]:active:after {
   width: auto;
 }
 body.colours-006.home .navigation-menu a[href="/speaking/"],
-body.colours-006.colours-001 .navigation-menu a[href="/speaking/"],
+body.colours-006.kind-404 .navigation-menu a[href="/speaking/"],
 body.colours-006.about-me .navigation-menu a[href="/contact-me/"],
 body.colours-006.notes .navigation-menu a[href="/"],
 body.colours-006.speaking .navigation-menu a[href="/"],
@@ -2746,13 +2746,13 @@ body.colours-006.contact-me .navigation-menu a[href="/about-me/"] {
   color: #340022;
 }
 body.colours-006.home .navigation-menu a[href="/speaking/"]:hover,
-body.colours-006.colours-001 .navigation-menu a[href="/speaking/"]:hover,
+body.colours-006.kind-404 .navigation-menu a[href="/speaking/"]:hover,
 body.colours-006.about-me .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-006.notes .navigation-menu a[href="/"]:hover,
 body.colours-006.speaking .navigation-menu a[href="/"]:hover,
 body.colours-006.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-006.home .navigation-menu a[href="/speaking/"]:active,
-body.colours-006.colours-001 .navigation-menu a[href="/speaking/"]:active,
+body.colours-006.kind-404 .navigation-menu a[href="/speaking/"]:active,
 body.colours-006.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-006.notes .navigation-menu a[href="/"]:active,
 body.colours-006.speaking .navigation-menu a[href="/"]:active,
@@ -2760,13 +2760,13 @@ body.colours-006.contact-me .navigation-menu a[href="/about-me/"]:active {
   position: relative;
 }
 body.colours-006.home .navigation-menu a[href="/speaking/"]:hover:after,
-body.colours-006.colours-001 .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-006.kind-404 .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-006.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-006.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-006.speaking .navigation-menu a[href="/"]:hover:after,
 body.colours-006.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-006.home .navigation-menu a[href="/speaking/"]:active:after,
-body.colours-006.colours-001 .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-006.kind-404 .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-006.about-me .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-006.notes .navigation-menu a[href="/"]:active:after,
 body.colours-006.speaking .navigation-menu a[href="/"]:active:after,
@@ -2782,24 +2782,24 @@ body.colours-006.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   width: auto;
 }
 body.colours-006.home .navigation-menu a[href="/contact-me/"],
-body.colours-006.colours-001 .navigation-menu a[href="/contact-me/"],
+body.colours-006.kind-404 .navigation-menu a[href="/contact-me/"],
 body.colours-006.contact-me .navigation-menu a[href="/"] {
   background: rgba(255,0,62,0.8);
   color: #340022;
 }
 body.colours-006.home .navigation-menu a[href="/contact-me/"]:hover,
-body.colours-006.colours-001 .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-006.kind-404 .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-006.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-006.home .navigation-menu a[href="/contact-me/"]:active,
-body.colours-006.colours-001 .navigation-menu a[href="/contact-me/"]:active,
+body.colours-006.kind-404 .navigation-menu a[href="/contact-me/"]:active,
 body.colours-006.contact-me .navigation-menu a[href="/"]:active {
   position: relative;
 }
 body.colours-006.home .navigation-menu a[href="/contact-me/"]:hover:after,
-body.colours-006.colours-001 .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-006.kind-404 .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-006.contact-me .navigation-menu a[href="/"]:hover:after,
 body.colours-006.home .navigation-menu a[href="/contact-me/"]:active:after,
-body.colours-006.colours-001 .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-006.kind-404 .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-006.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
   border-bottom: 0.15em rgba(152,2,46,0.5) solid;
@@ -2908,11 +2908,11 @@ body.colours-007.blog .navigation-menu li a[href="/posts/"] {
 body.colours-007.notes .navigation-menu li a[href="/notes/"] {
   background: #fdfca7;
 }
-body.colours-007.colours-001 .navigation-menu li a[href="/"] {
+body.colours-007.kind-404 .navigation-menu li a[href="/"] {
   background: #fdfca7;
 }
 body.colours-007.home .navigation-menu a[href="/about-me/"],
-body.colours-007.colours-001 .navigation-menu a[href="/about-me/"],
+body.colours-007.kind-404 .navigation-menu a[href="/about-me/"],
 body.colours-007.about-me .navigation-menu a[href="/"],
 body.colours-007.about-me .navigation-menu a[href="/book/"],
 body.colours-007.book .navigation-menu a[href="/about-me/"],
@@ -2928,7 +2928,7 @@ body.colours-007.contact-me .navigation-menu a[href="/speaking/"] {
   color: #000;
 }
 body.colours-007.home .navigation-menu a[href="/about-me/"]:hover,
-body.colours-007.colours-001 .navigation-menu a[href="/about-me/"]:hover,
+body.colours-007.kind-404 .navigation-menu a[href="/about-me/"]:hover,
 body.colours-007.about-me .navigation-menu a[href="/"]:hover,
 body.colours-007.about-me .navigation-menu a[href="/book/"]:hover,
 body.colours-007.book .navigation-menu a[href="/about-me/"]:hover,
@@ -2941,7 +2941,7 @@ body.colours-007.speaking .navigation-menu a[href="/notes/"]:hover,
 body.colours-007.speaking .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-007.contact-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-007.home .navigation-menu a[href="/about-me/"]:active,
-body.colours-007.colours-001 .navigation-menu a[href="/about-me/"]:active,
+body.colours-007.kind-404 .navigation-menu a[href="/about-me/"]:active,
 body.colours-007.about-me .navigation-menu a[href="/"]:active,
 body.colours-007.about-me .navigation-menu a[href="/book/"]:active,
 body.colours-007.book .navigation-menu a[href="/about-me/"]:active,
@@ -2956,7 +2956,7 @@ body.colours-007.contact-me .navigation-menu a[href="/speaking/"]:active {
   position: relative;
 }
 body.colours-007.home .navigation-menu a[href="/about-me/"]:hover:after,
-body.colours-007.colours-001 .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-007.kind-404 .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-007.about-me .navigation-menu a[href="/"]:hover:after,
 body.colours-007.about-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-007.book .navigation-menu a[href="/about-me/"]:hover:after,
@@ -2969,7 +2969,7 @@ body.colours-007.speaking .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-007.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-007.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-007.home .navigation-menu a[href="/about-me/"]:active:after,
-body.colours-007.colours-001 .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-007.kind-404 .navigation-menu a[href="/about-me/"]:active:after,
 body.colours-007.about-me .navigation-menu a[href="/"]:active:after,
 body.colours-007.about-me .navigation-menu a[href="/book/"]:active:after,
 body.colours-007.book .navigation-menu a[href="/about-me/"]:active:after,
@@ -2992,7 +2992,7 @@ body.colours-007.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   width: auto;
 }
 body.colours-007.home .navigation-menu a[href="/book/"],
-body.colours-007.colours-001 .navigation-menu a[href="/book/"],
+body.colours-007.kind-404 .navigation-menu a[href="/book/"],
 body.colours-007.about-me .navigation-menu a[href="/posts/"],
 body.colours-007.book .navigation-menu a[href="/"],
 body.colours-007.book .navigation-menu a[href="/notes/"],
@@ -3006,7 +3006,7 @@ body.colours-007.contact-me .navigation-menu a[href="/notes/"] {
   color: #000;
 }
 body.colours-007.home .navigation-menu a[href="/book/"]:hover,
-body.colours-007.colours-001 .navigation-menu a[href="/book/"]:hover,
+body.colours-007.kind-404 .navigation-menu a[href="/book/"]:hover,
 body.colours-007.about-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-007.book .navigation-menu a[href="/"]:hover,
 body.colours-007.book .navigation-menu a[href="/notes/"]:hover,
@@ -3017,7 +3017,7 @@ body.colours-007.notes .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-007.speaking .navigation-menu a[href="/posts/"]:hover,
 body.colours-007.contact-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-007.home .navigation-menu a[href="/book/"]:active,
-body.colours-007.colours-001 .navigation-menu a[href="/book/"]:active,
+body.colours-007.kind-404 .navigation-menu a[href="/book/"]:active,
 body.colours-007.about-me .navigation-menu a[href="/posts/"]:active,
 body.colours-007.book .navigation-menu a[href="/"]:active,
 body.colours-007.book .navigation-menu a[href="/notes/"]:active,
@@ -3030,7 +3030,7 @@ body.colours-007.contact-me .navigation-menu a[href="/notes/"]:active {
   position: relative;
 }
 body.colours-007.home .navigation-menu a[href="/book/"]:hover:after,
-body.colours-007.colours-001 .navigation-menu a[href="/book/"]:hover:after,
+body.colours-007.kind-404 .navigation-menu a[href="/book/"]:hover:after,
 body.colours-007.about-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-007.book .navigation-menu a[href="/"]:hover:after,
 body.colours-007.book .navigation-menu a[href="/notes/"]:hover:after,
@@ -3041,7 +3041,7 @@ body.colours-007.notes .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-007.speaking .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-007.contact-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-007.home .navigation-menu a[href="/book/"]:active:after,
-body.colours-007.colours-001 .navigation-menu a[href="/book/"]:active:after,
+body.colours-007.kind-404 .navigation-menu a[href="/book/"]:active:after,
 body.colours-007.about-me .navigation-menu a[href="/posts/"]:active:after,
 body.colours-007.book .navigation-menu a[href="/"]:active:after,
 body.colours-007.book .navigation-menu a[href="/notes/"]:active:after,
@@ -3062,7 +3062,7 @@ body.colours-007.contact-me .navigation-menu a[href="/notes/"]:active:after {
   width: auto;
 }
 body.colours-007.home .navigation-menu a[href="/posts/"],
-body.colours-007.colours-001 .navigation-menu a[href="/posts/"],
+body.colours-007.kind-404 .navigation-menu a[href="/posts/"],
 body.colours-007.about-me .navigation-menu a[href="/notes/"],
 body.colours-007.blog .navigation-menu a[href="/"],
 body.colours-007.blog .navigation-menu a[href="/contact-me/"],
@@ -3074,7 +3074,7 @@ body.colours-007.contact-me .navigation-menu a[href="/posts/"] {
   color: #000;
 }
 body.colours-007.home .navigation-menu a[href="/posts/"]:hover,
-body.colours-007.colours-001 .navigation-menu a[href="/posts/"]:hover,
+body.colours-007.kind-404 .navigation-menu a[href="/posts/"]:hover,
 body.colours-007.about-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-007.blog .navigation-menu a[href="/"]:hover,
 body.colours-007.blog .navigation-menu a[href="/contact-me/"]:hover,
@@ -3083,7 +3083,7 @@ body.colours-007.notes .navigation-menu a[href="/about-me/"]:hover,
 body.colours-007.speaking .navigation-menu a[href="/book/"]:hover,
 body.colours-007.contact-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-007.home .navigation-menu a[href="/posts/"]:active,
-body.colours-007.colours-001 .navigation-menu a[href="/posts/"]:active,
+body.colours-007.kind-404 .navigation-menu a[href="/posts/"]:active,
 body.colours-007.about-me .navigation-menu a[href="/notes/"]:active,
 body.colours-007.blog .navigation-menu a[href="/"]:active,
 body.colours-007.blog .navigation-menu a[href="/contact-me/"]:active,
@@ -3094,7 +3094,7 @@ body.colours-007.contact-me .navigation-menu a[href="/posts/"]:active {
   position: relative;
 }
 body.colours-007.home .navigation-menu a[href="/posts/"]:hover:after,
-body.colours-007.colours-001 .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-007.kind-404 .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-007.about-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-007.blog .navigation-menu a[href="/"]:hover:after,
 body.colours-007.blog .navigation-menu a[href="/contact-me/"]:hover:after,
@@ -3103,7 +3103,7 @@ body.colours-007.notes .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-007.speaking .navigation-menu a[href="/book/"]:hover:after,
 body.colours-007.contact-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-007.home .navigation-menu a[href="/posts/"]:active:after,
-body.colours-007.colours-001 .navigation-menu a[href="/posts/"]:active:after,
+body.colours-007.kind-404 .navigation-menu a[href="/posts/"]:active:after,
 body.colours-007.about-me .navigation-menu a[href="/notes/"]:active:after,
 body.colours-007.blog .navigation-menu a[href="/"]:active:after,
 body.colours-007.blog .navigation-menu a[href="/contact-me/"]:active:after,
@@ -3122,7 +3122,7 @@ body.colours-007.contact-me .navigation-menu a[href="/posts/"]:active:after {
   width: auto;
 }
 body.colours-007.home .navigation-menu a[href="/notes/"],
-body.colours-007.colours-001 .navigation-menu a[href="/notes/"],
+body.colours-007.kind-404 .navigation-menu a[href="/notes/"],
 body.colours-007.about-me .navigation-menu a[href="/speaking/"],
 body.colours-007.book .navigation-menu a[href="/contact-me/"],
 body.colours-007.notes .navigation-menu a[href="/"],
@@ -3132,14 +3132,14 @@ body.colours-007.contact-me .navigation-menu a[href="/book/"] {
   color: #000;
 }
 body.colours-007.home .navigation-menu a[href="/notes/"]:hover,
-body.colours-007.colours-001 .navigation-menu a[href="/notes/"]:hover,
+body.colours-007.kind-404 .navigation-menu a[href="/notes/"]:hover,
 body.colours-007.about-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-007.book .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-007.notes .navigation-menu a[href="/"]:hover,
 body.colours-007.speaking .navigation-menu a[href="/about-me/"]:hover,
 body.colours-007.contact-me .navigation-menu a[href="/book/"]:hover,
 body.colours-007.home .navigation-menu a[href="/notes/"]:active,
-body.colours-007.colours-001 .navigation-menu a[href="/notes/"]:active,
+body.colours-007.kind-404 .navigation-menu a[href="/notes/"]:active,
 body.colours-007.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-007.book .navigation-menu a[href="/contact-me/"]:active,
 body.colours-007.notes .navigation-menu a[href="/"]:active,
@@ -3148,14 +3148,14 @@ body.colours-007.contact-me .navigation-menu a[href="/book/"]:active {
   position: relative;
 }
 body.colours-007.home .navigation-menu a[href="/notes/"]:hover:after,
-body.colours-007.colours-001 .navigation-menu a[href="/notes/"]:hover:after,
+body.colours-007.kind-404 .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-007.about-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-007.book .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-007.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-007.speaking .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-007.contact-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-007.home .navigation-menu a[href="/notes/"]:active:after,
-body.colours-007.colours-001 .navigation-menu a[href="/notes/"]:active:after,
+body.colours-007.kind-404 .navigation-menu a[href="/notes/"]:active:after,
 body.colours-007.about-me .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-007.book .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-007.notes .navigation-menu a[href="/"]:active:after,
@@ -3172,7 +3172,7 @@ body.colours-007.contact-me .navigation-menu a[href="/book/"]:active:after {
   width: auto;
 }
 body.colours-007.home .navigation-menu a[href="/speaking/"],
-body.colours-007.colours-001 .navigation-menu a[href="/speaking/"],
+body.colours-007.kind-404 .navigation-menu a[href="/speaking/"],
 body.colours-007.about-me .navigation-menu a[href="/contact-me/"],
 body.colours-007.notes .navigation-menu a[href="/"],
 body.colours-007.speaking .navigation-menu a[href="/"],
@@ -3181,13 +3181,13 @@ body.colours-007.contact-me .navigation-menu a[href="/about-me/"] {
   color: #000;
 }
 body.colours-007.home .navigation-menu a[href="/speaking/"]:hover,
-body.colours-007.colours-001 .navigation-menu a[href="/speaking/"]:hover,
+body.colours-007.kind-404 .navigation-menu a[href="/speaking/"]:hover,
 body.colours-007.about-me .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-007.notes .navigation-menu a[href="/"]:hover,
 body.colours-007.speaking .navigation-menu a[href="/"]:hover,
 body.colours-007.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-007.home .navigation-menu a[href="/speaking/"]:active,
-body.colours-007.colours-001 .navigation-menu a[href="/speaking/"]:active,
+body.colours-007.kind-404 .navigation-menu a[href="/speaking/"]:active,
 body.colours-007.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-007.notes .navigation-menu a[href="/"]:active,
 body.colours-007.speaking .navigation-menu a[href="/"]:active,
@@ -3195,13 +3195,13 @@ body.colours-007.contact-me .navigation-menu a[href="/about-me/"]:active {
   position: relative;
 }
 body.colours-007.home .navigation-menu a[href="/speaking/"]:hover:after,
-body.colours-007.colours-001 .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-007.kind-404 .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-007.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-007.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-007.speaking .navigation-menu a[href="/"]:hover:after,
 body.colours-007.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-007.home .navigation-menu a[href="/speaking/"]:active:after,
-body.colours-007.colours-001 .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-007.kind-404 .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-007.about-me .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-007.notes .navigation-menu a[href="/"]:active:after,
 body.colours-007.speaking .navigation-menu a[href="/"]:active:after,
@@ -3217,24 +3217,24 @@ body.colours-007.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   width: auto;
 }
 body.colours-007.home .navigation-menu a[href="/contact-me/"],
-body.colours-007.colours-001 .navigation-menu a[href="/contact-me/"],
+body.colours-007.kind-404 .navigation-menu a[href="/contact-me/"],
 body.colours-007.contact-me .navigation-menu a[href="/"] {
   background: rgba(0,117,224,0.8);
   color: #000;
 }
 body.colours-007.home .navigation-menu a[href="/contact-me/"]:hover,
-body.colours-007.colours-001 .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-007.kind-404 .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-007.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-007.home .navigation-menu a[href="/contact-me/"]:active,
-body.colours-007.colours-001 .navigation-menu a[href="/contact-me/"]:active,
+body.colours-007.kind-404 .navigation-menu a[href="/contact-me/"]:active,
 body.colours-007.contact-me .navigation-menu a[href="/"]:active {
   position: relative;
 }
 body.colours-007.home .navigation-menu a[href="/contact-me/"]:hover:after,
-body.colours-007.colours-001 .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-007.kind-404 .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-007.contact-me .navigation-menu a[href="/"]:hover:after,
 body.colours-007.home .navigation-menu a[href="/contact-me/"]:active:after,
-body.colours-007.colours-001 .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-007.kind-404 .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-007.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
   border-bottom: 0.15em rgba(32,61,95,0.5) solid;
@@ -3343,11 +3343,11 @@ body.colours-008.blog .navigation-menu li a[href="/posts/"] {
 body.colours-008.notes .navigation-menu li a[href="/notes/"] {
   background: #ffd8d5;
 }
-body.colours-008.colours-001 .navigation-menu li a[href="/"] {
+body.colours-008.kind-404 .navigation-menu li a[href="/"] {
   background: #ffd8d5;
 }
 body.colours-008.home .navigation-menu a[href="/about-me/"],
-body.colours-008.colours-001 .navigation-menu a[href="/about-me/"],
+body.colours-008.kind-404 .navigation-menu a[href="/about-me/"],
 body.colours-008.about-me .navigation-menu a[href="/"],
 body.colours-008.about-me .navigation-menu a[href="/book/"],
 body.colours-008.book .navigation-menu a[href="/about-me/"],
@@ -3363,7 +3363,7 @@ body.colours-008.contact-me .navigation-menu a[href="/speaking/"] {
   color: #07323f;
 }
 body.colours-008.home .navigation-menu a[href="/about-me/"]:hover,
-body.colours-008.colours-001 .navigation-menu a[href="/about-me/"]:hover,
+body.colours-008.kind-404 .navigation-menu a[href="/about-me/"]:hover,
 body.colours-008.about-me .navigation-menu a[href="/"]:hover,
 body.colours-008.about-me .navigation-menu a[href="/book/"]:hover,
 body.colours-008.book .navigation-menu a[href="/about-me/"]:hover,
@@ -3376,7 +3376,7 @@ body.colours-008.speaking .navigation-menu a[href="/notes/"]:hover,
 body.colours-008.speaking .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-008.contact-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-008.home .navigation-menu a[href="/about-me/"]:active,
-body.colours-008.colours-001 .navigation-menu a[href="/about-me/"]:active,
+body.colours-008.kind-404 .navigation-menu a[href="/about-me/"]:active,
 body.colours-008.about-me .navigation-menu a[href="/"]:active,
 body.colours-008.about-me .navigation-menu a[href="/book/"]:active,
 body.colours-008.book .navigation-menu a[href="/about-me/"]:active,
@@ -3391,7 +3391,7 @@ body.colours-008.contact-me .navigation-menu a[href="/speaking/"]:active {
   position: relative;
 }
 body.colours-008.home .navigation-menu a[href="/about-me/"]:hover:after,
-body.colours-008.colours-001 .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-008.kind-404 .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-008.about-me .navigation-menu a[href="/"]:hover:after,
 body.colours-008.about-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-008.book .navigation-menu a[href="/about-me/"]:hover:after,
@@ -3404,7 +3404,7 @@ body.colours-008.speaking .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-008.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-008.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-008.home .navigation-menu a[href="/about-me/"]:active:after,
-body.colours-008.colours-001 .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-008.kind-404 .navigation-menu a[href="/about-me/"]:active:after,
 body.colours-008.about-me .navigation-menu a[href="/"]:active:after,
 body.colours-008.about-me .navigation-menu a[href="/book/"]:active:after,
 body.colours-008.book .navigation-menu a[href="/about-me/"]:active:after,
@@ -3427,7 +3427,7 @@ body.colours-008.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   width: auto;
 }
 body.colours-008.home .navigation-menu a[href="/book/"],
-body.colours-008.colours-001 .navigation-menu a[href="/book/"],
+body.colours-008.kind-404 .navigation-menu a[href="/book/"],
 body.colours-008.about-me .navigation-menu a[href="/posts/"],
 body.colours-008.book .navigation-menu a[href="/"],
 body.colours-008.book .navigation-menu a[href="/notes/"],
@@ -3441,7 +3441,7 @@ body.colours-008.contact-me .navigation-menu a[href="/notes/"] {
   color: #07323f;
 }
 body.colours-008.home .navigation-menu a[href="/book/"]:hover,
-body.colours-008.colours-001 .navigation-menu a[href="/book/"]:hover,
+body.colours-008.kind-404 .navigation-menu a[href="/book/"]:hover,
 body.colours-008.about-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-008.book .navigation-menu a[href="/"]:hover,
 body.colours-008.book .navigation-menu a[href="/notes/"]:hover,
@@ -3452,7 +3452,7 @@ body.colours-008.notes .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-008.speaking .navigation-menu a[href="/posts/"]:hover,
 body.colours-008.contact-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-008.home .navigation-menu a[href="/book/"]:active,
-body.colours-008.colours-001 .navigation-menu a[href="/book/"]:active,
+body.colours-008.kind-404 .navigation-menu a[href="/book/"]:active,
 body.colours-008.about-me .navigation-menu a[href="/posts/"]:active,
 body.colours-008.book .navigation-menu a[href="/"]:active,
 body.colours-008.book .navigation-menu a[href="/notes/"]:active,
@@ -3465,7 +3465,7 @@ body.colours-008.contact-me .navigation-menu a[href="/notes/"]:active {
   position: relative;
 }
 body.colours-008.home .navigation-menu a[href="/book/"]:hover:after,
-body.colours-008.colours-001 .navigation-menu a[href="/book/"]:hover:after,
+body.colours-008.kind-404 .navigation-menu a[href="/book/"]:hover:after,
 body.colours-008.about-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-008.book .navigation-menu a[href="/"]:hover:after,
 body.colours-008.book .navigation-menu a[href="/notes/"]:hover:after,
@@ -3476,7 +3476,7 @@ body.colours-008.notes .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-008.speaking .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-008.contact-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-008.home .navigation-menu a[href="/book/"]:active:after,
-body.colours-008.colours-001 .navigation-menu a[href="/book/"]:active:after,
+body.colours-008.kind-404 .navigation-menu a[href="/book/"]:active:after,
 body.colours-008.about-me .navigation-menu a[href="/posts/"]:active:after,
 body.colours-008.book .navigation-menu a[href="/"]:active:after,
 body.colours-008.book .navigation-menu a[href="/notes/"]:active:after,
@@ -3497,7 +3497,7 @@ body.colours-008.contact-me .navigation-menu a[href="/notes/"]:active:after {
   width: auto;
 }
 body.colours-008.home .navigation-menu a[href="/posts/"],
-body.colours-008.colours-001 .navigation-menu a[href="/posts/"],
+body.colours-008.kind-404 .navigation-menu a[href="/posts/"],
 body.colours-008.about-me .navigation-menu a[href="/notes/"],
 body.colours-008.blog .navigation-menu a[href="/"],
 body.colours-008.blog .navigation-menu a[href="/contact-me/"],
@@ -3509,7 +3509,7 @@ body.colours-008.contact-me .navigation-menu a[href="/posts/"] {
   color: #07323f;
 }
 body.colours-008.home .navigation-menu a[href="/posts/"]:hover,
-body.colours-008.colours-001 .navigation-menu a[href="/posts/"]:hover,
+body.colours-008.kind-404 .navigation-menu a[href="/posts/"]:hover,
 body.colours-008.about-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-008.blog .navigation-menu a[href="/"]:hover,
 body.colours-008.blog .navigation-menu a[href="/contact-me/"]:hover,
@@ -3518,7 +3518,7 @@ body.colours-008.notes .navigation-menu a[href="/about-me/"]:hover,
 body.colours-008.speaking .navigation-menu a[href="/book/"]:hover,
 body.colours-008.contact-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-008.home .navigation-menu a[href="/posts/"]:active,
-body.colours-008.colours-001 .navigation-menu a[href="/posts/"]:active,
+body.colours-008.kind-404 .navigation-menu a[href="/posts/"]:active,
 body.colours-008.about-me .navigation-menu a[href="/notes/"]:active,
 body.colours-008.blog .navigation-menu a[href="/"]:active,
 body.colours-008.blog .navigation-menu a[href="/contact-me/"]:active,
@@ -3529,7 +3529,7 @@ body.colours-008.contact-me .navigation-menu a[href="/posts/"]:active {
   position: relative;
 }
 body.colours-008.home .navigation-menu a[href="/posts/"]:hover:after,
-body.colours-008.colours-001 .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-008.kind-404 .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-008.about-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-008.blog .navigation-menu a[href="/"]:hover:after,
 body.colours-008.blog .navigation-menu a[href="/contact-me/"]:hover:after,
@@ -3538,7 +3538,7 @@ body.colours-008.notes .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-008.speaking .navigation-menu a[href="/book/"]:hover:after,
 body.colours-008.contact-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-008.home .navigation-menu a[href="/posts/"]:active:after,
-body.colours-008.colours-001 .navigation-menu a[href="/posts/"]:active:after,
+body.colours-008.kind-404 .navigation-menu a[href="/posts/"]:active:after,
 body.colours-008.about-me .navigation-menu a[href="/notes/"]:active:after,
 body.colours-008.blog .navigation-menu a[href="/"]:active:after,
 body.colours-008.blog .navigation-menu a[href="/contact-me/"]:active:after,
@@ -3557,7 +3557,7 @@ body.colours-008.contact-me .navigation-menu a[href="/posts/"]:active:after {
   width: auto;
 }
 body.colours-008.home .navigation-menu a[href="/notes/"],
-body.colours-008.colours-001 .navigation-menu a[href="/notes/"],
+body.colours-008.kind-404 .navigation-menu a[href="/notes/"],
 body.colours-008.about-me .navigation-menu a[href="/speaking/"],
 body.colours-008.book .navigation-menu a[href="/contact-me/"],
 body.colours-008.notes .navigation-menu a[href="/"],
@@ -3567,14 +3567,14 @@ body.colours-008.contact-me .navigation-menu a[href="/book/"] {
   color: #07323f;
 }
 body.colours-008.home .navigation-menu a[href="/notes/"]:hover,
-body.colours-008.colours-001 .navigation-menu a[href="/notes/"]:hover,
+body.colours-008.kind-404 .navigation-menu a[href="/notes/"]:hover,
 body.colours-008.about-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-008.book .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-008.notes .navigation-menu a[href="/"]:hover,
 body.colours-008.speaking .navigation-menu a[href="/about-me/"]:hover,
 body.colours-008.contact-me .navigation-menu a[href="/book/"]:hover,
 body.colours-008.home .navigation-menu a[href="/notes/"]:active,
-body.colours-008.colours-001 .navigation-menu a[href="/notes/"]:active,
+body.colours-008.kind-404 .navigation-menu a[href="/notes/"]:active,
 body.colours-008.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-008.book .navigation-menu a[href="/contact-me/"]:active,
 body.colours-008.notes .navigation-menu a[href="/"]:active,
@@ -3583,14 +3583,14 @@ body.colours-008.contact-me .navigation-menu a[href="/book/"]:active {
   position: relative;
 }
 body.colours-008.home .navigation-menu a[href="/notes/"]:hover:after,
-body.colours-008.colours-001 .navigation-menu a[href="/notes/"]:hover:after,
+body.colours-008.kind-404 .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-008.about-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-008.book .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-008.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-008.speaking .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-008.contact-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-008.home .navigation-menu a[href="/notes/"]:active:after,
-body.colours-008.colours-001 .navigation-menu a[href="/notes/"]:active:after,
+body.colours-008.kind-404 .navigation-menu a[href="/notes/"]:active:after,
 body.colours-008.about-me .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-008.book .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-008.notes .navigation-menu a[href="/"]:active:after,
@@ -3607,7 +3607,7 @@ body.colours-008.contact-me .navigation-menu a[href="/book/"]:active:after {
   width: auto;
 }
 body.colours-008.home .navigation-menu a[href="/speaking/"],
-body.colours-008.colours-001 .navigation-menu a[href="/speaking/"],
+body.colours-008.kind-404 .navigation-menu a[href="/speaking/"],
 body.colours-008.about-me .navigation-menu a[href="/contact-me/"],
 body.colours-008.notes .navigation-menu a[href="/"],
 body.colours-008.speaking .navigation-menu a[href="/"],
@@ -3616,13 +3616,13 @@ body.colours-008.contact-me .navigation-menu a[href="/about-me/"] {
   color: #07323f;
 }
 body.colours-008.home .navigation-menu a[href="/speaking/"]:hover,
-body.colours-008.colours-001 .navigation-menu a[href="/speaking/"]:hover,
+body.colours-008.kind-404 .navigation-menu a[href="/speaking/"]:hover,
 body.colours-008.about-me .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-008.notes .navigation-menu a[href="/"]:hover,
 body.colours-008.speaking .navigation-menu a[href="/"]:hover,
 body.colours-008.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-008.home .navigation-menu a[href="/speaking/"]:active,
-body.colours-008.colours-001 .navigation-menu a[href="/speaking/"]:active,
+body.colours-008.kind-404 .navigation-menu a[href="/speaking/"]:active,
 body.colours-008.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-008.notes .navigation-menu a[href="/"]:active,
 body.colours-008.speaking .navigation-menu a[href="/"]:active,
@@ -3630,13 +3630,13 @@ body.colours-008.contact-me .navigation-menu a[href="/about-me/"]:active {
   position: relative;
 }
 body.colours-008.home .navigation-menu a[href="/speaking/"]:hover:after,
-body.colours-008.colours-001 .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-008.kind-404 .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-008.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-008.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-008.speaking .navigation-menu a[href="/"]:hover:after,
 body.colours-008.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-008.home .navigation-menu a[href="/speaking/"]:active:after,
-body.colours-008.colours-001 .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-008.kind-404 .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-008.about-me .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-008.notes .navigation-menu a[href="/"]:active:after,
 body.colours-008.speaking .navigation-menu a[href="/"]:active:after,
@@ -3652,24 +3652,24 @@ body.colours-008.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   width: auto;
 }
 body.colours-008.home .navigation-menu a[href="/contact-me/"],
-body.colours-008.colours-001 .navigation-menu a[href="/contact-me/"],
+body.colours-008.kind-404 .navigation-menu a[href="/contact-me/"],
 body.colours-008.contact-me .navigation-menu a[href="/"] {
   background: rgba(0,158,216,0.8);
   color: #07323f;
 }
 body.colours-008.home .navigation-menu a[href="/contact-me/"]:hover,
-body.colours-008.colours-001 .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-008.kind-404 .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-008.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-008.home .navigation-menu a[href="/contact-me/"]:active,
-body.colours-008.colours-001 .navigation-menu a[href="/contact-me/"]:active,
+body.colours-008.kind-404 .navigation-menu a[href="/contact-me/"]:active,
 body.colours-008.contact-me .navigation-menu a[href="/"]:active {
   position: relative;
 }
 body.colours-008.home .navigation-menu a[href="/contact-me/"]:hover:after,
-body.colours-008.colours-001 .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-008.kind-404 .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-008.contact-me .navigation-menu a[href="/"]:hover:after,
 body.colours-008.home .navigation-menu a[href="/contact-me/"]:active:after,
-body.colours-008.colours-001 .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-008.kind-404 .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-008.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
   border-bottom: 0.15em rgba(0,77,103,0.5) solid;
@@ -3778,11 +3778,11 @@ body.colours-009.blog .navigation-menu li a[href="/posts/"] {
 body.colours-009.notes .navigation-menu li a[href="/notes/"] {
   background: #c9ffee;
 }
-body.colours-009.colours-001 .navigation-menu li a[href="/"] {
+body.colours-009.kind-404 .navigation-menu li a[href="/"] {
   background: #c9ffee;
 }
 body.colours-009.home .navigation-menu a[href="/about-me/"],
-body.colours-009.colours-001 .navigation-menu a[href="/about-me/"],
+body.colours-009.kind-404 .navigation-menu a[href="/about-me/"],
 body.colours-009.about-me .navigation-menu a[href="/"],
 body.colours-009.about-me .navigation-menu a[href="/book/"],
 body.colours-009.book .navigation-menu a[href="/about-me/"],
@@ -3798,7 +3798,7 @@ body.colours-009.contact-me .navigation-menu a[href="/speaking/"] {
   color: #131426;
 }
 body.colours-009.home .navigation-menu a[href="/about-me/"]:hover,
-body.colours-009.colours-001 .navigation-menu a[href="/about-me/"]:hover,
+body.colours-009.kind-404 .navigation-menu a[href="/about-me/"]:hover,
 body.colours-009.about-me .navigation-menu a[href="/"]:hover,
 body.colours-009.about-me .navigation-menu a[href="/book/"]:hover,
 body.colours-009.book .navigation-menu a[href="/about-me/"]:hover,
@@ -3811,7 +3811,7 @@ body.colours-009.speaking .navigation-menu a[href="/notes/"]:hover,
 body.colours-009.speaking .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-009.contact-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-009.home .navigation-menu a[href="/about-me/"]:active,
-body.colours-009.colours-001 .navigation-menu a[href="/about-me/"]:active,
+body.colours-009.kind-404 .navigation-menu a[href="/about-me/"]:active,
 body.colours-009.about-me .navigation-menu a[href="/"]:active,
 body.colours-009.about-me .navigation-menu a[href="/book/"]:active,
 body.colours-009.book .navigation-menu a[href="/about-me/"]:active,
@@ -3826,7 +3826,7 @@ body.colours-009.contact-me .navigation-menu a[href="/speaking/"]:active {
   position: relative;
 }
 body.colours-009.home .navigation-menu a[href="/about-me/"]:hover:after,
-body.colours-009.colours-001 .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-009.kind-404 .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-009.about-me .navigation-menu a[href="/"]:hover:after,
 body.colours-009.about-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-009.book .navigation-menu a[href="/about-me/"]:hover:after,
@@ -3839,7 +3839,7 @@ body.colours-009.speaking .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-009.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-009.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-009.home .navigation-menu a[href="/about-me/"]:active:after,
-body.colours-009.colours-001 .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-009.kind-404 .navigation-menu a[href="/about-me/"]:active:after,
 body.colours-009.about-me .navigation-menu a[href="/"]:active:after,
 body.colours-009.about-me .navigation-menu a[href="/book/"]:active:after,
 body.colours-009.book .navigation-menu a[href="/about-me/"]:active:after,
@@ -3862,7 +3862,7 @@ body.colours-009.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   width: auto;
 }
 body.colours-009.home .navigation-menu a[href="/book/"],
-body.colours-009.colours-001 .navigation-menu a[href="/book/"],
+body.colours-009.kind-404 .navigation-menu a[href="/book/"],
 body.colours-009.about-me .navigation-menu a[href="/posts/"],
 body.colours-009.book .navigation-menu a[href="/"],
 body.colours-009.book .navigation-menu a[href="/notes/"],
@@ -3876,7 +3876,7 @@ body.colours-009.contact-me .navigation-menu a[href="/notes/"] {
   color: #131426;
 }
 body.colours-009.home .navigation-menu a[href="/book/"]:hover,
-body.colours-009.colours-001 .navigation-menu a[href="/book/"]:hover,
+body.colours-009.kind-404 .navigation-menu a[href="/book/"]:hover,
 body.colours-009.about-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-009.book .navigation-menu a[href="/"]:hover,
 body.colours-009.book .navigation-menu a[href="/notes/"]:hover,
@@ -3887,7 +3887,7 @@ body.colours-009.notes .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-009.speaking .navigation-menu a[href="/posts/"]:hover,
 body.colours-009.contact-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-009.home .navigation-menu a[href="/book/"]:active,
-body.colours-009.colours-001 .navigation-menu a[href="/book/"]:active,
+body.colours-009.kind-404 .navigation-menu a[href="/book/"]:active,
 body.colours-009.about-me .navigation-menu a[href="/posts/"]:active,
 body.colours-009.book .navigation-menu a[href="/"]:active,
 body.colours-009.book .navigation-menu a[href="/notes/"]:active,
@@ -3900,7 +3900,7 @@ body.colours-009.contact-me .navigation-menu a[href="/notes/"]:active {
   position: relative;
 }
 body.colours-009.home .navigation-menu a[href="/book/"]:hover:after,
-body.colours-009.colours-001 .navigation-menu a[href="/book/"]:hover:after,
+body.colours-009.kind-404 .navigation-menu a[href="/book/"]:hover:after,
 body.colours-009.about-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-009.book .navigation-menu a[href="/"]:hover:after,
 body.colours-009.book .navigation-menu a[href="/notes/"]:hover:after,
@@ -3911,7 +3911,7 @@ body.colours-009.notes .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-009.speaking .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-009.contact-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-009.home .navigation-menu a[href="/book/"]:active:after,
-body.colours-009.colours-001 .navigation-menu a[href="/book/"]:active:after,
+body.colours-009.kind-404 .navigation-menu a[href="/book/"]:active:after,
 body.colours-009.about-me .navigation-menu a[href="/posts/"]:active:after,
 body.colours-009.book .navigation-menu a[href="/"]:active:after,
 body.colours-009.book .navigation-menu a[href="/notes/"]:active:after,
@@ -3932,7 +3932,7 @@ body.colours-009.contact-me .navigation-menu a[href="/notes/"]:active:after {
   width: auto;
 }
 body.colours-009.home .navigation-menu a[href="/posts/"],
-body.colours-009.colours-001 .navigation-menu a[href="/posts/"],
+body.colours-009.kind-404 .navigation-menu a[href="/posts/"],
 body.colours-009.about-me .navigation-menu a[href="/notes/"],
 body.colours-009.blog .navigation-menu a[href="/"],
 body.colours-009.blog .navigation-menu a[href="/contact-me/"],
@@ -3944,7 +3944,7 @@ body.colours-009.contact-me .navigation-menu a[href="/posts/"] {
   color: #131426;
 }
 body.colours-009.home .navigation-menu a[href="/posts/"]:hover,
-body.colours-009.colours-001 .navigation-menu a[href="/posts/"]:hover,
+body.colours-009.kind-404 .navigation-menu a[href="/posts/"]:hover,
 body.colours-009.about-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-009.blog .navigation-menu a[href="/"]:hover,
 body.colours-009.blog .navigation-menu a[href="/contact-me/"]:hover,
@@ -3953,7 +3953,7 @@ body.colours-009.notes .navigation-menu a[href="/about-me/"]:hover,
 body.colours-009.speaking .navigation-menu a[href="/book/"]:hover,
 body.colours-009.contact-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-009.home .navigation-menu a[href="/posts/"]:active,
-body.colours-009.colours-001 .navigation-menu a[href="/posts/"]:active,
+body.colours-009.kind-404 .navigation-menu a[href="/posts/"]:active,
 body.colours-009.about-me .navigation-menu a[href="/notes/"]:active,
 body.colours-009.blog .navigation-menu a[href="/"]:active,
 body.colours-009.blog .navigation-menu a[href="/contact-me/"]:active,
@@ -3964,7 +3964,7 @@ body.colours-009.contact-me .navigation-menu a[href="/posts/"]:active {
   position: relative;
 }
 body.colours-009.home .navigation-menu a[href="/posts/"]:hover:after,
-body.colours-009.colours-001 .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-009.kind-404 .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-009.about-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-009.blog .navigation-menu a[href="/"]:hover:after,
 body.colours-009.blog .navigation-menu a[href="/contact-me/"]:hover:after,
@@ -3973,7 +3973,7 @@ body.colours-009.notes .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-009.speaking .navigation-menu a[href="/book/"]:hover:after,
 body.colours-009.contact-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-009.home .navigation-menu a[href="/posts/"]:active:after,
-body.colours-009.colours-001 .navigation-menu a[href="/posts/"]:active:after,
+body.colours-009.kind-404 .navigation-menu a[href="/posts/"]:active:after,
 body.colours-009.about-me .navigation-menu a[href="/notes/"]:active:after,
 body.colours-009.blog .navigation-menu a[href="/"]:active:after,
 body.colours-009.blog .navigation-menu a[href="/contact-me/"]:active:after,
@@ -3992,7 +3992,7 @@ body.colours-009.contact-me .navigation-menu a[href="/posts/"]:active:after {
   width: auto;
 }
 body.colours-009.home .navigation-menu a[href="/notes/"],
-body.colours-009.colours-001 .navigation-menu a[href="/notes/"],
+body.colours-009.kind-404 .navigation-menu a[href="/notes/"],
 body.colours-009.about-me .navigation-menu a[href="/speaking/"],
 body.colours-009.book .navigation-menu a[href="/contact-me/"],
 body.colours-009.notes .navigation-menu a[href="/"],
@@ -4002,14 +4002,14 @@ body.colours-009.contact-me .navigation-menu a[href="/book/"] {
   color: #131426;
 }
 body.colours-009.home .navigation-menu a[href="/notes/"]:hover,
-body.colours-009.colours-001 .navigation-menu a[href="/notes/"]:hover,
+body.colours-009.kind-404 .navigation-menu a[href="/notes/"]:hover,
 body.colours-009.about-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-009.book .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-009.notes .navigation-menu a[href="/"]:hover,
 body.colours-009.speaking .navigation-menu a[href="/about-me/"]:hover,
 body.colours-009.contact-me .navigation-menu a[href="/book/"]:hover,
 body.colours-009.home .navigation-menu a[href="/notes/"]:active,
-body.colours-009.colours-001 .navigation-menu a[href="/notes/"]:active,
+body.colours-009.kind-404 .navigation-menu a[href="/notes/"]:active,
 body.colours-009.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-009.book .navigation-menu a[href="/contact-me/"]:active,
 body.colours-009.notes .navigation-menu a[href="/"]:active,
@@ -4018,14 +4018,14 @@ body.colours-009.contact-me .navigation-menu a[href="/book/"]:active {
   position: relative;
 }
 body.colours-009.home .navigation-menu a[href="/notes/"]:hover:after,
-body.colours-009.colours-001 .navigation-menu a[href="/notes/"]:hover:after,
+body.colours-009.kind-404 .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-009.about-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-009.book .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-009.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-009.speaking .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-009.contact-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-009.home .navigation-menu a[href="/notes/"]:active:after,
-body.colours-009.colours-001 .navigation-menu a[href="/notes/"]:active:after,
+body.colours-009.kind-404 .navigation-menu a[href="/notes/"]:active:after,
 body.colours-009.about-me .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-009.book .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-009.notes .navigation-menu a[href="/"]:active:after,
@@ -4042,7 +4042,7 @@ body.colours-009.contact-me .navigation-menu a[href="/book/"]:active:after {
   width: auto;
 }
 body.colours-009.home .navigation-menu a[href="/speaking/"],
-body.colours-009.colours-001 .navigation-menu a[href="/speaking/"],
+body.colours-009.kind-404 .navigation-menu a[href="/speaking/"],
 body.colours-009.about-me .navigation-menu a[href="/contact-me/"],
 body.colours-009.notes .navigation-menu a[href="/"],
 body.colours-009.speaking .navigation-menu a[href="/"],
@@ -4051,13 +4051,13 @@ body.colours-009.contact-me .navigation-menu a[href="/about-me/"] {
   color: #131426;
 }
 body.colours-009.home .navigation-menu a[href="/speaking/"]:hover,
-body.colours-009.colours-001 .navigation-menu a[href="/speaking/"]:hover,
+body.colours-009.kind-404 .navigation-menu a[href="/speaking/"]:hover,
 body.colours-009.about-me .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-009.notes .navigation-menu a[href="/"]:hover,
 body.colours-009.speaking .navigation-menu a[href="/"]:hover,
 body.colours-009.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-009.home .navigation-menu a[href="/speaking/"]:active,
-body.colours-009.colours-001 .navigation-menu a[href="/speaking/"]:active,
+body.colours-009.kind-404 .navigation-menu a[href="/speaking/"]:active,
 body.colours-009.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-009.notes .navigation-menu a[href="/"]:active,
 body.colours-009.speaking .navigation-menu a[href="/"]:active,
@@ -4065,13 +4065,13 @@ body.colours-009.contact-me .navigation-menu a[href="/about-me/"]:active {
   position: relative;
 }
 body.colours-009.home .navigation-menu a[href="/speaking/"]:hover:after,
-body.colours-009.colours-001 .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-009.kind-404 .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-009.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-009.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-009.speaking .navigation-menu a[href="/"]:hover:after,
 body.colours-009.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-009.home .navigation-menu a[href="/speaking/"]:active:after,
-body.colours-009.colours-001 .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-009.kind-404 .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-009.about-me .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-009.notes .navigation-menu a[href="/"]:active:after,
 body.colours-009.speaking .navigation-menu a[href="/"]:active:after,
@@ -4087,24 +4087,24 @@ body.colours-009.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   width: auto;
 }
 body.colours-009.home .navigation-menu a[href="/contact-me/"],
-body.colours-009.colours-001 .navigation-menu a[href="/contact-me/"],
+body.colours-009.kind-404 .navigation-menu a[href="/contact-me/"],
 body.colours-009.contact-me .navigation-menu a[href="/"] {
   background: rgba(56,130,248,0.8);
   color: #131426;
 }
 body.colours-009.home .navigation-menu a[href="/contact-me/"]:hover,
-body.colours-009.colours-001 .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-009.kind-404 .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-009.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-009.home .navigation-menu a[href="/contact-me/"]:active,
-body.colours-009.colours-001 .navigation-menu a[href="/contact-me/"]:active,
+body.colours-009.kind-404 .navigation-menu a[href="/contact-me/"]:active,
 body.colours-009.contact-me .navigation-menu a[href="/"]:active {
   position: relative;
 }
 body.colours-009.home .navigation-menu a[href="/contact-me/"]:hover:after,
-body.colours-009.colours-001 .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-009.kind-404 .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-009.contact-me .navigation-menu a[href="/"]:hover:after,
 body.colours-009.home .navigation-menu a[href="/contact-me/"]:active:after,
-body.colours-009.colours-001 .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-009.kind-404 .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-009.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
   border-bottom: 0.15em rgba(38,78,145,0.5) solid;
@@ -4213,11 +4213,11 @@ body.colours-010.blog .navigation-menu li a[href="/posts/"] {
 body.colours-010.notes .navigation-menu li a[href="/notes/"] {
   background: #f0f0f0;
 }
-body.colours-010.colours-001 .navigation-menu li a[href="/"] {
+body.colours-010.kind-404 .navigation-menu li a[href="/"] {
   background: #f0f0f0;
 }
 body.colours-010.home .navigation-menu a[href="/about-me/"],
-body.colours-010.colours-001 .navigation-menu a[href="/about-me/"],
+body.colours-010.kind-404 .navigation-menu a[href="/about-me/"],
 body.colours-010.about-me .navigation-menu a[href="/"],
 body.colours-010.about-me .navigation-menu a[href="/book/"],
 body.colours-010.book .navigation-menu a[href="/about-me/"],
@@ -4233,7 +4233,7 @@ body.colours-010.contact-me .navigation-menu a[href="/speaking/"] {
   color: #000;
 }
 body.colours-010.home .navigation-menu a[href="/about-me/"]:hover,
-body.colours-010.colours-001 .navigation-menu a[href="/about-me/"]:hover,
+body.colours-010.kind-404 .navigation-menu a[href="/about-me/"]:hover,
 body.colours-010.about-me .navigation-menu a[href="/"]:hover,
 body.colours-010.about-me .navigation-menu a[href="/book/"]:hover,
 body.colours-010.book .navigation-menu a[href="/about-me/"]:hover,
@@ -4246,7 +4246,7 @@ body.colours-010.speaking .navigation-menu a[href="/notes/"]:hover,
 body.colours-010.speaking .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-010.contact-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-010.home .navigation-menu a[href="/about-me/"]:active,
-body.colours-010.colours-001 .navigation-menu a[href="/about-me/"]:active,
+body.colours-010.kind-404 .navigation-menu a[href="/about-me/"]:active,
 body.colours-010.about-me .navigation-menu a[href="/"]:active,
 body.colours-010.about-me .navigation-menu a[href="/book/"]:active,
 body.colours-010.book .navigation-menu a[href="/about-me/"]:active,
@@ -4261,7 +4261,7 @@ body.colours-010.contact-me .navigation-menu a[href="/speaking/"]:active {
   position: relative;
 }
 body.colours-010.home .navigation-menu a[href="/about-me/"]:hover:after,
-body.colours-010.colours-001 .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-010.kind-404 .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-010.about-me .navigation-menu a[href="/"]:hover:after,
 body.colours-010.about-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-010.book .navigation-menu a[href="/about-me/"]:hover:after,
@@ -4274,7 +4274,7 @@ body.colours-010.speaking .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-010.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-010.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-010.home .navigation-menu a[href="/about-me/"]:active:after,
-body.colours-010.colours-001 .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-010.kind-404 .navigation-menu a[href="/about-me/"]:active:after,
 body.colours-010.about-me .navigation-menu a[href="/"]:active:after,
 body.colours-010.about-me .navigation-menu a[href="/book/"]:active:after,
 body.colours-010.book .navigation-menu a[href="/about-me/"]:active:after,
@@ -4297,7 +4297,7 @@ body.colours-010.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   width: auto;
 }
 body.colours-010.home .navigation-menu a[href="/book/"],
-body.colours-010.colours-001 .navigation-menu a[href="/book/"],
+body.colours-010.kind-404 .navigation-menu a[href="/book/"],
 body.colours-010.about-me .navigation-menu a[href="/posts/"],
 body.colours-010.book .navigation-menu a[href="/"],
 body.colours-010.book .navigation-menu a[href="/notes/"],
@@ -4311,7 +4311,7 @@ body.colours-010.contact-me .navigation-menu a[href="/notes/"] {
   color: #000;
 }
 body.colours-010.home .navigation-menu a[href="/book/"]:hover,
-body.colours-010.colours-001 .navigation-menu a[href="/book/"]:hover,
+body.colours-010.kind-404 .navigation-menu a[href="/book/"]:hover,
 body.colours-010.about-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-010.book .navigation-menu a[href="/"]:hover,
 body.colours-010.book .navigation-menu a[href="/notes/"]:hover,
@@ -4322,7 +4322,7 @@ body.colours-010.notes .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-010.speaking .navigation-menu a[href="/posts/"]:hover,
 body.colours-010.contact-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-010.home .navigation-menu a[href="/book/"]:active,
-body.colours-010.colours-001 .navigation-menu a[href="/book/"]:active,
+body.colours-010.kind-404 .navigation-menu a[href="/book/"]:active,
 body.colours-010.about-me .navigation-menu a[href="/posts/"]:active,
 body.colours-010.book .navigation-menu a[href="/"]:active,
 body.colours-010.book .navigation-menu a[href="/notes/"]:active,
@@ -4335,7 +4335,7 @@ body.colours-010.contact-me .navigation-menu a[href="/notes/"]:active {
   position: relative;
 }
 body.colours-010.home .navigation-menu a[href="/book/"]:hover:after,
-body.colours-010.colours-001 .navigation-menu a[href="/book/"]:hover:after,
+body.colours-010.kind-404 .navigation-menu a[href="/book/"]:hover:after,
 body.colours-010.about-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-010.book .navigation-menu a[href="/"]:hover:after,
 body.colours-010.book .navigation-menu a[href="/notes/"]:hover:after,
@@ -4346,7 +4346,7 @@ body.colours-010.notes .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-010.speaking .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-010.contact-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-010.home .navigation-menu a[href="/book/"]:active:after,
-body.colours-010.colours-001 .navigation-menu a[href="/book/"]:active:after,
+body.colours-010.kind-404 .navigation-menu a[href="/book/"]:active:after,
 body.colours-010.about-me .navigation-menu a[href="/posts/"]:active:after,
 body.colours-010.book .navigation-menu a[href="/"]:active:after,
 body.colours-010.book .navigation-menu a[href="/notes/"]:active:after,
@@ -4367,7 +4367,7 @@ body.colours-010.contact-me .navigation-menu a[href="/notes/"]:active:after {
   width: auto;
 }
 body.colours-010.home .navigation-menu a[href="/posts/"],
-body.colours-010.colours-001 .navigation-menu a[href="/posts/"],
+body.colours-010.kind-404 .navigation-menu a[href="/posts/"],
 body.colours-010.about-me .navigation-menu a[href="/notes/"],
 body.colours-010.blog .navigation-menu a[href="/"],
 body.colours-010.blog .navigation-menu a[href="/contact-me/"],
@@ -4379,7 +4379,7 @@ body.colours-010.contact-me .navigation-menu a[href="/posts/"] {
   color: #000;
 }
 body.colours-010.home .navigation-menu a[href="/posts/"]:hover,
-body.colours-010.colours-001 .navigation-menu a[href="/posts/"]:hover,
+body.colours-010.kind-404 .navigation-menu a[href="/posts/"]:hover,
 body.colours-010.about-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-010.blog .navigation-menu a[href="/"]:hover,
 body.colours-010.blog .navigation-menu a[href="/contact-me/"]:hover,
@@ -4388,7 +4388,7 @@ body.colours-010.notes .navigation-menu a[href="/about-me/"]:hover,
 body.colours-010.speaking .navigation-menu a[href="/book/"]:hover,
 body.colours-010.contact-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-010.home .navigation-menu a[href="/posts/"]:active,
-body.colours-010.colours-001 .navigation-menu a[href="/posts/"]:active,
+body.colours-010.kind-404 .navigation-menu a[href="/posts/"]:active,
 body.colours-010.about-me .navigation-menu a[href="/notes/"]:active,
 body.colours-010.blog .navigation-menu a[href="/"]:active,
 body.colours-010.blog .navigation-menu a[href="/contact-me/"]:active,
@@ -4399,7 +4399,7 @@ body.colours-010.contact-me .navigation-menu a[href="/posts/"]:active {
   position: relative;
 }
 body.colours-010.home .navigation-menu a[href="/posts/"]:hover:after,
-body.colours-010.colours-001 .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-010.kind-404 .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-010.about-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-010.blog .navigation-menu a[href="/"]:hover:after,
 body.colours-010.blog .navigation-menu a[href="/contact-me/"]:hover:after,
@@ -4408,7 +4408,7 @@ body.colours-010.notes .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-010.speaking .navigation-menu a[href="/book/"]:hover:after,
 body.colours-010.contact-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-010.home .navigation-menu a[href="/posts/"]:active:after,
-body.colours-010.colours-001 .navigation-menu a[href="/posts/"]:active:after,
+body.colours-010.kind-404 .navigation-menu a[href="/posts/"]:active:after,
 body.colours-010.about-me .navigation-menu a[href="/notes/"]:active:after,
 body.colours-010.blog .navigation-menu a[href="/"]:active:after,
 body.colours-010.blog .navigation-menu a[href="/contact-me/"]:active:after,
@@ -4427,7 +4427,7 @@ body.colours-010.contact-me .navigation-menu a[href="/posts/"]:active:after {
   width: auto;
 }
 body.colours-010.home .navigation-menu a[href="/notes/"],
-body.colours-010.colours-001 .navigation-menu a[href="/notes/"],
+body.colours-010.kind-404 .navigation-menu a[href="/notes/"],
 body.colours-010.about-me .navigation-menu a[href="/speaking/"],
 body.colours-010.book .navigation-menu a[href="/contact-me/"],
 body.colours-010.notes .navigation-menu a[href="/"],
@@ -4437,14 +4437,14 @@ body.colours-010.contact-me .navigation-menu a[href="/book/"] {
   color: #000;
 }
 body.colours-010.home .navigation-menu a[href="/notes/"]:hover,
-body.colours-010.colours-001 .navigation-menu a[href="/notes/"]:hover,
+body.colours-010.kind-404 .navigation-menu a[href="/notes/"]:hover,
 body.colours-010.about-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-010.book .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-010.notes .navigation-menu a[href="/"]:hover,
 body.colours-010.speaking .navigation-menu a[href="/about-me/"]:hover,
 body.colours-010.contact-me .navigation-menu a[href="/book/"]:hover,
 body.colours-010.home .navigation-menu a[href="/notes/"]:active,
-body.colours-010.colours-001 .navigation-menu a[href="/notes/"]:active,
+body.colours-010.kind-404 .navigation-menu a[href="/notes/"]:active,
 body.colours-010.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-010.book .navigation-menu a[href="/contact-me/"]:active,
 body.colours-010.notes .navigation-menu a[href="/"]:active,
@@ -4453,14 +4453,14 @@ body.colours-010.contact-me .navigation-menu a[href="/book/"]:active {
   position: relative;
 }
 body.colours-010.home .navigation-menu a[href="/notes/"]:hover:after,
-body.colours-010.colours-001 .navigation-menu a[href="/notes/"]:hover:after,
+body.colours-010.kind-404 .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-010.about-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-010.book .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-010.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-010.speaking .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-010.contact-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-010.home .navigation-menu a[href="/notes/"]:active:after,
-body.colours-010.colours-001 .navigation-menu a[href="/notes/"]:active:after,
+body.colours-010.kind-404 .navigation-menu a[href="/notes/"]:active:after,
 body.colours-010.about-me .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-010.book .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-010.notes .navigation-menu a[href="/"]:active:after,
@@ -4477,7 +4477,7 @@ body.colours-010.contact-me .navigation-menu a[href="/book/"]:active:after {
   width: auto;
 }
 body.colours-010.home .navigation-menu a[href="/speaking/"],
-body.colours-010.colours-001 .navigation-menu a[href="/speaking/"],
+body.colours-010.kind-404 .navigation-menu a[href="/speaking/"],
 body.colours-010.about-me .navigation-menu a[href="/contact-me/"],
 body.colours-010.notes .navigation-menu a[href="/"],
 body.colours-010.speaking .navigation-menu a[href="/"],
@@ -4486,13 +4486,13 @@ body.colours-010.contact-me .navigation-menu a[href="/about-me/"] {
   color: #000;
 }
 body.colours-010.home .navigation-menu a[href="/speaking/"]:hover,
-body.colours-010.colours-001 .navigation-menu a[href="/speaking/"]:hover,
+body.colours-010.kind-404 .navigation-menu a[href="/speaking/"]:hover,
 body.colours-010.about-me .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-010.notes .navigation-menu a[href="/"]:hover,
 body.colours-010.speaking .navigation-menu a[href="/"]:hover,
 body.colours-010.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-010.home .navigation-menu a[href="/speaking/"]:active,
-body.colours-010.colours-001 .navigation-menu a[href="/speaking/"]:active,
+body.colours-010.kind-404 .navigation-menu a[href="/speaking/"]:active,
 body.colours-010.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-010.notes .navigation-menu a[href="/"]:active,
 body.colours-010.speaking .navigation-menu a[href="/"]:active,
@@ -4500,13 +4500,13 @@ body.colours-010.contact-me .navigation-menu a[href="/about-me/"]:active {
   position: relative;
 }
 body.colours-010.home .navigation-menu a[href="/speaking/"]:hover:after,
-body.colours-010.colours-001 .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-010.kind-404 .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-010.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-010.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-010.speaking .navigation-menu a[href="/"]:hover:after,
 body.colours-010.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-010.home .navigation-menu a[href="/speaking/"]:active:after,
-body.colours-010.colours-001 .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-010.kind-404 .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-010.about-me .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-010.notes .navigation-menu a[href="/"]:active:after,
 body.colours-010.speaking .navigation-menu a[href="/"]:active:after,
@@ -4522,24 +4522,24 @@ body.colours-010.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   width: auto;
 }
 body.colours-010.home .navigation-menu a[href="/contact-me/"],
-body.colours-010.colours-001 .navigation-menu a[href="/contact-me/"],
+body.colours-010.kind-404 .navigation-menu a[href="/contact-me/"],
 body.colours-010.contact-me .navigation-menu a[href="/"] {
   background: rgba(227,45,0,0.8);
   color: #000;
 }
 body.colours-010.home .navigation-menu a[href="/contact-me/"]:hover,
-body.colours-010.colours-001 .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-010.kind-404 .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-010.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-010.home .navigation-menu a[href="/contact-me/"]:active,
-body.colours-010.colours-001 .navigation-menu a[href="/contact-me/"]:active,
+body.colours-010.kind-404 .navigation-menu a[href="/contact-me/"]:active,
 body.colours-010.contact-me .navigation-menu a[href="/"]:active {
   position: relative;
 }
 body.colours-010.home .navigation-menu a[href="/contact-me/"]:hover:after,
-body.colours-010.colours-001 .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-010.kind-404 .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-010.contact-me .navigation-menu a[href="/"]:hover:after,
 body.colours-010.home .navigation-menu a[href="/contact-me/"]:active:after,
-body.colours-010.colours-001 .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-010.kind-404 .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-010.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
   border-bottom: 0.15em rgba(53,53,53,0.5) solid;
@@ -4648,11 +4648,11 @@ body.colours-013.blog .navigation-menu li a[href="/posts/"] {
 body.colours-013.notes .navigation-menu li a[href="/notes/"] {
   background: #efffc9;
 }
-body.colours-013.colours-001 .navigation-menu li a[href="/"] {
+body.colours-013.kind-404 .navigation-menu li a[href="/"] {
   background: #efffc9;
 }
 body.colours-013.home .navigation-menu a[href="/about-me/"],
-body.colours-013.colours-001 .navigation-menu a[href="/about-me/"],
+body.colours-013.kind-404 .navigation-menu a[href="/about-me/"],
 body.colours-013.about-me .navigation-menu a[href="/"],
 body.colours-013.about-me .navigation-menu a[href="/book/"],
 body.colours-013.book .navigation-menu a[href="/about-me/"],
@@ -4668,7 +4668,7 @@ body.colours-013.contact-me .navigation-menu a[href="/speaking/"] {
   color: #261513;
 }
 body.colours-013.home .navigation-menu a[href="/about-me/"]:hover,
-body.colours-013.colours-001 .navigation-menu a[href="/about-me/"]:hover,
+body.colours-013.kind-404 .navigation-menu a[href="/about-me/"]:hover,
 body.colours-013.about-me .navigation-menu a[href="/"]:hover,
 body.colours-013.about-me .navigation-menu a[href="/book/"]:hover,
 body.colours-013.book .navigation-menu a[href="/about-me/"]:hover,
@@ -4681,7 +4681,7 @@ body.colours-013.speaking .navigation-menu a[href="/notes/"]:hover,
 body.colours-013.speaking .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-013.contact-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-013.home .navigation-menu a[href="/about-me/"]:active,
-body.colours-013.colours-001 .navigation-menu a[href="/about-me/"]:active,
+body.colours-013.kind-404 .navigation-menu a[href="/about-me/"]:active,
 body.colours-013.about-me .navigation-menu a[href="/"]:active,
 body.colours-013.about-me .navigation-menu a[href="/book/"]:active,
 body.colours-013.book .navigation-menu a[href="/about-me/"]:active,
@@ -4696,7 +4696,7 @@ body.colours-013.contact-me .navigation-menu a[href="/speaking/"]:active {
   position: relative;
 }
 body.colours-013.home .navigation-menu a[href="/about-me/"]:hover:after,
-body.colours-013.colours-001 .navigation-menu a[href="/about-me/"]:hover:after,
+body.colours-013.kind-404 .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-013.about-me .navigation-menu a[href="/"]:hover:after,
 body.colours-013.about-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-013.book .navigation-menu a[href="/about-me/"]:hover:after,
@@ -4709,7 +4709,7 @@ body.colours-013.speaking .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-013.speaking .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-013.contact-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-013.home .navigation-menu a[href="/about-me/"]:active:after,
-body.colours-013.colours-001 .navigation-menu a[href="/about-me/"]:active:after,
+body.colours-013.kind-404 .navigation-menu a[href="/about-me/"]:active:after,
 body.colours-013.about-me .navigation-menu a[href="/"]:active:after,
 body.colours-013.about-me .navigation-menu a[href="/book/"]:active:after,
 body.colours-013.book .navigation-menu a[href="/about-me/"]:active:after,
@@ -4732,7 +4732,7 @@ body.colours-013.contact-me .navigation-menu a[href="/speaking/"]:active:after {
   width: auto;
 }
 body.colours-013.home .navigation-menu a[href="/book/"],
-body.colours-013.colours-001 .navigation-menu a[href="/book/"],
+body.colours-013.kind-404 .navigation-menu a[href="/book/"],
 body.colours-013.about-me .navigation-menu a[href="/posts/"],
 body.colours-013.book .navigation-menu a[href="/"],
 body.colours-013.book .navigation-menu a[href="/notes/"],
@@ -4746,7 +4746,7 @@ body.colours-013.contact-me .navigation-menu a[href="/notes/"] {
   color: #261513;
 }
 body.colours-013.home .navigation-menu a[href="/book/"]:hover,
-body.colours-013.colours-001 .navigation-menu a[href="/book/"]:hover,
+body.colours-013.kind-404 .navigation-menu a[href="/book/"]:hover,
 body.colours-013.about-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-013.book .navigation-menu a[href="/"]:hover,
 body.colours-013.book .navigation-menu a[href="/notes/"]:hover,
@@ -4757,7 +4757,7 @@ body.colours-013.notes .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-013.speaking .navigation-menu a[href="/posts/"]:hover,
 body.colours-013.contact-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-013.home .navigation-menu a[href="/book/"]:active,
-body.colours-013.colours-001 .navigation-menu a[href="/book/"]:active,
+body.colours-013.kind-404 .navigation-menu a[href="/book/"]:active,
 body.colours-013.about-me .navigation-menu a[href="/posts/"]:active,
 body.colours-013.book .navigation-menu a[href="/"]:active,
 body.colours-013.book .navigation-menu a[href="/notes/"]:active,
@@ -4770,7 +4770,7 @@ body.colours-013.contact-me .navigation-menu a[href="/notes/"]:active {
   position: relative;
 }
 body.colours-013.home .navigation-menu a[href="/book/"]:hover:after,
-body.colours-013.colours-001 .navigation-menu a[href="/book/"]:hover:after,
+body.colours-013.kind-404 .navigation-menu a[href="/book/"]:hover:after,
 body.colours-013.about-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-013.book .navigation-menu a[href="/"]:hover:after,
 body.colours-013.book .navigation-menu a[href="/notes/"]:hover:after,
@@ -4781,7 +4781,7 @@ body.colours-013.notes .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-013.speaking .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-013.contact-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-013.home .navigation-menu a[href="/book/"]:active:after,
-body.colours-013.colours-001 .navigation-menu a[href="/book/"]:active:after,
+body.colours-013.kind-404 .navigation-menu a[href="/book/"]:active:after,
 body.colours-013.about-me .navigation-menu a[href="/posts/"]:active:after,
 body.colours-013.book .navigation-menu a[href="/"]:active:after,
 body.colours-013.book .navigation-menu a[href="/notes/"]:active:after,
@@ -4802,7 +4802,7 @@ body.colours-013.contact-me .navigation-menu a[href="/notes/"]:active:after {
   width: auto;
 }
 body.colours-013.home .navigation-menu a[href="/posts/"],
-body.colours-013.colours-001 .navigation-menu a[href="/posts/"],
+body.colours-013.kind-404 .navigation-menu a[href="/posts/"],
 body.colours-013.about-me .navigation-menu a[href="/notes/"],
 body.colours-013.blog .navigation-menu a[href="/"],
 body.colours-013.blog .navigation-menu a[href="/contact-me/"],
@@ -4814,7 +4814,7 @@ body.colours-013.contact-me .navigation-menu a[href="/posts/"] {
   color: #261513;
 }
 body.colours-013.home .navigation-menu a[href="/posts/"]:hover,
-body.colours-013.colours-001 .navigation-menu a[href="/posts/"]:hover,
+body.colours-013.kind-404 .navigation-menu a[href="/posts/"]:hover,
 body.colours-013.about-me .navigation-menu a[href="/notes/"]:hover,
 body.colours-013.blog .navigation-menu a[href="/"]:hover,
 body.colours-013.blog .navigation-menu a[href="/contact-me/"]:hover,
@@ -4823,7 +4823,7 @@ body.colours-013.notes .navigation-menu a[href="/about-me/"]:hover,
 body.colours-013.speaking .navigation-menu a[href="/book/"]:hover,
 body.colours-013.contact-me .navigation-menu a[href="/posts/"]:hover,
 body.colours-013.home .navigation-menu a[href="/posts/"]:active,
-body.colours-013.colours-001 .navigation-menu a[href="/posts/"]:active,
+body.colours-013.kind-404 .navigation-menu a[href="/posts/"]:active,
 body.colours-013.about-me .navigation-menu a[href="/notes/"]:active,
 body.colours-013.blog .navigation-menu a[href="/"]:active,
 body.colours-013.blog .navigation-menu a[href="/contact-me/"]:active,
@@ -4834,7 +4834,7 @@ body.colours-013.contact-me .navigation-menu a[href="/posts/"]:active {
   position: relative;
 }
 body.colours-013.home .navigation-menu a[href="/posts/"]:hover:after,
-body.colours-013.colours-001 .navigation-menu a[href="/posts/"]:hover:after,
+body.colours-013.kind-404 .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-013.about-me .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-013.blog .navigation-menu a[href="/"]:hover:after,
 body.colours-013.blog .navigation-menu a[href="/contact-me/"]:hover:after,
@@ -4843,7 +4843,7 @@ body.colours-013.notes .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-013.speaking .navigation-menu a[href="/book/"]:hover:after,
 body.colours-013.contact-me .navigation-menu a[href="/posts/"]:hover:after,
 body.colours-013.home .navigation-menu a[href="/posts/"]:active:after,
-body.colours-013.colours-001 .navigation-menu a[href="/posts/"]:active:after,
+body.colours-013.kind-404 .navigation-menu a[href="/posts/"]:active:after,
 body.colours-013.about-me .navigation-menu a[href="/notes/"]:active:after,
 body.colours-013.blog .navigation-menu a[href="/"]:active:after,
 body.colours-013.blog .navigation-menu a[href="/contact-me/"]:active:after,
@@ -4862,7 +4862,7 @@ body.colours-013.contact-me .navigation-menu a[href="/posts/"]:active:after {
   width: auto;
 }
 body.colours-013.home .navigation-menu a[href="/notes/"],
-body.colours-013.colours-001 .navigation-menu a[href="/notes/"],
+body.colours-013.kind-404 .navigation-menu a[href="/notes/"],
 body.colours-013.about-me .navigation-menu a[href="/speaking/"],
 body.colours-013.book .navigation-menu a[href="/contact-me/"],
 body.colours-013.notes .navigation-menu a[href="/"],
@@ -4872,14 +4872,14 @@ body.colours-013.contact-me .navigation-menu a[href="/book/"] {
   color: #261513;
 }
 body.colours-013.home .navigation-menu a[href="/notes/"]:hover,
-body.colours-013.colours-001 .navigation-menu a[href="/notes/"]:hover,
+body.colours-013.kind-404 .navigation-menu a[href="/notes/"]:hover,
 body.colours-013.about-me .navigation-menu a[href="/speaking/"]:hover,
 body.colours-013.book .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-013.notes .navigation-menu a[href="/"]:hover,
 body.colours-013.speaking .navigation-menu a[href="/about-me/"]:hover,
 body.colours-013.contact-me .navigation-menu a[href="/book/"]:hover,
 body.colours-013.home .navigation-menu a[href="/notes/"]:active,
-body.colours-013.colours-001 .navigation-menu a[href="/notes/"]:active,
+body.colours-013.kind-404 .navigation-menu a[href="/notes/"]:active,
 body.colours-013.about-me .navigation-menu a[href="/speaking/"]:active,
 body.colours-013.book .navigation-menu a[href="/contact-me/"]:active,
 body.colours-013.notes .navigation-menu a[href="/"]:active,
@@ -4888,14 +4888,14 @@ body.colours-013.contact-me .navigation-menu a[href="/book/"]:active {
   position: relative;
 }
 body.colours-013.home .navigation-menu a[href="/notes/"]:hover:after,
-body.colours-013.colours-001 .navigation-menu a[href="/notes/"]:hover:after,
+body.colours-013.kind-404 .navigation-menu a[href="/notes/"]:hover:after,
 body.colours-013.about-me .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-013.book .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-013.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-013.speaking .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-013.contact-me .navigation-menu a[href="/book/"]:hover:after,
 body.colours-013.home .navigation-menu a[href="/notes/"]:active:after,
-body.colours-013.colours-001 .navigation-menu a[href="/notes/"]:active:after,
+body.colours-013.kind-404 .navigation-menu a[href="/notes/"]:active:after,
 body.colours-013.about-me .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-013.book .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-013.notes .navigation-menu a[href="/"]:active:after,
@@ -4912,7 +4912,7 @@ body.colours-013.contact-me .navigation-menu a[href="/book/"]:active:after {
   width: auto;
 }
 body.colours-013.home .navigation-menu a[href="/speaking/"],
-body.colours-013.colours-001 .navigation-menu a[href="/speaking/"],
+body.colours-013.kind-404 .navigation-menu a[href="/speaking/"],
 body.colours-013.about-me .navigation-menu a[href="/contact-me/"],
 body.colours-013.notes .navigation-menu a[href="/"],
 body.colours-013.speaking .navigation-menu a[href="/"],
@@ -4921,13 +4921,13 @@ body.colours-013.contact-me .navigation-menu a[href="/about-me/"] {
   color: #261513;
 }
 body.colours-013.home .navigation-menu a[href="/speaking/"]:hover,
-body.colours-013.colours-001 .navigation-menu a[href="/speaking/"]:hover,
+body.colours-013.kind-404 .navigation-menu a[href="/speaking/"]:hover,
 body.colours-013.about-me .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-013.notes .navigation-menu a[href="/"]:hover,
 body.colours-013.speaking .navigation-menu a[href="/"]:hover,
 body.colours-013.contact-me .navigation-menu a[href="/about-me/"]:hover,
 body.colours-013.home .navigation-menu a[href="/speaking/"]:active,
-body.colours-013.colours-001 .navigation-menu a[href="/speaking/"]:active,
+body.colours-013.kind-404 .navigation-menu a[href="/speaking/"]:active,
 body.colours-013.about-me .navigation-menu a[href="/contact-me/"]:active,
 body.colours-013.notes .navigation-menu a[href="/"]:active,
 body.colours-013.speaking .navigation-menu a[href="/"]:active,
@@ -4935,13 +4935,13 @@ body.colours-013.contact-me .navigation-menu a[href="/about-me/"]:active {
   position: relative;
 }
 body.colours-013.home .navigation-menu a[href="/speaking/"]:hover:after,
-body.colours-013.colours-001 .navigation-menu a[href="/speaking/"]:hover:after,
+body.colours-013.kind-404 .navigation-menu a[href="/speaking/"]:hover:after,
 body.colours-013.about-me .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-013.notes .navigation-menu a[href="/"]:hover:after,
 body.colours-013.speaking .navigation-menu a[href="/"]:hover:after,
 body.colours-013.contact-me .navigation-menu a[href="/about-me/"]:hover:after,
 body.colours-013.home .navigation-menu a[href="/speaking/"]:active:after,
-body.colours-013.colours-001 .navigation-menu a[href="/speaking/"]:active:after,
+body.colours-013.kind-404 .navigation-menu a[href="/speaking/"]:active:after,
 body.colours-013.about-me .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-013.notes .navigation-menu a[href="/"]:active:after,
 body.colours-013.speaking .navigation-menu a[href="/"]:active:after,
@@ -4957,24 +4957,24 @@ body.colours-013.contact-me .navigation-menu a[href="/about-me/"]:active:after {
   width: auto;
 }
 body.colours-013.home .navigation-menu a[href="/contact-me/"],
-body.colours-013.colours-001 .navigation-menu a[href="/contact-me/"],
+body.colours-013.kind-404 .navigation-menu a[href="/contact-me/"],
 body.colours-013.contact-me .navigation-menu a[href="/"] {
   background: rgba(0,159,51,0.8);
   color: #261513;
 }
 body.colours-013.home .navigation-menu a[href="/contact-me/"]:hover,
-body.colours-013.colours-001 .navigation-menu a[href="/contact-me/"]:hover,
+body.colours-013.kind-404 .navigation-menu a[href="/contact-me/"]:hover,
 body.colours-013.contact-me .navigation-menu a[href="/"]:hover,
 body.colours-013.home .navigation-menu a[href="/contact-me/"]:active,
-body.colours-013.colours-001 .navigation-menu a[href="/contact-me/"]:active,
+body.colours-013.kind-404 .navigation-menu a[href="/contact-me/"]:active,
 body.colours-013.contact-me .navigation-menu a[href="/"]:active {
   position: relative;
 }
 body.colours-013.home .navigation-menu a[href="/contact-me/"]:hover:after,
-body.colours-013.colours-001 .navigation-menu a[href="/contact-me/"]:hover:after,
+body.colours-013.kind-404 .navigation-menu a[href="/contact-me/"]:hover:after,
 body.colours-013.contact-me .navigation-menu a[href="/"]:hover:after,
 body.colours-013.home .navigation-menu a[href="/contact-me/"]:active:after,
-body.colours-013.colours-001 .navigation-menu a[href="/contact-me/"]:active:after,
+body.colours-013.kind-404 .navigation-menu a[href="/contact-me/"]:active:after,
 body.colours-013.contact-me .navigation-menu a[href="/"]:active:after {
   box-sizing: border-box;
   border-bottom: 0.15em rgba(173,83,0,0.5) solid;
