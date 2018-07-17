@@ -18,4 +18,6 @@ Another little progress towards this goal is creating the [Notes section of my s
 
 <hr />
 
-Part X of an as-yet un-named series.
+Part 1 of an as-yet un-named series.
+
+- Part 2: [Beyond my means](/beyond-my-means)
