@@ -1,5 +1,5 @@
 ---
-title: "Owning and Controlling My Own Content"
+title: "Owning and controlling my own content"
 date: 2018-07-17T12:01:07+01:00
 tags: []
 categories: ["Ind.ie"]
