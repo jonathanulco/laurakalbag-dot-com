@@ -12,6 +12,38 @@
     
     
     <item>
+      <title>17 July 2018 18:08 IST</title>
+      <link>https://laurakalbag.com/notes/2018/07/17/18/08/</link>
+      <pubDate>Tue, 17 Jul 2018 18:08:36 +0100</pubDate>
+      
+      <guid>https://laurakalbag.com/notes/2018/07/17/18/08/</guid>
+      <description>&lt;p&gt;I seem to be doing a lot of cross-posting content in different locations. Not just farming out links all over the place, but cross-posting because the discussions we have in different locations (Twitter vs Mastodon vs here) are all valuable in their own ways.&lt;/p&gt;
+
+&lt;p&gt;This is in conjunction with Aral and I focusing more on our personal sites (&lt;a href=&#34;https://ar.al&#34;&gt;ar.al&lt;/a&gt; and &lt;a href=&#34;https://laurakalbag.com&#34;&gt;laurakalbag.com&lt;/a&gt;. As we’re looking at how &lt;a href=&#34;https://ar.al/2018/06/26/web+/&#34;&gt;what we’re building&lt;/a&gt; works in conjunction with/layers on top of personal sites.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ar.al/2018/07/05/web+-on-a-phone/&#34;&gt;Aral has put together a setup where he can blog from a phone&lt;/a&gt;. I have added a &lt;a href=&#34;https://laurakalbag.com/notes/&#34;&gt;Notes section on my site&lt;/a&gt; where I can post short-form stuff like photos and statuses (anything shorter than a blog post, really.) Though my setup is a little more static than Aral’s, as it is literally a static site built using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; and I use an iPhone. So no posting from a phone for me. (Yet.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://laurakalbag.com/owning-and-controlling-my-own-content/&#34;&gt;The idea is that the Notes section of my site is the canonical location for those bits of content&lt;/a&gt;. Then I can cross-post to other locations. (This is similar to &lt;a href=&#34;https://indieweb.org&#34;&gt;IndieWeb&lt;/a&gt; concepts.)&lt;/p&gt;
+
+&lt;p&gt;However, &lt;strong&gt;manual cross posting is a pain&lt;/strong&gt;. If I post a note to my site (create post, write in markdown, push to Git, deploy), I then have to manually go to wherever I want to cross-post (Twitter, Mastodon, Facebook, here etc) , rewrite the content/link to content in an acceptable format (under 260 chars etc), and post. The whole exercise takes time. It may be a worthwhile endeavour for a blog post about something meaningful. But it’s a lot of faff to share &lt;a href=&#34;https://laurakalbag.com/notes/2018/06/14/21/59/&#34;&gt;a dog photo&lt;/a&gt; or &lt;a href=&#34;https://laurakalbag.com/notes/2018/06/29/09/25/&#34;&gt;a “subtweet”&lt;/a&gt;, let alone a reply or reposting of somebody else’s content.&lt;/p&gt;
+
+&lt;p&gt;Which finally brings me to my point… how do I make cross-posting easier?&lt;/p&gt;
+
+&lt;p&gt;Right now, I have an &lt;a href=&#34;https://ifttt.com&#34;&gt;IFTTT&lt;/a&gt; recipe that takes my RSS feed and publishes new posts to Twitter. &lt;a href=&#34;https://twitter.com/laurakalbag/status/1015706163365732352&#34;&gt;Like this on Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s not great. It is only for Twitter (IFTTT doesn’t support Mastodon.)&lt;/p&gt;
+
+&lt;p&gt;How do I do this better?&lt;/p&gt;
+
+&lt;p&gt;One extreme side is that I could build and maintain my &lt;a href=&#34;https://adactio.com/journal/10728&#34;&gt;own interface for cross-posting like Jeremy has&lt;/a&gt;. There are alternatives to IFTTT like  &lt;a href=&#34;https://trigger-happy.readthedocs.io/en/latest/&#34;&gt;Trigger Happy&lt;/a&gt;. Though some social networks (such as Instagram) only let you post from their interface, so this solution will never be entirely compatible with those particular walled gardens. Also, I’m not being defeatist in saying these solutions are somewhat &lt;a href=&#34;https://laurakalbag.com/beyond-my-means/&#34;&gt;beyond my means&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The other extreme (the low-tech solution) is that I have a to-do list template for every time I post something to make sure I format my posts correctly, and don’t forget a particular social network.&lt;/p&gt;
+
+&lt;p&gt;If anyone has any ideas or thoughts on the matter, &lt;a href=&#34;https://forum.ind.ie/t/cross-posting-and-automating/2220&#34;&gt;I’d love to hear them!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Beyond my means</title>
       <link>https://laurakalbag.com/beyond-my-means/</link>
       <pubDate>Tue, 17 Jul 2018 14:43:23 +0100</pubDate>
