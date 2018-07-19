@@ -6,6 +6,3 @@ theme = "static-kalbag"
 	pages = "/:filename/"
 	posts = "/:filename/"
 	projects = "/project/:filename/"
-# images = [
-#  "https://laurakalbag.com/images/" # Default Open Graph image for site
-#]

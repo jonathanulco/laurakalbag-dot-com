@@ -4,6 +4,7 @@ date: 2018-07-19T11:58:38+01:00
 tags: []
 categories: []
 body_classes: "blog colours-005"
+feature_image: "/images/2018/07/weary-laura.jpg"
 ---
 
 The state of sharing on the web is broken.

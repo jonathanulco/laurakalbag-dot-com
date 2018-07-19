@@ -6,3 +6,5 @@ theme = "static-kalbag"
 	pages = "/:filename/"
 	posts = "/:filename/"
 	projects = "/project/:filename/"
+[params]
+	feature_image = "https://laurakalbag.com/android-chrome-512x512.png" # Default Open Graph image for site
