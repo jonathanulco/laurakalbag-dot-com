@@ -5,6 +5,7 @@ body_classes: "blog colours-007"
 menu:
  main:
   weight: 20
+description: "All the blog posts ever written by Laura Kalbag."
 ---
 
 # Blog

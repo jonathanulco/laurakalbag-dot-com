@@ -10,7 +10,7 @@ body_classes: "about-me colours-002"
 
 ## Basics
 
-I’m Laura Kalbag, a designer and British person, now living in Cork, Ireland. I wrote a book about web accessibility called [Accessibility For Everyone](https://abookapart.com/products/accessibility-for-everyone). You can [buy it in paperback or ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone).
+I’m Laura Kalbag, a designer and British person, now living in Cork, Ireland. I wrote a book about web accessibility called [Accessibility For Everyone](https://abookapart.com/products/accessibility-for-everyone). You can [buy it in paperback or ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone).<!--more-->
 
 I’m one third of [Ind.ie](https://ind.ie), a tiny two-person-and-one-husky not-for-profit working for social justice in the digital age. At Ind.ie, we work on building a more ethical web, make [a web privacy tool called Better](https://better.fyi), and follow the [Ethical Design Manifesto](https://ind.ie/ethical-design).
 

@@ -9,7 +9,7 @@ menu:
 body_classes: "book colours-004"
 ---
 
-I wrote a book! It’s called *Accessibility For Everyone*, and you can [buy it in paperback and ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone). Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.
+I wrote a book! It’s called *Accessibility For Everyone*, and you can [buy it in paperback and ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone). Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.<!--more-->
 
 {{< figure src="/images/2017/12/book-collage.jpg" alt="Collage of photos of the Accessibility For Everyone paperback posted on people’s desks, tables and outside." srcset="/images/2017/12/book-collage-300x200.jpg 150w, /images/2017/12/book-collage-768x576.jpg 380w, /images/2017/12/book-collage-1024x768.jpg 512w, /images/2017/12/book-collage.jpg 1024w" sizes="100vw" caption="Photos taken by folks on Twitter" >}}
 
