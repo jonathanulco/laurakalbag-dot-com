@@ -28,8 +28,8 @@
 			<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else if eq .Title "Home" }}RSS feed for posts on {{ .Site.Title }}{{ else }}{{ with .Title }}RSS feed for posts from {{.}} on {{ end }}{{ .Site.Title }}{{ end }}" />
 		{{ end }}
 
-		<meta property="og:image" content="{{ $.Param "feature_image" }}"/>
-		<meta property="og:image:secure_url" content="{{ $.Param "feature_image" }}"/>
+		<meta property="og:image" content="http://laurakalbag.com{{ $.Param "feature_image"  | relURL }}"/>
+		<meta property="og:image:secure_url" content="{{ $.Param "feature_image" | absURL }}"/>
 
 		{{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/gohugoio/hugo/tree/master/tpl/tplimpl/embedded/templates */}}
 		{{- template "_internal/opengraph.html" . -}}
