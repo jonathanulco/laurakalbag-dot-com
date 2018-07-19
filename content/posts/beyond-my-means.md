@@ -51,3 +51,4 @@ Much of the thinking in this post comes from irritation and, quite frankly, bitt
 Part 2 of an as-yet un-named series. Working out my thinking around personal websites.
 
 - Part 1: [Owning and controlling my own content](/owning-and-controlling-my-own-content)
+- Part 3: [Insecure](/insecure)

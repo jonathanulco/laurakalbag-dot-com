@@ -18,6 +18,7 @@ Another little progress towards this goal is creating the [Notes section of my s
 
 <hr />
 
-Part 1 of an as-yet un-named series.
+Part 1 of an as-yet un-named series. Working out my thinking around personal websites.
 
 - Part 2: [Beyond my means](/beyond-my-means)
+- Part 3: [Insecure](/insecure)
