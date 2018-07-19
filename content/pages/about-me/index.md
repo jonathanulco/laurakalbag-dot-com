@@ -6,6 +6,7 @@ menu:
  main:
   weight: 10
 body_classes: "about-me colours-002"
+slug: "about-me"
 ---
 
 ## Basics

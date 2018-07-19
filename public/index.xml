@@ -647,9 +647,7 @@ figcaption {
       <pubDate>Wed, 06 Dec 2017 13:52:54 +0100</pubDate>
       
       <guid>https://laurakalbag.com/book/</guid>
-      <description>
-
-&lt;p&gt;I wrote a book! It’s called &lt;em&gt;Accessibility For Everyone&lt;/em&gt;, and you can &lt;a href=&#34;https://abookapart.com/products/accessibility-for-everyone&#34;&gt;buy it in paperback and ebook from A Book Apart&lt;/a&gt;. Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.&lt;/p&gt;
+      <description>&lt;p&gt;I wrote a book! It’s called &lt;em&gt;Accessibility For Everyone&lt;/em&gt;, and you can &lt;a href=&#34;https://abookapart.com/products/accessibility-for-everyone&#34;&gt;buy it in paperback and ebook from A Book Apart&lt;/a&gt;. Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -743,8 +741,7 @@ figcaption {
 	&lt;/figcaption&gt;
 	
 &lt;/figure&gt;
-&lt;/p&gt;
-</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -767,11 +764,9 @@ figcaption {
       <pubDate>Wed, 01 Nov 2017 18:07:44 +0100</pubDate>
       
       <guid>https://laurakalbag.com/speaking/</guid>
-      <description>
+      <description>&lt;p&gt;I love conferences and meetups, and attend as many as I can, I think they’re a great way to stay up-to-date with the latest in technology, meet other like-minded folk and it gets me out of the office.&lt;/p&gt;
 
-&lt;p&gt;I love conferences and meetups, and attend as many as I can, I think they’re a great way to stay up-to-date with the latest in technology, meet other like-minded folk and it gets me out of the office.&lt;/p&gt;
-
-&lt;p&gt;In the last couple of years, I’ve been really lucky to be invited to speak at a few conferences. You can find my &lt;a href=&#34;https://ind.ie/events&#34;&gt;upcoming talks on the Ind.ie site&lt;/a&gt;. There’s &lt;a href=&#34;https://ind.ie/services/talks/#laura&#34;&gt;videos of a few past talks&lt;/a&gt; on the Ind.ie site too. You can find a list of most of my &lt;a href=&#34;#past-talks&#34;&gt;past talks&lt;/a&gt; below.&lt;/p&gt;
+&lt;p&gt;I’ve been really lucky to be invited to speak at a few conferences. You can find my &lt;a href=&#34;https://ind.ie/events&#34;&gt;upcoming talks on the Ind.ie site&lt;/a&gt;. There’s &lt;a href=&#34;https://ind.ie/services/talks/#laura&#34;&gt;videos of a few past talks&lt;/a&gt; on the Ind.ie site too. You can find a list of most of my &lt;a href=&#34;#past-talks&#34;&gt;past talks&lt;/a&gt; below.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/68110573@N02/12132726904/&#34;&gt;
 &lt;figure &gt;
@@ -849,8 +844,7 @@ figcaption {
 &lt;li&gt;&lt;strong&gt;London Web Standards: Flux&lt;/strong&gt; in UK: London on &lt;abbr class=&#34;dtstart&#34; title=&#34;2012-03-12&#34;&gt;12th March 2012&lt;/abbr&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Update 2011&lt;/strong&gt; in UK: Brighton on &lt;abbr class=&#34;dtstart&#34; title=&#34;2011-09-05&#34;&gt;5th September 2011&lt;/abbr&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Bathcamp (the barcamp) 2010&lt;/strong&gt; in UK: Bath on &lt;abbr class=&#34;dtstart&#34; title=&#34;2010-10-30&#34;&gt;30th&lt;/abbr&gt;– &lt;abbr class=&#34;dtend&#34; title=&#34;2010-10-31&#34;&gt;31st October 2010&lt;/abbr&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -859,9 +853,7 @@ figcaption {
       <pubDate>Tue, 31 Oct 2017 20:46:48 +0100</pubDate>
       
       <guid>https://laurakalbag.com/contact-me/</guid>
-      <description>
-
-&lt;h2 id=&#34;the-basics&#34;&gt;The Basics&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;the-basics&#34;&gt;The Basics&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;mailto:info@laurakalbag.com&#34; title=&#34;Create an e-mail to Laura Kalbag in your mail client.&#34; class=&#34;email&#34;&gt;Email info@laurakalbag.com&lt;/a&gt;.&lt;/p&gt;
 
@@ -869,8 +861,7 @@ figcaption {
 
 &lt;h2 id=&#34;just-say-hi&#34;&gt;Just Say Hi&lt;/h2&gt;
 
-&lt;p&gt;If you just want to say hi, it’s definitely best to &lt;a href=&#34;http://twitter.com/laurakalbag&#34; title=&#34;Laura Kalbag on Twitter&#34;&gt;contact me on Twitter&lt;/a&gt;. I’m also chatty on the &lt;a href=&#34;https://forum.ind.ie&#34;&gt;Ind.ie forum&lt;/a&gt;.&lt;/p&gt;
-</description>
+&lt;p&gt;If you just want to say hi, it’s definitely best to &lt;a href=&#34;http://twitter.com/laurakalbag&#34; title=&#34;Laura Kalbag on Twitter&#34;&gt;contact me on Twitter&lt;/a&gt;. I’m also chatty on the &lt;a href=&#34;https://forum.ind.ie&#34;&gt;Ind.ie forum&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -879,9 +870,7 @@ figcaption {
       <pubDate>Thu, 26 Oct 2017 20:28:58 +0200</pubDate>
       
       <guid>https://laurakalbag.com/about-me/</guid>
-      <description>
-
-&lt;h2 id=&#34;basics&#34;&gt;Basics&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;basics&#34;&gt;Basics&lt;/h2&gt;
 
 &lt;p&gt;I’m Laura Kalbag, a designer and British person, now living in Cork, Ireland. I wrote a book about web accessibility called &lt;a href=&#34;https://abookapart.com/products/accessibility-for-everyone&#34;&gt;Accessibility For Everyone&lt;/a&gt;. You can &lt;a href=&#34;https://abookapart.com/products/accessibility-for-everyone&#34;&gt;buy it in paperback or ebook from A Book Apart&lt;/a&gt;.&lt;/p&gt;
 
@@ -901,8 +890,7 @@ figcaption {
 
 &lt;p&gt;Honest, sustainable, and independent design is important to me. I believe the web should be owned and controlled by the people who use it, and we who create technology should do so ethically and responsibly.&lt;/p&gt;
 
-&lt;p&gt;I also speak and write regularly about the importance of &lt;a href=&#34;../tag/accessibility/index.html&#34;&gt;accessibility&lt;/a&gt; and &lt;a href=&#34;https://ind.ie/summit/videos/laura-kalbag&#34;&gt;diversity&lt;/a&gt; in the tech and design industries. I first became interested in the web because I loved how it made information and shared experiences available to (almost) everybody. I want to work for a web that is equally accessible to all people. And to do that, our industry must be as diverse as the people who use what we create.&lt;/p&gt;
-</description>
+&lt;p&gt;I also speak and write regularly about the importance of &lt;a href=&#34;../tag/accessibility/index.html&#34;&gt;accessibility&lt;/a&gt; and &lt;a href=&#34;https://ind.ie/summit/videos/laura-kalbag&#34;&gt;diversity&lt;/a&gt; in the tech and design industries. I first became interested in the web because I loved how it made information and shared experiences available to (almost) everybody. I want to work for a web that is equally accessible to all people. And to do that, our industry must be as diverse as the people who use what we create.&lt;/p&gt;</description>
     </item>
     
     <item>

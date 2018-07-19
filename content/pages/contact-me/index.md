@@ -4,6 +4,7 @@ date: 2017-10-31T20:46:48+01:00
 menu:
  main: {}
 body_classes: "contact-me colours-005"
+slug: "contact-me"
 ---
 
 ## The Basics

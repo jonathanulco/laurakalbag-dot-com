@@ -3,7 +3,7 @@ languageCode = "en-GB"
 title = "Laura Kalbag"
 theme = "static-kalbag"
 [permalinks]
-	pages = "/:filename/"
+	pages = "/:slug/"
 	posts = "/:filename/"
 	projects = "/project/:filename/"
 [params]
