@@ -4,6 +4,7 @@ date: 2018-07-17T12:01:07+01:00
 tags: []
 categories: ["Ind.ie"]
 body_classes: "blog colours-005"
+description: "One of the ultimate goals we have at Ind.ie is owning and controlling our own data. That means I want to have ownership and control over my own personal information, rather than it being in the hands of big corporations."
 ---
 
 One of the ultimate goals we have at [Ind.ie](https://ind.ie) is owning and controlling our own data. That means I want to have ownership and control over my own personal information, rather than it being in the hands of big corporations. My personal information could range from something as intensely private as my medical information, or my private messages with another person. These are things that are increasingly digital, online somewhere, and thus “in the cloud” (“the cloud is just someone else’s computer.”) I don’t necessarily want these things on someone else’s computer. Especially not [someone else who might use that information against me](https://laurakalbag.com/you-wont-believe-what-happens-next/), be it a corporation or a government.

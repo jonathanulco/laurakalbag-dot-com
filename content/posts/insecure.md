@@ -5,6 +5,8 @@ tags: []
 categories: []
 body_classes: "blog colours-005"
 feature_image: "/images/2018/07/weary-laura.jpg"
+image: "/images/2018/07/weary-laura.jpg"
+description: "The state of sharing on the web is broken."
 ---
 
 The state of sharing on the web is broken.

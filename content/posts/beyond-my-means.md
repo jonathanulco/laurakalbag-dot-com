@@ -4,6 +4,7 @@ date: 2018-07-17T14:43:23+01:00
 tags: []
 categories: []
 body_classes: "blog colours-005"
+description: "I am not being defeatist when I say that these tasks are often beyond my means. Beyond my means in financial cost, ability, time, and confidence."
 ---
 
 When [I wrote about owning and controlling my own content](/owning-and-controlling-my-own-content), I talked about trying to keep my “content” in its canonical location on my site, and then syndicating it to social networks and other sites. Doing this involves cross-posting, something that can be done manually (literally copying and pasting titles, descriptions, links etc) or through automation. Either way, it’s a real faff. Posting to my site alone is a faff.

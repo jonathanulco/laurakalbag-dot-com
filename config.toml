@@ -8,3 +8,4 @@ theme = "static-kalbag"
 	projects = "/project/:filename/"
 [params]
 	feature_image = "/site-feature.png" # Default Open Graph image for site
+	image = "/site-feature.png" # Default other stuff image for site
