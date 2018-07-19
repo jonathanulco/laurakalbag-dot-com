@@ -6,6 +6,9 @@ menu:
  main:
   weight: 20
 description: "All the blog posts ever written by Laura Kalbag."
+aliases: [
+    "/blog/"
+]
 ---
 
 # Blog
