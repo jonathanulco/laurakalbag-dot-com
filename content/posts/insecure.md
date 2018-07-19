@@ -47,13 +47,13 @@ Last year I got all excited about [RSS](https://www.ar.al/2018/07/01/refining-th
 
 Calling out to folks asking for their blogs’ RSS feeds to follow, I swiftly realised that RSS was not a viable replacement for what I wanted to follow. 99% of the RSS feeds recommended to me were of white men. Now I follow plenty of lovely white men and learn a lot from their writing, but Twitter has been vital in connecting with folks from a wider range of backgrounds and experiences.
 
-Most of the folks I want to hear from aren’t publishing in the same way, or with the same confidence, as the white men of RSS. It probably has something to do with [their means (I’m referencing my my own blog post a lot today…)](/beyond-my-means), and a lot to do with the vulnerability I mentioned above.
+Most of the folks I want to hear from aren’t publishing in the same way, or with the same confidence, as the white men of RSS. It probably has something to do with [their means](/beyond-my-means) (I’m referencing my my own blog post a lot today…), and a lot to do with the vulnerability I mentioned above.
 
 ## Desiring connection
 
 I’m desperately seeking these connections and community. The web can be used to find common connections with folks you find interesting, and who don’t make you feel like so much of a weirdo. It’d be nice to be able to do this in a safe space that is not being surveilled.
 
-Owning your own content, and publishing to a space you own can break through some of these barriers. If you’ve got no tracking on your site (no Google Analytics etc), you are harder to profile and easier to find by like-minded folks. People can’t come to harass you on your own site if you do not offer them the means to do so. *(That’s why you will not be finding a comments form or contact form on my website anymore!)*
+Owning your own content, and publishing to a space you own can break through some of these barriers. Sharing your own weird scraps on your own site makes you easier to find by like-minded folks. If you’ve got no tracking on your site (no Google Analytics etc), you are harder to profile. People can’t come to harass you on your own site if you do not offer them the means to do so. *(That’s why you will not be finding a comments form or contact form on my website anymore!)*
 
 So I’m going to experiment with posting my detritus. Finding the edges of what is comfortable and safe to share, trying to make those connections. I can’t make anyone else do the same, so I’ll be sharing sadly into the void. But hopefully it will give me a better understanding of how I relate to other people via technology, and how we can make our [ethical alternatives to mainstream technology](https://ind.ie) a safe and fun way to share.
 
