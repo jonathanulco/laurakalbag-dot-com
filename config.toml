@@ -2,10 +2,16 @@ baseURL = "https://laurakalbag.com"
 languageCode = "en-GB"
 title = "Laura Kalbag"
 theme = "static-kalbag"
+[author]
+	name = "Laura Kalbag"
+	email = "hi@laurakalbag.com"
 [permalinks]
 	pages = "/:slug/"
 	posts = "/:filename/"
 	projects = "/project/:filename/"
 [params]
-	feature_image = "/site-feature.png" # Default Open Graph image for site
-	image = "/site-feature.png" # Default other stuff image for site
+	image = "site-feature.png" # Default other stuff image for site
+	publisherLogo = "site-feature.png" # Default other stuff image for site
+	publisher = "Laura Kalbag"
+	twitter = "laurakalbag"
+	facebook = "laurakalbag"
