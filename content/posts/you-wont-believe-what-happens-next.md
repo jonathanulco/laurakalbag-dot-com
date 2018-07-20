@@ -6,6 +6,7 @@ date: 2017-04-10T12:58:22+00:00
 categories: ["ind.ie"]
 tags: ["Better", "better.fyi", "Ind.ie", "slides", "speaking", "talks"]
 body_classes: "blog"
+description: "Ads are not the problem, trackers are the problem."
 ---
 
 This is the talk I gave at DIBI Conference in Edinburgh in March 2017. Many people asked me for my slides, but I wanted to include them in context, with accessible links. This is roughly how it went:

@@ -6,7 +6,7 @@ categories: ["development"]
 body_classes: "blog colours-006"
 ---
 
-[CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) is great. My site layout is fairly simple, so had no need for lots of grid—I only used it for lining up comments and avatars on old blog posts.
+[CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) is great. My site layout is fairly simple, so had no need for lots of grid—I only used it for lining up comments and avatars on old blog posts.<!--more-->
 
 Working on my [Notes](/notes) section, I realised I’d sometimes be adding multiple images (dog photos) in one note. The default style for my images is big and full-width, but two or three full-width images in rows would likely be overwhelming. It’d be much tidier if all the images auto-filled across the row. Regardless of how many images there are in the notes.
 

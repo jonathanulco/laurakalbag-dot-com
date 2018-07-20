@@ -5,6 +5,7 @@ menu:
  main:
   weight: -20
 body_classes: "home colours-009"
+description: "Hello! I’m a friendly designer originally from the UK, now living in Ireland. You’ll usually find me talking about ethical design, accessibility and inclusivity, privacy, web design and development."
 ---
 
 # Hi, friend.

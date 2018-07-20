@@ -5,6 +5,7 @@ menu:
  main: {}
 body_classes: "contact-me colours-005"
 slug: "contact-me"
+description: "Email is the easiest way to contact me. If you want to talk about Ind.ie-related things, my work email is laura@ind.ie."
 ---
 
 ## The Basics

@@ -7,6 +7,7 @@ menu:
   weight: 30
 body_classes: "speaking colours-003"
 slug: "speaking"
+description: "I love conferences and meetups, and attend as many as I can, I think they’re a great way to stay up-to-date with the latest in technology, meet other like-minded folk and it gets me out of the office."
 ---
 
 I love conferences and meetups, and attend as many as I can, I think they’re a great way to stay up-to-date with the latest in technology, meet other like-minded folk and it gets me out of the office.<!--more-->

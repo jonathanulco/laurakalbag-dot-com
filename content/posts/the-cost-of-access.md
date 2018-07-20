@@ -4,6 +4,7 @@ date: 2018-07-07T22:07:24+01:00
 tags: ["access", "inclusivity", "assistive technology"]
 categories: ["Accessibility", "Ind.ie" ]
 body_classes: "blog colours-008"
+description: "It’s a wonderful thing that assistive technology is now built into some technology as a default. It’s an important part of making technology more inclusive. But in the case of Amazon’s Alexa, and many inexpensive or free solutions, the cost of access is your privacy."
 ---
 
 This was my opening introduction for Futurefest’s “Who Is the Internet For?” debate today in London. I didn’t hit all the points as smoothly as this, but I covered most of it throughout the debate.

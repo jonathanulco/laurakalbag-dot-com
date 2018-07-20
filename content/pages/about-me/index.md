@@ -7,6 +7,7 @@ menu:
   weight: 10
 body_classes: "about-me colours-002"
 slug: "about-me"
+description: "I’m Laura Kalbag, a designer and British person, now living in Cork, Ireland. I wrote a book about web accessibility called Accessibility For Everyone. You can buy it in paperback or ebook from A Book Apart."
 ---
 
 ## Basics
