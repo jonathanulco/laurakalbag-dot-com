@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 02 Feb 2016 15:51:26 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/chair/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Office Furniture (and other nice things) for sale</title>
       <link>https://laurakalbag.com/office-furniture-for-sale/</link>
       <pubDate>Tue, 02 Feb 2016 15:51:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/office-furniture-for-sale/</guid>
       <description>
 

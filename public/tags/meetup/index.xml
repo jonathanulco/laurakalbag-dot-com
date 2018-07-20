@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 07 Apr 2015 09:26:27 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Speaking at 418:conf web meetup</title>
       <link>https://laurakalbag.com/speaking-at-418-conf-web-meetup/</link>
       <pubDate>Tue, 07 Apr 2015 09:26:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-418-conf-web-meetup/</guid>
       <description>&lt;p&gt;I’m speaking at the very first &lt;a href=&#34;http://418conf.co.uk&#34;&gt;418:conf web meetup&lt;/a&gt; on 16th June 2015 in Nutfield (near Redhill) in Surrey. It’s exciting for me because it’s near where I used to live, and it’s a cool new meetup with a lot of potential.&lt;/p&gt;
 
@@ -38,7 +40,7 @@
       <title>Speaking at Design &#43; Banter</title>
       <link>https://laurakalbag.com/speaking-at-design-and-banter/</link>
       <pubDate>Wed, 26 Feb 2014 12:07:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-design-and-banter/</guid>
       <description>&lt;p&gt;I’m speaking at &lt;a href=&#34;http://designandbanter.com&#34;&gt;Design + Banter&lt;/a&gt; on Monday in London. It’s already sold out, but there’s a waiting list available for the free tickets.&lt;/p&gt;
 
@@ -61,7 +63,7 @@
       <title>Speaking at 12 Devs of Winter</title>
       <link>https://laurakalbag.com/speaking-at-12-devs-of-winter/</link>
       <pubDate>Mon, 06 Jan 2014 21:17:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-12-devs-of-winter/</guid>
       <description>
 
@@ -102,7 +104,7 @@
       <title>Speaking at MKGN this Thursday</title>
       <link>https://laurakalbag.com/speaking-at-mkgn/</link>
       <pubDate>Mon, 02 Dec 2013 10:57:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-mkgn/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://mkgeeknight.co.uk&#34;&gt;This Thursday I’m speaking at Milton Keynes Geek Night&lt;/a&gt;. Tickets sold out terrifyingly quickly, but I put that down to MKGN always being a great event.&lt;/p&gt;
 
@@ -123,7 +125,7 @@
       <title>Web talk dog walk II</title>
       <link>https://laurakalbag.com/web-talk-dog-walk-2/</link>
       <pubDate>Thu, 27 Jun 2013 09:29:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/web-talk-dog-walk-2/</guid>
       <description>
 
@@ -185,7 +187,7 @@
       <title>Speaking at Untangle the Web</title>
       <link>https://laurakalbag.com/speaking-at-untangle-the-web/</link>
       <pubDate>Mon, 10 Jun 2013 11:09:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-untangle-the-web/</guid>
       <description>
 
@@ -230,7 +232,7 @@ Thanking ye’ :)
       <title>Web talk dog walk</title>
       <link>https://laurakalbag.com/web-talk-dog-walk/</link>
       <pubDate>Sun, 09 Jun 2013 16:13:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/web-talk-dog-walk/</guid>
       <description>
 

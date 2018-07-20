@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Fri, 22 Dec 2017 18:59:08 +0100</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/24ways/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Semantic HTML on 24 Ways</title>
       <link>https://laurakalbag.com/semantic-html-on-24-ways/</link>
       <pubDate>Fri, 22 Dec 2017 18:59:08 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/semantic-html-on-24-ways/</guid>
       <description>&lt;p&gt;It’s been a few years since I wrote something for &lt;a href=&#34;http://24ways.org&#34;&gt;24ways&lt;/a&gt;, but this year I’m back, &lt;a href=&#34;https://24ways.org/2017/accessibility-through-semantic-html/&#34;&gt;making the case for semantic HTML&lt;/a&gt;.&lt;/p&gt;
 

@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 12 Mar 2018 12:17:22 +0100</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/surveillance-capitalism/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Podcasts, February 2018</title>
       <link>https://laurakalbag.com/podcasts-in-february-2018/</link>
       <pubDate>Mon, 12 Mar 2018 12:17:22 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/podcasts-in-february-2018/</guid>
       <description>
 

@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Fri, 14 Jun 2013 19:25:35 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/happy/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>The Critters 2013</title>
       <link>https://laurakalbag.com/the-critters-2013/</link>
       <pubDate>Fri, 14 Jun 2013 19:25:35 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-critters-2013/</guid>
       <description>
 
@@ -56,7 +58,7 @@
       <title>.net awards 2013</title>
       <link>https://laurakalbag.com/netmag-awards-2013/</link>
       <pubDate>Sun, 02 Jun 2013 09:32:12 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/netmag-awards-2013/</guid>
       <description>
 

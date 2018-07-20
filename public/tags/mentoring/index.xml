@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Thu, 23 Jan 2014 14:06:16 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/mentoring/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Industry mentoring on Creative Bloq</title>
       <link>https://laurakalbag.com/industry-mentoring-on-creative-bloq/</link>
       <pubDate>Thu, 23 Jan 2014 14:06:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/industry-mentoring-on-creative-bloq/</guid>
       <description>&lt;p&gt;Craig Grannell has written &lt;a href=&#34;http://www.creativebloq.com/netmag/why-industry-mentoring-utterly-invaluable-11410363&#34;&gt;a fantastic article on Creative Bloq about mentoring&lt;/a&gt;, looking at loads of different ways the web industry can do mentoring well. Including interviews with Clare Sutcliffe, Greg Hoy, Jeffery Zeldman, Andy Budd, Josh Emerson, Andy Budd, Anna Debenham and me!&lt;/p&gt;
 
@@ -38,7 +40,7 @@
       <title>Podcast interview with Jonathan Kahn</title>
       <link>https://laurakalbag.com/podcast-interview-with-jonathan-kahn/</link>
       <pubDate>Fri, 09 Aug 2013 08:52:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/podcast-interview-with-jonathan-kahn/</guid>
       <description>&lt;p&gt;Ahead of &lt;a href=&#34;https://laurakalbag.com/speaking-at-dare-conference/&#34; title=&#34;Speaking at Dare conference&#34;&gt;speaking at Dare conference&lt;/a&gt; this September, &lt;a href=&#34;http://lucidplot.com/2013/08/05/kalbag-podcast/&#34;&gt;I was interviewed by Jonathan Kahn&lt;/a&gt;, one of Dare’s organisers, about being honest, client relationships and mentoring in the web industry.&lt;/p&gt;
 
@@ -61,7 +63,7 @@
       <title>Mentoring Q and A on .net magazine</title>
       <link>https://laurakalbag.com/mentoring-q-and-a-on-netmag/</link>
       <pubDate>Mon, 01 Jul 2013 21:19:05 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-q-and-a-on-netmag/</guid>
       <description>&lt;p&gt;After &lt;a href=&#34;https://laurakalbag.com/mentoring-the-evaluation/&#34; title=&#34;Mentoring: the evaluation&#34;&gt;finishing the mentoring project last week&lt;/a&gt;, I had a chat with Craig Grannell about mentoring which he published on the .net website: “&lt;a href=&#34;http://www.netmagazine.com/news/laura-kalbag-web-designers-should-mentor-newcomers-132847&#34; title=&#34;Laura Kalbag: web designers should mentor newcomers on .net magazine&#34;&gt;Laura Kalbag: web designers should mentor newcomers&lt;/a&gt;.”&lt;/p&gt;
 
@@ -84,7 +86,7 @@
       <title>Mentoring: the evaluation</title>
       <link>https://laurakalbag.com/mentoring-the-evaluation/</link>
       <pubDate>Tue, 25 Jun 2013 11:11:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-the-evaluation/</guid>
       <description>
 

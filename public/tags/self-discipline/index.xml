@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 02 Dec 2013 10:57:42 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/self-discipline/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Speaking at MKGN this Thursday</title>
       <link>https://laurakalbag.com/speaking-at-mkgn/</link>
       <pubDate>Mon, 02 Dec 2013 10:57:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-mkgn/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://mkgeeknight.co.uk&#34;&gt;This Thursday I’m speaking at Milton Keynes Geek Night&lt;/a&gt;. Tickets sold out terrifyingly quickly, but I put that down to MKGN always being a great event.&lt;/p&gt;
 

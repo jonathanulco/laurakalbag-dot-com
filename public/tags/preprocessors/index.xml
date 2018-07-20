@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Fri, 28 Dec 2012 17:51:36 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/preprocessors/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Sass for Designers — The Setup</title>
       <link>https://laurakalbag.com/sass-for-designers-the-setup/</link>
       <pubDate>Fri, 28 Dec 2012 17:51:36 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/sass-for-designers-the-setup/</guid>
       <description>
 
@@ -172,7 +174,7 @@ I’ve just come across your site and really enjoyed digging around. Keep up the
       <title>Sass for Designers</title>
       <link>https://laurakalbag.com/sass-for-designers/</link>
       <pubDate>Fri, 28 Dec 2012 17:51:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/sass-for-designers/</guid>
       <description>
 
@@ -655,7 +657,7 @@ Mixins are best used when you need to calculate things, for instance I use this 
       <title>SMACSS –; Scalable and Modular Architecture for CSS</title>
       <link>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</link>
       <pubDate>Wed, 31 Oct 2012 08:45:52 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</guid>
       <description>
 

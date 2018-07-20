@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 01 Jul 2013 21:19:05 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/.net-magazine/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Mentoring Q and A on .net magazine</title>
       <link>https://laurakalbag.com/mentoring-q-and-a-on-netmag/</link>
       <pubDate>Mon, 01 Jul 2013 21:19:05 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-q-and-a-on-netmag/</guid>
       <description>&lt;p&gt;After &lt;a href=&#34;https://laurakalbag.com/mentoring-the-evaluation/&#34; title=&#34;Mentoring: the evaluation&#34;&gt;finishing the mentoring project last week&lt;/a&gt;, I had a chat with Craig Grannell about mentoring which he published on the .net website: “&lt;a href=&#34;http://www.netmagazine.com/news/laura-kalbag-web-designers-should-mentor-newcomers-132847&#34; title=&#34;Laura Kalbag: web designers should mentor newcomers on .net magazine&#34;&gt;Laura Kalbag: web designers should mentor newcomers&lt;/a&gt;.”&lt;/p&gt;
 

@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 11 Jun 2013 14:41:59 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/categories/pet-hates/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Fl&amp;#42;t design trend</title>
       <link>https://laurakalbag.com/flat-design-trend/</link>
       <pubDate>Tue, 11 Jun 2013 14:41:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/flat-design-trend/</guid>
       <description>
 
@@ -220,7 +222,7 @@ Steve
       <title>Women in…</title>
       <link>https://laurakalbag.com/women-in/</link>
       <pubDate>Wed, 02 Mar 2011 13:57:05 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/women-in/</guid>
       <description>
 

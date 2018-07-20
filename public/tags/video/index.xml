@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 21 Mar 2016 16:24:55 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Diary, 21st March 2016</title>
       <link>https://laurakalbag.com/diary-21st-march-2016/</link>
       <pubDate>Mon, 21 Mar 2016 16:24:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-21st-march-2016/</guid>
       <description>
 
@@ -103,7 +105,7 @@
       <title>Flexboxing the Universal Video Player</title>
       <link>https://laurakalbag.com/flexbox-video-player/</link>
       <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/flexbox-video-player/</guid>
       <description>&lt;p&gt;I added a flexbox layout to our Universal Video Player (accessible HTML5 video player) and wrote &lt;a href=&#34;https://ind.ie/labs/blog/video-player-flexbox/&#34;&gt;a blog post on Ind.ie Labs about using flexbox with progressive enhancement&lt;/a&gt;.&lt;/p&gt;
 
@@ -124,7 +126,7 @@
       <title>Indie Tech Summit videos and my talk on Universal Design</title>
       <link>https://laurakalbag.com/indie-tech-summit-videos/</link>
       <pubDate>Tue, 26 Aug 2014 11:59:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/indie-tech-summit-videos/</guid>
       <description>
 
@@ -155,7 +157,7 @@
       <title>Video interview for Interlink conference</title>
       <link>https://laurakalbag.com/video-interview-for-interlink-conference/</link>
       <pubDate>Thu, 13 Mar 2014 17:47:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/video-interview-for-interlink-conference/</guid>
       <description>&lt;p&gt;&lt;em&gt;Sadly, &lt;a href=&#34;http://interlinkconference.com&amp;quot; title=&amp;quot;The End of Interlink&#34;&gt;Interlink conference has been cancelled&lt;/a&gt;. I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.&lt;/em&gt;&lt;/p&gt;
 
@@ -182,7 +184,7 @@
       <title>Live-designing WordPress Admin Icons</title>
       <link>https://laurakalbag.com/live-designing-wordpress-admin-icons/</link>
       <pubDate>Sat, 02 Feb 2013 13:09:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/live-designing-wordpress-admin-icons/</guid>
       <description>
 

@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 01 Jul 2013 21:19:05 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>.Net Magazine</title>
       <link>https://laurakalbag.com/tags/.net-magazine/</link>
       <pubDate>Mon, 01 Jul 2013 21:19:05 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/.net-magazine/</guid>
       <description></description>
     </item>
@@ -24,7 +26,7 @@
       <title>2012</title>
       <link>https://laurakalbag.com/tags/2012/</link>
       <pubDate>Mon, 31 Dec 2012 23:12:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/2012/</guid>
       <description></description>
     </item>
@@ -33,7 +35,7 @@
       <title>24ways</title>
       <link>https://laurakalbag.com/tags/24ways/</link>
       <pubDate>Fri, 22 Dec 2017 18:59:08 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/24ways/</guid>
       <description></description>
     </item>
@@ -42,7 +44,7 @@
       <title>A Bit More Backendy</title>
       <link>https://laurakalbag.com/tags/a-bit-more-backendy/</link>
       <pubDate>Fri, 07 Mar 2014 12:04:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/a-bit-more-backendy/</guid>
       <description></description>
     </item>
@@ -51,7 +53,7 @@
       <title>A List Apart</title>
       <link>https://laurakalbag.com/tags/a-list-apart/</link>
       <pubDate>Fri, 03 Apr 2015 14:31:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/a-list-apart/</guid>
       <description></description>
     </item>
@@ -60,7 +62,7 @@
       <title>Access</title>
       <link>https://laurakalbag.com/tags/access/</link>
       <pubDate>Sat, 07 Jul 2018 22:07:24 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/access/</guid>
       <description></description>
     </item>
@@ -69,7 +71,7 @@
       <title>Accessibility</title>
       <link>https://laurakalbag.com/tags/accessibility/</link>
       <pubDate>Mon, 12 Mar 2018 12:17:46 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/accessibility/</guid>
       <description></description>
     </item>
@@ -78,7 +80,7 @@
       <title>Accessibility for Everyone</title>
       <link>https://laurakalbag.com/tags/accessibility-for-everyone/</link>
       <pubDate>Fri, 18 Aug 2017 13:44:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/accessibility-for-everyone/</guid>
       <description></description>
     </item>
@@ -87,7 +89,7 @@
       <title>Accounts</title>
       <link>https://laurakalbag.com/tags/accounts/</link>
       <pubDate>Tue, 31 Aug 2010 10:00:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/accounts/</guid>
       <description></description>
     </item>
@@ -96,7 +98,7 @@
       <title>Addiction</title>
       <link>https://laurakalbag.com/tags/addiction/</link>
       <pubDate>Tue, 27 Aug 2013 09:00:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/addiction/</guid>
       <description></description>
     </item>
@@ -105,7 +107,7 @@
       <title>Adobe</title>
       <link>https://laurakalbag.com/tags/adobe/</link>
       <pubDate>Thu, 25 Oct 2012 16:37:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/adobe/</guid>
       <description></description>
     </item>
@@ -114,7 +116,7 @@
       <title>Advertising</title>
       <link>https://laurakalbag.com/tags/advertising/</link>
       <pubDate>Wed, 04 Aug 2010 10:32:18 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/advertising/</guid>
       <description></description>
     </item>
@@ -123,7 +125,7 @@
       <title>Aesthetic</title>
       <link>https://laurakalbag.com/tags/aesthetic/</link>
       <pubDate>Tue, 11 Jun 2013 14:41:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/aesthetic/</guid>
       <description></description>
     </item>
@@ -132,7 +134,7 @@
       <title>Aesthetics</title>
       <link>https://laurakalbag.com/tags/aesthetics/</link>
       <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/aesthetics/</guid>
       <description></description>
     </item>
@@ -141,7 +143,7 @@
       <title>Agencies</title>
       <link>https://laurakalbag.com/tags/agencies/</link>
       <pubDate>Mon, 20 May 2013 09:07:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/agencies/</guid>
       <description></description>
     </item>
@@ -150,7 +152,7 @@
       <title>Ampersand Conference</title>
       <link>https://laurakalbag.com/tags/ampersand-conference/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/ampersand-conference/</guid>
       <description></description>
     </item>
@@ -159,7 +161,7 @@
       <title>Analytics</title>
       <link>https://laurakalbag.com/tags/analytics/</link>
       <pubDate>Thu, 30 Jul 2015 10:19:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/analytics/</guid>
       <description></description>
     </item>
@@ -168,7 +170,7 @@
       <title>Animation</title>
       <link>https://laurakalbag.com/tags/animation/</link>
       <pubDate>Mon, 12 Mar 2018 12:17:46 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/animation/</guid>
       <description></description>
     </item>
@@ -177,7 +179,7 @@
       <title>App Design</title>
       <link>https://laurakalbag.com/tags/app-design/</link>
       <pubDate>Mon, 10 Dec 2012 21:23:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/app-design/</guid>
       <description></description>
     </item>
@@ -186,7 +188,7 @@
       <title>App Store</title>
       <link>https://laurakalbag.com/tags/app-store/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/app-store/</guid>
       <description></description>
     </item>
@@ -195,7 +197,7 @@
       <title>App Stream</title>
       <link>https://laurakalbag.com/tags/app-stream/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/app-stream/</guid>
       <description></description>
     </item>
@@ -204,7 +206,7 @@
       <title>Appearance</title>
       <link>https://laurakalbag.com/tags/appearance/</link>
       <pubDate>Thu, 02 Sep 2010 10:42:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/appearance/</guid>
       <description></description>
     </item>
@@ -213,7 +215,7 @@
       <title>Apple</title>
       <link>https://laurakalbag.com/tags/apple/</link>
       <pubDate>Fri, 17 Jul 2015 17:56:41 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/apple/</guid>
       <description></description>
     </item>
@@ -222,7 +224,7 @@
       <title>Apple Display</title>
       <link>https://laurakalbag.com/tags/apple-display/</link>
       <pubDate>Tue, 02 Feb 2016 15:51:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/apple-display/</guid>
       <description></description>
     </item>
@@ -231,7 +233,7 @@
       <title>Approach</title>
       <link>https://laurakalbag.com/tags/approach/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/approach/</guid>
       <description></description>
     </item>
@@ -240,7 +242,7 @@
       <title>Apps</title>
       <link>https://laurakalbag.com/tags/apps/</link>
       <pubDate>Mon, 10 Dec 2012 21:23:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/apps/</guid>
       <description></description>
     </item>
@@ -249,7 +251,7 @@
       <title>Art</title>
       <link>https://laurakalbag.com/tags/art/</link>
       <pubDate>Mon, 24 Mar 2014 10:37:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/art/</guid>
       <description></description>
     </item>
@@ -258,7 +260,7 @@
       <title>Aspiring</title>
       <link>https://laurakalbag.com/tags/aspiring/</link>
       <pubDate>Wed, 17 Feb 2016 10:30:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/aspiring/</guid>
       <description></description>
     </item>
@@ -267,7 +269,7 @@
       <title>Asset Fonts</title>
       <link>https://laurakalbag.com/tags/asset-fonts/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/asset-fonts/</guid>
       <description></description>
     </item>
@@ -276,7 +278,7 @@
       <title>Assistive Technology</title>
       <link>https://laurakalbag.com/tags/assistive-technology/</link>
       <pubDate>Sat, 07 Jul 2018 22:07:24 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/assistive-technology/</guid>
       <description></description>
     </item>
@@ -285,7 +287,7 @@
       <title>Attendees</title>
       <link>https://laurakalbag.com/tags/attendees/</link>
       <pubDate>Mon, 23 May 2011 15:00:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/attendees/</guid>
       <description></description>
     </item>
@@ -294,7 +296,7 @@
       <title>Attitude</title>
       <link>https://laurakalbag.com/tags/attitude/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/attitude/</guid>
       <description></description>
     </item>
@@ -303,7 +305,7 @@
       <title>Augmented Reality</title>
       <link>https://laurakalbag.com/tags/augmented-reality/</link>
       <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/augmented-reality/</guid>
       <description></description>
     </item>
@@ -312,7 +314,7 @@
       <title>Back Button</title>
       <link>https://laurakalbag.com/tags/back-button/</link>
       <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/back-button/</guid>
       <description></description>
     </item>
@@ -321,7 +323,7 @@
       <title>Back End Development</title>
       <link>https://laurakalbag.com/tags/back-end-development/</link>
       <pubDate>Fri, 07 Mar 2014 12:04:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/back-end-development/</guid>
       <description></description>
     </item>
@@ -330,7 +332,7 @@
       <title>Bardowl</title>
       <link>https://laurakalbag.com/tags/bardowl/</link>
       <pubDate>Mon, 10 Dec 2012 21:23:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/bardowl/</guid>
       <description></description>
     </item>
@@ -339,7 +341,7 @@
       <title>Base Units</title>
       <link>https://laurakalbag.com/tags/base-units/</link>
       <pubDate>Fri, 12 Oct 2012 21:39:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/base-units/</guid>
       <description></description>
     </item>
@@ -348,7 +350,7 @@
       <title>Bath</title>
       <link>https://laurakalbag.com/tags/bath/</link>
       <pubDate>Thu, 25 Sep 2014 14:09:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/bath/</guid>
       <description></description>
     </item>
@@ -357,7 +359,7 @@
       <title>Bathcamp</title>
       <link>https://laurakalbag.com/tags/bathcamp/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/bathcamp/</guid>
       <description></description>
     </item>
@@ -366,7 +368,7 @@
       <title>Bbc Taster</title>
       <link>https://laurakalbag.com/tags/bbc-taster/</link>
       <pubDate>Tue, 14 Apr 2015 13:55:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/bbc-taster/</guid>
       <description></description>
     </item>
@@ -375,7 +377,7 @@
       <title>Better</title>
       <link>https://laurakalbag.com/tags/better/</link>
       <pubDate>Mon, 10 Apr 2017 12:58:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/better/</guid>
       <description></description>
     </item>
@@ -384,7 +386,7 @@
       <title>Better.fyi</title>
       <link>https://laurakalbag.com/tags/better.fyi/</link>
       <pubDate>Mon, 10 Apr 2017 12:58:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/better.fyi/</guid>
       <description></description>
     </item>
@@ -393,7 +395,7 @@
       <title>Beyond Usability</title>
       <link>https://laurakalbag.com/tags/beyond-usability/</link>
       <pubDate>Tue, 15 Nov 2011 09:43:18 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/beyond-usability/</guid>
       <description></description>
     </item>
@@ -402,7 +404,7 @@
       <title>Book</title>
       <link>https://laurakalbag.com/tags/book/</link>
       <pubDate>Fri, 18 Aug 2017 13:44:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/book/</guid>
       <description></description>
     </item>
@@ -411,7 +413,7 @@
       <title>Book Review</title>
       <link>https://laurakalbag.com/tags/book-review/</link>
       <pubDate>Mon, 12 Jul 2010 16:29:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/book-review/</guid>
       <description></description>
     </item>
@@ -420,7 +422,7 @@
       <title>Bookmarks</title>
       <link>https://laurakalbag.com/tags/bookmarks/</link>
       <pubDate>Thu, 03 Jan 2013 15:47:58 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/bookmarks/</guid>
       <description></description>
     </item>
@@ -429,7 +431,7 @@
       <title>Books</title>
       <link>https://laurakalbag.com/tags/books/</link>
       <pubDate>Fri, 26 Jun 2015 00:00:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/books/</guid>
       <description></description>
     </item>
@@ -438,7 +440,7 @@
       <title>Breakpoints</title>
       <link>https://laurakalbag.com/tags/breakpoints/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/breakpoints/</guid>
       <description></description>
     </item>
@@ -447,7 +449,7 @@
       <title>Brighton</title>
       <link>https://laurakalbag.com/tags/brighton/</link>
       <pubDate>Thu, 27 Jun 2013 09:29:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/brighton/</guid>
       <description></description>
     </item>
@@ -456,7 +458,7 @@
       <title>Browser Windows</title>
       <link>https://laurakalbag.com/tags/browser-windows/</link>
       <pubDate>Thu, 08 Aug 2013 18:59:17 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/browser-windows/</guid>
       <description></description>
     </item>
@@ -465,7 +467,7 @@
       <title>Browsers</title>
       <link>https://laurakalbag.com/tags/browsers/</link>
       <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/browsers/</guid>
       <description></description>
     </item>
@@ -474,7 +476,7 @@
       <title>Bullying</title>
       <link>https://laurakalbag.com/tags/bullying/</link>
       <pubDate>Fri, 03 Apr 2015 15:46:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/bullying/</guid>
       <description></description>
     </item>
@@ -483,7 +485,7 @@
       <title>Burnout</title>
       <link>https://laurakalbag.com/tags/burnout/</link>
       <pubDate>Mon, 13 Oct 2014 11:14:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/burnout/</guid>
       <description></description>
     </item>
@@ -492,7 +494,7 @@
       <title>Business</title>
       <link>https://laurakalbag.com/tags/business/</link>
       <pubDate>Wed, 27 Aug 2014 16:04:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/business/</guid>
       <description></description>
     </item>
@@ -501,7 +503,7 @@
       <title>Business Contents</title>
       <link>https://laurakalbag.com/tags/business-contents/</link>
       <pubDate>Mon, 04 Aug 2014 09:47:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/business-contents/</guid>
       <description></description>
     </item>
@@ -510,7 +512,7 @@
       <title>Caffeine</title>
       <link>https://laurakalbag.com/tags/caffeine/</link>
       <pubDate>Tue, 27 Aug 2013 09:00:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/caffeine/</guid>
       <description></description>
     </item>
@@ -519,7 +521,7 @@
       <title>Canada</title>
       <link>https://laurakalbag.com/tags/canada/</link>
       <pubDate>Thu, 13 Mar 2014 17:47:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/canada/</guid>
       <description></description>
     </item>
@@ -528,7 +530,7 @@
       <title>Capabilities</title>
       <link>https://laurakalbag.com/tags/capabilities/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/capabilities/</guid>
       <description></description>
     </item>
@@ -537,7 +539,7 @@
       <title>Capitalism</title>
       <link>https://laurakalbag.com/tags/capitalism/</link>
       <pubDate>Fri, 03 Apr 2015 15:46:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/capitalism/</guid>
       <description></description>
     </item>
@@ -546,7 +548,7 @@
       <title>Case Studies</title>
       <link>https://laurakalbag.com/tags/case-studies/</link>
       <pubDate>Fri, 02 May 2014 13:10:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/case-studies/</guid>
       <description></description>
     </item>
@@ -555,7 +557,7 @@
       <title>Case Study</title>
       <link>https://laurakalbag.com/tags/case-study/</link>
       <pubDate>Fri, 26 Jul 2013 09:00:10 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/case-study/</guid>
       <description></description>
     </item>
@@ -564,7 +566,7 @@
       <title>Cat</title>
       <link>https://laurakalbag.com/tags/cat/</link>
       <pubDate>Wed, 13 May 2015 16:19:03 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/cat/</guid>
       <description></description>
     </item>
@@ -573,7 +575,7 @@
       <title>Chair</title>
       <link>https://laurakalbag.com/tags/chair/</link>
       <pubDate>Tue, 02 Feb 2016 15:51:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/chair/</guid>
       <description></description>
     </item>
@@ -582,7 +584,7 @@
       <title>Charity</title>
       <link>https://laurakalbag.com/tags/charity/</link>
       <pubDate>Tue, 26 Aug 2014 14:42:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/charity/</guid>
       <description></description>
     </item>
@@ -591,7 +593,7 @@
       <title>Choosing Typefaces</title>
       <link>https://laurakalbag.com/tags/choosing-typefaces/</link>
       <pubDate>Fri, 12 Oct 2012 21:39:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/choosing-typefaces/</guid>
       <description></description>
     </item>
@@ -600,7 +602,7 @@
       <title>Christmas Decorations</title>
       <link>https://laurakalbag.com/tags/christmas-decorations/</link>
       <pubDate>Mon, 01 Dec 2014 14:14:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/christmas-decorations/</guid>
       <description></description>
     </item>
@@ -609,7 +611,7 @@
       <title>Client Work</title>
       <link>https://laurakalbag.com/tags/client-work/</link>
       <pubDate>Tue, 07 Oct 2014 13:57:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/client-work/</guid>
       <description></description>
     </item>
@@ -618,7 +620,7 @@
       <title>Clients</title>
       <link>https://laurakalbag.com/tags/clients/</link>
       <pubDate>Thu, 27 Feb 2014 15:25:44 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/clients/</guid>
       <description></description>
     </item>
@@ -627,7 +629,7 @@
       <title>Cloud</title>
       <link>https://laurakalbag.com/tags/cloud/</link>
       <pubDate>Mon, 13 Jul 2015 10:46:13 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/cloud/</guid>
       <description></description>
     </item>
@@ -636,7 +638,7 @@
       <title>Code</title>
       <link>https://laurakalbag.com/tags/code/</link>
       <pubDate>Sat, 20 Oct 2012 13:11:08 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/code/</guid>
       <description></description>
     </item>
@@ -645,7 +647,7 @@
       <title>Code of Conduct</title>
       <link>https://laurakalbag.com/tags/code-of-conduct/</link>
       <pubDate>Tue, 02 Sep 2014 08:53:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/code-of-conduct/</guid>
       <description></description>
     </item>
@@ -654,7 +656,7 @@
       <title>Codekit</title>
       <link>https://laurakalbag.com/tags/codekit/</link>
       <pubDate>Fri, 26 Jul 2013 09:00:10 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/codekit/</guid>
       <description></description>
     </item>
@@ -663,7 +665,7 @@
       <title>Cognitive Psychology</title>
       <link>https://laurakalbag.com/tags/cognitive-psychology/</link>
       <pubDate>Mon, 15 Apr 2013 08:55:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/cognitive-psychology/</guid>
       <description></description>
     </item>
@@ -672,7 +674,7 @@
       <title>Collaboration</title>
       <link>https://laurakalbag.com/tags/collaboration/</link>
       <pubDate>Thu, 05 Jun 2014 08:28:36 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/collaboration/</guid>
       <description></description>
     </item>
@@ -681,7 +683,7 @@
       <title>Colour</title>
       <link>https://laurakalbag.com/tags/colour/</link>
       <pubDate>Thu, 02 Apr 2015 17:24:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/colour/</guid>
       <description></description>
     </item>
@@ -690,7 +692,7 @@
       <title>Columns</title>
       <link>https://laurakalbag.com/tags/columns/</link>
       <pubDate>Fri, 12 Oct 2012 21:39:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/columns/</guid>
       <description></description>
     </item>
@@ -699,7 +701,7 @@
       <title>Comfort Zone</title>
       <link>https://laurakalbag.com/tags/comfort-zone/</link>
       <pubDate>Tue, 19 Aug 2014 18:57:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/comfort-zone/</guid>
       <description></description>
     </item>
@@ -708,7 +710,7 @@
       <title>Comfortable</title>
       <link>https://laurakalbag.com/tags/comfortable/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/comfortable/</guid>
       <description></description>
     </item>
@@ -717,7 +719,7 @@
       <title>Comic Sans</title>
       <link>https://laurakalbag.com/tags/comic-sans/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/comic-sans/</guid>
       <description></description>
     </item>
@@ -726,7 +728,7 @@
       <title>Command Line</title>
       <link>https://laurakalbag.com/tags/command-line/</link>
       <pubDate>Tue, 07 Oct 2014 13:57:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/command-line/</guid>
       <description></description>
     </item>
@@ -735,7 +737,7 @@
       <title>Communication</title>
       <link>https://laurakalbag.com/tags/communication/</link>
       <pubDate>Thu, 31 Jul 2014 15:52:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/communication/</guid>
       <description></description>
     </item>
@@ -744,7 +746,7 @@
       <title>Community</title>
       <link>https://laurakalbag.com/tags/community/</link>
       <pubDate>Mon, 01 Apr 2013 10:17:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/community/</guid>
       <description></description>
     </item>
@@ -753,7 +755,7 @@
       <title>Companies</title>
       <link>https://laurakalbag.com/tags/companies/</link>
       <pubDate>Fri, 22 Apr 2016 14:59:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/companies/</guid>
       <description></description>
     </item>
@@ -762,7 +764,7 @@
       <title>Conference</title>
       <link>https://laurakalbag.com/tags/conference/</link>
       <pubDate>Tue, 07 Apr 2015 09:26:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/conference/</guid>
       <description></description>
     </item>
@@ -771,7 +773,7 @@
       <title>Conferences</title>
       <link>https://laurakalbag.com/tags/conferences/</link>
       <pubDate>Thu, 01 Jan 2015 14:21:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/conferences/</guid>
       <description></description>
     </item>
@@ -780,7 +782,7 @@
       <title>Constraints</title>
       <link>https://laurakalbag.com/tags/constraints/</link>
       <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/constraints/</guid>
       <description></description>
     </item>
@@ -789,7 +791,7 @@
       <title>Content</title>
       <link>https://laurakalbag.com/tags/content/</link>
       <pubDate>Thu, 14 Aug 2014 15:47:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/content/</guid>
       <description></description>
     </item>
@@ -798,7 +800,7 @@
       <title>Content First</title>
       <link>https://laurakalbag.com/tags/content-first/</link>
       <pubDate>Fri, 12 Oct 2012 21:39:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/content-first/</guid>
       <description></description>
     </item>
@@ -807,7 +809,7 @@
       <title>Context</title>
       <link>https://laurakalbag.com/tags/context/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/context/</guid>
       <description></description>
     </item>
@@ -816,7 +818,7 @@
       <title>Contract</title>
       <link>https://laurakalbag.com/tags/contract/</link>
       <pubDate>Mon, 04 Nov 2013 10:14:44 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/contract/</guid>
       <description></description>
     </item>
@@ -825,7 +827,7 @@
       <title>Contrast</title>
       <link>https://laurakalbag.com/tags/contrast/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/contrast/</guid>
       <description></description>
     </item>
@@ -834,7 +836,7 @@
       <title>Control</title>
       <link>https://laurakalbag.com/tags/control/</link>
       <pubDate>Tue, 01 Jan 2013 19:01:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/control/</guid>
       <description></description>
     </item>
@@ -843,7 +845,7 @@
       <title>Copyright Infringement</title>
       <link>https://laurakalbag.com/tags/copyright-infringement/</link>
       <pubDate>Mon, 04 Aug 2014 09:47:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/copyright-infringement/</guid>
       <description></description>
     </item>
@@ -852,7 +854,7 @@
       <title>Copywriting</title>
       <link>https://laurakalbag.com/tags/copywriting/</link>
       <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/copywriting/</guid>
       <description></description>
     </item>
@@ -861,7 +863,7 @@
       <title>Corporate Surveillance</title>
       <link>https://laurakalbag.com/tags/corporate-surveillance/</link>
       <pubDate>Fri, 07 Aug 2015 21:19:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/corporate-surveillance/</guid>
       <description></description>
     </item>
@@ -870,7 +872,7 @@
       <title>Cost</title>
       <link>https://laurakalbag.com/tags/cost/</link>
       <pubDate>Mon, 23 May 2011 15:00:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/cost/</guid>
       <description></description>
     </item>
@@ -879,7 +881,7 @@
       <title>Creation</title>
       <link>https://laurakalbag.com/tags/creation/</link>
       <pubDate>Wed, 05 Dec 2012 18:10:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/creation/</guid>
       <description></description>
     </item>
@@ -888,7 +890,7 @@
       <title>Creative Bloq</title>
       <link>https://laurakalbag.com/tags/creative-bloq/</link>
       <pubDate>Tue, 14 Apr 2015 13:55:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/creative-bloq/</guid>
       <description></description>
     </item>
@@ -897,7 +899,7 @@
       <title>Creativity</title>
       <link>https://laurakalbag.com/tags/creativity/</link>
       <pubDate>Sun, 10 Jun 2012 18:17:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/creativity/</guid>
       <description></description>
     </item>
@@ -906,7 +908,7 @@
       <title>Crit</title>
       <link>https://laurakalbag.com/tags/crit/</link>
       <pubDate>Mon, 01 Apr 2013 10:17:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/crit/</guid>
       <description></description>
     </item>
@@ -915,7 +917,7 @@
       <title>Criticism</title>
       <link>https://laurakalbag.com/tags/criticism/</link>
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/criticism/</guid>
       <description></description>
     </item>
@@ -924,7 +926,7 @@
       <title>Critiques</title>
       <link>https://laurakalbag.com/tags/critiques/</link>
       <pubDate>Thu, 31 Jul 2014 15:52:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/critiques/</guid>
       <description></description>
     </item>
@@ -933,7 +935,7 @@
       <title>Crop Suey</title>
       <link>https://laurakalbag.com/tags/crop-suey/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/crop-suey/</guid>
       <description></description>
     </item>
@@ -942,7 +944,7 @@
       <title>Crowdfunding</title>
       <link>https://laurakalbag.com/tags/crowdfunding/</link>
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/crowdfunding/</guid>
       <description></description>
     </item>
@@ -951,7 +953,7 @@
       <title>Css</title>
       <link>https://laurakalbag.com/tags/css/</link>
       <pubDate>Mon, 02 Jul 2018 19:25:46 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/css/</guid>
       <description></description>
     </item>
@@ -960,7 +962,7 @@
       <title>Css Grid Layout</title>
       <link>https://laurakalbag.com/tags/css-grid-layout/</link>
       <pubDate>Mon, 02 Jul 2018 19:25:46 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/css-grid-layout/</guid>
       <description></description>
     </item>
@@ -969,7 +971,7 @@
       <title>Css3</title>
       <link>https://laurakalbag.com/tags/css3/</link>
       <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/css3/</guid>
       <description></description>
     </item>
@@ -978,7 +980,7 @@
       <title>Culture</title>
       <link>https://laurakalbag.com/tags/culture/</link>
       <pubDate>Fri, 03 Apr 2015 15:46:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/culture/</guid>
       <description></description>
     </item>
@@ -987,7 +989,7 @@
       <title>Custom Backgrounds</title>
       <link>https://laurakalbag.com/tags/custom-backgrounds/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/custom-backgrounds/</guid>
       <description></description>
     </item>
@@ -996,7 +998,7 @@
       <title>Custom Headers</title>
       <link>https://laurakalbag.com/tags/custom-headers/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/custom-headers/</guid>
       <description></description>
     </item>
@@ -1005,7 +1007,7 @@
       <title>Custom Post Types</title>
       <link>https://laurakalbag.com/tags/custom-post-types/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:50 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/custom-post-types/</guid>
       <description></description>
     </item>
@@ -1014,7 +1016,7 @@
       <title>Custom Taxonomies</title>
       <link>https://laurakalbag.com/tags/custom-taxonomies/</link>
       <pubDate>Fri, 16 Jul 2010 21:49:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/custom-taxonomies/</guid>
       <description></description>
     </item>
@@ -1023,7 +1025,7 @@
       <title>Data</title>
       <link>https://laurakalbag.com/tags/data/</link>
       <pubDate>Wed, 04 Jun 2014 08:36:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/data/</guid>
       <description></description>
     </item>
@@ -1032,7 +1034,7 @@
       <title>Dconstruct</title>
       <link>https://laurakalbag.com/tags/dconstruct/</link>
       <pubDate>Mon, 08 Sep 2014 15:08:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/dconstruct/</guid>
       <description></description>
     </item>
@@ -1041,7 +1043,7 @@
       <title>Decisions</title>
       <link>https://laurakalbag.com/tags/decisions/</link>
       <pubDate>Tue, 23 Nov 2010 16:31:50 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/decisions/</guid>
       <description></description>
     </item>
@@ -1050,7 +1052,7 @@
       <title>Deliverables</title>
       <link>https://laurakalbag.com/tags/deliverables/</link>
       <pubDate>Thu, 27 Feb 2014 15:25:44 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/deliverables/</guid>
       <description></description>
     </item>
@@ -1059,7 +1061,7 @@
       <title>Design</title>
       <link>https://laurakalbag.com/tags/design/</link>
       <pubDate>Wed, 17 Feb 2016 10:30:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/design/</guid>
       <description></description>
     </item>
@@ -1068,7 +1070,7 @@
       <title>Design Ethics</title>
       <link>https://laurakalbag.com/tags/design-ethics/</link>
       <pubDate>Thu, 30 Jul 2015 10:19:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/design-ethics/</guid>
       <description></description>
     </item>
@@ -1077,7 +1079,7 @@
       <title>Design Eye</title>
       <link>https://laurakalbag.com/tags/design-eye/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/design-eye/</guid>
       <description></description>
     </item>
@@ -1086,7 +1088,7 @@
       <title>Design Pairing</title>
       <link>https://laurakalbag.com/tags/design-pairing/</link>
       <pubDate>Mon, 23 May 2011 15:05:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/design-pairing/</guid>
       <description></description>
     </item>
@@ -1095,7 +1097,7 @@
       <title>Design Patterns</title>
       <link>https://laurakalbag.com/tags/design-patterns/</link>
       <pubDate>Fri, 01 Jun 2012 21:51:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/design-patterns/</guid>
       <description></description>
     </item>
@@ -1104,7 +1106,7 @@
       <title>Design Systems</title>
       <link>https://laurakalbag.com/tags/design-systems/</link>
       <pubDate>Wed, 12 Dec 2012 10:45:08 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/design-systems/</guid>
       <description></description>
     </item>
@@ -1113,7 +1115,7 @@
       <title>Design Theory</title>
       <link>https://laurakalbag.com/tags/design-theory/</link>
       <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/design-theory/</guid>
       <description></description>
     </item>
@@ -1122,7 +1124,7 @@
       <title>Designer</title>
       <link>https://laurakalbag.com/tags/designer/</link>
       <pubDate>Tue, 11 Jun 2013 14:41:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/designer/</guid>
       <description></description>
     </item>
@@ -1131,7 +1133,7 @@
       <title>Designer Developer</title>
       <link>https://laurakalbag.com/tags/designer-developer/</link>
       <pubDate>Mon, 10 Dec 2012 21:23:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/designer-developer/</guid>
       <description></description>
     </item>
@@ -1140,7 +1142,7 @@
       <title>Designers</title>
       <link>https://laurakalbag.com/tags/designers/</link>
       <pubDate>Fri, 30 Aug 2013 09:00:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/designers/</guid>
       <description></description>
     </item>
@@ -1149,7 +1151,7 @@
       <title>Designing With Data</title>
       <link>https://laurakalbag.com/tags/designing-with-data/</link>
       <pubDate>Mon, 02 Jul 2012 10:51:29 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/designing-with-data/</guid>
       <description></description>
     </item>
@@ -1158,7 +1160,7 @@
       <title>Desk</title>
       <link>https://laurakalbag.com/tags/desk/</link>
       <pubDate>Tue, 02 Feb 2016 15:51:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/desk/</guid>
       <description></description>
     </item>
@@ -1167,7 +1169,7 @@
       <title>Desk Space</title>
       <link>https://laurakalbag.com/tags/desk-space/</link>
       <pubDate>Tue, 31 Aug 2010 10:00:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/desk-space/</guid>
       <description></description>
     </item>
@@ -1176,7 +1178,7 @@
       <title>Development</title>
       <link>https://laurakalbag.com/tags/development/</link>
       <pubDate>Tue, 07 Oct 2014 13:57:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/development/</guid>
       <description></description>
     </item>
@@ -1185,7 +1187,7 @@
       <title>Devices</title>
       <link>https://laurakalbag.com/tags/devices/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/devices/</guid>
       <description></description>
     </item>
@@ -1194,7 +1196,7 @@
       <title>Digest</title>
       <link>https://laurakalbag.com/tags/digest/</link>
       <pubDate>Tue, 22 May 2012 09:28:41 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/digest/</guid>
       <description></description>
     </item>
@@ -1203,7 +1205,7 @@
       <title>Digital Arts Magazine</title>
       <link>https://laurakalbag.com/tags/digital-arts-magazine/</link>
       <pubDate>Fri, 20 Feb 2015 16:34:52 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/digital-arts-magazine/</guid>
       <description></description>
     </item>
@@ -1212,7 +1214,7 @@
       <title>Digital History</title>
       <link>https://laurakalbag.com/tags/digital-history/</link>
       <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/digital-history/</guid>
       <description></description>
     </item>
@@ -1221,7 +1223,7 @@
       <title>Digital Past</title>
       <link>https://laurakalbag.com/tags/digital-past/</link>
       <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/digital-past/</guid>
       <description></description>
     </item>
@@ -1230,7 +1232,7 @@
       <title>Digital Products</title>
       <link>https://laurakalbag.com/tags/digital-products/</link>
       <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/digital-products/</guid>
       <description></description>
     </item>
@@ -1239,7 +1241,7 @@
       <title>Director</title>
       <link>https://laurakalbag.com/tags/director/</link>
       <pubDate>Fri, 22 Apr 2016 14:59:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/director/</guid>
       <description></description>
     </item>
@@ -1248,7 +1250,7 @@
       <title>Disciplines</title>
       <link>https://laurakalbag.com/tags/disciplines/</link>
       <pubDate>Tue, 25 Jun 2013 11:11:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/disciplines/</guid>
       <description></description>
     </item>
@@ -1257,7 +1259,7 @@
       <title>Discount</title>
       <link>https://laurakalbag.com/tags/discount/</link>
       <pubDate>Wed, 04 Jun 2014 08:36:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/discount/</guid>
       <description></description>
     </item>
@@ -1266,7 +1268,7 @@
       <title>Discrimination</title>
       <link>https://laurakalbag.com/tags/discrimination/</link>
       <pubDate>Thu, 17 Oct 2013 07:28:18 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/discrimination/</guid>
       <description></description>
     </item>
@@ -1275,7 +1277,7 @@
       <title>Diversity</title>
       <link>https://laurakalbag.com/tags/diversity/</link>
       <pubDate>Fri, 07 Aug 2015 21:19:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/diversity/</guid>
       <description></description>
     </item>
@@ -1284,7 +1286,7 @@
       <title>Dog Walk</title>
       <link>https://laurakalbag.com/tags/dog-walk/</link>
       <pubDate>Thu, 27 Jun 2013 09:29:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/dog-walk/</guid>
       <description></description>
     </item>
@@ -1293,7 +1295,7 @@
       <title>Drafts</title>
       <link>https://laurakalbag.com/tags/drafts/</link>
       <pubDate>Tue, 14 Sep 2010 20:06:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/drafts/</guid>
       <description></description>
     </item>
@@ -1302,7 +1304,7 @@
       <title>Drawing</title>
       <link>https://laurakalbag.com/tags/drawing/</link>
       <pubDate>Fri, 31 Jan 2014 10:08:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/drawing/</guid>
       <description></description>
     </item>
@@ -1311,7 +1313,7 @@
       <title>Dreams</title>
       <link>https://laurakalbag.com/tags/dreams/</link>
       <pubDate>Wed, 18 Dec 2013 11:59:17 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/dreams/</guid>
       <description></description>
     </item>
@@ -1320,7 +1322,7 @@
       <title>Dribbble</title>
       <link>https://laurakalbag.com/tags/dribbble/</link>
       <pubDate>Wed, 06 Oct 2010 10:38:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/dribbble/</guid>
       <description></description>
     </item>
@@ -1329,7 +1331,7 @@
       <title>Economy</title>
       <link>https://laurakalbag.com/tags/economy/</link>
       <pubDate>Fri, 03 Apr 2015 15:46:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/economy/</guid>
       <description></description>
     </item>
@@ -1338,7 +1340,7 @@
       <title>Editing</title>
       <link>https://laurakalbag.com/tags/editing/</link>
       <pubDate>Tue, 06 May 2014 09:34:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/editing/</guid>
       <description></description>
     </item>
@@ -1347,7 +1349,7 @@
       <title>Education</title>
       <link>https://laurakalbag.com/tags/education/</link>
       <pubDate>Wed, 23 Jan 2013 09:44:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/education/</guid>
       <description></description>
     </item>
@@ -1356,7 +1358,7 @@
       <title>Ego</title>
       <link>https://laurakalbag.com/tags/ego/</link>
       <pubDate>Thu, 03 Apr 2014 12:56:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/ego/</guid>
       <description></description>
     </item>
@@ -1365,7 +1367,7 @@
       <title>Email</title>
       <link>https://laurakalbag.com/tags/email/</link>
       <pubDate>Wed, 27 Aug 2014 16:04:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/email/</guid>
       <description></description>
     </item>
@@ -1374,7 +1376,7 @@
       <title>Emoji</title>
       <link>https://laurakalbag.com/tags/emoji/</link>
       <pubDate>Sun, 10 Feb 2013 15:31:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/emoji/</guid>
       <description></description>
     </item>
@@ -1383,7 +1385,7 @@
       <title>Emotion</title>
       <link>https://laurakalbag.com/tags/emotion/</link>
       <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/emotion/</guid>
       <description></description>
     </item>
@@ -1392,7 +1394,7 @@
       <title>Emotional Design</title>
       <link>https://laurakalbag.com/tags/emotional-design/</link>
       <pubDate>Tue, 15 Nov 2011 09:43:18 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/emotional-design/</guid>
       <description></description>
     </item>
@@ -1401,7 +1403,7 @@
       <title>Empowering Users</title>
       <link>https://laurakalbag.com/tags/empowering-users/</link>
       <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/empowering-users/</guid>
       <description></description>
     </item>
@@ -1410,7 +1412,7 @@
       <title>Equality</title>
       <link>https://laurakalbag.com/tags/equality/</link>
       <pubDate>Tue, 26 Aug 2014 14:42:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/equality/</guid>
       <description></description>
     </item>
@@ -1419,7 +1421,7 @@
       <title>Equanimity</title>
       <link>https://laurakalbag.com/tags/equanimity/</link>
       <pubDate>Wed, 05 Dec 2012 18:10:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/equanimity/</guid>
       <description></description>
     </item>
@@ -1428,7 +1430,7 @@
       <title>Ethical Design</title>
       <link>https://laurakalbag.com/tags/ethical-design/</link>
       <pubDate>Wed, 17 Feb 2016 10:30:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/ethical-design/</guid>
       <description></description>
     </item>
@@ -1437,7 +1439,7 @@
       <title>Ethical Design Manifesto</title>
       <link>https://laurakalbag.com/tags/ethical-design-manifesto/</link>
       <pubDate>Mon, 21 Mar 2016 16:24:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/ethical-design-manifesto/</guid>
       <description></description>
     </item>
@@ -1446,7 +1448,7 @@
       <title>Ethics</title>
       <link>https://laurakalbag.com/tags/ethics/</link>
       <pubDate>Thu, 30 Jul 2015 10:19:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/ethics/</guid>
       <description></description>
     </item>
@@ -1455,7 +1457,7 @@
       <title>Europe</title>
       <link>https://laurakalbag.com/tags/europe/</link>
       <pubDate>Fri, 17 Jul 2015 17:56:41 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/europe/</guid>
       <description></description>
     </item>
@@ -1464,7 +1466,7 @@
       <title>Event</title>
       <link>https://laurakalbag.com/tags/event/</link>
       <pubDate>Wed, 03 Jul 2013 16:49:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/event/</guid>
       <description></description>
     </item>
@@ -1473,7 +1475,7 @@
       <title>Events</title>
       <link>https://laurakalbag.com/tags/events/</link>
       <pubDate>Mon, 04 Feb 2013 21:39:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/events/</guid>
       <description></description>
     </item>
@@ -1482,7 +1484,7 @@
       <title>Facebook</title>
       <link>https://laurakalbag.com/tags/facebook/</link>
       <pubDate>Fri, 07 Aug 2015 21:19:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/facebook/</guid>
       <description></description>
     </item>
@@ -1491,7 +1493,7 @@
       <title>Family</title>
       <link>https://laurakalbag.com/tags/family/</link>
       <pubDate>Fri, 01 Jan 2016 12:45:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/family/</guid>
       <description></description>
     </item>
@@ -1500,7 +1502,7 @@
       <title>Featured Images</title>
       <link>https://laurakalbag.com/tags/featured-images/</link>
       <pubDate>Fri, 16 Jul 2010 21:49:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/featured-images/</guid>
       <description></description>
     </item>
@@ -1509,7 +1511,7 @@
       <title>Features</title>
       <link>https://laurakalbag.com/tags/features/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/features/</guid>
       <description></description>
     </item>
@@ -1518,7 +1520,7 @@
       <title>Feedback</title>
       <link>https://laurakalbag.com/tags/feedback/</link>
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/feedback/</guid>
       <description></description>
     </item>
@@ -1527,7 +1529,7 @@
       <title>Feminism</title>
       <link>https://laurakalbag.com/tags/feminism/</link>
       <pubDate>Fri, 03 Apr 2015 15:46:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/feminism/</guid>
       <description></description>
     </item>
@@ -1536,7 +1538,7 @@
       <title>Fitbit</title>
       <link>https://laurakalbag.com/tags/fitbit/</link>
       <pubDate>Fri, 29 Jun 2012 16:39:58 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/fitbit/</guid>
       <description></description>
     </item>
@@ -1545,7 +1547,7 @@
       <title>Fitbit Aria</title>
       <link>https://laurakalbag.com/tags/fitbit-aria/</link>
       <pubDate>Fri, 29 Jun 2012 16:39:58 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/fitbit-aria/</guid>
       <description></description>
     </item>
@@ -1554,7 +1556,7 @@
       <title>Five Simple Steps</title>
       <link>https://laurakalbag.com/tags/five-simple-steps/</link>
       <pubDate>Mon, 15 Apr 2013 08:55:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/five-simple-steps/</guid>
       <description></description>
     </item>
@@ -1563,7 +1565,7 @@
       <title>Flash</title>
       <link>https://laurakalbag.com/tags/flash/</link>
       <pubDate>Tue, 14 Apr 2015 13:55:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/flash/</guid>
       <description></description>
     </item>
@@ -1572,7 +1574,7 @@
       <title>Flat</title>
       <link>https://laurakalbag.com/tags/flat/</link>
       <pubDate>Tue, 11 Jun 2013 14:41:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/flat/</guid>
       <description></description>
     </item>
@@ -1581,7 +1583,7 @@
       <title>Flexbox</title>
       <link>https://laurakalbag.com/tags/flexbox/</link>
       <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/flexbox/</guid>
       <description></description>
     </item>
@@ -1590,7 +1592,7 @@
       <title>Flexibility</title>
       <link>https://laurakalbag.com/tags/flexibility/</link>
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/flexibility/</guid>
       <description></description>
     </item>
@@ -1599,7 +1601,7 @@
       <title>Flexible</title>
       <link>https://laurakalbag.com/tags/flexible/</link>
       <pubDate>Wed, 12 Dec 2012 10:45:08 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/flexible/</guid>
       <description></description>
     </item>
@@ -1608,7 +1610,7 @@
       <title>Fluid</title>
       <link>https://laurakalbag.com/tags/fluid/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/fluid/</guid>
       <description></description>
     </item>
@@ -1617,7 +1619,7 @@
       <title>Fluid Layouts</title>
       <link>https://laurakalbag.com/tags/fluid-layouts/</link>
       <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/fluid-layouts/</guid>
       <description></description>
     </item>
@@ -1626,7 +1628,7 @@
       <title>Followers</title>
       <link>https://laurakalbag.com/tags/followers/</link>
       <pubDate>Wed, 18 May 2011 18:55:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/followers/</guid>
       <description></description>
     </item>
@@ -1635,7 +1637,7 @@
       <title>Font Face</title>
       <link>https://laurakalbag.com/tags/font-face/</link>
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/font-face/</guid>
       <description></description>
     </item>
@@ -1644,7 +1646,7 @@
       <title>Font Family</title>
       <link>https://laurakalbag.com/tags/font-family/</link>
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/font-family/</guid>
       <description></description>
     </item>
@@ -1653,7 +1655,7 @@
       <title>Font Services</title>
       <link>https://laurakalbag.com/tags/font-services/</link>
       <pubDate>Fri, 20 Feb 2015 16:34:52 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/font-services/</guid>
       <description></description>
     </item>
@@ -1662,7 +1664,7 @@
       <title>Font Squirrel</title>
       <link>https://laurakalbag.com/tags/font-squirrel/</link>
       <pubDate>Fri, 02 Jul 2010 18:12:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/font-squirrel/</guid>
       <description></description>
     </item>
@@ -1671,7 +1673,7 @@
       <title>Fonts</title>
       <link>https://laurakalbag.com/tags/fonts/</link>
       <pubDate>Mon, 10 Apr 2017 10:18:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/fonts/</guid>
       <description></description>
     </item>
@@ -1680,7 +1682,7 @@
       <title>Fonts.com</title>
       <link>https://laurakalbag.com/tags/fonts.com/</link>
       <pubDate>Tue, 02 Jul 2013 09:53:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/fonts.com/</guid>
       <description></description>
     </item>
@@ -1689,7 +1691,7 @@
       <title>Fontshop</title>
       <link>https://laurakalbag.com/tags/fontshop/</link>
       <pubDate>Fri, 02 Jul 2010 18:12:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/fontshop/</guid>
       <description></description>
     </item>
@@ -1698,7 +1700,7 @@
       <title>Food</title>
       <link>https://laurakalbag.com/tags/food/</link>
       <pubDate>Mon, 01 Dec 2014 14:14:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/food/</guid>
       <description></description>
     </item>
@@ -1707,7 +1709,7 @@
       <title>For Sale</title>
       <link>https://laurakalbag.com/tags/for-sale/</link>
       <pubDate>Thu, 12 Feb 2015 16:30:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/for-sale/</guid>
       <description></description>
     </item>
@@ -1716,7 +1718,7 @@
       <title>Form</title>
       <link>https://laurakalbag.com/tags/form/</link>
       <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/form/</guid>
       <description></description>
     </item>
@@ -1725,7 +1727,7 @@
       <title>Form Fields</title>
       <link>https://laurakalbag.com/tags/form-fields/</link>
       <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/form-fields/</guid>
       <description></description>
     </item>
@@ -1734,7 +1736,7 @@
       <title>Forrst</title>
       <link>https://laurakalbag.com/tags/forrst/</link>
       <pubDate>Tue, 14 Sep 2010 20:06:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/forrst/</guid>
       <description></description>
     </item>
@@ -1743,7 +1745,7 @@
       <title>Forum</title>
       <link>https://laurakalbag.com/tags/forum/</link>
       <pubDate>Thu, 30 Jul 2015 10:19:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/forum/</guid>
       <description></description>
     </item>
@@ -1752,7 +1754,7 @@
       <title>Fowd</title>
       <link>https://laurakalbag.com/tags/fowd/</link>
       <pubDate>Mon, 23 May 2011 15:00:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/fowd/</guid>
       <description></description>
     </item>
@@ -1761,7 +1763,7 @@
       <title>Frameworks</title>
       <link>https://laurakalbag.com/tags/frameworks/</link>
       <pubDate>Tue, 01 Jan 2013 19:01:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/frameworks/</guid>
       <description></description>
     </item>
@@ -1770,7 +1772,7 @@
       <title>Freedom</title>
       <link>https://laurakalbag.com/tags/freedom/</link>
       <pubDate>Mon, 08 Sep 2014 15:08:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/freedom/</guid>
       <description></description>
     </item>
@@ -1779,7 +1781,7 @@
       <title>Freelance</title>
       <link>https://laurakalbag.com/tags/freelance/</link>
       <pubDate>Tue, 25 Mar 2014 10:52:12 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/freelance/</guid>
       <description></description>
     </item>
@@ -1788,7 +1790,7 @@
       <title>Freelancing</title>
       <link>https://laurakalbag.com/tags/freelancing/</link>
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/freelancing/</guid>
       <description></description>
     </item>
@@ -1797,7 +1799,7 @@
       <title>French</title>
       <link>https://laurakalbag.com/tags/french/</link>
       <pubDate>Sat, 14 Jun 2014 11:19:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/french/</guid>
       <description></description>
     </item>
@@ -1806,7 +1808,7 @@
       <title>Friday Roundup</title>
       <link>https://laurakalbag.com/tags/friday-roundup/</link>
       <pubDate>Fri, 31 Jul 2015 17:40:09 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/friday-roundup/</guid>
       <description></description>
     </item>
@@ -1815,7 +1817,7 @@
       <title>Furniture</title>
       <link>https://laurakalbag.com/tags/furniture/</link>
       <pubDate>Tue, 02 Feb 2016 15:51:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/furniture/</guid>
       <description></description>
     </item>
@@ -1824,7 +1826,7 @@
       <title>Future</title>
       <link>https://laurakalbag.com/tags/future/</link>
       <pubDate>Mon, 01 Dec 2014 14:14:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/future/</guid>
       <description></description>
     </item>
@@ -1833,7 +1835,7 @@
       <title>Future Insights Live</title>
       <link>https://laurakalbag.com/tags/future-insights-live/</link>
       <pubDate>Mon, 07 May 2012 14:46:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/future-insights-live/</guid>
       <description></description>
     </item>
@@ -1842,7 +1844,7 @@
       <title>Future of Web Design</title>
       <link>https://laurakalbag.com/tags/future-of-web-design/</link>
       <pubDate>Tue, 22 May 2012 09:28:41 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/future-of-web-design/</guid>
       <description></description>
     </item>
@@ -1851,7 +1853,7 @@
       <title>Gadget</title>
       <link>https://laurakalbag.com/tags/gadget/</link>
       <pubDate>Fri, 29 Jun 2012 16:39:58 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/gadget/</guid>
       <description></description>
     </item>
@@ -1860,7 +1862,7 @@
       <title>Geek Mental Help Week</title>
       <link>https://laurakalbag.com/tags/geek-mental-help-week/</link>
       <pubDate>Mon, 03 Oct 2016 12:44:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/geek-mental-help-week/</guid>
       <description></description>
     </item>
@@ -1869,7 +1871,7 @@
       <title>Gender</title>
       <link>https://laurakalbag.com/tags/gender/</link>
       <pubDate>Wed, 02 Mar 2011 13:57:05 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/gender/</guid>
       <description></description>
     </item>
@@ -1878,7 +1880,7 @@
       <title>Gestures</title>
       <link>https://laurakalbag.com/tags/gestures/</link>
       <pubDate>Sat, 19 Jun 2010 13:19:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/gestures/</guid>
       <description></description>
     </item>
@@ -1887,7 +1889,7 @@
       <title>Getting Started</title>
       <link>https://laurakalbag.com/tags/getting-started/</link>
       <pubDate>Mon, 20 May 2013 09:07:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/getting-started/</guid>
       <description></description>
     </item>
@@ -1896,7 +1898,7 @@
       <title>Gigapup</title>
       <link>https://laurakalbag.com/tags/gigapup/</link>
       <pubDate>Wed, 17 Sep 2014 09:16:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/gigapup/</guid>
       <description></description>
     </item>
@@ -1905,7 +1907,7 @@
       <title>Git</title>
       <link>https://laurakalbag.com/tags/git/</link>
       <pubDate>Tue, 07 Oct 2014 13:57:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/git/</guid>
       <description></description>
     </item>
@@ -1914,7 +1916,7 @@
       <title>Global Accessibility Awareness Day</title>
       <link>https://laurakalbag.com/tags/global-accessibility-awareness-day/</link>
       <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/global-accessibility-awareness-day/</guid>
       <description></description>
     </item>
@@ -1923,7 +1925,7 @@
       <title>Google</title>
       <link>https://laurakalbag.com/tags/google/</link>
       <pubDate>Fri, 07 Aug 2015 21:19:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/google/</guid>
       <description></description>
     </item>
@@ -1932,7 +1934,7 @@
       <title>Google Chrome</title>
       <link>https://laurakalbag.com/tags/google-chrome/</link>
       <pubDate>Fri, 01 Jun 2012 21:51:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/google-chrome/</guid>
       <description></description>
     </item>
@@ -1941,7 +1943,7 @@
       <title>Google Web Fonts</title>
       <link>https://laurakalbag.com/tags/google-web-fonts/</link>
       <pubDate>Fri, 02 Jul 2010 18:12:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/google-web-fonts/</guid>
       <description></description>
     </item>
@@ -1950,7 +1952,7 @@
       <title>Government Surveillance</title>
       <link>https://laurakalbag.com/tags/government-surveillance/</link>
       <pubDate>Fri, 17 Jul 2015 17:56:41 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/government-surveillance/</guid>
       <description></description>
     </item>
@@ -1959,7 +1961,7 @@
       <title>Gradients</title>
       <link>https://laurakalbag.com/tags/gradients/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/gradients/</guid>
       <description></description>
     </item>
@@ -1968,7 +1970,7 @@
       <title>Graphics</title>
       <link>https://laurakalbag.com/tags/graphics/</link>
       <pubDate>Thu, 25 Oct 2012 16:37:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/graphics/</guid>
       <description></description>
     </item>
@@ -1977,7 +1979,7 @@
       <title>Grids</title>
       <link>https://laurakalbag.com/tags/grids/</link>
       <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/grids/</guid>
       <description></description>
     </item>
@@ -1986,7 +1988,7 @@
       <title>Happy</title>
       <link>https://laurakalbag.com/tags/happy/</link>
       <pubDate>Fri, 14 Jun 2013 19:25:35 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/happy/</guid>
       <description></description>
     </item>
@@ -1995,7 +1997,7 @@
       <title>Hardboiled Web Design</title>
       <link>https://laurakalbag.com/tags/hardboiled-web-design/</link>
       <pubDate>Tue, 18 Jan 2011 16:28:19 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/hardboiled-web-design/</guid>
       <description></description>
     </item>
@@ -2004,7 +2006,7 @@
       <title>Hardware</title>
       <link>https://laurakalbag.com/tags/hardware/</link>
       <pubDate>Wed, 18 Dec 2013 11:59:17 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/hardware/</guid>
       <description></description>
     </item>
@@ -2013,7 +2015,7 @@
       <title>Hashtag Gaad</title>
       <link>https://laurakalbag.com/tags/hashtag-gaad/</link>
       <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/hashtag-gaad/</guid>
       <description></description>
     </item>
@@ -2022,7 +2024,7 @@
       <title>Header</title>
       <link>https://laurakalbag.com/tags/header/</link>
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/header/</guid>
       <description></description>
     </item>
@@ -2031,7 +2033,7 @@
       <title>Health</title>
       <link>https://laurakalbag.com/tags/health/</link>
       <pubDate>Tue, 27 Aug 2013 09:00:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/health/</guid>
       <description></description>
     </item>
@@ -2040,7 +2042,7 @@
       <title>Highlights</title>
       <link>https://laurakalbag.com/tags/highlights/</link>
       <pubDate>Mon, 31 Dec 2012 23:12:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/highlights/</guid>
       <description></description>
     </item>
@@ -2049,7 +2051,7 @@
       <title>Hinting</title>
       <link>https://laurakalbag.com/tags/hinting/</link>
       <pubDate>Mon, 25 Jun 2012 12:06:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/hinting/</guid>
       <description></description>
     </item>
@@ -2058,7 +2060,7 @@
       <title>Holidays</title>
       <link>https://laurakalbag.com/tags/holidays/</link>
       <pubDate>Wed, 27 Aug 2014 16:04:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/holidays/</guid>
       <description></description>
     </item>
@@ -2067,7 +2069,7 @@
       <title>Honest</title>
       <link>https://laurakalbag.com/tags/honest/</link>
       <pubDate>Mon, 23 May 2011 15:05:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/honest/</guid>
       <description></description>
     </item>
@@ -2076,7 +2078,7 @@
       <title>Honesty</title>
       <link>https://laurakalbag.com/tags/honesty/</link>
       <pubDate>Mon, 21 Oct 2013 18:59:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/honesty/</guid>
       <description></description>
     </item>
@@ -2085,7 +2087,7 @@
       <title>Html</title>
       <link>https://laurakalbag.com/tags/html/</link>
       <pubDate>Mon, 02 Jul 2018 19:25:46 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/html/</guid>
       <description></description>
     </item>
@@ -2094,7 +2096,7 @@
       <title>Html5</title>
       <link>https://laurakalbag.com/tags/html5/</link>
       <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/html5/</guid>
       <description></description>
     </item>
@@ -2103,7 +2105,7 @@
       <title>Human Design</title>
       <link>https://laurakalbag.com/tags/human-design/</link>
       <pubDate>Mon, 23 May 2011 15:05:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/human-design/</guid>
       <description></description>
     </item>
@@ -2112,7 +2114,7 @@
       <title>Hybrid</title>
       <link>https://laurakalbag.com/tags/hybrid/</link>
       <pubDate>Tue, 25 Jun 2013 11:11:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/hybrid/</guid>
       <description></description>
     </item>
@@ -2121,7 +2123,7 @@
       <title>Ibooks</title>
       <link>https://laurakalbag.com/tags/ibooks/</link>
       <pubDate>Tue, 18 Jan 2011 16:28:19 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/ibooks/</guid>
       <description></description>
     </item>
@@ -2130,7 +2132,7 @@
       <title>Icons</title>
       <link>https://laurakalbag.com/tags/icons/</link>
       <pubDate>Tue, 29 Mar 2016 14:55:34 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/icons/</guid>
       <description></description>
     </item>
@@ -2139,7 +2141,7 @@
       <title>Ideas</title>
       <link>https://laurakalbag.com/tags/ideas/</link>
       <pubDate>Wed, 30 Mar 2011 12:37:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/ideas/</guid>
       <description></description>
     </item>
@@ -2148,7 +2150,7 @@
       <title>Identity</title>
       <link>https://laurakalbag.com/tags/identity/</link>
       <pubDate>Wed, 05 Dec 2012 18:10:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/identity/</guid>
       <description></description>
     </item>
@@ -2157,7 +2159,7 @@
       <title>Ie9</title>
       <link>https://laurakalbag.com/tags/ie9/</link>
       <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/ie9/</guid>
       <description></description>
     </item>
@@ -2166,7 +2168,7 @@
       <title>Illustrator</title>
       <link>https://laurakalbag.com/tags/illustrator/</link>
       <pubDate>Thu, 25 Oct 2012 16:37:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/illustrator/</guid>
       <description></description>
     </item>
@@ -2175,7 +2177,7 @@
       <title>Image Capture</title>
       <link>https://laurakalbag.com/tags/image-capture/</link>
       <pubDate>Thu, 10 Jun 2010 21:39:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/image-capture/</guid>
       <description></description>
     </item>
@@ -2184,7 +2186,7 @@
       <title>Imagery</title>
       <link>https://laurakalbag.com/tags/imagery/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/imagery/</guid>
       <description></description>
     </item>
@@ -2193,7 +2195,7 @@
       <title>Images</title>
       <link>https://laurakalbag.com/tags/images/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/images/</guid>
       <description></description>
     </item>
@@ -2202,7 +2204,7 @@
       <title>Impact</title>
       <link>https://laurakalbag.com/tags/impact/</link>
       <pubDate>Wed, 17 Feb 2016 10:30:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/impact/</guid>
       <description></description>
     </item>
@@ -2211,7 +2213,7 @@
       <title>In Browser</title>
       <link>https://laurakalbag.com/tags/in-browser/</link>
       <pubDate>Sun, 10 Jun 2012 18:17:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/in-browser/</guid>
       <description></description>
     </item>
@@ -2220,7 +2222,7 @@
       <title>Inclusive Design</title>
       <link>https://laurakalbag.com/tags/inclusive-design/</link>
       <pubDate>Mon, 12 Mar 2018 12:17:46 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/inclusive-design/</guid>
       <description></description>
     </item>
@@ -2229,7 +2231,7 @@
       <title>Inclusivity</title>
       <link>https://laurakalbag.com/tags/inclusivity/</link>
       <pubDate>Sat, 07 Jul 2018 22:07:24 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/inclusivity/</guid>
       <description></description>
     </item>
@@ -2238,7 +2240,7 @@
       <title>Ind.ie</title>
       <link>https://laurakalbag.com/tags/ind.ie/</link>
       <pubDate>Mon, 10 Apr 2017 12:58:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/ind.ie/</guid>
       <description></description>
     </item>
@@ -2247,7 +2249,7 @@
       <title>Independence</title>
       <link>https://laurakalbag.com/tags/independence/</link>
       <pubDate>Mon, 25 May 2015 08:54:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/independence/</guid>
       <description></description>
     </item>
@@ -2256,7 +2258,7 @@
       <title>Indie</title>
       <link>https://laurakalbag.com/tags/indie/</link>
       <pubDate>Mon, 05 Feb 2018 13:45:02 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/indie/</guid>
       <description></description>
     </item>
@@ -2265,7 +2267,7 @@
       <title>Indie Phone</title>
       <link>https://laurakalbag.com/tags/indie-phone/</link>
       <pubDate>Thu, 05 Jun 2014 08:28:36 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/indie-phone/</guid>
       <description></description>
     </item>
@@ -2274,7 +2276,7 @@
       <title>Indie Tech</title>
       <link>https://laurakalbag.com/tags/indie-tech/</link>
       <pubDate>Wed, 04 Jun 2014 08:36:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/indie-tech/</guid>
       <description></description>
     </item>
@@ -2283,7 +2285,7 @@
       <title>Indie Tech Summit</title>
       <link>https://laurakalbag.com/tags/indie-tech-summit/</link>
       <pubDate>Tue, 26 Aug 2014 11:59:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/indie-tech-summit/</guid>
       <description></description>
     </item>
@@ -2292,7 +2294,7 @@
       <title>Industry</title>
       <link>https://laurakalbag.com/tags/industry/</link>
       <pubDate>Sat, 23 May 2015 16:12:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/industry/</guid>
       <description></description>
     </item>
@@ -2301,7 +2303,7 @@
       <title>Influence</title>
       <link>https://laurakalbag.com/tags/influence/</link>
       <pubDate>Mon, 24 Mar 2014 10:37:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/influence/</guid>
       <description></description>
     </item>
@@ -2310,7 +2312,7 @@
       <title>Ink</title>
       <link>https://laurakalbag.com/tags/ink/</link>
       <pubDate>Tue, 07 Jan 2014 09:25:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/ink/</guid>
       <description></description>
     </item>
@@ -2319,7 +2321,7 @@
       <title>Inputs</title>
       <link>https://laurakalbag.com/tags/inputs/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/inputs/</guid>
       <description></description>
     </item>
@@ -2328,7 +2330,7 @@
       <title>Inspiration</title>
       <link>https://laurakalbag.com/tags/inspiration/</link>
       <pubDate>Mon, 24 Mar 2014 10:37:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/inspiration/</guid>
       <description></description>
     </item>
@@ -2337,7 +2339,7 @@
       <title>Insurance</title>
       <link>https://laurakalbag.com/tags/insurance/</link>
       <pubDate>Mon, 04 Aug 2014 09:47:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/insurance/</guid>
       <description></description>
     </item>
@@ -2346,7 +2348,7 @@
       <title>Integrity</title>
       <link>https://laurakalbag.com/tags/integrity/</link>
       <pubDate>Tue, 04 Dec 2012 08:45:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/integrity/</guid>
       <description></description>
     </item>
@@ -2355,7 +2357,7 @@
       <title>Interface</title>
       <link>https://laurakalbag.com/tags/interface/</link>
       <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/interface/</guid>
       <description></description>
     </item>
@@ -2364,7 +2366,7 @@
       <title>Interlink Conference</title>
       <link>https://laurakalbag.com/tags/interlink-conference/</link>
       <pubDate>Thu, 13 Mar 2014 17:47:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/interlink-conference/</guid>
       <description></description>
     </item>
@@ -2373,7 +2375,7 @@
       <title>Internet of Things</title>
       <link>https://laurakalbag.com/tags/internet-of-things/</link>
       <pubDate>Fri, 17 Jul 2015 17:56:41 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/internet-of-things/</guid>
       <description></description>
     </item>
@@ -2382,7 +2384,7 @@
       <title>Internet.org</title>
       <link>https://laurakalbag.com/tags/internet.org/</link>
       <pubDate>Mon, 25 May 2015 08:54:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/internet.org/</guid>
       <description></description>
     </item>
@@ -2391,7 +2393,7 @@
       <title>Interview</title>
       <link>https://laurakalbag.com/tags/interview/</link>
       <pubDate>Tue, 25 Feb 2014 11:17:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/interview/</guid>
       <description></description>
     </item>
@@ -2400,7 +2402,7 @@
       <title>Ipad</title>
       <link>https://laurakalbag.com/tags/ipad/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/ipad/</guid>
       <description></description>
     </item>
@@ -2409,7 +2411,7 @@
       <title>Iphoto</title>
       <link>https://laurakalbag.com/tags/iphoto/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/iphoto/</guid>
       <description></description>
     </item>
@@ -2418,7 +2420,7 @@
       <title>Javascript</title>
       <link>https://laurakalbag.com/tags/javascript/</link>
       <pubDate>Sat, 08 Jun 2013 09:10:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/javascript/</guid>
       <description></description>
     </item>
@@ -2427,7 +2429,7 @@
       <title>Job</title>
       <link>https://laurakalbag.com/tags/job/</link>
       <pubDate>Mon, 23 Jan 2012 10:47:35 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/job/</guid>
       <description></description>
     </item>
@@ -2436,7 +2438,7 @@
       <title>Justification</title>
       <link>https://laurakalbag.com/tags/justification/</link>
       <pubDate>Tue, 09 Oct 2012 07:00:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/justification/</guid>
       <description></description>
     </item>
@@ -2445,7 +2447,7 @@
       <title>Keyboard Navigation</title>
       <link>https://laurakalbag.com/tags/keyboard-navigation/</link>
       <pubDate>Wed, 14 Jan 2015 14:59:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/keyboard-navigation/</guid>
       <description></description>
     </item>
@@ -2454,7 +2456,7 @@
       <title>Label</title>
       <link>https://laurakalbag.com/tags/label/</link>
       <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/label/</guid>
       <description></description>
     </item>
@@ -2463,7 +2465,7 @@
       <title>Labels</title>
       <link>https://laurakalbag.com/tags/labels/</link>
       <pubDate>Wed, 20 Jul 2011 11:56:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/labels/</guid>
       <description></description>
     </item>
@@ -2472,7 +2474,7 @@
       <title>Labs</title>
       <link>https://laurakalbag.com/tags/labs/</link>
       <pubDate>Tue, 29 Mar 2016 14:55:34 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/labs/</guid>
       <description></description>
     </item>
@@ -2481,7 +2483,7 @@
       <title>Language</title>
       <link>https://laurakalbag.com/tags/language/</link>
       <pubDate>Thu, 08 Aug 2013 18:59:17 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/language/</guid>
       <description></description>
     </item>
@@ -2490,7 +2492,7 @@
       <title>Languages</title>
       <link>https://laurakalbag.com/tags/languages/</link>
       <pubDate>Sat, 14 Jun 2014 11:19:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/languages/</guid>
       <description></description>
     </item>
@@ -2499,7 +2501,7 @@
       <title>Layout</title>
       <link>https://laurakalbag.com/tags/layout/</link>
       <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/layout/</guid>
       <description></description>
     </item>
@@ -2508,7 +2510,7 @@
       <title>Learning</title>
       <link>https://laurakalbag.com/tags/learning/</link>
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/learning/</guid>
       <description></description>
     </item>
@@ -2517,7 +2519,7 @@
       <title>Learning Design</title>
       <link>https://laurakalbag.com/tags/learning-design/</link>
       <pubDate>Mon, 12 Aug 2013 10:18:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/learning-design/</guid>
       <description></description>
     </item>
@@ -2526,7 +2528,7 @@
       <title>Leuchtturm1917</title>
       <link>https://laurakalbag.com/tags/leuchtturm1917/</link>
       <pubDate>Wed, 30 Mar 2011 12:37:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/leuchtturm1917/</guid>
       <description></description>
     </item>
@@ -2535,7 +2537,7 @@
       <title>Levitation</title>
       <link>https://laurakalbag.com/tags/levitation/</link>
       <pubDate>Sat, 09 May 2015 17:01:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/levitation/</guid>
       <description></description>
     </item>
@@ -2544,7 +2546,7 @@
       <title>Light</title>
       <link>https://laurakalbag.com/tags/light/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/light/</guid>
       <description></description>
     </item>
@@ -2553,7 +2555,7 @@
       <title>Limited Company</title>
       <link>https://laurakalbag.com/tags/limited-company/</link>
       <pubDate>Fri, 22 Apr 2016 14:59:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/limited-company/</guid>
       <description></description>
     </item>
@@ -2562,7 +2564,7 @@
       <title>Links</title>
       <link>https://laurakalbag.com/tags/links/</link>
       <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/links/</guid>
       <description></description>
     </item>
@@ -2571,7 +2573,7 @@
       <title>Linotype the Film</title>
       <link>https://laurakalbag.com/tags/linotype-the-film/</link>
       <pubDate>Mon, 25 Jun 2012 12:06:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/linotype-the-film/</guid>
       <description></description>
     </item>
@@ -2580,7 +2582,7 @@
       <title>Location</title>
       <link>https://laurakalbag.com/tags/location/</link>
       <pubDate>Mon, 20 May 2013 09:07:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/location/</guid>
       <description></description>
     </item>
@@ -2589,7 +2591,7 @@
       <title>Logo Design</title>
       <link>https://laurakalbag.com/tags/logo-design/</link>
       <pubDate>Tue, 29 Mar 2016 14:55:34 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/logo-design/</guid>
       <description></description>
     </item>
@@ -2598,7 +2600,7 @@
       <title>Mac</title>
       <link>https://laurakalbag.com/tags/mac/</link>
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mac/</guid>
       <description></description>
     </item>
@@ -2607,7 +2609,7 @@
       <title>Macbook Air</title>
       <link>https://laurakalbag.com/tags/macbook-air/</link>
       <pubDate>Thu, 12 Feb 2015 16:30:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/macbook-air/</guid>
       <description></description>
     </item>
@@ -2616,7 +2618,7 @@
       <title>Mail.app</title>
       <link>https://laurakalbag.com/tags/mail.app/</link>
       <pubDate>Sun, 10 Feb 2013 15:31:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mail.app/</guid>
       <description></description>
     </item>
@@ -2625,7 +2627,7 @@
       <title>Mainstream</title>
       <link>https://laurakalbag.com/tags/mainstream/</link>
       <pubDate>Fri, 01 Jun 2012 21:51:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mainstream/</guid>
       <description></description>
     </item>
@@ -2634,7 +2636,7 @@
       <title>Malmö</title>
       <link>https://laurakalbag.com/tags/malm%C3%B6/</link>
       <pubDate>Fri, 05 Feb 2016 11:29:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/malm%C3%B6/</guid>
       <description></description>
     </item>
@@ -2643,7 +2645,7 @@
       <title>Markup</title>
       <link>https://laurakalbag.com/tags/markup/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/markup/</guid>
       <description></description>
     </item>
@@ -2652,7 +2654,7 @@
       <title>Media Evolution City</title>
       <link>https://laurakalbag.com/tags/media-evolution-city/</link>
       <pubDate>Fri, 05 Feb 2016 11:29:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/media-evolution-city/</guid>
       <description></description>
     </item>
@@ -2661,7 +2663,7 @@
       <title>Meeting</title>
       <link>https://laurakalbag.com/tags/meeting/</link>
       <pubDate>Mon, 04 Mar 2013 11:38:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/meeting/</guid>
       <description></description>
     </item>
@@ -2670,7 +2672,7 @@
       <title>Meetings</title>
       <link>https://laurakalbag.com/tags/meetings/</link>
       <pubDate>Tue, 25 Jun 2013 11:11:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/meetings/</guid>
       <description></description>
     </item>
@@ -2679,7 +2681,7 @@
       <title>Meetup</title>
       <link>https://laurakalbag.com/tags/meetup/</link>
       <pubDate>Tue, 07 Apr 2015 09:26:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/meetup/</guid>
       <description></description>
     </item>
@@ -2688,7 +2690,7 @@
       <title>Memories</title>
       <link>https://laurakalbag.com/tags/memories/</link>
       <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/memories/</guid>
       <description></description>
     </item>
@@ -2697,7 +2699,7 @@
       <title>Mental Health</title>
       <link>https://laurakalbag.com/tags/mental-health/</link>
       <pubDate>Mon, 13 Oct 2014 11:14:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mental-health/</guid>
       <description></description>
     </item>
@@ -2706,7 +2708,7 @@
       <title>Mentee</title>
       <link>https://laurakalbag.com/tags/mentee/</link>
       <pubDate>Tue, 07 May 2013 18:58:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mentee/</guid>
       <description></description>
     </item>
@@ -2715,7 +2717,7 @@
       <title>Mentor</title>
       <link>https://laurakalbag.com/tags/mentor/</link>
       <pubDate>Tue, 07 May 2013 18:58:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mentor/</guid>
       <description></description>
     </item>
@@ -2724,7 +2726,7 @@
       <title>Mentoring</title>
       <link>https://laurakalbag.com/tags/mentoring/</link>
       <pubDate>Thu, 23 Jan 2014 14:06:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mentoring/</guid>
       <description></description>
     </item>
@@ -2733,7 +2735,7 @@
       <title>Menus</title>
       <link>https://laurakalbag.com/tags/menus/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/menus/</guid>
       <description></description>
     </item>
@@ -2742,7 +2744,7 @@
       <title>Microformats</title>
       <link>https://laurakalbag.com/tags/microformats/</link>
       <pubDate>Tue, 18 Jan 2011 16:28:19 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/microformats/</guid>
       <description></description>
     </item>
@@ -2751,7 +2753,7 @@
       <title>Mind</title>
       <link>https://laurakalbag.com/tags/mind/</link>
       <pubDate>Fri, 29 Jun 2012 16:39:58 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mind/</guid>
       <description></description>
     </item>
@@ -2760,7 +2762,7 @@
       <title>Mindmap</title>
       <link>https://laurakalbag.com/tags/mindmap/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:08 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mindmap/</guid>
       <description></description>
     </item>
@@ -2769,7 +2771,7 @@
       <title>Mobile</title>
       <link>https://laurakalbag.com/tags/mobile/</link>
       <pubDate>Mon, 12 Dec 2011 09:14:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mobile/</guid>
       <description></description>
     </item>
@@ -2778,7 +2780,7 @@
       <title>Mobile Apps</title>
       <link>https://laurakalbag.com/tags/mobile-apps/</link>
       <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mobile-apps/</guid>
       <description></description>
     </item>
@@ -2787,7 +2789,7 @@
       <title>Mobile Browsers</title>
       <link>https://laurakalbag.com/tags/mobile-browsers/</link>
       <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mobile-browsers/</guid>
       <description></description>
     </item>
@@ -2796,7 +2798,7 @@
       <title>Mobile First</title>
       <link>https://laurakalbag.com/tags/mobile-first/</link>
       <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mobile-first/</guid>
       <description></description>
     </item>
@@ -2805,7 +2807,7 @@
       <title>Mobile Web</title>
       <link>https://laurakalbag.com/tags/mobile-web/</link>
       <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mobile-web/</guid>
       <description></description>
     </item>
@@ -2814,7 +2816,7 @@
       <title>Mockups</title>
       <link>https://laurakalbag.com/tags/mockups/</link>
       <pubDate>Tue, 03 Dec 2013 09:06:12 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/mockups/</guid>
       <description></description>
     </item>
@@ -2823,7 +2825,7 @@
       <title>Modular Scale</title>
       <link>https://laurakalbag.com/tags/modular-scale/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/modular-scale/</guid>
       <description></description>
     </item>
@@ -2832,7 +2834,7 @@
       <title>Moleskine</title>
       <link>https://laurakalbag.com/tags/moleskine/</link>
       <pubDate>Wed, 30 Mar 2011 12:37:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/moleskine/</guid>
       <description></description>
     </item>
@@ -2841,7 +2843,7 @@
       <title>Money</title>
       <link>https://laurakalbag.com/tags/money/</link>
       <pubDate>Mon, 04 Mar 2013 11:38:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/money/</guid>
       <description></description>
     </item>
@@ -2850,7 +2852,7 @@
       <title>Moving</title>
       <link>https://laurakalbag.com/tags/moving/</link>
       <pubDate>Mon, 21 Mar 2016 16:24:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/moving/</guid>
       <description></description>
     </item>
@@ -2859,7 +2861,7 @@
       <title>Music</title>
       <link>https://laurakalbag.com/tags/music/</link>
       <pubDate>Tue, 05 Aug 2014 09:30:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/music/</guid>
       <description></description>
     </item>
@@ -2868,7 +2870,7 @@
       <title>Myths</title>
       <link>https://laurakalbag.com/tags/myths/</link>
       <pubDate>Tue, 19 Aug 2014 18:57:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/myths/</guid>
       <description></description>
     </item>
@@ -2877,7 +2879,7 @@
       <title>Naivety</title>
       <link>https://laurakalbag.com/tags/naivety/</link>
       <pubDate>Mon, 07 May 2012 14:46:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/naivety/</guid>
       <description></description>
     </item>
@@ -2886,7 +2888,7 @@
       <title>Names</title>
       <link>https://laurakalbag.com/tags/names/</link>
       <pubDate>Fri, 03 Apr 2015 15:46:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/names/</guid>
       <description></description>
     </item>
@@ -2895,7 +2897,7 @@
       <title>Narratives</title>
       <link>https://laurakalbag.com/tags/narratives/</link>
       <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/narratives/</guid>
       <description></description>
     </item>
@@ -2904,7 +2906,7 @@
       <title>Native vs Web</title>
       <link>https://laurakalbag.com/tags/native-vs-web/</link>
       <pubDate>Mon, 07 May 2012 14:46:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/native-vs-web/</guid>
       <description></description>
     </item>
@@ -2913,7 +2915,7 @@
       <title>Navigation</title>
       <link>https://laurakalbag.com/tags/navigation/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/navigation/</guid>
       <description></description>
     </item>
@@ -2922,7 +2924,7 @@
       <title>Netzpolitick</title>
       <link>https://laurakalbag.com/tags/netzpolitick/</link>
       <pubDate>Fri, 07 Aug 2015 21:19:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/netzpolitick/</guid>
       <description></description>
     </item>
@@ -2931,7 +2933,7 @@
       <title>New Adventures in Web Design</title>
       <link>https://laurakalbag.com/tags/new-adventures-in-web-design/</link>
       <pubDate>Mon, 23 Jan 2012 10:47:35 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/new-adventures-in-web-design/</guid>
       <description></description>
     </item>
@@ -2940,7 +2942,7 @@
       <title>Noise</title>
       <link>https://laurakalbag.com/tags/noise/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/noise/</guid>
       <description></description>
     </item>
@@ -2949,7 +2951,7 @@
       <title>Notebook</title>
       <link>https://laurakalbag.com/tags/notebook/</link>
       <pubDate>Thu, 08 May 2014 10:52:20 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/notebook/</guid>
       <description></description>
     </item>
@@ -2958,7 +2960,7 @@
       <title>Notebooks</title>
       <link>https://laurakalbag.com/tags/notebooks/</link>
       <pubDate>Tue, 07 Jan 2014 09:25:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/notebooks/</guid>
       <description></description>
     </item>
@@ -2967,7 +2969,7 @@
       <title>Notes</title>
       <link>https://laurakalbag.com/tags/notes/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:08 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/notes/</guid>
       <description></description>
     </item>
@@ -2976,7 +2978,7 @@
       <title>Office Dogs</title>
       <link>https://laurakalbag.com/tags/office-dogs/</link>
       <pubDate>Wed, 17 Sep 2014 09:16:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/office-dogs/</guid>
       <description></description>
     </item>
@@ -2985,7 +2987,7 @@
       <title>Online Conference</title>
       <link>https://laurakalbag.com/tags/online-conference/</link>
       <pubDate>Thu, 02 Apr 2015 10:57:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/online-conference/</guid>
       <description></description>
     </item>
@@ -2994,7 +2996,7 @@
       <title>Open Business</title>
       <link>https://laurakalbag.com/tags/open-business/</link>
       <pubDate>Mon, 23 May 2011 15:05:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/open-business/</guid>
       <description></description>
     </item>
@@ -3003,7 +3005,7 @@
       <title>Openness</title>
       <link>https://laurakalbag.com/tags/openness/</link>
       <pubDate>Mon, 21 Oct 2013 18:59:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/openness/</guid>
       <description></description>
     </item>
@@ -3012,7 +3014,7 @@
       <title>Opentype</title>
       <link>https://laurakalbag.com/tags/opentype/</link>
       <pubDate>Tue, 25 Feb 2014 11:17:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/opentype/</guid>
       <description></description>
     </item>
@@ -3020,8 +3022,8 @@
     <item>
       <title>Oskar</title>
       <link>https://laurakalbag.com/tags/oskar/</link>
-      <pubDate>Mon, 05 Feb 2018 13:45:02 +0100</pubDate>
-      
+      <pubDate>Fri, 20 Jul 2018 21:28:23 +0100</pubDate>
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/oskar/</guid>
       <description></description>
     </item>
@@ -3030,7 +3032,7 @@
       <title>Osx</title>
       <link>https://laurakalbag.com/tags/osx/</link>
       <pubDate>Sat, 30 Mar 2013 20:09:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/osx/</guid>
       <description></description>
     </item>
@@ -3039,7 +3041,7 @@
       <title>Painting</title>
       <link>https://laurakalbag.com/tags/painting/</link>
       <pubDate>Fri, 31 Jan 2014 10:08:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/painting/</guid>
       <description></description>
     </item>
@@ -3048,7 +3050,7 @@
       <title>Paragraph</title>
       <link>https://laurakalbag.com/tags/paragraph/</link>
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/paragraph/</guid>
       <description></description>
     </item>
@@ -3057,7 +3059,7 @@
       <title>Pen</title>
       <link>https://laurakalbag.com/tags/pen/</link>
       <pubDate>Tue, 07 Jan 2014 09:25:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/pen/</guid>
       <description></description>
     </item>
@@ -3066,7 +3068,7 @@
       <title>People</title>
       <link>https://laurakalbag.com/tags/people/</link>
       <pubDate>Mon, 23 May 2011 15:00:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/people/</guid>
       <description></description>
     </item>
@@ -3075,7 +3077,7 @@
       <title>Perception</title>
       <link>https://laurakalbag.com/tags/perception/</link>
       <pubDate>Wed, 04 Aug 2010 10:32:18 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/perception/</guid>
       <description></description>
     </item>
@@ -3084,7 +3086,7 @@
       <title>Perch</title>
       <link>https://laurakalbag.com/tags/perch/</link>
       <pubDate>Thu, 25 Jul 2013 17:56:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/perch/</guid>
       <description></description>
     </item>
@@ -3093,7 +3095,7 @@
       <title>Performance</title>
       <link>https://laurakalbag.com/tags/performance/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/performance/</guid>
       <description></description>
     </item>
@@ -3102,7 +3104,7 @@
       <title>Personal</title>
       <link>https://laurakalbag.com/tags/personal/</link>
       <pubDate>Sat, 23 May 2015 16:12:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/personal/</guid>
       <description></description>
     </item>
@@ -3111,7 +3113,7 @@
       <title>Photo Manipulation</title>
       <link>https://laurakalbag.com/tags/photo-manipulation/</link>
       <pubDate>Tue, 19 Aug 2014 18:57:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/photo-manipulation/</guid>
       <description></description>
     </item>
@@ -3120,7 +3122,7 @@
       <title>Photography</title>
       <link>https://laurakalbag.com/tags/photography/</link>
       <pubDate>Thu, 28 May 2015 17:38:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/photography/</guid>
       <description></description>
     </item>
@@ -3129,7 +3131,7 @@
       <title>Photos</title>
       <link>https://laurakalbag.com/tags/photos/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/photos/</guid>
       <description></description>
     </item>
@@ -3138,7 +3140,7 @@
       <title>Photoshop</title>
       <link>https://laurakalbag.com/tags/photoshop/</link>
       <pubDate>Thu, 25 Oct 2012 16:37:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/photoshop/</guid>
       <description></description>
     </item>
@@ -3147,7 +3149,7 @@
       <title>Placeholder Attribute</title>
       <link>https://laurakalbag.com/tags/placeholder-attribute/</link>
       <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/placeholder-attribute/</guid>
       <description></description>
     </item>
@@ -3156,7 +3158,7 @@
       <title>Platforms</title>
       <link>https://laurakalbag.com/tags/platforms/</link>
       <pubDate>Mon, 07 May 2012 14:46:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/platforms/</guid>
       <description></description>
     </item>
@@ -3165,7 +3167,7 @@
       <title>Playlist</title>
       <link>https://laurakalbag.com/tags/playlist/</link>
       <pubDate>Tue, 05 Aug 2014 09:30:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/playlist/</guid>
       <description></description>
     </item>
@@ -3174,7 +3176,7 @@
       <title>Pledge</title>
       <link>https://laurakalbag.com/tags/pledge/</link>
       <pubDate>Thu, 17 Oct 2013 07:28:18 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/pledge/</guid>
       <description></description>
     </item>
@@ -3183,7 +3185,7 @@
       <title>Pocket Guides</title>
       <link>https://laurakalbag.com/tags/pocket-guides/</link>
       <pubDate>Mon, 15 Apr 2013 08:55:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/pocket-guides/</guid>
       <description></description>
     </item>
@@ -3192,7 +3194,7 @@
       <title>Podcast</title>
       <link>https://laurakalbag.com/tags/podcast/</link>
       <pubDate>Mon, 12 Mar 2018 12:17:22 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/podcast/</guid>
       <description></description>
     </item>
@@ -3201,7 +3203,7 @@
       <title>Podcasting</title>
       <link>https://laurakalbag.com/tags/podcasting/</link>
       <pubDate>Mon, 01 Dec 2014 14:14:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/podcasting/</guid>
       <description></description>
     </item>
@@ -3210,7 +3212,7 @@
       <title>Podcasts</title>
       <link>https://laurakalbag.com/tags/podcasts/</link>
       <pubDate>Tue, 31 Dec 2013 17:14:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/podcasts/</guid>
       <description></description>
     </item>
@@ -3219,7 +3221,7 @@
       <title>Polarity</title>
       <link>https://laurakalbag.com/tags/polarity/</link>
       <pubDate>Tue, 04 Dec 2012 08:45:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/polarity/</guid>
       <description></description>
     </item>
@@ -3228,7 +3230,7 @@
       <title>Politics</title>
       <link>https://laurakalbag.com/tags/politics/</link>
       <pubDate>Tue, 04 Dec 2012 08:45:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/politics/</guid>
       <description></description>
     </item>
@@ -3237,7 +3239,7 @@
       <title>Portfolio</title>
       <link>https://laurakalbag.com/tags/portfolio/</link>
       <pubDate>Fri, 02 May 2014 13:10:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/portfolio/</guid>
       <description></description>
     </item>
@@ -3246,7 +3248,7 @@
       <title>Possessions</title>
       <link>https://laurakalbag.com/tags/possessions/</link>
       <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/possessions/</guid>
       <description></description>
     </item>
@@ -3255,7 +3257,7 @@
       <title>Post Production</title>
       <link>https://laurakalbag.com/tags/post-production/</link>
       <pubDate>Wed, 04 Aug 2010 10:32:18 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/post-production/</guid>
       <description></description>
     </item>
@@ -3264,7 +3266,7 @@
       <title>Post Thumbnails</title>
       <link>https://laurakalbag.com/tags/post-thumbnails/</link>
       <pubDate>Fri, 16 Jul 2010 21:49:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/post-thumbnails/</guid>
       <description></description>
     </item>
@@ -3273,7 +3275,7 @@
       <title>Postcapitalism</title>
       <link>https://laurakalbag.com/tags/postcapitalism/</link>
       <pubDate>Fri, 24 Jul 2015 18:00:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/postcapitalism/</guid>
       <description></description>
     </item>
@@ -3282,7 +3284,7 @@
       <title>Prefixes</title>
       <link>https://laurakalbag.com/tags/prefixes/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/prefixes/</guid>
       <description></description>
     </item>
@@ -3291,7 +3293,7 @@
       <title>Preprocessors</title>
       <link>https://laurakalbag.com/tags/preprocessors/</link>
       <pubDate>Fri, 28 Dec 2012 17:51:36 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/preprocessors/</guid>
       <description></description>
     </item>
@@ -3300,7 +3302,7 @@
       <title>Press</title>
       <link>https://laurakalbag.com/tags/press/</link>
       <pubDate>Mon, 05 Feb 2018 13:45:02 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/press/</guid>
       <description></description>
     </item>
@@ -3309,7 +3311,7 @@
       <title>Privacy</title>
       <link>https://laurakalbag.com/tags/privacy/</link>
       <pubDate>Mon, 12 Mar 2018 12:17:22 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/privacy/</guid>
       <description></description>
     </item>
@@ -3318,7 +3320,7 @@
       <title>Process</title>
       <link>https://laurakalbag.com/tags/process/</link>
       <pubDate>Thu, 27 Feb 2014 15:25:44 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/process/</guid>
       <description></description>
     </item>
@@ -3327,7 +3329,7 @@
       <title>Procrastinating</title>
       <link>https://laurakalbag.com/tags/procrastinating/</link>
       <pubDate>Sat, 30 Mar 2013 20:09:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/procrastinating/</guid>
       <description></description>
     </item>
@@ -3336,7 +3338,7 @@
       <title>Productivity</title>
       <link>https://laurakalbag.com/tags/productivity/</link>
       <pubDate>Sun, 10 Feb 2013 15:31:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/productivity/</guid>
       <description></description>
     </item>
@@ -3345,7 +3347,7 @@
       <title>Professional Indemnity</title>
       <link>https://laurakalbag.com/tags/professional-indemnity/</link>
       <pubDate>Mon, 04 Aug 2014 09:47:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/professional-indemnity/</guid>
       <description></description>
     </item>
@@ -3354,7 +3356,7 @@
       <title>Programming</title>
       <link>https://laurakalbag.com/tags/programming/</link>
       <pubDate>Sat, 20 Oct 2012 13:11:08 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/programming/</guid>
       <description></description>
     </item>
@@ -3363,7 +3365,7 @@
       <title>Progressive Enhancement</title>
       <link>https://laurakalbag.com/tags/progressive-enhancement/</link>
       <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/progressive-enhancement/</guid>
       <description></description>
     </item>
@@ -3372,7 +3374,7 @@
       <title>Project</title>
       <link>https://laurakalbag.com/tags/project/</link>
       <pubDate>Tue, 07 May 2013 18:58:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/project/</guid>
       <description></description>
     </item>
@@ -3381,7 +3383,7 @@
       <title>Psychology</title>
       <link>https://laurakalbag.com/tags/psychology/</link>
       <pubDate>Mon, 15 Apr 2013 08:55:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/psychology/</guid>
       <description></description>
     </item>
@@ -3390,7 +3392,7 @@
       <title>Public Liability</title>
       <link>https://laurakalbag.com/tags/public-liability/</link>
       <pubDate>Mon, 04 Aug 2014 09:47:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/public-liability/</guid>
       <description></description>
     </item>
@@ -3399,7 +3401,7 @@
       <title>Public Speaking</title>
       <link>https://laurakalbag.com/tags/public-speaking/</link>
       <pubDate>Wed, 21 May 2014 14:59:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/public-speaking/</guid>
       <description></description>
     </item>
@@ -3408,7 +3410,7 @@
       <title>Publishing</title>
       <link>https://laurakalbag.com/tags/publishing/</link>
       <pubDate>Mon, 09 Jun 2014 16:02:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/publishing/</guid>
       <description></description>
     </item>
@@ -3417,7 +3419,7 @@
       <title>Purpose</title>
       <link>https://laurakalbag.com/tags/purpose/</link>
       <pubDate>Tue, 11 Mar 2014 17:46:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/purpose/</guid>
       <description></description>
     </item>
@@ -3426,7 +3428,7 @@
       <title>Questionnaire</title>
       <link>https://laurakalbag.com/tags/questionnaire/</link>
       <pubDate>Thu, 14 Feb 2013 08:51:34 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/questionnaire/</guid>
       <description></description>
     </item>
@@ -3435,7 +3437,7 @@
       <title>Rates</title>
       <link>https://laurakalbag.com/tags/rates/</link>
       <pubDate>Sun, 26 Jan 2014 18:59:34 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/rates/</guid>
       <description></description>
     </item>
@@ -3444,7 +3446,7 @@
       <title>Readability</title>
       <link>https://laurakalbag.com/tags/readability/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/readability/</guid>
       <description></description>
     </item>
@@ -3453,7 +3455,7 @@
       <title>Reading</title>
       <link>https://laurakalbag.com/tags/reading/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/reading/</guid>
       <description></description>
     </item>
@@ -3462,7 +3464,7 @@
       <title>Realign</title>
       <link>https://laurakalbag.com/tags/realign/</link>
       <pubDate>Mon, 10 Apr 2017 10:18:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/realign/</guid>
       <description></description>
     </item>
@@ -3471,7 +3473,7 @@
       <title>Reddit</title>
       <link>https://laurakalbag.com/tags/reddit/</link>
       <pubDate>Fri, 24 Jul 2015 18:00:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/reddit/</guid>
       <description></description>
     </item>
@@ -3480,7 +3482,7 @@
       <title>Redesign</title>
       <link>https://laurakalbag.com/tags/redesign/</link>
       <pubDate>Mon, 10 Apr 2017 10:18:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/redesign/</guid>
       <description></description>
     </item>
@@ -3489,7 +3491,7 @@
       <title>Reeder</title>
       <link>https://laurakalbag.com/tags/reeder/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/reeder/</guid>
       <description></description>
     </item>
@@ -3498,7 +3500,7 @@
       <title>Reinvention</title>
       <link>https://laurakalbag.com/tags/reinvention/</link>
       <pubDate>Wed, 05 Dec 2012 18:10:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/reinvention/</guid>
       <description></description>
     </item>
@@ -3507,7 +3509,7 @@
       <title>Relationships</title>
       <link>https://laurakalbag.com/tags/relationships/</link>
       <pubDate>Mon, 25 Jun 2012 12:06:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/relationships/</guid>
       <description></description>
     </item>
@@ -3516,7 +3518,7 @@
       <title>Research</title>
       <link>https://laurakalbag.com/tags/research/</link>
       <pubDate>Fri, 01 Jun 2012 21:51:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/research/</guid>
       <description></description>
     </item>
@@ -3525,7 +3527,7 @@
       <title>Resources</title>
       <link>https://laurakalbag.com/tags/resources/</link>
       <pubDate>Thu, 03 Jan 2013 15:47:58 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/resources/</guid>
       <description></description>
     </item>
@@ -3534,7 +3536,7 @@
       <title>Responsible Design</title>
       <link>https://laurakalbag.com/tags/responsible-design/</link>
       <pubDate>Fri, 03 Apr 2015 14:31:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/responsible-design/</guid>
       <description></description>
     </item>
@@ -3543,7 +3545,7 @@
       <title>Responsive</title>
       <link>https://laurakalbag.com/tags/responsive/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/responsive/</guid>
       <description></description>
     </item>
@@ -3552,7 +3554,7 @@
       <title>Responsive Day Out</title>
       <link>https://laurakalbag.com/tags/responsive-day-out/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/responsive-day-out/</guid>
       <description></description>
     </item>
@@ -3561,7 +3563,7 @@
       <title>Responsive Design</title>
       <link>https://laurakalbag.com/tags/responsive-design/</link>
       <pubDate>Thu, 08 Aug 2013 18:59:17 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/responsive-design/</guid>
       <description></description>
     </item>
@@ -3570,7 +3572,7 @@
       <title>Responsive Web Design</title>
       <link>https://laurakalbag.com/tags/responsive-web-design/</link>
       <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/responsive-web-design/</guid>
       <description></description>
     </item>
@@ -3579,7 +3581,7 @@
       <title>Reviews</title>
       <link>https://laurakalbag.com/tags/reviews/</link>
       <pubDate>Wed, 29 Jun 2016 13:44:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/reviews/</guid>
       <description></description>
     </item>
@@ -3588,7 +3590,7 @@
       <title>Right to Be Forgotten</title>
       <link>https://laurakalbag.com/tags/right-to-be-forgotten/</link>
       <pubDate>Fri, 07 Aug 2015 21:19:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/right-to-be-forgotten/</guid>
       <description></description>
     </item>
@@ -3597,7 +3599,7 @@
       <title>Role</title>
       <link>https://laurakalbag.com/tags/role/</link>
       <pubDate>Mon, 23 Jan 2012 10:47:35 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/role/</guid>
       <description></description>
     </item>
@@ -3606,7 +3608,7 @@
       <title>Roles</title>
       <link>https://laurakalbag.com/tags/roles/</link>
       <pubDate>Tue, 25 Jun 2013 11:11:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/roles/</guid>
       <description></description>
     </item>
@@ -3615,7 +3617,7 @@
       <title>Rss</title>
       <link>https://laurakalbag.com/tags/rss/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/rss/</guid>
       <description></description>
     </item>
@@ -3624,7 +3626,7 @@
       <title>Sans Serif</title>
       <link>https://laurakalbag.com/tags/sans-serif/</link>
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/sans-serif/</guid>
       <description></description>
     </item>
@@ -3633,7 +3635,7 @@
       <title>Sass</title>
       <link>https://laurakalbag.com/tags/sass/</link>
       <pubDate>Fri, 02 May 2014 13:10:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/sass/</guid>
       <description></description>
     </item>
@@ -3642,7 +3644,7 @@
       <title>Scheduling</title>
       <link>https://laurakalbag.com/tags/scheduling/</link>
       <pubDate>Tue, 31 Aug 2010 10:00:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/scheduling/</guid>
       <description></description>
     </item>
@@ -3651,7 +3653,7 @@
       <title>School</title>
       <link>https://laurakalbag.com/tags/school/</link>
       <pubDate>Tue, 23 Nov 2010 16:31:50 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/school/</guid>
       <description></description>
     </item>
@@ -3660,7 +3662,7 @@
       <title>Screen Sizes</title>
       <link>https://laurakalbag.com/tags/screen-sizes/</link>
       <pubDate>Thu, 08 Aug 2013 18:59:17 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/screen-sizes/</guid>
       <description></description>
     </item>
@@ -3669,7 +3671,7 @@
       <title>Screens</title>
       <link>https://laurakalbag.com/tags/screens/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/screens/</guid>
       <description></description>
     </item>
@@ -3678,7 +3680,7 @@
       <title>Seams</title>
       <link>https://laurakalbag.com/tags/seams/</link>
       <pubDate>Wed, 05 Dec 2012 18:10:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/seams/</guid>
       <description></description>
     </item>
@@ -3687,7 +3689,7 @@
       <title>Security</title>
       <link>https://laurakalbag.com/tags/security/</link>
       <pubDate>Mon, 13 Apr 2015 09:18:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/security/</guid>
       <description></description>
     </item>
@@ -3696,7 +3698,7 @@
       <title>Self Discipline</title>
       <link>https://laurakalbag.com/tags/self-discipline/</link>
       <pubDate>Mon, 02 Dec 2013 10:57:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/self-discipline/</guid>
       <description></description>
     </item>
@@ -3705,7 +3707,7 @@
       <title>Self Promotion</title>
       <link>https://laurakalbag.com/tags/self-promotion/</link>
       <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/self-promotion/</guid>
       <description></description>
     </item>
@@ -3714,7 +3716,7 @@
       <title>Selling</title>
       <link>https://laurakalbag.com/tags/selling/</link>
       <pubDate>Tue, 02 Feb 2016 15:51:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/selling/</guid>
       <description></description>
     </item>
@@ -3723,7 +3725,7 @@
       <title>Semantics</title>
       <link>https://laurakalbag.com/tags/semantics/</link>
       <pubDate>Wed, 31 Oct 2012 08:45:52 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/semantics/</guid>
       <description></description>
     </item>
@@ -3732,7 +3734,7 @@
       <title>Serif</title>
       <link>https://laurakalbag.com/tags/serif/</link>
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/serif/</guid>
       <description></description>
     </item>
@@ -3741,7 +3743,7 @@
       <title>Shadows</title>
       <link>https://laurakalbag.com/tags/shadows/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/shadows/</guid>
       <description></description>
     </item>
@@ -3750,7 +3752,7 @@
       <title>Sharing</title>
       <link>https://laurakalbag.com/tags/sharing/</link>
       <pubDate>Wed, 23 Jan 2013 09:44:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/sharing/</guid>
       <description></description>
     </item>
@@ -3759,7 +3761,7 @@
       <title>Sketch of the Day</title>
       <link>https://laurakalbag.com/tags/sketch-of-the-day/</link>
       <pubDate>Fri, 31 Jan 2014 10:08:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/sketch-of-the-day/</guid>
       <description></description>
     </item>
@@ -3768,7 +3770,7 @@
       <title>Sketchbook</title>
       <link>https://laurakalbag.com/tags/sketchbook/</link>
       <pubDate>Thu, 08 May 2014 10:52:20 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/sketchbook/</guid>
       <description></description>
     </item>
@@ -3777,7 +3779,7 @@
       <title>Sketches</title>
       <link>https://laurakalbag.com/tags/sketches/</link>
       <pubDate>Thu, 08 May 2014 10:52:20 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/sketches/</guid>
       <description></description>
     </item>
@@ -3786,7 +3788,7 @@
       <title>Sketching</title>
       <link>https://laurakalbag.com/tags/sketching/</link>
       <pubDate>Fri, 31 Jan 2014 10:08:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/sketching/</guid>
       <description></description>
     </item>
@@ -3795,7 +3797,7 @@
       <title>Skip Links</title>
       <link>https://laurakalbag.com/tags/skip-links/</link>
       <pubDate>Wed, 14 Jan 2015 14:59:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/skip-links/</guid>
       <description></description>
     </item>
@@ -3804,7 +3806,7 @@
       <title>Slides</title>
       <link>https://laurakalbag.com/tags/slides/</link>
       <pubDate>Mon, 10 Apr 2017 12:58:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/slides/</guid>
       <description></description>
     </item>
@@ -3813,7 +3815,7 @@
       <title>Small Screens</title>
       <link>https://laurakalbag.com/tags/small-screens/</link>
       <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/small-screens/</guid>
       <description></description>
     </item>
@@ -3822,7 +3824,7 @@
       <title>Smartphones</title>
       <link>https://laurakalbag.com/tags/smartphones/</link>
       <pubDate>Wed, 27 Aug 2014 16:04:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/smartphones/</guid>
       <description></description>
     </item>
@@ -3831,7 +3833,7 @@
       <title>Snowden</title>
       <link>https://laurakalbag.com/tags/snowden/</link>
       <pubDate>Mon, 13 Apr 2015 09:18:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/snowden/</guid>
       <description></description>
     </item>
@@ -3840,7 +3842,7 @@
       <title>Social Media</title>
       <link>https://laurakalbag.com/tags/social-media/</link>
       <pubDate>Tue, 19 Aug 2014 18:57:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/social-media/</guid>
       <description></description>
     </item>
@@ -3849,7 +3851,7 @@
       <title>Social Psychology</title>
       <link>https://laurakalbag.com/tags/social-psychology/</link>
       <pubDate>Mon, 15 Apr 2013 08:55:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/social-psychology/</guid>
       <description></description>
     </item>
@@ -3858,7 +3860,7 @@
       <title>Software</title>
       <link>https://laurakalbag.com/tags/software/</link>
       <pubDate>Wed, 18 Dec 2013 11:59:17 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/software/</guid>
       <description></description>
     </item>
@@ -3867,7 +3869,7 @@
       <title>Speakers</title>
       <link>https://laurakalbag.com/tags/speakers/</link>
       <pubDate>Mon, 23 May 2011 15:00:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/speakers/</guid>
       <description></description>
     </item>
@@ -3876,7 +3878,7 @@
       <title>Speaking</title>
       <link>https://laurakalbag.com/tags/speaking/</link>
       <pubDate>Mon, 10 Apr 2017 12:58:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/speaking/</guid>
       <description></description>
     </item>
@@ -3885,7 +3887,7 @@
       <title>Stationery</title>
       <link>https://laurakalbag.com/tags/stationery/</link>
       <pubDate>Wed, 30 Mar 2011 12:37:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/stationery/</guid>
       <description></description>
     </item>
@@ -3894,7 +3896,7 @@
       <title>Stories</title>
       <link>https://laurakalbag.com/tags/stories/</link>
       <pubDate>Tue, 06 May 2014 09:34:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/stories/</guid>
       <description></description>
     </item>
@@ -3903,7 +3905,7 @@
       <title>Storify</title>
       <link>https://laurakalbag.com/tags/storify/</link>
       <pubDate>Tue, 22 May 2012 09:28:41 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/storify/</guid>
       <description></description>
     </item>
@@ -3912,7 +3914,7 @@
       <title>Stress</title>
       <link>https://laurakalbag.com/tags/stress/</link>
       <pubDate>Wed, 27 Aug 2014 16:04:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/stress/</guid>
       <description></description>
     </item>
@@ -3921,7 +3923,7 @@
       <title>Structure</title>
       <link>https://laurakalbag.com/tags/structure/</link>
       <pubDate>Wed, 31 Oct 2012 08:45:52 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/structure/</guid>
       <description></description>
     </item>
@@ -3930,7 +3932,7 @@
       <title>Students</title>
       <link>https://laurakalbag.com/tags/students/</link>
       <pubDate>Wed, 30 Jan 2013 09:31:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/students/</guid>
       <description></description>
     </item>
@@ -3939,7 +3941,7 @@
       <title>Style Language</title>
       <link>https://laurakalbag.com/tags/style-language/</link>
       <pubDate>Tue, 29 Mar 2016 14:55:34 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/style-language/</guid>
       <description></description>
     </item>
@@ -3948,7 +3950,7 @@
       <title>Subcontractor</title>
       <link>https://laurakalbag.com/tags/subcontractor/</link>
       <pubDate>Mon, 20 May 2013 09:07:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/subcontractor/</guid>
       <description></description>
     </item>
@@ -3957,7 +3959,7 @@
       <title>Subtitles</title>
       <link>https://laurakalbag.com/tags/subtitles/</link>
       <pubDate>Mon, 21 Mar 2016 16:24:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/subtitles/</guid>
       <description></description>
     </item>
@@ -3966,7 +3968,7 @@
       <title>Summary</title>
       <link>https://laurakalbag.com/tags/summary/</link>
       <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/summary/</guid>
       <description></description>
     </item>
@@ -3975,7 +3977,7 @@
       <title>Support</title>
       <link>https://laurakalbag.com/tags/support/</link>
       <pubDate>Mon, 13 Jun 2016 13:38:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/support/</guid>
       <description></description>
     </item>
@@ -3984,7 +3986,7 @@
       <title>Surveillance</title>
       <link>https://laurakalbag.com/tags/surveillance/</link>
       <pubDate>Fri, 31 Jul 2015 17:40:09 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/surveillance/</guid>
       <description></description>
     </item>
@@ -3993,7 +3995,7 @@
       <title>Surveillance Capitalism</title>
       <link>https://laurakalbag.com/tags/surveillance-capitalism/</link>
       <pubDate>Mon, 12 Mar 2018 12:17:22 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/surveillance-capitalism/</guid>
       <description></description>
     </item>
@@ -4002,7 +4004,7 @@
       <title>Sweden</title>
       <link>https://laurakalbag.com/tags/sweden/</link>
       <pubDate>Mon, 21 Mar 2016 16:24:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/sweden/</guid>
       <description></description>
     </item>
@@ -4011,7 +4013,7 @@
       <title>Systems</title>
       <link>https://laurakalbag.com/tags/systems/</link>
       <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/systems/</guid>
       <description></description>
     </item>
@@ -4020,7 +4022,7 @@
       <title>Tabs</title>
       <link>https://laurakalbag.com/tags/tabs/</link>
       <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/tabs/</guid>
       <description></description>
     </item>
@@ -4029,7 +4031,7 @@
       <title>Talk</title>
       <link>https://laurakalbag.com/tags/talk/</link>
       <pubDate>Mon, 20 Jan 2014 18:06:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/talk/</guid>
       <description></description>
     </item>
@@ -4038,7 +4040,7 @@
       <title>Talks</title>
       <link>https://laurakalbag.com/tags/talks/</link>
       <pubDate>Mon, 10 Apr 2017 12:58:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/talks/</guid>
       <description></description>
     </item>
@@ -4047,7 +4049,7 @@
       <title>Team</title>
       <link>https://laurakalbag.com/tags/team/</link>
       <pubDate>Tue, 25 Jun 2013 11:11:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/team/</guid>
       <description></description>
     </item>
@@ -4056,7 +4058,7 @@
       <title>Tech</title>
       <link>https://laurakalbag.com/tags/tech/</link>
       <pubDate>Wed, 02 Mar 2011 13:57:05 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/tech/</guid>
       <description></description>
     </item>
@@ -4065,7 +4067,7 @@
       <title>Technology</title>
       <link>https://laurakalbag.com/tags/technology/</link>
       <pubDate>Mon, 08 Sep 2014 15:08:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/technology/</guid>
       <description></description>
     </item>
@@ -4074,7 +4076,7 @@
       <title>Template Design</title>
       <link>https://laurakalbag.com/tags/template-design/</link>
       <pubDate>Thu, 14 Aug 2014 15:47:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/template-design/</guid>
       <description></description>
     </item>
@@ -4083,7 +4085,7 @@
       <title>Template Parts</title>
       <link>https://laurakalbag.com/tags/template-parts/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:50 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/template-parts/</guid>
       <description></description>
     </item>
@@ -4092,7 +4094,7 @@
       <title>Textures</title>
       <link>https://laurakalbag.com/tags/textures/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/textures/</guid>
       <description></description>
     </item>
@@ -4101,7 +4103,7 @@
       <title>The East Wing</title>
       <link>https://laurakalbag.com/tags/the-east-wing/</link>
       <pubDate>Wed, 06 Feb 2013 09:23:20 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/the-east-wing/</guid>
       <description></description>
     </item>
@@ -4110,7 +4112,7 @@
       <title>The Pastry Box</title>
       <link>https://laurakalbag.com/tags/the-pastry-box/</link>
       <pubDate>Wed, 17 Sep 2014 09:16:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/the-pastry-box/</guid>
       <description></description>
     </item>
@@ -4119,7 +4121,7 @@
       <title>Thebigm</title>
       <link>https://laurakalbag.com/tags/thebigm/</link>
       <pubDate>Wed, 02 Mar 2011 15:36:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/thebigm/</guid>
       <description></description>
     </item>
@@ -4128,7 +4130,7 @@
       <title>Theme</title>
       <link>https://laurakalbag.com/tags/theme/</link>
       <pubDate>Sat, 30 Mar 2013 20:09:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/theme/</guid>
       <description></description>
     </item>
@@ -4137,7 +4139,7 @@
       <title>Theme Development</title>
       <link>https://laurakalbag.com/tags/theme-development/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/theme-development/</guid>
       <description></description>
     </item>
@@ -4146,7 +4148,7 @@
       <title>Themes</title>
       <link>https://laurakalbag.com/tags/themes/</link>
       <pubDate>Mon, 23 May 2011 15:00:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/themes/</guid>
       <description></description>
     </item>
@@ -4155,7 +4157,7 @@
       <title>Thinking</title>
       <link>https://laurakalbag.com/tags/thinking/</link>
       <pubDate>Tue, 06 May 2014 09:34:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/thinking/</guid>
       <description></description>
     </item>
@@ -4164,7 +4166,7 @@
       <title>Time</title>
       <link>https://laurakalbag.com/tags/time/</link>
       <pubDate>Tue, 25 Jun 2013 11:11:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/time/</guid>
       <description></description>
     </item>
@@ -4173,7 +4175,7 @@
       <title>Titles</title>
       <link>https://laurakalbag.com/tags/titles/</link>
       <pubDate>Wed, 20 Jul 2011 11:56:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/titles/</guid>
       <description></description>
     </item>
@@ -4182,7 +4184,7 @@
       <title>Tools</title>
       <link>https://laurakalbag.com/tags/tools/</link>
       <pubDate>Sat, 30 Mar 2013 20:09:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/tools/</guid>
       <description></description>
     </item>
@@ -4191,7 +4193,7 @@
       <title>Touch Interfaces</title>
       <link>https://laurakalbag.com/tags/touch-interfaces/</link>
       <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/touch-interfaces/</guid>
       <description></description>
     </item>
@@ -4200,7 +4202,7 @@
       <title>Tracking</title>
       <link>https://laurakalbag.com/tags/tracking/</link>
       <pubDate>Mon, 12 Mar 2018 12:17:22 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/tracking/</guid>
       <description></description>
     </item>
@@ -4209,7 +4211,7 @@
       <title>Transcending Css</title>
       <link>https://laurakalbag.com/tags/transcending-css/</link>
       <pubDate>Tue, 18 Jan 2011 16:28:19 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/transcending-css/</guid>
       <description></description>
     </item>
@@ -4218,7 +4220,7 @@
       <title>Translation</title>
       <link>https://laurakalbag.com/tags/translation/</link>
       <pubDate>Sat, 14 Jun 2014 11:19:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/translation/</guid>
       <description></description>
     </item>
@@ -4227,7 +4229,7 @@
       <title>Transparency</title>
       <link>https://laurakalbag.com/tags/transparency/</link>
       <pubDate>Thu, 17 Oct 2013 14:04:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/transparency/</guid>
       <description></description>
     </item>
@@ -4236,7 +4238,7 @@
       <title>Travel</title>
       <link>https://laurakalbag.com/tags/travel/</link>
       <pubDate>Mon, 03 Feb 2014 11:34:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/travel/</guid>
       <description></description>
     </item>
@@ -4245,7 +4247,7 @@
       <title>Trend</title>
       <link>https://laurakalbag.com/tags/trend/</link>
       <pubDate>Tue, 11 Jun 2013 14:41:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/trend/</guid>
       <description></description>
     </item>
@@ -4254,7 +4256,7 @@
       <title>Trends</title>
       <link>https://laurakalbag.com/tags/trends/</link>
       <pubDate>Fri, 15 Oct 2010 16:59:29 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/trends/</guid>
       <description></description>
     </item>
@@ -4263,7 +4265,7 @@
       <title>Trolling</title>
       <link>https://laurakalbag.com/tags/trolling/</link>
       <pubDate>Mon, 25 May 2015 08:54:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/trolling/</guid>
       <description></description>
     </item>
@@ -4272,7 +4274,7 @@
       <title>Tweets</title>
       <link>https://laurakalbag.com/tags/tweets/</link>
       <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/tweets/</guid>
       <description></description>
     </item>
@@ -4281,7 +4283,7 @@
       <title>Twentyten</title>
       <link>https://laurakalbag.com/tags/twentyten/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/twentyten/</guid>
       <description></description>
     </item>
@@ -4290,7 +4292,7 @@
       <title>Twitter</title>
       <link>https://laurakalbag.com/tags/twitter/</link>
       <pubDate>Mon, 25 May 2015 08:54:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/twitter/</guid>
       <description></description>
     </item>
@@ -4299,7 +4301,7 @@
       <title>Twitterrific</title>
       <link>https://laurakalbag.com/tags/twitterrific/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/twitterrific/</guid>
       <description></description>
     </item>
@@ -4308,7 +4310,7 @@
       <title>Typekit</title>
       <link>https://laurakalbag.com/tags/typekit/</link>
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/typekit/</guid>
       <description></description>
     </item>
@@ -4317,7 +4319,7 @@
       <title>Typography</title>
       <link>https://laurakalbag.com/tags/typography/</link>
       <pubDate>Fri, 20 Feb 2015 16:34:52 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/typography/</guid>
       <description></description>
     </item>
@@ -4326,7 +4328,7 @@
       <title>Ubelly</title>
       <link>https://laurakalbag.com/tags/ubelly/</link>
       <pubDate>Tue, 22 May 2012 09:28:41 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/ubelly/</guid>
       <description></description>
     </item>
@@ -4335,7 +4337,7 @@
       <title>Uber</title>
       <link>https://laurakalbag.com/tags/uber/</link>
       <pubDate>Fri, 31 Jul 2015 17:40:09 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/uber/</guid>
       <description></description>
     </item>
@@ -4344,7 +4346,7 @@
       <title>Ui</title>
       <link>https://laurakalbag.com/tags/ui/</link>
       <pubDate>Mon, 12 Dec 2011 09:14:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/ui/</guid>
       <description></description>
     </item>
@@ -4353,7 +4355,7 @@
       <title>Uk</title>
       <link>https://laurakalbag.com/tags/uk/</link>
       <pubDate>Thu, 05 Jul 2018 11:12:11 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/uk/</guid>
       <description></description>
     </item>
@@ -4362,7 +4364,7 @@
       <title>Unfinished Business</title>
       <link>https://laurakalbag.com/tags/unfinished-business/</link>
       <pubDate>Sun, 26 Jan 2014 18:59:34 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/unfinished-business/</guid>
       <description></description>
     </item>
@@ -4371,7 +4373,7 @@
       <title>Universal Design</title>
       <link>https://laurakalbag.com/tags/universal-design/</link>
       <pubDate>Tue, 26 Aug 2014 11:59:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/universal-design/</guid>
       <description></description>
     </item>
@@ -4380,7 +4382,7 @@
       <title>Update</title>
       <link>https://laurakalbag.com/tags/update/</link>
       <pubDate>Fri, 02 May 2014 13:10:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/update/</guid>
       <description></description>
     </item>
@@ -4389,7 +4391,7 @@
       <title>Usability</title>
       <link>https://laurakalbag.com/tags/usability/</link>
       <pubDate>Tue, 10 Dec 2013 09:45:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/usability/</guid>
       <description></description>
     </item>
@@ -4398,7 +4400,7 @@
       <title>User Experience</title>
       <link>https://laurakalbag.com/tags/user-experience/</link>
       <pubDate>Mon, 31 Dec 2012 14:57:05 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/user-experience/</guid>
       <description></description>
     </item>
@@ -4407,7 +4409,7 @@
       <title>User Interfaces</title>
       <link>https://laurakalbag.com/tags/user-interfaces/</link>
       <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/user-interfaces/</guid>
       <description></description>
     </item>
@@ -4416,7 +4418,7 @@
       <title>Users</title>
       <link>https://laurakalbag.com/tags/users/</link>
       <pubDate>Fri, 01 Jun 2012 21:51:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/users/</guid>
       <description></description>
     </item>
@@ -4425,7 +4427,7 @@
       <title>Value</title>
       <link>https://laurakalbag.com/tags/value/</link>
       <pubDate>Tue, 23 Nov 2010 16:31:50 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/value/</guid>
       <description></description>
     </item>
@@ -4434,7 +4436,7 @@
       <title>Victor Papanek</title>
       <link>https://laurakalbag.com/tags/victor-papanek/</link>
       <pubDate>Fri, 07 Aug 2015 21:19:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/victor-papanek/</guid>
       <description></description>
     </item>
@@ -4443,7 +4445,7 @@
       <title>Video</title>
       <link>https://laurakalbag.com/tags/video/</link>
       <pubDate>Mon, 21 Mar 2016 16:24:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/video/</guid>
       <description></description>
     </item>
@@ -4452,7 +4454,7 @@
       <title>Viewports</title>
       <link>https://laurakalbag.com/tags/viewports/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/viewports/</guid>
       <description></description>
     </item>
@@ -4461,7 +4463,7 @@
       <title>Visual Design</title>
       <link>https://laurakalbag.com/tags/visual-design/</link>
       <pubDate>Fri, 04 Feb 2011 00:21:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/visual-design/</guid>
       <description></description>
     </item>
@@ -4470,7 +4472,7 @@
       <title>Web</title>
       <link>https://laurakalbag.com/tags/web/</link>
       <pubDate>Wed, 23 Jan 2013 09:44:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/web/</guid>
       <description></description>
     </item>
@@ -4479,7 +4481,7 @@
       <title>Web Design</title>
       <link>https://laurakalbag.com/tags/web-design/</link>
       <pubDate>Thu, 14 Aug 2014 15:47:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/web-design/</guid>
       <description></description>
     </item>
@@ -4488,7 +4490,7 @@
       <title>Web Fonts</title>
       <link>https://laurakalbag.com/tags/web-fonts/</link>
       <pubDate>Fri, 20 Feb 2015 16:34:52 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/web-fonts/</guid>
       <description></description>
     </item>
@@ -4497,7 +4499,7 @@
       <title>Web Talk Dog Walk</title>
       <link>https://laurakalbag.com/tags/web-talk-dog-walk/</link>
       <pubDate>Fri, 26 Jul 2013 09:00:10 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/web-talk-dog-walk/</guid>
       <description></description>
     </item>
@@ -4506,7 +4508,7 @@
       <title>White Hat Magazine</title>
       <link>https://laurakalbag.com/tags/white-hat-magazine/</link>
       <pubDate>Fri, 07 Aug 2015 21:19:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/white-hat-magazine/</guid>
       <description></description>
     </item>
@@ -4515,7 +4517,7 @@
       <title>Windows</title>
       <link>https://laurakalbag.com/tags/windows/</link>
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/windows/</guid>
       <description></description>
     </item>
@@ -4524,7 +4526,7 @@
       <title>Windows 10</title>
       <link>https://laurakalbag.com/tags/windows-10/</link>
       <pubDate>Fri, 31 Jul 2015 17:40:09 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/windows-10/</guid>
       <description></description>
     </item>
@@ -4533,7 +4535,7 @@
       <title>Wireframes</title>
       <link>https://laurakalbag.com/tags/wireframes/</link>
       <pubDate>Wed, 30 Mar 2011 12:37:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/wireframes/</guid>
       <description></description>
     </item>
@@ -4542,7 +4544,7 @@
       <title>Women</title>
       <link>https://laurakalbag.com/tags/women/</link>
       <pubDate>Mon, 25 May 2015 08:54:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/women/</guid>
       <description></description>
     </item>
@@ -4551,7 +4553,7 @@
       <title>Wordpress</title>
       <link>https://laurakalbag.com/tags/wordpress/</link>
       <pubDate>Sat, 02 Feb 2013 13:09:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/wordpress/</guid>
       <description></description>
     </item>
@@ -4560,7 +4562,7 @@
       <title>Wordpress 2.8</title>
       <link>https://laurakalbag.com/tags/wordpress-2.8/</link>
       <pubDate>Fri, 16 Jul 2010 21:49:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/wordpress-2.8/</guid>
       <description></description>
     </item>
@@ -4569,7 +4571,7 @@
       <title>Wordpress 2.9</title>
       <link>https://laurakalbag.com/tags/wordpress-2.9/</link>
       <pubDate>Fri, 16 Jul 2010 21:49:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/wordpress-2.9/</guid>
       <description></description>
     </item>
@@ -4578,7 +4580,7 @@
       <title>Wordpress 3.0</title>
       <link>https://laurakalbag.com/tags/wordpress-3.0/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/wordpress-3.0/</guid>
       <description></description>
     </item>
@@ -4587,7 +4589,7 @@
       <title>Wordpress Admin</title>
       <link>https://laurakalbag.com/tags/wordpress-admin/</link>
       <pubDate>Mon, 17 Dec 2012 11:56:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/wordpress-admin/</guid>
       <description></description>
     </item>
@@ -4596,7 +4598,7 @@
       <title>Wordpress Admin Icons</title>
       <link>https://laurakalbag.com/tags/wordpress-admin-icons/</link>
       <pubDate>Sat, 02 Feb 2013 13:09:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/wordpress-admin-icons/</guid>
       <description></description>
     </item>
@@ -4605,7 +4607,7 @@
       <title>Wordpress Loop</title>
       <link>https://laurakalbag.com/tags/wordpress-loop/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:50 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/wordpress-loop/</guid>
       <description></description>
     </item>
@@ -4614,7 +4616,7 @@
       <title>Wordpress Templates</title>
       <link>https://laurakalbag.com/tags/wordpress-templates/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:50 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/wordpress-templates/</guid>
       <description></description>
     </item>
@@ -4623,7 +4625,7 @@
       <title>Work</title>
       <link>https://laurakalbag.com/tags/work/</link>
       <pubDate>Fri, 15 Aug 2014 07:20:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/work/</guid>
       <description></description>
     </item>
@@ -4632,7 +4634,7 @@
       <title>Work Habits</title>
       <link>https://laurakalbag.com/tags/work-habits/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/work-habits/</guid>
       <description></description>
     </item>
@@ -4641,7 +4643,7 @@
       <title>Workflow</title>
       <link>https://laurakalbag.com/tags/workflow/</link>
       <pubDate>Sun, 10 Jun 2012 18:17:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/workflow/</guid>
       <description></description>
     </item>
@@ -4650,7 +4652,7 @@
       <title>Working Process</title>
       <link>https://laurakalbag.com/tags/working-process/</link>
       <pubDate>Tue, 03 Dec 2013 09:06:12 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/working-process/</guid>
       <description></description>
     </item>
@@ -4659,7 +4661,7 @@
       <title>Working for Free</title>
       <link>https://laurakalbag.com/tags/working-for-free/</link>
       <pubDate>Mon, 10 Dec 2012 21:23:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/working-for-free/</guid>
       <description></description>
     </item>
@@ -4668,7 +4670,7 @@
       <title>Workplace</title>
       <link>https://laurakalbag.com/tags/workplace/</link>
       <pubDate>Fri, 15 Aug 2014 07:20:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/workplace/</guid>
       <description></description>
     </item>
@@ -4677,7 +4679,7 @@
       <title>Workshop</title>
       <link>https://laurakalbag.com/tags/workshop/</link>
       <pubDate>Tue, 16 Sep 2014 08:44:10 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/workshop/</guid>
       <description></description>
     </item>
@@ -4686,7 +4688,7 @@
       <title>Workshops</title>
       <link>https://laurakalbag.com/tags/workshops/</link>
       <pubDate>Tue, 12 Nov 2013 18:22:41 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/workshops/</guid>
       <description></description>
     </item>
@@ -4695,7 +4697,7 @@
       <title>Workspace</title>
       <link>https://laurakalbag.com/tags/workspace/</link>
       <pubDate>Fri, 15 Aug 2014 07:20:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/workspace/</guid>
       <description></description>
     </item>
@@ -4704,7 +4706,7 @@
       <title>Wrapup</title>
       <link>https://laurakalbag.com/tags/wrapup/</link>
       <pubDate>Fri, 01 Jan 2016 12:45:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/wrapup/</guid>
       <description></description>
     </item>
@@ -4713,7 +4715,7 @@
       <title>Writeup</title>
       <link>https://laurakalbag.com/tags/writeup/</link>
       <pubDate>Mon, 08 Sep 2014 15:08:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/writeup/</guid>
       <description></description>
     </item>
@@ -4722,7 +4724,7 @@
       <title>Writing</title>
       <link>https://laurakalbag.com/tags/writing/</link>
       <pubDate>Thu, 01 Jan 2015 14:21:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/writing/</guid>
       <description></description>
     </item>
@@ -4731,7 +4733,7 @@
       <title>Wxg 2014</title>
       <link>https://laurakalbag.com/tags/wxg-2014/</link>
       <pubDate>Tue, 29 Jul 2014 10:25:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/wxg-2014/</guid>
       <description></description>
     </item>
@@ -4740,7 +4742,7 @@
       <title>Zootool</title>
       <link>https://laurakalbag.com/tags/zootool/</link>
       <pubDate>Thu, 10 Jun 2010 21:39:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tags/zootool/</guid>
       <description></description>
     </item>

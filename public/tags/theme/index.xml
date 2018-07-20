@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Sat, 30 Mar 2013 20:09:49 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/theme/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Alfred App v2 theme</title>
       <link>https://laurakalbag.com/alfred-app-v2-theme/</link>
       <pubDate>Sat, 30 Mar 2013 20:09:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/alfred-app-v2-theme/</guid>
       <description>&lt;p&gt;Today I finally got around to playing with &lt;a href=&#34;http://www.alfredapp.com/&#34;&gt;Alfred v2&lt;/a&gt;. This is the one OSX app I’ll allow to open on login, I use it to launch every app and find every file. I use it to work out maths for my CSS and double-check the meanings of words I’m about to write. And it does so much more.&lt;/p&gt;
 

@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 01 Jan 2013 19:01:59 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/categories/markup/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Grid Frameworks and why I’m not keen on them…</title>
       <link>https://laurakalbag.com/grid-frameworks/</link>
       <pubDate>Tue, 01 Jan 2013 19:01:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/grid-frameworks/</guid>
       <description>
 
@@ -147,7 +149,7 @@ If I’m honest, I would actually have to pay more attention if a supplier uses 
       <title>Sass for Designers — The Setup</title>
       <link>https://laurakalbag.com/sass-for-designers-the-setup/</link>
       <pubDate>Fri, 28 Dec 2012 17:51:36 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/sass-for-designers-the-setup/</guid>
       <description>
 
@@ -304,7 +306,7 @@ I’ve just come across your site and really enjoyed digging around. Keep up the
       <title>Sass for Designers</title>
       <link>https://laurakalbag.com/sass-for-designers/</link>
       <pubDate>Fri, 28 Dec 2012 17:51:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/sass-for-designers/</guid>
       <description>
 
@@ -787,7 +789,7 @@ Mixins are best used when you need to calculate things, for instance I use this 
       <title>display: none;</title>
       <link>https://laurakalbag.com/display-none/</link>
       <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/display-none/</guid>
       <description>
 

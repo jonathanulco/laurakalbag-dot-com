@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Sat, 20 Oct 2012 13:11:08 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>CreativeJS for non-coders workshop with Seb Lee-Delisle</title>
       <link>https://laurakalbag.com/creativejs-for-non-coders/</link>
       <pubDate>Sat, 20 Oct 2012 13:11:08 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/creativejs-for-non-coders/</guid>
       <description>
 

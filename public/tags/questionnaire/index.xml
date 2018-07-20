@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Thu, 14 Feb 2013 08:51:34 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/questionnaire/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Design Feast Designer’s Quest(ionnaire)</title>
       <link>https://laurakalbag.com/design-feast-designers-questionnaire/</link>
       <pubDate>Thu, 14 Feb 2013 08:51:34 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-feast-designers-questionnaire/</guid>
       <description>&lt;p&gt;Design Feast have my answers to their Designer’s Quest(ionnaire) on their site.&lt;/p&gt;
 

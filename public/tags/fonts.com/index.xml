@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 02 Jul 2013 09:53:48 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/fonts.com/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Fonts.com mockup fonts</title>
       <link>https://laurakalbag.com/fonts-com-mockup-fonts/</link>
       <pubDate>Tue, 02 Jul 2013 09:53:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fonts-com-mockup-fonts/</guid>
       <description>
 
@@ -126,7 +128,7 @@ Fonts.com&lt;/p&gt;   &lt;/div&gt;
       <title>Web Fonts</title>
       <link>https://laurakalbag.com/web-fonts/</link>
       <pubDate>Fri, 02 Jul 2010 18:12:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/web-fonts/</guid>
       <description>
 

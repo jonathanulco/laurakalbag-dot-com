@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Wed, 31 Oct 2012 08:45:52 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/semantics/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>SMACSS –; Scalable and Modular Architecture for CSS</title>
       <link>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</link>
       <pubDate>Wed, 31 Oct 2012 08:45:52 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</guid>
       <description>
 

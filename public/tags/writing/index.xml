@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Thu, 01 Jan 2015 14:21:02 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>My 2014</title>
       <link>https://laurakalbag.com/my-2014/</link>
       <pubDate>Thu, 01 Jan 2015 14:21:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2014/</guid>
       <description>
 
@@ -326,7 +328,7 @@ I find there’s benefits in both working freelance and in a team. There’s les
       <title>Unfinished Business 81 and 82</title>
       <link>https://laurakalbag.com/unfinished-business-81-and-82/</link>
       <pubDate>Tue, 19 Aug 2014 18:57:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-81-and-82/</guid>
       <description>&lt;p&gt;I was so busy last week that I forgot to post about &lt;a href=&#34;http://unfinished.bz/81&#34;&gt;Unfinished Business episode 81: Do you have a dinosaur onesie?&lt;/a&gt; This week, Ashley and I recorded &lt;a href=&#34;http://unfinished.bz/82&#34;&gt;episode 82: Love a good pep talk&lt;/a&gt;.&lt;/p&gt;
 
@@ -353,7 +355,7 @@ I find there’s benefits in both working freelance and in a team. There’s les
       <title>Unfinished Business 72: Big Bad Boy Breakfast Bap</title>
       <link>https://laurakalbag.com/unfinished-business-72/</link>
       <pubDate>Mon, 09 Jun 2014 16:02:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-72/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://unfinished.bz/72&#34;&gt;This week’s episode of Unfinished Business&lt;/a&gt; was great fun to record. After &lt;a href=&#34;https://laurakalbag.com/indie-phone/&#34; title=&#34;Becoming part of Indie Phone&#34;&gt;my recent move to working on Indie Phone&lt;/a&gt;, alongside my boyfriend Aral Balkan, I was curious to know how Andy and Sue have worked so well together since the beginning of Stuff and Nonsense.&lt;/p&gt;
 
@@ -376,7 +378,7 @@ I find there’s benefits in both working freelance and in a team. There’s les
       <title>April’s Pastry Box thought on writing</title>
       <link>https://laurakalbag.com/marchs-pastry-box-thought-on-writing/</link>
       <pubDate>Tue, 06 May 2014 09:34:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/marchs-pastry-box-thought-on-writing/</guid>
       <description>&lt;p&gt;I was slow to post about&lt;a href=&#34;https://the-pastry-box-project.net/laura-kalbag/2014-april-19&#34;&gt; my April Pastry Box post&lt;/a&gt; as &lt;a href=&#34;https://laurakalbag.com/a-little-realign/&#34; title=&#34;A little realign&#34;&gt;my realign&lt;/a&gt; got in the way. It was really a little insecure thought about how my writing and thinking is improving, but I’m finding it hard.&lt;/p&gt;
 
@@ -397,7 +399,7 @@ I find there’s benefits in both working freelance and in a team. There’s les
       <title>Unfinished Business #64</title>
       <link>https://laurakalbag.com/unfinished-business-64/</link>
       <pubDate>Tue, 15 Apr 2014 14:58:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-64/</guid>
       <description>&lt;p&gt;On Friday I was a guest on the &lt;a href=&#34;http://unfinished.bz/64&#34;&gt;Unfinished Business podcast&lt;/a&gt; again. It was a special episode as &lt;a href=&#34;http://rachelandrew.co.uk&#34;&gt;Rachel Andrew&lt;/a&gt; was also a guest (yeah, I designed her site!) I don’t like to go on about stuff like this too often, but if you’d told 21 year old me (7 years ago) that I’d be appearing on a podcast with Andy Clarke and Rachel Andrew, it would’ve blown my mind. They’re two very lovely people whose writing helped me learn about, and become so excited about, the web.&lt;/p&gt;
 
@@ -420,7 +422,7 @@ I find there’s benefits in both working freelance and in a team. There’s les
       <title>Writing on The Pastry Box and my first post on ethics</title>
       <link>https://laurakalbag.com/writing-on-the-pastry-box/</link>
       <pubDate>Sat, 11 Jan 2014 11:06:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/writing-on-the-pastry-box/</guid>
       <description>
 
@@ -451,7 +453,7 @@ I find there’s benefits in both working freelance and in a team. There’s les
       <title>I love this pen</title>
       <link>https://laurakalbag.com/i-love-this-pen/</link>
       <pubDate>Tue, 07 Jan 2014 09:25:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/i-love-this-pen/</guid>
       <description>
 
@@ -547,7 +549,7 @@ The Pen’s store link was in your article -&amp;gt; [http://www.bureaudirect.co
       <title>A List Apart column and first post on Good Designers, Good Clients</title>
       <link>https://laurakalbag.com/a-list-apart-column/</link>
       <pubDate>Fri, 30 Aug 2013 09:00:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-list-apart-column/</guid>
       <description>&lt;p&gt;This week the &lt;a href=&#34;http://alistapart.com/column/good-designers-good-clients&#34;&gt;first post was published on my A List Apart column&lt;/a&gt;. It’s a very exciting thing for me. I’ve been reading A List Apart since I started learning about the web and loads of people I admire have written there.&lt;/p&gt;
 
@@ -570,7 +572,7 @@ The Pen’s store link was in your article -&amp;gt; [http://www.bureaudirect.co
       <title>Ladies In Tech</title>
       <link>https://laurakalbag.com/ladies-in-tech/</link>
       <pubDate>Tue, 26 Mar 2013 14:15:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/ladies-in-tech/</guid>
       <description>
 
@@ -615,7 +617,7 @@ So happy Jeremy got us in touch!! And double happy that you shared your story wi
       <title>Design work is 50% visual, 50% justification</title>
       <link>https://laurakalbag.com/design-is-50percent-visual-50percent-justification-2/</link>
       <pubDate>Tue, 23 Nov 2010 16:31:50 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-is-50percent-visual-50percent-justification-2/</guid>
       <description>
 

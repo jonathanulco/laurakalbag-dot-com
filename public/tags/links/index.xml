@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Wed, 16 Jun 2010 14:40:42 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/links/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Open In A New Window</title>
       <link>https://laurakalbag.com/open-in-a-new-window/</link>
       <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/open-in-a-new-window/</guid>
       <description>
 

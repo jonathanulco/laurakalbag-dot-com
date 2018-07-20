@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 07 Jan 2014 09:25:48 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>I love this pen</title>
       <link>https://laurakalbag.com/i-love-this-pen/</link>
       <pubDate>Tue, 07 Jan 2014 09:25:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/i-love-this-pen/</guid>
       <description>
 
@@ -111,7 +113,7 @@ The Pen’s store link was in your article -&amp;gt; [http://www.bureaudirect.co
       <title>Psychology for designers</title>
       <link>https://laurakalbag.com/psychology-for-designers/</link>
       <pubDate>Mon, 15 Apr 2013 08:55:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/psychology-for-designers/</guid>
       <description>
 
@@ -197,7 +199,7 @@ Wow. That comment is exactly an example of why I couldn’t write a book… ;-)
       <title>Why I love Unfinished Business</title>
       <link>https://laurakalbag.com/why-i-love-unfinished-business/</link>
       <pubDate>Mon, 25 Feb 2013 17:48:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/why-i-love-unfinished-business/</guid>
       <description>
 
@@ -336,7 +338,7 @@ Y&lt;/p&gt;   &lt;/div&gt;
       <title>SMACSS –; Scalable and Modular Architecture for CSS</title>
       <link>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</link>
       <pubDate>Wed, 31 Oct 2012 08:45:52 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</guid>
       <description>
 
@@ -514,7 +516,7 @@ no, you’re not! great shoptalkshop btw. keep it up!&lt;/p&gt; &lt;/div&gt;
       <title>A Practical Guide to Designing with Data</title>
       <link>https://laurakalbag.com/a-practical-guide-to-designing-with-data/</link>
       <pubDate>Mon, 02 Jul 2012 10:51:29 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-practical-guide-to-designing-with-data/</guid>
       <description>&lt;p&gt;Another ubelly post from me, this time a review. Much like &lt;a href=&#34;https://laurakalbag.com/mobile-first/&#34; title=&#34;Mobile First&#34;&gt;my&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/designing-for-emotion/&#34; title=&#34;Designing For Emotion&#34;&gt;other&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/a-practical-guide-to-designing-the-invisible/&#34; title=&#34;A Practical Guide to Designing the invisible&#34;&gt;reviews&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/hardboiled-web-design-and-transcending-css/&#34; title=&#34;Hardboiled Web Design and Transcending CSS&#34;&gt;of&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/category/reviews/&#34;&gt;books on this blog&lt;/a&gt;, just in another location!&lt;/p&gt;
 
@@ -526,7 +528,7 @@ no, you’re not! great shoptalkshop btw. keep it up!&lt;/p&gt; &lt;/div&gt;
       <title>Six months of the Fitbit (and the new Fitbit Aria)</title>
       <link>https://laurakalbag.com/six-months-of-the-fitbit-and-the-new-fitbit-aria/</link>
       <pubDate>Fri, 29 Jun 2012 16:39:58 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/six-months-of-the-fitbit-and-the-new-fitbit-aria/</guid>
       <description>
 
@@ -1441,7 +1443,7 @@ Linda
       <title>Mobile First</title>
       <link>https://laurakalbag.com/mobile-first/</link>
       <pubDate>Mon, 12 Dec 2011 09:14:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mobile-first/</guid>
       <description>&lt;p&gt;Continuing on with my chapter-a-day, last week I finished reading the brilliant &lt;a href=&#34;http://www.abookapart.com/products/mobile-first&#34; title=&#34;Mobile First on A Book Apart&#34;&gt;Mobile First&lt;/a&gt; by Luke Wroblewski.&lt;/p&gt;
 
@@ -1477,7 +1479,7 @@ Mobile design and development has gained momentum over the last few years; with 
       <title>Designing For Emotion</title>
       <link>https://laurakalbag.com/designing-for-emotion/</link>
       <pubDate>Tue, 15 Nov 2011 09:43:18 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/designing-for-emotion/</guid>
       <description>
 
@@ -1555,7 +1557,7 @@ Mobile design and development has gained momentum over the last few years; with 
       <title>A Practical Guide to Designing the invisible</title>
       <link>https://laurakalbag.com/a-practical-guide-to-designing-the-invisible/</link>
       <pubDate>Tue, 01 Nov 2011 08:27:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-practical-guide-to-designing-the-invisible/</guid>
       <description>&lt;p&gt;After reading &lt;a href=&#34;http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web&#34; title=&#34;Five Simple Steps - A Practical Guide to Designing For The Web&#34;&gt;Mark Boulton’s A Practical Guide to Designing For The Web&lt;/a&gt; and &lt;a href=&#34;https://laurakalbag.com/hardboiled-web-design-and-transcending-css/&#34; title=&#34;Hardboiled Web Design and Transcending CSS&#34;&gt;Andy Clarke’s Hardboiled Web Design&lt;/a&gt;, I was keen to read another Five Simple Steps’ design book. &lt;a href=&#34;http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-the-invisible&#34; title=&#34;Five Simple Steps - A Practical Guide to Designing the invisible&#34;&gt;Robert Mills’ A Practical Guide to Designing the invisible&lt;/a&gt; definitely didn’t disappoint.&lt;/p&gt;
 
@@ -1645,7 +1647,7 @@ Mobile design and development has gained momentum over the last few years; with 
       <title>Responsive Web Design</title>
       <link>https://laurakalbag.com/responsive-web-design/</link>
       <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/responsive-web-design/</guid>
       <description>
 
@@ -1750,7 +1752,7 @@ Mobile design and development has gained momentum over the last few years; with 
       <title>Future Of Web Design 2011 –; The Review</title>
       <link>https://laurakalbag.com/fowd-2011-the-review/</link>
       <pubDate>Mon, 23 May 2011 15:00:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fowd-2011-the-review/</guid>
       <description>
 
@@ -1818,7 +1820,7 @@ Should we try to patent supersonic websites? or should we donate it to the commu
       <title>Notebooks and Getting Over Moleskine</title>
       <link>https://laurakalbag.com/notebooks-and-getting-over-moleskine/</link>
       <pubDate>Wed, 30 Mar 2011 12:37:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/notebooks-and-getting-over-moleskine/</guid>
       <description>
 
@@ -2131,7 +2133,7 @@ They’ve become my perfect notebook, although I may have to try out a Leuchttur
       <title>Hardboiled Web Design and Transcending CSS</title>
       <link>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</link>
       <pubDate>Tue, 18 Jan 2011 16:28:19 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</guid>
       <description>
 
@@ -2405,7 +2407,7 @@ Once I get it I’ll go through another read through and will probably have it o
       <title>How the iPad is saving my sanity</title>
       <link>https://laurakalbag.com/how-the-ipad-is-saving-my-sanity/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/how-the-ipad-is-saving-my-sanity/</guid>
       <description>
 
@@ -2758,7 +2760,7 @@ If you have skype, add me (I’ve set my username as the bit before the @ symbol
       <title>HTML5 For Web Designers</title>
       <link>https://laurakalbag.com/html5-for-web-designers/</link>
       <pubDate>Mon, 12 Jul 2010 16:29:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/html5-for-web-designers/</guid>
       <description>
 
@@ -2913,7 +2915,7 @@ If you have skype, add me (I’ve set my username as the bit before the @ symbol
       <title>Autodesk SketchBook Pro</title>
       <link>https://laurakalbag.com/autodesk-sketchbook-pro/</link>
       <pubDate>Sat, 19 Jun 2010 13:19:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/autodesk-sketchbook-pro/</guid>
       <description>
 
@@ -3062,7 +3064,7 @@ If you have skype, add me (I’ve set my username as the bit before the @ symbol
       <title>Zootool — The best and most beautiful tool for storing inspiration</title>
       <link>https://laurakalbag.com/zootool-the-best-tool-for-storing-inspiration/</link>
       <pubDate>Thu, 10 Jun 2010 21:39:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/zootool-the-best-tool-for-storing-inspiration/</guid>
       <description>
 

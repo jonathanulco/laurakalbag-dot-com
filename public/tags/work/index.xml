@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Fri, 15 Aug 2014 07:20:40 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/work/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Workplaces of Web Professionals</title>
       <link>https://laurakalbag.com/workplaces-of-web-professionals/</link>
       <pubDate>Fri, 15 Aug 2014 07:20:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/workplaces-of-web-professionals/</guid>
       <description>&lt;p&gt;This morning Martin Wolf published an interesting &lt;a href=&#34;http://martinwolf.org/2014/08/14/workplaces-of-web-professionals-part-1/&#34;&gt;blog post with photos of the “workplaces of web professionals”&lt;/a&gt;. I always wonder if people really are &lt;em&gt;that&lt;/em&gt; tidy, or if they spent a while clearing up before they took the photo.&lt;/p&gt;
 
@@ -38,7 +40,7 @@
       <title>March’s Pastry Box thought on purpose</title>
       <link>https://laurakalbag.com/pastry-box-march/</link>
       <pubDate>Tue, 11 Mar 2014 17:46:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/pastry-box-march/</guid>
       <description>&lt;p&gt;Today &lt;a href=&#34;https://the-pastry-box-project.net/laura-kalbag/2014-march-11&#34;&gt;my thought for March was posted on The Pastry Box&lt;/a&gt;. It was inspired by &lt;a href=&#34;http://firstthingsfirst2014.org&#34;&gt;First Things First 2014&lt;/a&gt;, talks by &lt;a href=&#34;http://twitter.com/cole_peters&#34;&gt;Cole Peters&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/takete&#34;&gt;Nicklas de León Persson&lt;/a&gt; at &lt;a href=&#34;http://designandbanter.com&#34;&gt;Design and Banter&lt;/a&gt;, and &lt;a href=&#34;http://fictivekin.com/purpose&#34;&gt;Fictive Kin&lt;/a&gt;‘s &lt;a href=&#34;http://slashpurpose.org&#34;&gt;slashpurpose.org&lt;/a&gt;.&lt;/p&gt;
 
@@ -61,7 +63,7 @@
       <title>Design work is 50% visual, 50% justification</title>
       <link>https://laurakalbag.com/design-is-50percent-visual-50percent-justification-2/</link>
       <pubDate>Tue, 23 Nov 2010 16:31:50 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-is-50percent-visual-50percent-justification-2/</guid>
       <description>
 
@@ -125,7 +127,7 @@
       <title>Year One</title>
       <link>https://laurakalbag.com/year-1/</link>
       <pubDate>Tue, 31 Aug 2010 10:00:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/year-1/</guid>
       <description>
 

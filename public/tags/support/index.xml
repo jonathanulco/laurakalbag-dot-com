@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 13 Jun 2016 13:38:04 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/support/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Diary, 13th June 2016</title>
       <link>https://laurakalbag.com/diary-13th-june-2016/</link>
       <pubDate>Mon, 13 Jun 2016 13:38:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-13th-june-2016/</guid>
       <description>
 

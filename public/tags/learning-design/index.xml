@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 12 Aug 2013 10:18:43 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/learning-design/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Design theory for the web, a workshop</title>
       <link>https://laurakalbag.com/design-theory-for-the-web-workshop/</link>
       <pubDate>Mon, 12 Aug 2013 10:18:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-theory-for-the-web-workshop/</guid>
       <description>
 
@@ -89,7 +91,7 @@ It’s absolutely aimed at developers and beginners who are new to designing for
       <title>New To Design</title>
       <link>https://laurakalbag.com/new-to-design/</link>
       <pubDate>Thu, 03 Jan 2013 15:47:58 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/new-to-design/</guid>
       <description>&lt;p&gt;Following my &lt;a href=&#34;https://laurakalbag.com/learning-design/&#34; title=&#34;Learning Design&#34;&gt;learning design post&lt;/a&gt;, I’ve started a little project called “new to design.” At the moment it just consists of &lt;a href=&#34;https://pinboard.in/u:laurakalbag/t:learn-design/&#34;&gt;a learn-design tag on my Pinboard bookmarks&lt;/a&gt; and a &lt;a href=&#34;http://twitter.com/newtodesign&#34;&gt;Twitter account @newtodesign &lt;/a&gt;so that I can share useful design resources (especially for those new to design.)&lt;/p&gt;
 
@@ -111,7 +113,7 @@ It’s absolutely aimed at developers and beginners who are new to designing for
       <title>Learning Design</title>
       <link>https://laurakalbag.com/learning-design/</link>
       <pubDate>Mon, 31 Dec 2012 14:57:05 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/learning-design/</guid>
       <description>
 

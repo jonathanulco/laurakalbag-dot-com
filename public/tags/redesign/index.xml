@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 10 Apr 2017 10:18:28 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/redesign/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Site adjustments</title>
       <link>https://laurakalbag.com/site-adjustments/</link>
       <pubDate>Mon, 10 Apr 2017 10:18:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/site-adjustments/</guid>
       <description>&lt;p&gt;My site is looking a little different, I’m now using the lovely &lt;a href=&#34;https://www.indiantypefoundry.com/fonts/recia&#34;&gt;Recia&lt;/a&gt; for the type. &lt;a href=&#34;http://blog.fontdeck.com/post/133794978966/why-fontdeck-is-retiring&#34;&gt;Fontdeck recently retired&lt;/a&gt;, and while they gave &lt;em&gt;loads&lt;/em&gt; of notice about the service stopping, I still didn’t update my fonts in time. This left my site looking a little sad and Helvetica-y.&lt;/p&gt;
 
@@ -69,7 +71,7 @@
       <title>A little realign</title>
       <link>https://laurakalbag.com/a-little-realign/</link>
       <pubDate>Fri, 02 May 2014 13:10:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-little-realign/</guid>
       <description>
 
@@ -313,7 +315,7 @@ Anyway, cheers to the realign, and keep killing it!&lt;/p&gt; &lt;/div&gt;
       <title>Really, a redesign? This can’t be real…</title>
       <link>https://laurakalbag.com/really-a-redesign-this-cant-be-real/</link>
       <pubDate>Tue, 09 Oct 2012 07:00:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/really-a-redesign-this-cant-be-real/</guid>
       <description>
 

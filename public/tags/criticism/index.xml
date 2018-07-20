@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Fri, 28 Nov 2014 13:09:28 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/criticism/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>What I’m doing now and why</title>
       <link>https://laurakalbag.com/what-im-doing-now-and-why/</link>
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/what-im-doing-now-and-why/</guid>
       <description>
 
@@ -137,7 +139,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>I Don’t Like It on A List Apart</title>
       <link>https://laurakalbag.com/i-dont-like-it-on-a-list-apart/</link>
       <pubDate>Thu, 31 Jul 2014 15:52:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/i-dont-like-it-on-a-list-apart/</guid>
       <description>&lt;p&gt;Heh. That’s a misleading title! I’ve been on holiday, so I’m late to posting this update. Just over a week ago, &lt;a href=&#34;http://alistapart.com/column/i-dont-like-it&#34;&gt;my most recent column, I Don’t Like It&lt;/a&gt;, was posted on A List Apart. I’d heard some designers discussing their clients in less-than-favourable terms. This kind of behaviour makes me cross. It’s the &lt;a href=&#34;http://clientsfromhell.net/&#34;&gt;Clients From Hell&lt;/a&gt; attitude that poor communication is a client’s fault, when &lt;a href=&#34;http://alistapart.com/column/good-designers-good-clients&#34; title=&#34;Column on Good Designers, Good Clients&#34;&gt;it’s more often a designer’s fault&lt;/a&gt;. It might be easier to talk about these situations in the abstract than give solid advice on how to behave better. So I gave it a try, with some example interactions in my column.&lt;/p&gt;
 
@@ -158,7 +160,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Guest co-host on Unfinished Business</title>
       <link>https://laurakalbag.com/guest-co-host-on-unfinished-business/</link>
       <pubDate>Mon, 01 Apr 2013 10:17:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/guest-co-host-on-unfinished-business/</guid>
       <description>&lt;p&gt;Last week I was guest co-host on &lt;a href=&#34;https://laurakalbag.com/why-i-love-unfinished-business/&#34; title=&#34;Why I love Unfinished Business&#34;&gt;one of my most favourite podcasts&lt;/a&gt;, &lt;a href=&#34;http://unfinished.bz/12&#34;&gt;Unfinished Business&lt;/a&gt;. It was great to ramble and rant with Andy for 90 minutes as it’s not often I get to chat for so long to another designer whose main focus is client work.&lt;/p&gt;
 
@@ -181,7 +183,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>We read with our own contexts</title>
       <link>https://laurakalbag.com/we-read-with-our-own-contexts/</link>
       <pubDate>Tue, 18 Dec 2012 14:40:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/we-read-with-our-own-contexts/</guid>
       <description>
 
@@ -325,7 +327,7 @@ Also, I think you provide a good example of some of what I don’t like about Tw
       <title>Stuck on a design</title>
       <link>https://laurakalbag.com/stuck-on-a-design/</link>
       <pubDate>Fri, 15 Oct 2010 16:59:29 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/stuck-on-a-design/</guid>
       <description>
 

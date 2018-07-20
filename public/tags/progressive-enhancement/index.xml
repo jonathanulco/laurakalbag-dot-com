@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 26 Oct 2015 13:11:45 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/progressive-enhancement/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Flexboxing the Universal Video Player</title>
       <link>https://laurakalbag.com/flexbox-video-player/</link>
       <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/flexbox-video-player/</guid>
       <description>&lt;p&gt;I added a flexbox layout to our Universal Video Player (accessible HTML5 video player) and wrote &lt;a href=&#34;https://ind.ie/labs/blog/video-player-flexbox/&#34;&gt;a blog post on Ind.ie Labs about using flexbox with progressive enhancement&lt;/a&gt;.&lt;/p&gt;
 
@@ -36,7 +38,7 @@
       <title>display: none;</title>
       <link>https://laurakalbag.com/display-none/</link>
       <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/display-none/</guid>
       <description>
 
@@ -638,7 +640,7 @@ I bet most people feel the same way, so don’t worry. I’ve been designing &am
       <title>Responsive Web Design</title>
       <link>https://laurakalbag.com/responsive-web-design/</link>
       <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/responsive-web-design/</guid>
       <description>
 

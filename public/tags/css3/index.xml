@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 05 Jul 2011 19:05:02 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/css3/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Responsive Web Design</title>
       <link>https://laurakalbag.com/responsive-web-design/</link>
       <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/responsive-web-design/</guid>
       <description>
 
@@ -120,7 +122,7 @@
       <title>Notes from Ampersand conference — My Digest</title>
       <link>https://laurakalbag.com/digest-from-ampersand-conf/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
       <description>
 
@@ -443,7 +445,7 @@ See you next year I hope!
       <title>Hardboiled Web Design and Transcending CSS</title>
       <link>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</link>
       <pubDate>Tue, 18 Jan 2011 16:28:19 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</guid>
       <description>
 

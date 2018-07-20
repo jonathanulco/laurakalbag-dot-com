@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 12 Dec 2011 09:14:54 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Mobile First</title>
       <link>https://laurakalbag.com/mobile-first/</link>
       <pubDate>Mon, 12 Dec 2011 09:14:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mobile-first/</guid>
       <description>&lt;p&gt;Continuing on with my chapter-a-day, last week I finished reading the brilliant &lt;a href=&#34;http://www.abookapart.com/products/mobile-first&#34; title=&#34;Mobile First on A Book Apart&#34;&gt;Mobile First&lt;/a&gt; by Luke Wroblewski.&lt;/p&gt;
 
@@ -51,7 +53,7 @@ Mobile design and development has gained momentum over the last few years; with 
       <title>Responsive Web Design</title>
       <link>https://laurakalbag.com/responsive-web-design/</link>
       <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/responsive-web-design/</guid>
       <description>
 
@@ -156,7 +158,7 @@ Mobile design and development has gained momentum over the last few years; with 
       <title>The Big M</title>
       <link>https://laurakalbag.com/the-big-m/</link>
       <pubDate>Fri, 25 Mar 2011 18:15:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-big-m/</guid>
       <description>
 
@@ -376,7 +378,7 @@ Mobile design and development has gained momentum over the last few years; with 
       <title>Who wants a ticket for The Big M?</title>
       <link>https://laurakalbag.com/win-a-ticket-for-the-big-m/</link>
       <pubDate>Wed, 02 Mar 2011 15:36:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/win-a-ticket-for-the-big-m/</guid>
       <description>
 

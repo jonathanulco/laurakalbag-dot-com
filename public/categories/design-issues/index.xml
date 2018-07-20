@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Wed, 17 Feb 2016 10:30:00 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/categories/design-issues/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>What advice do you give to aspiring designers or typographers?</title>
       <link>https://laurakalbag.com/advice-for-aspiring-designers/</link>
       <pubDate>Wed, 17 Feb 2016 10:30:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/advice-for-aspiring-designers/</guid>
       <description>
 
@@ -51,7 +53,7 @@
       <title>Is there potential for “ethical analytics”?</title>
       <link>https://laurakalbag.com/is-there-potential-for-ethical-analytics/</link>
       <pubDate>Thu, 30 Jul 2015 10:19:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/is-there-potential-for-ethical-analytics/</guid>
       <description>&lt;p&gt;We have &lt;a href=&#34;https://forum.ind.ie/t/piwik-alternative-for-analytics/627&#34;&gt;Piwik analytics&lt;/a&gt; on the &lt;a href=&#34;https://ind.ie/&#34;&gt;Ind.ie site&lt;/a&gt;, and I use Gauges and GoSquared on my own site (I was indecisive at the time…) But I use &lt;a href=&#34;https://www.ghostery.com/en/&#34;&gt;Ghostery&lt;/a&gt; so I actually block analytics like this for my own use.&lt;/p&gt;
 
@@ -88,7 +90,7 @@
       <title>The Illusion Of Free on A List Apart</title>
       <link>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</link>
       <pubDate>Fri, 03 Apr 2015 14:31:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</guid>
       <description>&lt;p&gt;Last week, &lt;a href=&#34;http://alistapart.com/column/the-illusion-of-free&#34;&gt;my column on The Illusion Of Free&lt;/a&gt; was published on A List Apart. I took a lot of time writing it, as I think it’s an incredibly important issue, and it reflects my thinking around &lt;a href=&#34;https://ind.ie&#34;&gt;Ind.ie&lt;/a&gt;. As ever, a massive thank you to the wonderful editor Rose Weisburd who helped me round things out, made me sound smarter and encouraged me in the first place.&lt;/p&gt;
 
@@ -109,7 +111,7 @@
       <title>Speaking at border:none</title>
       <link>https://laurakalbag.com/speaking-at-border-none/</link>
       <pubDate>Tue, 16 Sep 2014 08:44:10 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-border-none/</guid>
       <description>&lt;p&gt;Next month I’m speaking and running a “creator unit” at border:none in Nuremberg. This is incredibly exciting as it’s an event focused around the decentralisation of the web, a topic that I care about a great deal. I’ll be talking about using considerate design and great user experiences to create genuine alternatives to the products that make money from exploiting their users’ data.&lt;/p&gt;
 
@@ -132,7 +134,7 @@
       <title>dConstruct 2014</title>
       <link>https://laurakalbag.com/dconstruct-2014/</link>
       <pubDate>Mon, 08 Sep 2014 15:08:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dconstruct-2014/</guid>
       <description>
 
@@ -179,7 +181,7 @@
       <title>Digital Arts: Designing for the unknown</title>
       <link>https://laurakalbag.com/digital-arts-designing-for-the-unknown/</link>
       <pubDate>Thu, 14 Aug 2014 15:47:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digital-arts-designing-for-the-unknown/</guid>
       <description>&lt;p&gt;Last week, Craig Grannell asked me some questions about designing for the unknown. The result was a really fantastic article called &lt;a href=&#34;http://www.digitalartsonline.co.uk/features/graphic-design/designing-for-unknown-how-design-templates-frameworks/&#34;&gt;Designing for the unknown: how to design templates and frameworks&lt;/a&gt;, and has contributions from some really smart people.&lt;/p&gt;
 
@@ -202,7 +204,7 @@
       <title>Digital Arts: The future of web design</title>
       <link>https://laurakalbag.com/digital-arts-the-future-of-web-design/</link>
       <pubDate>Fri, 01 Aug 2014 13:16:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digital-arts-the-future-of-web-design/</guid>
       <description>&lt;p&gt;Over the next few days I’m catching up on things I failed to share in recent months. It’s been a very busy few months, but I still like to have a record of what I did and where I’ve been!&lt;/p&gt;
 
@@ -225,7 +227,7 @@
       <title>Interview with Heart Internet</title>
       <link>https://laurakalbag.com/interview-with-heart-internet/</link>
       <pubDate>Fri, 17 Jan 2014 15:12:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/interview-with-heart-internet/</guid>
       <description>&lt;p&gt;Yesterday, Heart Internet posted &lt;a href=&#34;http://www.heartinternet.co.uk/blog/article/interview-with-web-accessibility-champion-laura-kalbag&#34;&gt;an interview with me&lt;/a&gt; on their site. They start off saying some very kind things about me, and then it covers accessibility, design, speaking at conferences and a bit of client work. As a bonus, it’s interspersed with photos of me pulling weird faces at conferences (and being business on the phone!)&lt;/p&gt;
 
@@ -246,7 +248,7 @@
       <title>Writing on The Pastry Box and my first post on ethics</title>
       <link>https://laurakalbag.com/writing-on-the-pastry-box/</link>
       <pubDate>Sat, 11 Jan 2014 11:06:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/writing-on-the-pastry-box/</guid>
       <description>
 
@@ -277,7 +279,7 @@
       <title>Browser windows and responsive language</title>
       <link>https://laurakalbag.com/browser-windows/</link>
       <pubDate>Thu, 08 Aug 2013 18:59:17 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/browser-windows/</guid>
       <description>
 
@@ -331,7 +333,7 @@ Great post, referring to the browser when talking about RWD makes a lot of sense
       <title>Fonts.com mockup fonts</title>
       <link>https://laurakalbag.com/fonts-com-mockup-fonts/</link>
       <pubDate>Tue, 02 Jul 2013 09:53:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fonts-com-mockup-fonts/</guid>
       <description>
 
@@ -442,7 +444,7 @@ Fonts.com&lt;/p&gt;   &lt;/div&gt;
       <title>Fl&amp;#42;t design trend</title>
       <link>https://laurakalbag.com/flat-design-trend/</link>
       <pubDate>Tue, 11 Jun 2013 14:41:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/flat-design-trend/</guid>
       <description>
 
@@ -647,7 +649,7 @@ Steve
       <title>24 Ways: Design Systems</title>
       <link>https://laurakalbag.com/24-ways-design-systems/</link>
       <pubDate>Wed, 12 Dec 2012 10:45:08 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/24-ways-design-systems/</guid>
       <description>&lt;p&gt;I’ve been thinking a lot about the design in ‘responsive’ design lately. &lt;a href=&#34;http://24ways.org/2012/design-systems/&#34;&gt;My post on 24ways&lt;/a&gt; is where I started to get some of my thoughts and ideas out. Here I talk about design systems and how thinking in this way, and basing our processes around this concept, can help us create more flexible future-proof responsive designs.&lt;/p&gt;
 </description>
@@ -657,7 +659,7 @@ Steve
       <title>display: none;</title>
       <link>https://laurakalbag.com/display-none/</link>
       <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/display-none/</guid>
       <description>
 
@@ -1259,7 +1261,7 @@ I bet most people feel the same way, so don’t worry. I’ve been designing &am
       <title>Don’t let the technical processes of web development stifle your imagination</title>
       <link>https://laurakalbag.com/dont-let-the-technical-processes-of-web-development-stifle-your-imagination/</link>
       <pubDate>Sun, 10 Jun 2012 18:17:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dont-let-the-technical-processes-of-web-development-stifle-your-imagination/</guid>
       <description>&lt;p&gt;A new post from me, &lt;a href=&#34;http://www.netmagazine.com/opinions/keep-it-creative&#34; title=&#34;Keep it Creative! by Laura Kalbag on .net magazine&#34;&gt;this time at .net magazine. Keep it creative!&lt;/a&gt; There’s some pretty cool comments over there too.&lt;/p&gt;
 </description>
@@ -1269,7 +1271,7 @@ I bet most people feel the same way, so don’t worry. I’ve been designing &am
       <title>Will understanding the mainstream affect me as a designer?</title>
       <link>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</link>
       <pubDate>Fri, 01 Jun 2012 21:51:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</guid>
       <description>
 
@@ -1475,7 +1477,7 @@ It’s like when you go back and watch a really good kids show and realize how m
       <title>Critiques, giving and receiving useful feedback</title>
       <link>https://laurakalbag.com/critiques-giving-and-receiving-useful-feedback/</link>
       <pubDate>Mon, 14 May 2012 09:09:10 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/critiques-giving-and-receiving-useful-feedback/</guid>
       <description>
 
@@ -1552,7 +1554,7 @@ It’s like when you go back and watch a really good kids show and realize how m
       <title>Labels in input fields aren’t such a good idea</title>
       <link>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</link>
       <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</guid>
       <description>
 
@@ -2298,7 +2300,7 @@ I really like the aesthetic of having the label inside the input field –; just
       <title>Future Of Web Design 2011 –; The Summary –; Day Two</title>
       <link>https://laurakalbag.com/fowd-2011-summary-day-two/</link>
       <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fowd-2011-summary-day-two/</guid>
       <description>
 
@@ -2434,7 +2436,7 @@ I really like the aesthetic of having the label inside the input field –; just
       <title>Future Of Web Design 2011 –; The Summary –; Day One</title>
       <link>https://laurakalbag.com/fowd-2011-summary-day-one/</link>
       <pubDate>Mon, 23 May 2011 15:05:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fowd-2011-summary-day-one/</guid>
       <description>
 
@@ -2549,7 +2551,7 @@ I really like the aesthetic of having the label inside the input field –; just
       <title>Girlguides UK Anti-airbrushing Campaign</title>
       <link>https://laurakalbag.com/girlguides-uk-anti-airbrushing-campaign/</link>
       <pubDate>Wed, 04 Aug 2010 10:32:18 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/girlguides-uk-anti-airbrushing-campaign/</guid>
       <description>
 

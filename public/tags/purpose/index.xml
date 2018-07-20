@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 11 Mar 2014 17:46:47 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/purpose/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>March’s Pastry Box thought on purpose</title>
       <link>https://laurakalbag.com/pastry-box-march/</link>
       <pubDate>Tue, 11 Mar 2014 17:46:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/pastry-box-march/</guid>
       <description>&lt;p&gt;Today &lt;a href=&#34;https://the-pastry-box-project.net/laura-kalbag/2014-march-11&#34;&gt;my thought for March was posted on The Pastry Box&lt;/a&gt;. It was inspired by &lt;a href=&#34;http://firstthingsfirst2014.org&#34;&gt;First Things First 2014&lt;/a&gt;, talks by &lt;a href=&#34;http://twitter.com/cole_peters&#34;&gt;Cole Peters&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/takete&#34;&gt;Nicklas de León Persson&lt;/a&gt; at &lt;a href=&#34;http://designandbanter.com&#34;&gt;Design and Banter&lt;/a&gt;, and &lt;a href=&#34;http://fictivekin.com/purpose&#34;&gt;Fictive Kin&lt;/a&gt;‘s &lt;a href=&#34;http://slashpurpose.org&#34;&gt;slashpurpose.org&lt;/a&gt;.&lt;/p&gt;
 
@@ -38,7 +40,7 @@
       <title>Reinvention and Building Ourselves — Build 2012</title>
       <link>https://laurakalbag.com/reinvention-and-building-ourselves-build-2012/</link>
       <pubDate>Wed, 05 Dec 2012 18:10:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/reinvention-and-building-ourselves-build-2012/</guid>
       <description>&lt;p&gt;I’ve posted a &lt;a href=&#34;http://www.ubelly.com/2012/12/reinvention-and-building-ourselves-build-2012/&#34;&gt;writeup of Build conference 2012 on ubelly&lt;/a&gt;.&lt;/p&gt;
 

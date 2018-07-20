@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Thu, 27 Feb 2014 15:25:44 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/process/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Delivery Logistics on A List Apart</title>
       <link>https://laurakalbag.com/delivery-logistics-on-a-list-apart/</link>
       <pubDate>Thu, 27 Feb 2014 15:25:44 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/delivery-logistics-on-a-list-apart/</guid>
       <description>&lt;p&gt;There’s nothing wrong with sending a client a rough sketch if that’s all that’s needed to communicate your idea. In &lt;a href=&#34;http://alistapart.com/column/delivery-logistics&#34;&gt;my latest column on A List Apart&lt;/a&gt;, I’ve written about deliverables and why what the client expects isn’t always the right thing to do…&lt;/p&gt;
 
@@ -36,7 +38,7 @@
       <title>Guest on Beyond Ink podcast</title>
       <link>https://laurakalbag.com/guest-on-beyond-ink-podcast/</link>
       <pubDate>Tue, 03 Dec 2013 09:06:12 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/guest-on-beyond-ink-podcast/</guid>
       <description>&lt;p&gt;Yesterday the &lt;a href=&#34;http://www.beyondink.co.uk/shows/01-laura-and-simon&#34;&gt;first episode&lt;/a&gt; of &lt;a href=&#34;http://www.beyondink.co.uk&#34;&gt;the Beyond Ink podcast&lt;/a&gt; went live. This was a podcast that Rachel had in the works for a while, and we first recorded together a few months ago. Last week we re-recorded that episode, so everything was up-to-date, and I had a fancy new microphone so I didn’t sound as terrible as I did &lt;a href=&#34;https://laurakalbag.com/unfinished-business-44/&#34; title=&#34;Unfinished Business #44&#34;&gt;on the last Unfinished Business&lt;/a&gt;.&lt;/p&gt;
 
@@ -59,7 +61,7 @@
       <title>A List Apart column and first post on Good Designers, Good Clients</title>
       <link>https://laurakalbag.com/a-list-apart-column/</link>
       <pubDate>Fri, 30 Aug 2013 09:00:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-list-apart-column/</guid>
       <description>&lt;p&gt;This week the &lt;a href=&#34;http://alistapart.com/column/good-designers-good-clients&#34;&gt;first post was published on my A List Apart column&lt;/a&gt;. It’s a very exciting thing for me. I’ve been reading A List Apart since I started learning about the web and loads of people I admire have written there.&lt;/p&gt;
 
@@ -82,7 +84,7 @@
       <title>Mentoring a project: contract and kicking off</title>
       <link>https://laurakalbag.com/mentoring-a-project-contract-and-kicking-off/</link>
       <pubDate>Tue, 07 May 2013 18:58:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-a-project-contract-and-kicking-off/</guid>
       <description>
 
@@ -145,7 +147,7 @@ Moreover, by using a license that permits re-use, modification, etc., you are cl
       <title>Responsive Day Out</title>
       <link>https://laurakalbag.com/responsive-day-out/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/responsive-day-out/</guid>
       <description>
 
@@ -649,7 +651,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>24 Ways: Design Systems</title>
       <link>https://laurakalbag.com/24-ways-design-systems/</link>
       <pubDate>Wed, 12 Dec 2012 10:45:08 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/24-ways-design-systems/</guid>
       <description>&lt;p&gt;I’ve been thinking a lot about the design in ‘responsive’ design lately. &lt;a href=&#34;http://24ways.org/2012/design-systems/&#34;&gt;My post on 24ways&lt;/a&gt; is where I started to get some of my thoughts and ideas out. Here I talk about design systems and how thinking in this way, and basing our processes around this concept, can help us create more flexible future-proof responsive designs.&lt;/p&gt;
 </description>
@@ -659,7 +661,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>Reinvention and Building Ourselves — Build 2012</title>
       <link>https://laurakalbag.com/reinvention-and-building-ourselves-build-2012/</link>
       <pubDate>Wed, 05 Dec 2012 18:10:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/reinvention-and-building-ourselves-build-2012/</guid>
       <description>&lt;p&gt;I’ve posted a &lt;a href=&#34;http://www.ubelly.com/2012/12/reinvention-and-building-ourselves-build-2012/&#34;&gt;writeup of Build conference 2012 on ubelly&lt;/a&gt;.&lt;/p&gt;
 
@@ -671,7 +673,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>Don’t let the technical processes of web development stifle your imagination</title>
       <link>https://laurakalbag.com/dont-let-the-technical-processes-of-web-development-stifle-your-imagination/</link>
       <pubDate>Sun, 10 Jun 2012 18:17:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dont-let-the-technical-processes-of-web-development-stifle-your-imagination/</guid>
       <description>&lt;p&gt;A new post from me, &lt;a href=&#34;http://www.netmagazine.com/opinions/keep-it-creative&#34; title=&#34;Keep it Creative! by Laura Kalbag on .net magazine&#34;&gt;this time at .net magazine. Keep it creative!&lt;/a&gt; There’s some pretty cool comments over there too.&lt;/p&gt;
 </description>
@@ -681,7 +683,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>New Adventures in Web Design 2012</title>
       <link>https://laurakalbag.com/new-adventures-in-web-design-2012/</link>
       <pubDate>Mon, 23 Jan 2012 10:47:35 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/new-adventures-in-web-design-2012/</guid>
       <description>&lt;p&gt;My digest post about New Adventures in Web Design conference –; &lt;a href=&#34;http://www.ubelly.com/2012/01/the-job-the-process-and-creativity-naconf-2012?WT.mc_id=evn-c-gb--dca-F3-naconf&#34; title=&#34;The Job, The Process and Creativity - NAConf 2012&#34;&gt;The Job, The Process and Creativity –; NAConf 2012&lt;/a&gt; is now up on uBelly.&lt;/p&gt;
 
@@ -693,7 +695,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>Responsive Web Design</title>
       <link>https://laurakalbag.com/responsive-web-design/</link>
       <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/responsive-web-design/</guid>
       <description>
 
@@ -798,7 +800,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>Notes from Ampersand conference — My Digest</title>
       <link>https://laurakalbag.com/digest-from-ampersand-conf/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
       <description>
 
@@ -1121,7 +1123,7 @@ See you next year I hope!
       <title>Using Dribbble and Forrst for feedback on a client project</title>
       <link>https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/</link>
       <pubDate>Tue, 14 Sep 2010 20:06:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/</guid>
       <description>
 

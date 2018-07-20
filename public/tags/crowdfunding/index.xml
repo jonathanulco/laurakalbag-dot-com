@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Fri, 28 Nov 2014 13:09:28 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/crowdfunding/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>What I’m doing now and why</title>
       <link>https://laurakalbag.com/what-im-doing-now-and-why/</link>
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/what-im-doing-now-and-why/</guid>
       <description>
 

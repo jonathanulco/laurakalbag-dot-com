@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 12 Mar 2018 12:17:22 +0100</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Podcasts, February 2018</title>
       <link>https://laurakalbag.com/podcasts-in-february-2018/</link>
       <pubDate>Mon, 12 Mar 2018 12:17:22 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/podcasts-in-february-2018/</guid>
       <description>
 
@@ -51,7 +53,7 @@
       <title>Guest on A Bit More Backendy podcast</title>
       <link>https://laurakalbag.com/a-bit-more-backendy/</link>
       <pubDate>Fri, 07 Mar 2014 12:04:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-bit-more-backendy/</guid>
       <description>&lt;p&gt;Yesterday the &lt;a href=&#34;http://backendy.com/2014/03/4-laura-kalbag/&#34;&gt;fourth episode of the Backendy podcast&lt;/a&gt; was released, and I was the guest. It was lovely talking to Darren, partly because he’s been a great client for a while now, partly because I’ve been working on the podcast logo and site, and also because I think a podcast focusing on back-end development is a really good idea.&lt;/p&gt;
 
@@ -72,7 +74,7 @@
       <title>Unfinished Business #54</title>
       <link>https://laurakalbag.com/unfinished-business-54/</link>
       <pubDate>Sun, 26 Jan 2014 18:59:34 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-54/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;http://unfinished.bz/54&#34;&gt;latest Unfinished Business podcast&lt;/a&gt; has just been published, and I’m on it again! I had a lovely time talking to Andy about scheduling projects, invoicing, rates and people who don’t understand copyright.&lt;/p&gt;
 
@@ -95,7 +97,7 @@
       <title>Unfinished Business #44</title>
       <link>https://laurakalbag.com/unfinished-business-44/</link>
       <pubDate>Tue, 12 Nov 2013 18:22:41 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-44/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://unfinished.bz/44&#34;&gt;Last week I was on Unfinished Business again&lt;/a&gt;! Andy and I talked about hosting workshops, business names and how to make a good impression via email. My audio is pretty awful, and I’m sorry for that. I tried to be all clever with my headset, but ended up sounding very small and faraway…&lt;/p&gt;
 
@@ -118,7 +120,7 @@
       <title>Guest on Happy Monday Podcast</title>
       <link>https://laurakalbag.com/guest-on-happy-monday-podcast/</link>
       <pubDate>Mon, 19 Aug 2013 08:26:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/guest-on-happy-monday-podcast/</guid>
       <description>&lt;p&gt;Last Friday I was a guest for today’s &lt;a href=&#34;http://www.happymondaypodcast.com/episodes/laura-kalbag&#34;&gt;Happy Monday podcast&lt;/a&gt;. It was great fun chatting with Josh and Sarah about design, client work and inspiration.&lt;/p&gt;
 
@@ -139,7 +141,7 @@
       <title>Podcast interview with Jonathan Kahn</title>
       <link>https://laurakalbag.com/podcast-interview-with-jonathan-kahn/</link>
       <pubDate>Fri, 09 Aug 2013 08:52:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/podcast-interview-with-jonathan-kahn/</guid>
       <description>&lt;p&gt;Ahead of &lt;a href=&#34;https://laurakalbag.com/speaking-at-dare-conference/&#34; title=&#34;Speaking at Dare conference&#34;&gt;speaking at Dare conference&lt;/a&gt; this September, &lt;a href=&#34;http://lucidplot.com/2013/08/05/kalbag-podcast/&#34;&gt;I was interviewed by Jonathan Kahn&lt;/a&gt;, one of Dare’s organisers, about being honest, client relationships and mentoring in the web industry.&lt;/p&gt;
 
@@ -162,7 +164,7 @@
       <title>Guest co-host on Unfinished Business II</title>
       <link>https://laurakalbag.com/guest-co-host-on-unfinished-business-ii/</link>
       <pubDate>Mon, 20 May 2013 09:07:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/guest-co-host-on-unfinished-business-ii/</guid>
       <description>
 
@@ -202,7 +204,7 @@
       <title>Guest co-host on Unfinished Business</title>
       <link>https://laurakalbag.com/guest-co-host-on-unfinished-business/</link>
       <pubDate>Mon, 01 Apr 2013 10:17:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/guest-co-host-on-unfinished-business/</guid>
       <description>&lt;p&gt;Last week I was guest co-host on &lt;a href=&#34;https://laurakalbag.com/why-i-love-unfinished-business/&#34; title=&#34;Why I love Unfinished Business&#34;&gt;one of my most favourite podcasts&lt;/a&gt;, &lt;a href=&#34;http://unfinished.bz/12&#34;&gt;Unfinished Business&lt;/a&gt;. It was great to ramble and rant with Andy for 90 minutes as it’s not often I get to chat for so long to another designer whose main focus is client work.&lt;/p&gt;
 
@@ -225,7 +227,7 @@
       <title>Nothing to display podcast</title>
       <link>https://laurakalbag.com/nothing-to-display-podcast/</link>
       <pubDate>Sat, 02 Mar 2013 17:43:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/nothing-to-display-podcast/</guid>
       <description>&lt;p&gt;Last week I had a lovely chat with El for her &lt;a href=&#34;http://nothingtodisplay.co.uk/2013/03/02/nothing-to-display-podcast-no-3-the-web-freelance-life-mentoring-with-laura-kalbag/&#34;&gt;Nothing To Display podcast&lt;/a&gt;. We talked about technology and how people get started with technology, accessibility, mentoring and dystopian futures! It was a real treat.&lt;/p&gt;
 
@@ -246,7 +248,7 @@
       <title>Why I love Unfinished Business</title>
       <link>https://laurakalbag.com/why-i-love-unfinished-business/</link>
       <pubDate>Mon, 25 Feb 2013 17:48:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/why-i-love-unfinished-business/</guid>
       <description>
 
@@ -385,7 +387,7 @@ Y&lt;/p&gt;   &lt;/div&gt;
       <title>Upfront Podcast</title>
       <link>https://laurakalbag.com/upfront-podcast/</link>
       <pubDate>Fri, 15 Feb 2013 09:06:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/upfront-podcast/</guid>
       <description>&lt;p&gt;I was a guest on &lt;a href=&#34;http://upfrontpodcast.com/2013/02/15/episode4.html&#34;&gt;the Upfront podcast with the lovely Jack Franklin and Ben Howdle&lt;/a&gt;. They got me on to talk about accessibility, but we ended up chatting about the mentoring project too! You can &lt;a href=&#34;http://upfrontpodcast.com/2013/02/15/episode4.html&#34;&gt;listen on their website&lt;/a&gt;, or &lt;a href=&#34;https://itunes.apple.com/gb/podcast/upfront-podcast/id598389212?mt=2&#34;&gt;listen and subscribe on iTunes&lt;/a&gt;.&lt;/p&gt;
 
@@ -406,7 +408,7 @@ Y&lt;/p&gt;   &lt;/div&gt;
       <title>The East Wing podcast</title>
       <link>https://laurakalbag.com/the-east-wing-podcast/</link>
       <pubDate>Wed, 06 Feb 2013 09:23:20 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-east-wing-podcast/</guid>
       <description>&lt;p&gt;Yesterday I was a guest on &lt;a href=&#34;http://twitter.com/ttimsmith&#34;&gt;Tim Smith&lt;/a&gt;‘s &lt;a href=&#34;http://theeastwing.net/&#34;&gt;The East Wing podcast&lt;/a&gt;. It was a pre-recorded conversation and it was great fun. You can &lt;a href=&#34;http://theeastwing.net/episodes/laura-kalbag&#34;&gt;listen to it on the East Wing website&lt;/a&gt;, and it’ll be up on iTunes soon.&lt;/p&gt;
 

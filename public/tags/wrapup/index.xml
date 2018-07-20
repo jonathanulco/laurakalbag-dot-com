@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Fri, 01 Jan 2016 12:45:02 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/wrapup/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>My 2015</title>
       <link>https://laurakalbag.com/my-2015/</link>
       <pubDate>Fri, 01 Jan 2016 12:45:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2015/</guid>
       <description>
 
@@ -44,7 +46,7 @@
       <title>My 2014</title>
       <link>https://laurakalbag.com/my-2014/</link>
       <pubDate>Thu, 01 Jan 2015 14:21:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2014/</guid>
       <description>
 
@@ -355,7 +357,7 @@ I find there’s benefits in both working freelance and in a team. There’s les
       <title>My 2013</title>
       <link>https://laurakalbag.com/my-2013/</link>
       <pubDate>Tue, 31 Dec 2013 17:14:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2013/</guid>
       <description>
 

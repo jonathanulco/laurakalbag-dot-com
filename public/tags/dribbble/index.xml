@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Wed, 06 Oct 2010 10:38:28 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/dribbble/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Good old designer snobbery is alive and kicking</title>
       <link>https://laurakalbag.com/good-old-designer-snobbery-is-live-and-kicking/</link>
       <pubDate>Wed, 06 Oct 2010 10:38:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/good-old-designer-snobbery-is-live-and-kicking/</guid>
       <description>
 
@@ -568,7 +570,7 @@ Snobbery is a sad and stupid trait and should be (IMHO) ignored when it springs 
       <title>Using Dribbble and Forrst for feedback on a client project</title>
       <link>https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/</link>
       <pubDate>Tue, 14 Sep 2010 20:06:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/</guid>
       <description>
 

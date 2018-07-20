@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Wed, 30 Jan 2013 09:31:00 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/students/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Mentoring a project: the idea</title>
       <link>https://laurakalbag.com/mentoring-a-project-the-idea/</link>
       <pubDate>Wed, 30 Jan 2013 09:31:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-a-project-the-idea/</guid>
       <description>
 

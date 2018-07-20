@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 10 Dec 2012 21:23:00 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/app-design/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Bardowl: The Big One</title>
       <link>https://laurakalbag.com/bardowl-the-big-one/</link>
       <pubDate>Mon, 10 Dec 2012 21:23:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/bardowl-the-big-one/</guid>
       <description>
 

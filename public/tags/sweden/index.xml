@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 21 Mar 2016 16:24:55 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/sweden/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Diary, 21st March 2016</title>
       <link>https://laurakalbag.com/diary-21st-march-2016/</link>
       <pubDate>Mon, 21 Mar 2016 16:24:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-21st-march-2016/</guid>
       <description>
 
@@ -103,7 +105,7 @@
       <title>Diary, 1st March 2016</title>
       <link>https://laurakalbag.com/diary-1st-march-2016/</link>
       <pubDate>Tue, 01 Mar 2016 10:14:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-1st-march-2016/</guid>
       <description>
 
@@ -143,7 +145,7 @@
       <title>Diary, 16th February 2016</title>
       <link>https://laurakalbag.com/diary-16th-february-2016/</link>
       <pubDate>Tue, 16 Feb 2016 09:26:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-16th-february-2016/</guid>
       <description>
 
@@ -187,7 +189,7 @@
       <title>Diary, 5th February 2016</title>
       <link>https://laurakalbag.com/diary-2016-02-05/</link>
       <pubDate>Fri, 05 Feb 2016 11:29:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-2016-02-05/</guid>
       <description>
 

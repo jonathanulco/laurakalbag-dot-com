@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 05 Jul 2010 19:23:32 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/mac/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Picking Fonts</title>
       <link>https://laurakalbag.com/picking-fonts/</link>
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/picking-fonts/</guid>
       <description>
 

@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 04 Nov 2013 10:14:44 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/contract/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Including “ask me anything” in my contract</title>
       <link>https://laurakalbag.com/including-ask-me-anything-in-my-contract/</link>
       <pubDate>Mon, 04 Nov 2013 10:14:44 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/including-ask-me-anything-in-my-contract/</guid>
       <description>
 
@@ -69,7 +71,7 @@ Your &lt;i&gt;Ask Me Anything&lt;/i&gt; paragraph has such a friendly tone, much
       <title>Mentoring: the evaluation</title>
       <link>https://laurakalbag.com/mentoring-the-evaluation/</link>
       <pubDate>Tue, 25 Jun 2013 11:11:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-the-evaluation/</guid>
       <description>
 
@@ -208,7 +210,7 @@ Your &lt;i&gt;Ask Me Anything&lt;/i&gt; paragraph has such a friendly tone, much
       <title>Mentoring a project: contract and kicking off</title>
       <link>https://laurakalbag.com/mentoring-a-project-contract-and-kicking-off/</link>
       <pubDate>Tue, 07 May 2013 18:58:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-a-project-contract-and-kicking-off/</guid>
       <description>
 
@@ -271,7 +273,7 @@ Moreover, by using a license that permits re-use, modification, etc., you are cl
       <title>Insites Tour Brighton</title>
       <link>https://laurakalbag.com/insites-tour-brighton/</link>
       <pubDate>Wed, 20 Jul 2011 11:56:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/insites-tour-brighton/</guid>
       <description>
 

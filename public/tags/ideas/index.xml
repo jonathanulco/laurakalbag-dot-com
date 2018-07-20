@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Wed, 30 Mar 2011 12:37:11 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Notebooks and Getting Over Moleskine</title>
       <link>https://laurakalbag.com/notebooks-and-getting-over-moleskine/</link>
       <pubDate>Wed, 30 Mar 2011 12:37:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/notebooks-and-getting-over-moleskine/</guid>
       <description>
 
@@ -328,7 +330,7 @@ They’ve become my perfect notebook, although I may have to try out a Leuchttur
       <title>dConstruct 2010</title>
       <link>https://laurakalbag.com/dconstruct-2010/</link>
       <pubDate>Sun, 05 Sep 2010 12:58:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dconstruct-2010/</guid>
       <description>
 

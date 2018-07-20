@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Fri, 12 Oct 2012 21:39:30 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/choosing-typefaces/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Grids, flexibility and responsiveness</title>
       <link>https://laurakalbag.com/grids-flexibility-and-responsiveness/</link>
       <pubDate>Fri, 12 Oct 2012 21:39:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/grids-flexibility-and-responsiveness/</guid>
       <description>
 
@@ -451,7 +453,7 @@ I really like the design of you site, so simple and beautiful.&lt;/p&gt;  &lt;/d
       <title>Typography and the web at Ampersand Conference</title>
       <link>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</link>
       <pubDate>Mon, 25 Jun 2012 12:06:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</guid>
       <description>&lt;p&gt;I’ve written &lt;a href=&#34;http://www.ubelly.com/2012/06/typography-and-the-web-at-ampersand-conference/&#34;&gt;a big old writeup for ubelly&lt;/a&gt; from my notes at &lt;a href=&#34;http://2012.ampersandconf.com/&#34;&gt;Ampersand conference&lt;/a&gt; earlier in the month.&lt;/p&gt;
 

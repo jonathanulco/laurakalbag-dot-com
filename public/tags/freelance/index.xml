@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 25 Mar 2014 10:52:12 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/freelance/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Unfinished Business #61</title>
       <link>https://laurakalbag.com/unfinished-business-61/</link>
       <pubDate>Tue, 25 Mar 2014 10:52:12 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-61/</guid>
       <description>&lt;p&gt;Last weekend I was a guest on the &lt;a href=&#34;http://unfinished.bz/61&#34;&gt;Unfinished Business podcast&lt;/a&gt; again. I had a lovely time chatting to Andy about speaking at conferences, working for free and I even managed to squeeze in a rant about accessibility.&lt;/p&gt;
 
@@ -36,7 +38,7 @@
       <title>A List Apart column and first post on Good Designers, Good Clients</title>
       <link>https://laurakalbag.com/a-list-apart-column/</link>
       <pubDate>Fri, 30 Aug 2013 09:00:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-list-apart-column/</guid>
       <description>&lt;p&gt;This week the &lt;a href=&#34;http://alistapart.com/column/good-designers-good-clients&#34;&gt;first post was published on my A List Apart column&lt;/a&gt;. It’s a very exciting thing for me. I’ve been reading A List Apart since I started learning about the web and loads of people I admire have written there.&lt;/p&gt;
 
@@ -59,7 +61,7 @@
       <title>#define 2013</title>
       <link>https://laurakalbag.com/define-2013/</link>
       <pubDate>Fri, 07 Jun 2013 11:24:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/define-2013/</guid>
       <description>&lt;p&gt;Next Saturday I’m speaking at #define 2013, a “diversity in computing festival” for 11-13 year old students who wouldn’t usually consider careers in computing.&lt;/p&gt;
 
@@ -82,7 +84,7 @@
       <title>New Adventures 2011</title>
       <link>https://laurakalbag.com/new-adventures-2011/</link>
       <pubDate>Fri, 04 Feb 2011 00:21:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/new-adventures-2011/</guid>
       <description>
 
@@ -212,7 +214,7 @@
       <title>Me vs We</title>
       <link>https://laurakalbag.com/me-vs-we/</link>
       <pubDate>Thu, 02 Sep 2010 10:42:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/me-vs-we/</guid>
       <description>
 
@@ -911,7 +913,7 @@ If a client has done basic research he should have a ruff idea of what he is buy
       <title>Year One</title>
       <link>https://laurakalbag.com/year-1/</link>
       <pubDate>Tue, 31 Aug 2010 10:00:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/year-1/</guid>
       <description>
 

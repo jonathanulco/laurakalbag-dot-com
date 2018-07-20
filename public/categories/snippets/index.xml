@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Sun, 10 Feb 2013 15:31:54 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/categories/snippets/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Using emoji in Mail.app to make better visual indicators</title>
       <link>https://laurakalbag.com/using-emoji-in-mail-app-to-make-better-visual-indicators/</link>
       <pubDate>Sun, 10 Feb 2013 15:31:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/using-emoji-in-mail-app-to-make-better-visual-indicators/</guid>
       <description>
 

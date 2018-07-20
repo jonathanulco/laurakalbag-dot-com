@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 24 Mar 2014 10:37:24 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/inspiration/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Inspiration on A List Apart</title>
       <link>https://laurakalbag.com/inspiration-on-a-list-apart/</link>
       <pubDate>Mon, 24 Mar 2014 10:37:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/inspiration-on-a-list-apart/</guid>
       <description>&lt;p&gt;Last week my column on Inspiration was published on A List Apart. It follows roughly the same structure as &lt;a href=&#34;https://speakerdeck.com/laurakalbag/inspiration&#34; title=&#34;slides from my talk at Design + Banter&#34;&gt;the talk&lt;/a&gt; I gave at &lt;a href=&#34;http://designandbanter.com&#34;&gt;Design + Banter&lt;/a&gt; a few weeks ago.&lt;/p&gt;
 
@@ -36,7 +38,7 @@
       <title>Interview on Workspiration</title>
       <link>https://laurakalbag.com/interview-on-workspiration/</link>
       <pubDate>Wed, 18 Dec 2013 11:59:17 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/interview-on-workspiration/</guid>
       <description>&lt;p&gt;A few weeks ago &lt;a href=&#34;http://workspiration.org/laura-kalbag&#34;&gt;I answered some questions&lt;/a&gt; for &lt;a href=&#34;http://workspiration.org&#34;&gt;Workspiration&lt;/a&gt; on my hardware and software setup, inspiration and dreams.&lt;/p&gt;
 
@@ -59,7 +61,7 @@
       <title>Guest on Beyond Ink podcast</title>
       <link>https://laurakalbag.com/guest-on-beyond-ink-podcast/</link>
       <pubDate>Tue, 03 Dec 2013 09:06:12 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/guest-on-beyond-ink-podcast/</guid>
       <description>&lt;p&gt;Yesterday the &lt;a href=&#34;http://www.beyondink.co.uk/shows/01-laura-and-simon&#34;&gt;first episode&lt;/a&gt; of &lt;a href=&#34;http://www.beyondink.co.uk&#34;&gt;the Beyond Ink podcast&lt;/a&gt; went live. This was a podcast that Rachel had in the works for a while, and we first recorded together a few months ago. Last week we re-recorded that episode, so everything was up-to-date, and I had a fancy new microphone so I didn’t sound as terrible as I did &lt;a href=&#34;https://laurakalbag.com/unfinished-business-44/&#34; title=&#34;Unfinished Business #44&#34;&gt;on the last Unfinished Business&lt;/a&gt;.&lt;/p&gt;
 
@@ -82,7 +84,7 @@
       <title>Interviewed by The Learning People</title>
       <link>https://laurakalbag.com/interviewed-by-the-learning-people/</link>
       <pubDate>Thu, 31 Oct 2013 10:51:06 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/interviewed-by-the-learning-people/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.learningpeople.co.uk/blog/blog-posts/finding-your-inspiration-an-interview-with-web-designer-laura-kalbag&#34;&gt;The Learning People have posted an interview they did with me&lt;/a&gt; about women in the technology sector, working for myself, and what inspires me.&lt;/p&gt;
 
@@ -103,7 +105,7 @@
       <title>Guest on Happy Monday Podcast</title>
       <link>https://laurakalbag.com/guest-on-happy-monday-podcast/</link>
       <pubDate>Mon, 19 Aug 2013 08:26:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/guest-on-happy-monday-podcast/</guid>
       <description>&lt;p&gt;Last Friday I was a guest for today’s &lt;a href=&#34;http://www.happymondaypodcast.com/episodes/laura-kalbag&#34;&gt;Happy Monday podcast&lt;/a&gt;. It was great fun chatting with Josh and Sarah about design, client work and inspiration.&lt;/p&gt;
 
@@ -124,7 +126,7 @@
       <title>Mentoring a project: the idea</title>
       <link>https://laurakalbag.com/mentoring-a-project-the-idea/</link>
       <pubDate>Wed, 30 Jan 2013 09:31:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-a-project-the-idea/</guid>
       <description>
 
@@ -229,7 +231,7 @@ I tend to forget how hard-won my 10 years of accumulated web knowledge has been 
       <title>The Sharers on The Branch</title>
       <link>https://laurakalbag.com/the-sharers-on-the-branch/</link>
       <pubDate>Wed, 23 Jan 2013 09:44:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-sharers-on-the-branch/</guid>
       <description>
 
@@ -282,7 +284,7 @@ James
       <title>Zootool — The best and most beautiful tool for storing inspiration</title>
       <link>https://laurakalbag.com/zootool-the-best-tool-for-storing-inspiration/</link>
       <pubDate>Thu, 10 Jun 2010 21:39:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/zootool-the-best-tool-for-storing-inspiration/</guid>
       <description>
 

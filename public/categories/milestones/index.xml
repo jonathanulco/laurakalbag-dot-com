@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 28 May 2018 10:12:52 +0100</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/categories/milestones/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Hello Ireland</title>
       <link>https://laurakalbag.com/move-to-ireland/</link>
       <pubDate>Mon, 28 May 2018 10:12:52 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/move-to-ireland/</guid>
       <description>
 
@@ -58,7 +60,7 @@
       <title>My 2015</title>
       <link>https://laurakalbag.com/my-2015/</link>
       <pubDate>Fri, 01 Jan 2016 12:45:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2015/</guid>
       <description>
 
@@ -87,7 +89,7 @@
       <title>A realign for 2015</title>
       <link>https://laurakalbag.com/a-realign-for-2015/</link>
       <pubDate>Thu, 02 Apr 2015 17:24:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-realign-for-2015/</guid>
       <description>
 
@@ -223,7 +225,7 @@
       <title>My 2014</title>
       <link>https://laurakalbag.com/my-2014/</link>
       <pubDate>Thu, 01 Jan 2015 14:21:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2014/</guid>
       <description>
 
@@ -534,7 +536,7 @@ I find there’s benefits in both working freelance and in a team. There’s les
       <title>Becoming part of Indie Phone</title>
       <link>https://laurakalbag.com/indie-phone/</link>
       <pubDate>Wed, 04 Jun 2014 08:36:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/indie-phone/</guid>
       <description>
 
@@ -625,7 +627,7 @@ I find there’s benefits in both working freelance and in a team. There’s les
       <title>A little realign</title>
       <link>https://laurakalbag.com/a-little-realign/</link>
       <pubDate>Fri, 02 May 2014 13:10:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-little-realign/</guid>
       <description>
 
@@ -869,7 +871,7 @@ Anyway, cheers to the realign, and keep killing it!&lt;/p&gt; &lt;/div&gt;
       <title>My 2013</title>
       <link>https://laurakalbag.com/my-2013/</link>
       <pubDate>Tue, 31 Dec 2013 17:14:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2013/</guid>
       <description>
 
@@ -1214,7 +1216,7 @@ Anyway, cheers to the realign, and keep killing it!&lt;/p&gt; &lt;/div&gt;
       <title>A List Apart column and first post on Good Designers, Good Clients</title>
       <link>https://laurakalbag.com/a-list-apart-column/</link>
       <pubDate>Fri, 30 Aug 2013 09:00:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-list-apart-column/</guid>
       <description>&lt;p&gt;This week the &lt;a href=&#34;http://alistapart.com/column/good-designers-good-clients&#34;&gt;first post was published on my A List Apart column&lt;/a&gt;. It’s a very exciting thing for me. I’ve been reading A List Apart since I started learning about the web and loads of people I admire have written there.&lt;/p&gt;
 
@@ -1237,7 +1239,7 @@ Anyway, cheers to the realign, and keep killing it!&lt;/p&gt; &lt;/div&gt;
       <title>My 2012</title>
       <link>https://laurakalbag.com/my-2012/</link>
       <pubDate>Mon, 31 Dec 2012 23:12:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2012/</guid>
       <description>
 
@@ -1744,7 +1746,7 @@ Chris&lt;/p&gt;   &lt;/div&gt;
       <title>Really, a redesign? This can’t be real…</title>
       <link>https://laurakalbag.com/really-a-redesign-this-cant-be-real/</link>
       <pubDate>Tue, 09 Oct 2012 07:00:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/really-a-redesign-this-cant-be-real/</guid>
       <description>
 
@@ -1926,7 +1928,7 @@ PS: what’s with the favicon, are there tiny hands growing out of your chin ;-)
       <title>Year One</title>
       <link>https://laurakalbag.com/year-1/</link>
       <pubDate>Tue, 31 Aug 2010 10:00:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/year-1/</guid>
       <description>
 
@@ -2197,7 +2199,7 @@ Cheers Chris
       <title>Promises</title>
       <link>https://laurakalbag.com/promises/</link>
       <pubDate>Thu, 10 Jun 2010 12:09:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/promises/</guid>
       <description>&lt;p&gt;Well, I’ve got a blog.&lt;/p&gt;
 

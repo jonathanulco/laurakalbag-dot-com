@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Wed, 06 Dec 2017 13:52:54 +0100</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/pages/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Accessibility For Everyone</title>
       <link>https://laurakalbag.com/book/</link>
       <pubDate>Wed, 06 Dec 2017 13:52:54 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/book/</guid>
       <description>&lt;p&gt;I wrote a book! It’s called &lt;em&gt;Accessibility For Everyone&lt;/em&gt;, and you can &lt;a href=&#34;https://abookapart.com/products/accessibility-for-everyone&#34;&gt;buy it in paperback and ebook from A Book Apart&lt;/a&gt;. Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.&lt;/p&gt;
 
@@ -118,11 +120,13 @@
       <title>Speaking</title>
       <link>https://laurakalbag.com/speaking/</link>
       <pubDate>Wed, 01 Nov 2017 18:07:44 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking/</guid>
-      <description>&lt;p&gt;I love conferences and meetups, and attend as many as I can, I think they’re a great way to stay up-to-date with the latest in technology, meet other like-minded folk and it gets me out of the office.&lt;/p&gt;
+      <description>&lt;p&gt;I love conferences and meetups, they’re a great way to share what we’re working on, learn from like-minded folk, and meet new friends. I’ve been really lucky to be invited to speak at over fifty conferences in the last eight years, doing presentations, panels, interviews, and even playing &lt;abbr title=&#34;Master of Ceremonies&#34;&gt;MC&lt;/abbr&gt;.&lt;/p&gt;
 
-&lt;p&gt;I’ve been really lucky to be invited to speak at a few conferences. You can find my &lt;a href=&#34;https://ind.ie/events&#34;&gt;upcoming talks on the Ind.ie site&lt;/a&gt;. There’s &lt;a href=&#34;https://ind.ie/services/talks/#laura&#34;&gt;videos of a few past talks&lt;/a&gt; on the Ind.ie site too. You can find a list of most of my &lt;a href=&#34;#past-talks&#34;&gt;past talks&lt;/a&gt; below.&lt;/p&gt;
+&lt;p&gt;You can find my &lt;a href=&#34;https://ind.ie/events&#34;&gt;upcoming talks on the Ind.ie site&lt;/a&gt;. There’s &lt;a href=&#34;https://ind.ie/services/talks/#laura&#34;&gt;videos of a few past talks&lt;/a&gt; on the Ind.ie site too. You can find a list of most of my &lt;a href=&#34;#past-talks&#34;&gt;past talks&lt;/a&gt; below.&lt;/p&gt;
+
+&lt;p&gt;If you think I might be a good fit for speaking at your event, please &lt;a href=&#34;mailto:laura@ind.ie&#34;&gt;drop me an email&lt;/a&gt;, I’d love to hear from you. My talks are easy-to-understand introductions to privacy, ethical design, and accessibility/inclusive design. They are usually designed for a wide audience of people in the web and tech industry, but can contain more technical detail or more accessible explanations to better suit the background of the audience. I’m very friendly to non-technical audiences, and try to practice accessibility and inclusivity in everything I do.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/68110573@N02/12132726904/&#34;&gt;
 &lt;figure &gt;
@@ -147,6 +151,8 @@
 &lt;h2 id=&#34;past-talks&#34;&gt;Past Talks&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ask Direct Fundraising Summer School&lt;/strong&gt; in Dublin, Ireland &lt;abbr class=&#34;dtstart&#34; title=&#34;2018-07-12&#34;&gt;12th-13th July 2018&lt;/abbr&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Futurefest&lt;/strong&gt; in London, UK &lt;abbr class=&#34;dtstart&#34; title=&#34;2018-07-6&#34;&gt;6th-7th July 2018&lt;/abbr&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Webinale&lt;/strong&gt; in Berlin, Germany &lt;abbr class=&#34;dtstart&#34; title=&#34;2018-06-5&#34;&gt;5th June 2018&lt;/abbr&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;NZZ X.Days&lt;/strong&gt; in Interlaken, Switzerland &lt;abbr class=&#34;dtstart&#34; title=&#34;2018-03-21&#34;&gt;21st March 2018&lt;/abbr&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;UX Copenhagen&lt;/strong&gt; in Copenhagen, Denmark &lt;abbr class=&#34;dtstart&#34; title=&#34;2018-02-27&#34;&gt;27th February 2018&lt;/abbr&gt;&lt;/li&gt;
@@ -196,7 +202,7 @@
 &lt;li&gt;&lt;strong&gt;From The Front – The Treasure of Frontend Island&lt;/strong&gt; in Italy: Bologna on &lt;abbr class=&#34;dtstart&#34; title=&#34;2012-09-20&#34;&gt;20th&lt;/abbr&gt;– &lt;abbr class=&#34;dtend&#34; title=&#34;2012-09-21&#34;&gt;21st September 2012&lt;/abbr&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Over the Air 2012&lt;/strong&gt; in UK: Bletchley Park on &lt;abbr class=&#34;dtstart&#34; title=&#34;2012-06-01&#34;&gt;1st&lt;/abbr&gt;– &lt;abbr class=&#34;dtend&#34; title=&#34;2012-06-02&#34;&gt;2nd June 2012&lt;/abbr&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Future of Web Design London 2012&lt;/strong&gt; in UK: London on &lt;abbr class=&#34;dtstart&#34; title=&#34;2012-05-14&#34;&gt;14th&lt;/abbr&gt;– &lt;abbr class=&#34;dtend&#34; title=&#34;2012-05-16&#34;&gt;16th May 2012&lt;/abbr&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Future Insights Live 2012&lt;/strong&gt;United States United States: Las Vegas on &lt;abbr class=&#34;dtstart&#34; title=&#34;2012-04-30&#34;&gt;30th April&lt;/abbr&gt; to &lt;abbr class=&#34;dtend&#34; title=&#34;2012-05-04&#34;&gt;4th May 2012&lt;/abbr&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Future Insights Live 2012&lt;/strong&gt; United States United States: Las Vegas on &lt;abbr class=&#34;dtstart&#34; title=&#34;2012-04-30&#34;&gt;30th April&lt;/abbr&gt; to &lt;abbr class=&#34;dtend&#34; title=&#34;2012-05-04&#34;&gt;4th May 2012&lt;/abbr&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;London Web Standards: Flux&lt;/strong&gt; in UK: London on &lt;abbr class=&#34;dtstart&#34; title=&#34;2012-03-12&#34;&gt;12th March 2012&lt;/abbr&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Update 2011&lt;/strong&gt; in UK: Brighton on &lt;abbr class=&#34;dtstart&#34; title=&#34;2011-09-05&#34;&gt;5th September 2011&lt;/abbr&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Bathcamp (the barcamp) 2010&lt;/strong&gt; in UK: Bath on &lt;abbr class=&#34;dtstart&#34; title=&#34;2010-10-30&#34;&gt;30th&lt;/abbr&gt;– &lt;abbr class=&#34;dtend&#34; title=&#34;2010-10-31&#34;&gt;31st October 2010&lt;/abbr&gt;&lt;/li&gt;
@@ -207,7 +213,7 @@
       <title>Contact Me</title>
       <link>https://laurakalbag.com/contact-me/</link>
       <pubDate>Tue, 31 Oct 2017 20:46:48 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/contact-me/</guid>
       <description>&lt;h2 id=&#34;the-basics&#34;&gt;The Basics&lt;/h2&gt;
 
@@ -224,7 +230,7 @@
       <title>About Me</title>
       <link>https://laurakalbag.com/about-me/</link>
       <pubDate>Thu, 26 Oct 2017 20:28:58 +0200</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/about-me/</guid>
       <description>&lt;h2 id=&#34;basics&#34;&gt;Basics&lt;/h2&gt;
 

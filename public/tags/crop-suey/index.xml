@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Sun, 01 Aug 2010 18:54:56 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/crop-suey/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>How the iPad is saving my sanity</title>
       <link>https://laurakalbag.com/how-the-ipad-is-saving-my-sanity/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/how-the-ipad-is-saving-my-sanity/</guid>
       <description>
 

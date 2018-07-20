@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Thu, 13 Mar 2014 17:47:43 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/interlink-conference/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Video interview for Interlink conference</title>
       <link>https://laurakalbag.com/video-interview-for-interlink-conference/</link>
       <pubDate>Thu, 13 Mar 2014 17:47:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/video-interview-for-interlink-conference/</guid>
       <description>&lt;p&gt;&lt;em&gt;Sadly, &lt;a href=&#34;http://interlinkconference.com&amp;quot; title=&amp;quot;The End of Interlink&#34;&gt;Interlink conference has been cancelled&lt;/a&gt;. I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.&lt;/em&gt;&lt;/p&gt;
 
@@ -42,7 +44,7 @@
       <title>Design theory for the web workshop at Interlink conference</title>
       <link>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</link>
       <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</guid>
       <description>
 

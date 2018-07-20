@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 10 Apr 2017 10:18:28 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/fonts/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Site adjustments</title>
       <link>https://laurakalbag.com/site-adjustments/</link>
       <pubDate>Mon, 10 Apr 2017 10:18:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/site-adjustments/</guid>
       <description>&lt;p&gt;My site is looking a little different, I’m now using the lovely &lt;a href=&#34;https://www.indiantypefoundry.com/fonts/recia&#34;&gt;Recia&lt;/a&gt; for the type. &lt;a href=&#34;http://blog.fontdeck.com/post/133794978966/why-fontdeck-is-retiring&#34;&gt;Fontdeck recently retired&lt;/a&gt;, and while they gave &lt;em&gt;loads&lt;/em&gt; of notice about the service stopping, I still didn’t update my fonts in time. This left my site looking a little sad and Helvetica-y.&lt;/p&gt;
 
@@ -69,7 +71,7 @@
       <title>Notes from Ampersand conference — My Digest</title>
       <link>https://laurakalbag.com/digest-from-ampersand-conf/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
       <description>
 
@@ -392,7 +394,7 @@ See you next year I hope!
       <title>Design Tips For Developers</title>
       <link>https://laurakalbag.com/design-tips-for-developers/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-tips-for-developers/</guid>
       <description>
 
@@ -926,7 +928,7 @@ x
       <title>Picking Fonts</title>
       <link>https://laurakalbag.com/picking-fonts/</link>
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/picking-fonts/</guid>
       <description>
 
@@ -1158,7 +1160,7 @@ OK, rant over :-)
       <title>Web Fonts</title>
       <link>https://laurakalbag.com/web-fonts/</link>
       <pubDate>Fri, 02 Jul 2010 18:12:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/web-fonts/</guid>
       <description>
 

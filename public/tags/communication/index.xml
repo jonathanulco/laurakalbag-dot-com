@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Thu, 31 Jul 2014 15:52:31 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/communication/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>I Don’t Like It on A List Apart</title>
       <link>https://laurakalbag.com/i-dont-like-it-on-a-list-apart/</link>
       <pubDate>Thu, 31 Jul 2014 15:52:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/i-dont-like-it-on-a-list-apart/</guid>
       <description>&lt;p&gt;Heh. That’s a misleading title! I’ve been on holiday, so I’m late to posting this update. Just over a week ago, &lt;a href=&#34;http://alistapart.com/column/i-dont-like-it&#34;&gt;my most recent column, I Don’t Like It&lt;/a&gt;, was posted on A List Apart. I’d heard some designers discussing their clients in less-than-favourable terms. This kind of behaviour makes me cross. It’s the &lt;a href=&#34;http://clientsfromhell.net/&#34;&gt;Clients From Hell&lt;/a&gt; attitude that poor communication is a client’s fault, when &lt;a href=&#34;http://alistapart.com/column/good-designers-good-clients&#34; title=&#34;Column on Good Designers, Good Clients&#34;&gt;it’s more often a designer’s fault&lt;/a&gt;. It might be easier to talk about these situations in the abstract than give solid advice on how to behave better. So I gave it a try, with some example interactions in my column.&lt;/p&gt;
 
@@ -36,7 +38,7 @@
       <title>Browser windows and responsive language</title>
       <link>https://laurakalbag.com/browser-windows/</link>
       <pubDate>Thu, 08 Aug 2013 18:59:17 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/browser-windows/</guid>
       <description>
 
@@ -90,7 +92,7 @@ Great post, referring to the browser when talking about RWD makes a lot of sense
       <title>Mentoring: the evaluation</title>
       <link>https://laurakalbag.com/mentoring-the-evaluation/</link>
       <pubDate>Tue, 25 Jun 2013 11:11:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-the-evaluation/</guid>
       <description>
 
@@ -229,7 +231,7 @@ Great post, referring to the browser when talking about RWD makes a lot of sense
       <title>Responsive Day Out</title>
       <link>https://laurakalbag.com/responsive-day-out/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/responsive-day-out/</guid>
       <description>
 
@@ -733,7 +735,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>Future Of Web Design 2011 –; The Summary –; Day Two</title>
       <link>https://laurakalbag.com/fowd-2011-summary-day-two/</link>
       <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fowd-2011-summary-day-two/</guid>
       <description>
 
@@ -869,7 +871,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>New Adventures 2011</title>
       <link>https://laurakalbag.com/new-adventures-2011/</link>
       <pubDate>Fri, 04 Feb 2011 00:21:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/new-adventures-2011/</guid>
       <description>
 

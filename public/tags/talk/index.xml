@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 20 Jan 2014 18:06:30 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/talk/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Speaking at DotYork</title>
       <link>https://laurakalbag.com/speaking-at-dotyork/</link>
       <pubDate>Mon, 20 Jan 2014 18:06:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-dotyork/</guid>
       <description>
 
@@ -56,7 +58,7 @@
       <title>My Secret is Honesty talk video</title>
       <link>https://laurakalbag.com/my-secret-is-honesty-talk-video/</link>
       <pubDate>Mon, 21 Oct 2013 18:59:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-secret-is-honesty-talk-video/</guid>
       <description>&lt;p&gt;The lovely people at &lt;a href=&#34;http://2013.dareconf.com&#34;&gt;Dare conference&lt;/a&gt; have released &lt;a href=&#34;http://2013.dareconf.com/videos/kalbag&#34;&gt;the video of my talk, My Secret is Honesty&lt;/a&gt;. It’s pretty much a longer, talk-version of &lt;a href=&#34;http://alistapart.com/column/open-for-business&#34;&gt;my latest column on A List Apart, “Open for Business.”&lt;/a&gt;&lt;/p&gt;
 
@@ -79,7 +81,7 @@
       <title>Speaking at Dare conference</title>
       <link>https://laurakalbag.com/speaking-at-dare-conference/</link>
       <pubDate>Wed, 03 Jul 2013 16:49:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-dare-conference/</guid>
       <description>
 
@@ -111,7 +113,7 @@
       <title>Learning to speak</title>
       <link>https://laurakalbag.com/learning-to-speak/</link>
       <pubDate>Thu, 11 Apr 2013 17:46:03 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/learning-to-speak/</guid>
       <description>
 
@@ -235,7 +237,7 @@ If I could I would most definitely go to Aral’s workshop. I’ll never forget 
       <title>Live-designing WordPress Admin Icons</title>
       <link>https://laurakalbag.com/live-designing-wordpress-admin-icons/</link>
       <pubDate>Sat, 02 Feb 2013 13:09:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/live-designing-wordpress-admin-icons/</guid>
       <description>
 
@@ -320,7 +322,7 @@ Thanks for the post! It was great to have you at WordPress London. The talk was 
       <title>Design Tips For Developers</title>
       <link>https://laurakalbag.com/design-tips-for-developers/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-tips-for-developers/</guid>
       <description>
 

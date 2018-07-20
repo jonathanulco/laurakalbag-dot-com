@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Thu, 15 May 2014 10:14:06 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/categories/usability/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Why accessibility matters to me #GAAD</title>
       <link>https://laurakalbag.com/why-accessibility-matters-to-me/</link>
       <pubDate>Thu, 15 May 2014 10:14:06 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/why-accessibility-matters-to-me/</guid>
       <description>
 
@@ -41,7 +43,7 @@
       <title>Will understanding the mainstream affect me as a designer?</title>
       <link>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</link>
       <pubDate>Fri, 01 Jun 2012 21:51:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</guid>
       <description>
 
@@ -247,7 +249,7 @@ It’s like when you go back and watch a really good kids show and realize how m
       <title>Solving problems with naïvety</title>
       <link>https://laurakalbag.com/solving-problems-with-naivety/</link>
       <pubDate>Mon, 07 May 2012 14:46:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/solving-problems-with-naivety/</guid>
       <description>
 
@@ -344,7 +346,7 @@ That’s the best feedback I could hope to read on my talk; so happy to hear it 
       <title>Labels in input fields aren’t such a good idea</title>
       <link>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</link>
       <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</guid>
       <description>
 
@@ -1090,7 +1092,7 @@ I really like the aesthetic of having the label inside the input field –; just
       <title>Open In A New Window</title>
       <link>https://laurakalbag.com/open-in-a-new-window/</link>
       <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/open-in-a-new-window/</guid>
       <description>
 

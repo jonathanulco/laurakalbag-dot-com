@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Fri, 15 Aug 2014 07:20:40 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/categories/tools/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Workplaces of Web Professionals</title>
       <link>https://laurakalbag.com/workplaces-of-web-professionals/</link>
       <pubDate>Fri, 15 Aug 2014 07:20:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/workplaces-of-web-professionals/</guid>
       <description>&lt;p&gt;This morning Martin Wolf published an interesting &lt;a href=&#34;http://martinwolf.org/2014/08/14/workplaces-of-web-professionals-part-1/&#34;&gt;blog post with photos of the “workplaces of web professionals”&lt;/a&gt;. I always wonder if people really are &lt;em&gt;that&lt;/em&gt; tidy, or if they spent a while clearing up before they took the photo.&lt;/p&gt;
 
@@ -38,7 +40,7 @@
       <title>Interview on Workspiration</title>
       <link>https://laurakalbag.com/interview-on-workspiration/</link>
       <pubDate>Wed, 18 Dec 2013 11:59:17 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/interview-on-workspiration/</guid>
       <description>&lt;p&gt;A few weeks ago &lt;a href=&#34;http://workspiration.org/laura-kalbag&#34;&gt;I answered some questions&lt;/a&gt; for &lt;a href=&#34;http://workspiration.org&#34;&gt;Workspiration&lt;/a&gt; on my hardware and software setup, inspiration and dreams.&lt;/p&gt;
 
@@ -61,7 +63,7 @@
       <title>Fonts.com mockup fonts</title>
       <link>https://laurakalbag.com/fonts-com-mockup-fonts/</link>
       <pubDate>Tue, 02 Jul 2013 09:53:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fonts-com-mockup-fonts/</guid>
       <description>
 
@@ -172,7 +174,7 @@ Fonts.com&lt;/p&gt;   &lt;/div&gt;
       <title>Alfred App v2 theme</title>
       <link>https://laurakalbag.com/alfred-app-v2-theme/</link>
       <pubDate>Sat, 30 Mar 2013 20:09:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/alfred-app-v2-theme/</guid>
       <description>&lt;p&gt;Today I finally got around to playing with &lt;a href=&#34;http://www.alfredapp.com/&#34;&gt;Alfred v2&lt;/a&gt;. This is the one OSX app I’ll allow to open on login, I use it to launch every app and find every file. I use it to work out maths for my CSS and double-check the meanings of words I’m about to write. And it does so much more.&lt;/p&gt;
 

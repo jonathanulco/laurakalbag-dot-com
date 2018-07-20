@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Sat, 02 Feb 2013 13:09:26 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/wordpress-admin-icons/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Live-designing WordPress Admin Icons</title>
       <link>https://laurakalbag.com/live-designing-wordpress-admin-icons/</link>
       <pubDate>Sat, 02 Feb 2013 13:09:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/live-designing-wordpress-admin-icons/</guid>
       <description>
 
@@ -100,7 +102,7 @@ Thanks for the post! It was great to have you at WordPress London. The talk was 
       <title>Speaking at the WordPress London January meetup</title>
       <link>https://laurakalbag.com/speaking-at-the-wordpress-london-january-meetup/</link>
       <pubDate>Mon, 17 Dec 2012 11:56:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-the-wordpress-london-january-meetup/</guid>
       <description>
 

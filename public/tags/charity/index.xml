@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 26 Aug 2014 14:42:01 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/charity/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Give and Tell Challenge</title>
       <link>https://laurakalbag.com/give-and-tell-challenge/</link>
       <pubDate>Tue, 26 Aug 2014 14:42:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/give-and-tell-challenge/</guid>
       <description>
 

@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Fri, 31 Jan 2014 10:08:46 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/drawing/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Sketch of the day</title>
       <link>https://laurakalbag.com/sketch-of-the-day/</link>
       <pubDate>Fri, 31 Jan 2014 10:08:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/sketch-of-the-day/</guid>
       <description>&lt;p&gt;A strange thing has happened in the last week. I’ve been a bit blue, but I’ve really got into my &lt;a href=&#34;http://www.amazon.co.uk/dp/0811875342&#34;&gt;One Sketch A Day book&lt;/a&gt;. This was a lovely little book that &lt;a href=&#34;https://twitter.com/missrachilli&#34;&gt;Rachel Shillcock&lt;/a&gt; sent me.&lt;/p&gt;
 
@@ -208,7 +210,7 @@
       <title>Autodesk SketchBook Pro</title>
       <link>https://laurakalbag.com/autodesk-sketchbook-pro/</link>
       <pubDate>Sat, 19 Jun 2010 13:19:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/autodesk-sketchbook-pro/</guid>
       <description>
 

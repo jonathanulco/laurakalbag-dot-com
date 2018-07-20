@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Thu, 26 Oct 2017 20:28:58 +0200</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Insecure</title>
       <link>https://laurakalbag.com/insecure/</link>
       <pubDate>Thu, 19 Jul 2018 11:58:38 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/insecure/</guid>
       <description>
 
@@ -108,7 +110,7 @@
       <title>Beyond my means</title>
       <link>https://laurakalbag.com/beyond-my-means/</link>
       <pubDate>Tue, 17 Jul 2018 14:43:23 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/beyond-my-means/</guid>
       <description>
 
@@ -169,7 +171,7 @@
       <title>Owning and controlling my own content</title>
       <link>https://laurakalbag.com/owning-and-controlling-my-own-content/</link>
       <pubDate>Tue, 17 Jul 2018 12:01:07 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/owning-and-controlling-my-own-content/</guid>
       <description>
 
@@ -198,7 +200,7 @@
       <title>The cost of access</title>
       <link>https://laurakalbag.com/the-cost-of-access/</link>
       <pubDate>Sat, 07 Jul 2018 22:07:24 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-cost-of-access/</guid>
       <description>&lt;p&gt;This was my opening introduction for Futurefest’s “Who Is the Internet For?” debate today in London. I didn’t hit all the points as smoothly as this, but I covered most of it throughout the debate.&lt;/p&gt;
 
@@ -232,7 +234,7 @@
       <title>Gallery Grid With CSS Grid</title>
       <link>https://laurakalbag.com/gallery-grid-with-css-grid/</link>
       <pubDate>Mon, 02 Jul 2018 19:25:46 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/gallery-grid-with-css-grid/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout&#34;&gt;CSS Grid Layout&lt;/a&gt; is great. My site layout is fairly simple, so had no need for lots of grid—I only used it for lining up comments and avatars on old blog posts.&lt;/p&gt;
 
@@ -292,7 +294,7 @@ figcaption {
       <title>Hello Ireland</title>
       <link>https://laurakalbag.com/move-to-ireland/</link>
       <pubDate>Mon, 28 May 2018 10:12:52 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/move-to-ireland/</guid>
       <description>
 
@@ -335,7 +337,7 @@ figcaption {
       <title>Bookmarked: Animation</title>
       <link>https://laurakalbag.com/bookmarked-on-animation/</link>
       <pubDate>Mon, 12 Mar 2018 12:17:46 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/bookmarked-on-animation/</guid>
       <description>
 
@@ -372,7 +374,7 @@ figcaption {
       <title>Podcasts, February 2018</title>
       <link>https://laurakalbag.com/podcasts-in-february-2018/</link>
       <pubDate>Mon, 12 Mar 2018 12:17:22 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/podcasts-in-february-2018/</guid>
       <description>
 
@@ -408,7 +410,7 @@ figcaption {
       <title>I’m a DIY Rebel</title>
       <link>https://laurakalbag.com/im-a-diy-rebel/</link>
       <pubDate>Mon, 05 Feb 2018 13:45:02 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/im-a-diy-rebel/</guid>
       <description>&lt;p&gt;Probably the coolest I’ve ever sounded…&lt;/p&gt;
 
@@ -459,7 +461,7 @@ figcaption {
       <title>Semantic HTML on 24 Ways</title>
       <link>https://laurakalbag.com/semantic-html-on-24-ways/</link>
       <pubDate>Fri, 22 Dec 2017 18:59:08 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/semantic-html-on-24-ways/</guid>
       <description>&lt;p&gt;It’s been a few years since I wrote something for &lt;a href=&#34;http://24ways.org&#34;&gt;24ways&lt;/a&gt;, but this year I’m back, &lt;a href=&#34;https://24ways.org/2017/accessibility-through-semantic-html/&#34;&gt;making the case for semantic HTML&lt;/a&gt;.&lt;/p&gt;
 
@@ -482,7 +484,7 @@ figcaption {
       <title>Wonky for now</title>
       <link>https://laurakalbag.com/site-update-2017/</link>
       <pubDate>Thu, 30 Nov 2017 15:25:45 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/site-update-2017/</guid>
       <description>&lt;p&gt;Please excuse the wonkiness of my site. I am iterating on a new design, including all new backend. It’s static!&lt;/p&gt;
 
@@ -496,7 +498,7 @@ figcaption {
       <title>Accessibility For Everyone</title>
       <link>https://laurakalbag.com/accessibility-for-everyone/</link>
       <pubDate>Fri, 18 Aug 2017 13:44:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/accessibility-for-everyone/</guid>
       <description>
 
@@ -640,7 +642,7 @@ figcaption {
       <title>Digital Assistants, Facebook Quizzes, And Fake News! You Won’t Believe What Happens Next</title>
       <link>https://laurakalbag.com/you-wont-believe-what-happens-next/</link>
       <pubDate>Mon, 10 Apr 2017 12:58:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/you-wont-believe-what-happens-next/</guid>
       <description>
 
@@ -1990,7 +1992,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Site adjustments</title>
       <link>https://laurakalbag.com/site-adjustments/</link>
       <pubDate>Mon, 10 Apr 2017 10:18:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/site-adjustments/</guid>
       <description>&lt;p&gt;My site is looking a little different, I’m now using the lovely &lt;a href=&#34;https://www.indiantypefoundry.com/fonts/recia&#34;&gt;Recia&lt;/a&gt; for the type. &lt;a href=&#34;http://blog.fontdeck.com/post/133794978966/why-fontdeck-is-retiring&#34;&gt;Fontdeck recently retired&lt;/a&gt;, and while they gave &lt;em&gt;loads&lt;/em&gt; of notice about the service stopping, I still didn’t update my fonts in time. This left my site looking a little sad and Helvetica-y.&lt;/p&gt;
 
@@ -2044,7 +2046,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Bereaved</title>
       <link>https://laurakalbag.com/bereaved/</link>
       <pubDate>Mon, 03 Oct 2016 12:44:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/bereaved/</guid>
       <description>
 
@@ -2139,7 +2141,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Diary, 29th June 2016</title>
       <link>https://laurakalbag.com/diary-29th-june-2016/</link>
       <pubDate>Wed, 29 Jun 2016 13:44:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-29th-june-2016/</guid>
       <description>
 
@@ -2197,7 +2199,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Diary, 13th June 2016</title>
       <link>https://laurakalbag.com/diary-13th-june-2016/</link>
       <pubDate>Mon, 13 Jun 2016 13:38:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-13th-june-2016/</guid>
       <description>
 
@@ -2241,7 +2243,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Diary, 22nd April 2016</title>
       <link>https://laurakalbag.com/diary-22nd-april-2016/</link>
       <pubDate>Fri, 22 Apr 2016 14:59:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-22nd-april-2016/</guid>
       <description>
 
@@ -2281,7 +2283,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Diary, 29th March 2016</title>
       <link>https://laurakalbag.com/diary-29th-march-2016/</link>
       <pubDate>Tue, 29 Mar 2016 14:55:34 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-29th-march-2016/</guid>
       <description>
 
@@ -2323,7 +2325,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Diary, 21st March 2016</title>
       <link>https://laurakalbag.com/diary-21st-march-2016/</link>
       <pubDate>Mon, 21 Mar 2016 16:24:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-21st-march-2016/</guid>
       <description>
 
@@ -2411,7 +2413,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Diary, 1st March 2016</title>
       <link>https://laurakalbag.com/diary-1st-march-2016/</link>
       <pubDate>Tue, 01 Mar 2016 10:14:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-1st-march-2016/</guid>
       <description>
 
@@ -2451,7 +2453,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>What advice do you give to aspiring designers or typographers?</title>
       <link>https://laurakalbag.com/advice-for-aspiring-designers/</link>
       <pubDate>Wed, 17 Feb 2016 10:30:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/advice-for-aspiring-designers/</guid>
       <description>
 
@@ -2487,7 +2489,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Diary, 16th February 2016</title>
       <link>https://laurakalbag.com/diary-16th-february-2016/</link>
       <pubDate>Tue, 16 Feb 2016 09:26:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-16th-february-2016/</guid>
       <description>
 
@@ -2531,7 +2533,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Diary, 5th February 2016</title>
       <link>https://laurakalbag.com/diary-2016-02-05/</link>
       <pubDate>Fri, 05 Feb 2016 11:29:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-2016-02-05/</guid>
       <description>
 
@@ -2577,7 +2579,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Office Furniture (and other nice things) for sale</title>
       <link>https://laurakalbag.com/office-furniture-for-sale/</link>
       <pubDate>Tue, 02 Feb 2016 15:51:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/office-furniture-for-sale/</guid>
       <description>
 
@@ -2750,7 +2752,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>My 2015</title>
       <link>https://laurakalbag.com/my-2015/</link>
       <pubDate>Fri, 01 Jan 2016 12:45:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2015/</guid>
       <description>
 
@@ -2779,7 +2781,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>Flexboxing the Universal Video Player</title>
       <link>https://laurakalbag.com/flexbox-video-player/</link>
       <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/flexbox-video-player/</guid>
       <description>&lt;p&gt;I added a flexbox layout to our Universal Video Player (accessible HTML5 video player) and wrote &lt;a href=&#34;https://ind.ie/labs/blog/video-player-flexbox/&#34;&gt;a blog post on Ind.ie Labs about using flexbox with progressive enhancement&lt;/a&gt;.&lt;/p&gt;
 
@@ -2800,7 +2802,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>The Sticky, Pocked Underbelly Of The Web</title>
       <link>https://laurakalbag.com/the-sticky-pocked-underbelly-of-the-web/</link>
       <pubDate>Fri, 07 Aug 2015 21:19:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-sticky-pocked-underbelly-of-the-web/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ind.ie/blog/the-sticky-pocked-underbelly-of-the-web/&#34;&gt;This week’s roundup&lt;/a&gt; covers Swiss Cheese Internet vs The Database Of Ruin, The Right To Be Forgotten, and Diversity. Lots of variety!&lt;/p&gt;
 
@@ -2821,7 +2823,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>Windows To Your Soul</title>
       <link>https://laurakalbag.com/windows-to-your-soul/</link>
       <pubDate>Fri, 31 Jul 2015 17:40:09 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/windows-to-your-soul/</guid>
       <description>&lt;p&gt;In &lt;a href=&#34;https://ind.ie/blog/windows-to-your-soul/&#34;&gt;this week’s Ind.ie roundup&lt;/a&gt;, I wrote about privacy, politics, tracking, Timelines, and a little thing called “corporate nullification.”&lt;/p&gt;
 
@@ -2842,7 +2844,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>Is there potential for “ethical analytics”?</title>
       <link>https://laurakalbag.com/is-there-potential-for-ethical-analytics/</link>
       <pubDate>Thu, 30 Jul 2015 10:19:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/is-there-potential-for-ethical-analytics/</guid>
       <description>&lt;p&gt;We have &lt;a href=&#34;https://forum.ind.ie/t/piwik-alternative-for-analytics/627&#34;&gt;Piwik analytics&lt;/a&gt; on the &lt;a href=&#34;https://ind.ie/&#34;&gt;Ind.ie site&lt;/a&gt;, and I use Gauges and GoSquared on my own site (I was indecisive at the time…) But I use &lt;a href=&#34;https://www.ghostery.com/en/&#34;&gt;Ghostery&lt;/a&gt; so I actually block analytics like this for my own use.&lt;/p&gt;
 
@@ -2879,7 +2881,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>The Social Web: A Glorious Dystopia</title>
       <link>https://laurakalbag.com/the-social-web-a-glorious-dystopia/</link>
       <pubDate>Fri, 24 Jul 2015 18:00:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-social-web-a-glorious-dystopia/</guid>
       <description>&lt;p&gt;Lots of good quotes and a book recommendation in &lt;a href=&#34;https://ind.ie/blog/the-social-web-a-glorious-dystopia/&#34;&gt;this week’s Ind.ie roundup&lt;/a&gt;.&lt;/p&gt;
 
@@ -2900,7 +2902,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>Tethered Beings</title>
       <link>https://laurakalbag.com/tethered-beings/</link>
       <pubDate>Fri, 17 Jul 2015 17:56:41 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/tethered-beings/</guid>
       <description>&lt;p&gt;This week the Ind.ie roundup returns with a big one. Great news on the UK surveillance legislation front, and lots of corporation news. Read the &lt;a href=&#34;https://ind.ie/blog/tethered-beings/&#34;&gt;Ind.ie roundup: Tethered Beings&lt;/a&gt;.&lt;/p&gt;
 
@@ -2921,7 +2923,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>Farewell Caspar</title>
       <link>https://laurakalbag.com/farewell-caspar/</link>
       <pubDate>Mon, 13 Jul 2015 10:46:13 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/farewell-caspar/</guid>
       <description>&lt;p&gt;We didn’t have an Ind.ie roundup the previous week because we were moving, though &lt;a href=&#34;https://ind.ie/blog/july-update/&#34;&gt;Aral wrote a quick update on what’s happening with our move&lt;/a&gt;. Last week we were roundup-less again, as we heard the sad news that &lt;a href=&#34;https://en.wikipedia.org/wiki/Caspar_Bowden&#34;&gt;Caspar Bowden&lt;/a&gt; had died. We decided that, instead of the usual roundup, we’d take a look at &lt;a href=&#34;https://ind.ie/blog/farewell-caspar/&#34;&gt;Caspar’s privacy advocacy in tribute to his work&lt;/a&gt;.&lt;/p&gt;
 
@@ -2942,7 +2944,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>Book Bundles for Sale</title>
       <link>https://laurakalbag.com/book-bundles/</link>
       <pubDate>Fri, 26 Jun 2015 00:00:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/book-bundles/</guid>
       <description>
 
@@ -3636,7 +3638,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>Photography on manual: 11 –; Overlay</title>
       <link>https://laurakalbag.com/photography-on-manual-11-overlay/</link>
       <pubDate>Thu, 28 May 2015 17:38:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/photography-on-manual-11-overlay/</guid>
       <description>&lt;p&gt;A weird experiment that almost works…&lt;/p&gt;
 
@@ -3666,7 +3668,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>Photography on manual: 10 –; Miscellaneous</title>
       <link>https://laurakalbag.com/photography-on-manual-10-miscellaneous/</link>
       <pubDate>Thu, 28 May 2015 11:39:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/photography-on-manual-10-miscellaneous/</guid>
       <description>&lt;p&gt;The last few days have brought a very miscellaneous collection of photos.&lt;/p&gt;
 
@@ -3738,7 +3740,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>The Destiny Machine</title>
       <link>https://laurakalbag.com/the-destiny-machine/</link>
       <pubDate>Mon, 25 May 2015 08:54:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-destiny-machine/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ind.ie/blog/the-destiny-machine/&#34;&gt;Last Friday’s roundup&lt;/a&gt; was back to business as usual, after a couple of weeks of re:publica-related work. We’ve got the latest in the world of &lt;a href=&#34;https://ind.ie/you-are-the-product&#34;&gt;Spyware 2.0&lt;/a&gt;, and some fun ways that people are challenging the system.&lt;/p&gt;
 
@@ -3759,7 +3761,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>Photography on manual: 9 –; Oskar in the grey</title>
       <link>https://laurakalbag.com/photography-on-manual-9-oskar-in-the-grey/</link>
       <pubDate>Sun, 24 May 2015 15:20:03 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/photography-on-manual-9-oskar-in-the-grey/</guid>
       <description>&lt;p&gt;This week we’ve been looking more at natural light, and portraits with foreground detail. I took my trusty (actually incredibly unreliable) model, Oskar, out for a walk and hounded him with the camera. It was a very grey day, but with a lot of light.&lt;/p&gt;
 
@@ -3829,7 +3831,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>Interview on the Subjective podcast</title>
       <link>https://laurakalbag.com/subjective-podcast/</link>
       <pubDate>Sat, 23 May 2015 16:12:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/subjective-podcast/</guid>
       <description>&lt;p&gt;At the beginning of the week, I had fun talking to Victor Johnson on &lt;a href=&#34;http://subjective.fm/episodes/9&#34;&gt;Episode 9 of the Subjective podcast, ‘Free As In Liberty.’&lt;/a&gt; I ranted &lt;strong&gt;a lot&lt;/strong&gt;, and we talked about Ind.ie, diversity, my upbringing, and how I got into design and the web.&lt;/p&gt;
 
@@ -3841,7 +3843,7 @@ Everything will need to be collected from Big Yellow Storage Brighton (from our 
       <title>Accessibility By Design</title>
       <link>https://laurakalbag.com/12-days-of-podcasts-day-3/</link>
       <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/12-days-of-podcasts-day-3/</guid>
       <description>
 
@@ -4661,7 +4663,7 @@ Laura, this is the second time I have randomly found one of your articles, gaine
       <title>Accessibility By Design</title>
       <link>https://laurakalbag.com/accessibility-by-design/</link>
       <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/accessibility-by-design/</guid>
       <description>
 
@@ -5472,7 +5474,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Photography on manual: 8 –; Traffic and Jess</title>
       <link>https://laurakalbag.com/photography-on-manual-8-traffic-and-jess/</link>
       <pubDate>Mon, 18 May 2015 08:39:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/photography-on-manual-8-traffic-and-jess/</guid>
       <description>&lt;p&gt;Our most recent exercise was to take a long exposure shot.&lt;/p&gt;
 
@@ -5524,7 +5526,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Photography on manual: 7 –; Small Cat</title>
       <link>https://laurakalbag.com/photography-on-manual-7-small-cat/</link>
       <pubDate>Wed, 13 May 2015 16:19:03 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/photography-on-manual-7-small-cat/</guid>
       <description>&lt;p&gt;My parents’ cat, called Milly. Who I call “Small Cat” because she’s so small.&lt;/p&gt;
 
@@ -5554,7 +5556,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Photography on manual: 6 –; Walk</title>
       <link>https://laurakalbag.com/photography-on-manual-6-walk/</link>
       <pubDate>Mon, 11 May 2015 16:33:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/photography-on-manual-6-walk/</guid>
       <description>&lt;p&gt;When I started doing this course, I knew I’d probably end up with a lot of dog walking photos. Oskar and I are out every day, and so there’s lots of photo opportunities.&lt;/p&gt;
 
@@ -5586,7 +5588,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Photography on manual: 5 –; Levitation</title>
       <link>https://laurakalbag.com/photography-on-manual-5-levitation/</link>
       <pubDate>Sat, 09 May 2015 17:01:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/photography-on-manual-5-levitation/</guid>
       <description>&lt;p&gt;Another photo post so soon? Yes! It’s the weekend, and Ashley gave us a really cool new exercise to try levitation, so I thought I had to try it.&lt;/p&gt;
 
@@ -5616,7 +5618,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Photography on manual: 4 –; Post-processing</title>
       <link>https://laurakalbag.com/photography-on-manual-4-post-processing/</link>
       <pubDate>Sat, 09 May 2015 07:53:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/photography-on-manual-4-post-processing/</guid>
       <description>&lt;p&gt;On my last day in Berlin, I took a lot more photos. Last night I started post-processing them, following Ashley’s email and video tutorials. Post-processing is an area where I have more experience, I’ve done a lot of Photoshopping in the past, but now I’m trying to achieve new effects using Lightroom, which is a very different animal!&lt;/p&gt;
 
@@ -5706,7 +5708,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Photography on manual: 3 –; Day One at re:publica</title>
       <link>https://laurakalbag.com/photography-on-manual-3-republica-day-one/</link>
       <pubDate>Tue, 05 May 2015 14:58:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/photography-on-manual-3-republica-day-one/</guid>
       <description>&lt;p&gt;This week, the Ind.ie team are at re:publica in Berlin, so I’m getting lots of opportunities to take photos that aren’t just of the dog!&lt;/p&gt;
 
@@ -5816,7 +5818,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Photography on manual: 2 –; Splash</title>
       <link>https://laurakalbag.com/photography-splash/</link>
       <pubDate>Sun, 03 May 2015 19:37:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/photography-splash/</guid>
       <description>&lt;p&gt;The first exercise we’ve been given is to capture a splash in a cup…&lt;/p&gt;
 
@@ -5906,7 +5908,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Photography on manual: 1</title>
       <link>https://laurakalbag.com/photography-on-manual-1/</link>
       <pubDate>Sat, 02 May 2015 12:27:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/photography-on-manual-1/</guid>
       <description>&lt;p&gt;I’ve had a DSLR for nearly a year now. And I still only ever use it on the Auto modes. I studied photography (with film cameras) during my Art Foundation course ~10 years ago, but I think any decent photos were mostly luck, and I can’t remember much of it. So when Ashley set up her &lt;a href=&#34;http://girlwithacamera.co.uk/courses/&#34;&gt;Girl With A Camera Course&lt;/a&gt;, “For the beginner photographer who wants to pick up their camera more,” I was instantly sold!&lt;/p&gt;
 
@@ -6042,7 +6044,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>What do web experts think of BBC Taster?</title>
       <link>https://laurakalbag.com/bbc-taster/</link>
       <pubDate>Tue, 14 Apr 2015 13:55:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/bbc-taster/</guid>
       <description>&lt;p&gt;In the spirit of catching up on slightly older news, in January I was part of a &lt;a href=&#34;http://www.creativebloq.com/web-design/what-do-web-experts-think-bbc-taster-11514087&#34;&gt;panel commenting on BBC Taster on Creative Bloq&lt;/a&gt;.&lt;/p&gt;
 
@@ -6071,7 +6073,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Europe fights back</title>
       <link>https://laurakalbag.com/europe-fights-back/</link>
       <pubDate>Mon, 13 Apr 2015 09:18:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/europe-fights-back/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ind.ie/blog/roundup-15-04-10/&#34;&gt;Last Friday’s Ind.ie roundup&lt;/a&gt; had more on corporate surveillance, a couple of great videos with Edward Snowden, and Europe fighting back against Google and Facebook.&lt;/p&gt;
 
@@ -6083,7 +6085,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>130 words on getting creative in Offscreen Magazine</title>
       <link>https://laurakalbag.com/130-words-in-offscreen-mag/</link>
       <pubDate>Thu, 09 Apr 2015 13:03:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/130-words-in-offscreen-mag/</guid>
       <description>&lt;p&gt;I’m slightly behind on my posts, but I wanted to share my contribution in the latest edition of &lt;a href=&#34;http://www.offscreenmag.com&#34;&gt;Offscreen Magazine&lt;/a&gt;. Offscreen is a beautiful, printed, independent magazine about the “People behind Bits and Pixels.” I contributed 130 words to Issue 10 on getting into a creative mindset.&lt;/p&gt;
 
@@ -6117,7 +6119,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Speaking at 418:conf web meetup</title>
       <link>https://laurakalbag.com/speaking-at-418-conf-web-meetup/</link>
       <pubDate>Tue, 07 Apr 2015 09:26:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-418-conf-web-meetup/</guid>
       <description>&lt;p&gt;I’m speaking at the very first &lt;a href=&#34;http://418conf.co.uk&#34;&gt;418:conf web meetup&lt;/a&gt; on 16th June 2015 in Nutfield (near Redhill) in Surrey. It’s exciting for me because it’s near where I used to live, and it’s a cool new meetup with a lot of potential.&lt;/p&gt;
 
@@ -6140,7 +6142,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>My Friday Roundup for Ind.ie</title>
       <link>https://laurakalbag.com/my-friday-roundup-for-ind-ie/</link>
       <pubDate>Fri, 03 Apr 2015 15:46:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-friday-roundup-for-ind-ie/</guid>
       <description>&lt;p&gt;Every Friday I write a roundup of great links we at &lt;a href=&#34;https://ind.ie&#34;&gt;Ind.ie&lt;/a&gt; have seen over the last week. I’m not going to lie, it’s a lot of fun. I finally have an excuse to sit and properly read articles that are related to independence, privacy, human rights, democracy, diversity and more. I feel more well-informed as a result!&lt;/p&gt;
 
@@ -6152,7 +6154,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>The Illusion Of Free on A List Apart</title>
       <link>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</link>
       <pubDate>Fri, 03 Apr 2015 14:31:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</guid>
       <description>&lt;p&gt;Last week, &lt;a href=&#34;http://alistapart.com/column/the-illusion-of-free&#34;&gt;my column on The Illusion Of Free&lt;/a&gt; was published on A List Apart. I took a lot of time writing it, as I think it’s an incredibly important issue, and it reflects my thinking around &lt;a href=&#34;https://ind.ie&#34;&gt;Ind.ie&lt;/a&gt;. As ever, a massive thank you to the wonderful editor Rose Weisburd who helped me round things out, made me sound smarter and encouraged me in the first place.&lt;/p&gt;
 
@@ -6173,7 +6175,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>A realign for 2015</title>
       <link>https://laurakalbag.com/a-realign-for-2015/</link>
       <pubDate>Thu, 02 Apr 2015 17:24:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-realign-for-2015/</guid>
       <description>
 
@@ -6309,7 +6311,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Speaking at the Sherpa Summit</title>
       <link>https://laurakalbag.com/speaking-at-the-sherpa-summit/</link>
       <pubDate>Thu, 02 Apr 2015 10:57:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-the-sherpa-summit/</guid>
       <description>
 
@@ -6338,7 +6340,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Digital Arts: Web fonts: what designers need to know in 2015</title>
       <link>https://laurakalbag.com/digital-arts-web-fonts-in-2015/</link>
       <pubDate>Fri, 20 Feb 2015 16:34:52 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digital-arts-web-fonts-in-2015/</guid>
       <description>
 
@@ -6381,7 +6383,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>For Sale: Mid 2013 MacBook Air</title>
       <link>https://laurakalbag.com/for-sale-mid-2013-macbook-air/</link>
       <pubDate>Thu, 12 Feb 2015 16:30:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/for-sale-mid-2013-macbook-air/</guid>
       <description>&lt;p&gt;In October, I found myself doing a lot more in Terminal than I’d done before, and I needed a computer with a faster processor, so I upgraded to a MacBook Pro. This means that my pimped-out Mid 2013 MacBook Air that I bought in December 2013 is now for sale. It’s in nearly-new condition, as it’s been kept in a shell case for almost all its (short) life. I used it for around 8 months. These are the specs:&lt;/p&gt;
 
@@ -6427,7 +6429,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Do your skip links work with keyboard navigation?</title>
       <link>https://laurakalbag.com/skip-links/</link>
       <pubDate>Wed, 14 Jan 2015 14:59:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/skip-links/</guid>
       <description>
 
@@ -6532,7 +6534,7 @@ So, in your case the most easy thing I presume is to add a tabindex=”-1&#34; t
       <title>My 2014</title>
       <link>https://laurakalbag.com/my-2014/</link>
       <pubDate>Thu, 01 Jan 2015 14:21:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2014/</guid>
       <description>
 
@@ -6843,7 +6845,7 @@ I find there’s benefits in both working freelance and in a team. There’s les
       <title>Unfinished Business 97: Made in Scotland from girders</title>
       <link>https://laurakalbag.com/unfinished-business-97-made-in-scotland-from-girders/</link>
       <pubDate>Mon, 01 Dec 2014 14:14:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-97-made-in-scotland-from-girders/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://unfinished.bz/97&#34;&gt;This week’s episode of Unfinished Business&lt;/a&gt; was great fun to record. Both Ashley Baxter and I were Andy’s guests, and we talked about unhealthy food, being a podcast guest, Christmas decorations, and everything that’s in store for the three of us over the next year.&lt;/p&gt;
 
@@ -6864,7 +6866,7 @@ I find there’s benefits in both working freelance and in a team. There’s les
       <title>What I’m doing now and why</title>
       <link>https://laurakalbag.com/what-im-doing-now-and-why/</link>
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/what-im-doing-now-and-why/</guid>
       <description>
 
@@ -6986,7 +6988,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Unfinished Business 89: Burger in donut</title>
       <link>https://laurakalbag.com/unfinished-business-89-burger-in-a-donut/</link>
       <pubDate>Mon, 13 Oct 2014 11:14:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-89-burger-in-a-donut/</guid>
       <description>
 
@@ -7052,7 +7054,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Breaking Stuff on A List Apart</title>
       <link>https://laurakalbag.com/breaking-stuff-on-a-list-apart-2/</link>
       <pubDate>Tue, 07 Oct 2014 13:57:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/breaking-stuff-on-a-list-apart-2/</guid>
       <description>&lt;p&gt;Last week &lt;a href=&#34;http://alistapart.com/column/breaking-stuff&#34;&gt;my latest column, Breaking Stuff&lt;/a&gt;, was published on A List Apart. I’m in a strange transitional period, moving from client work to fulltime at &lt;a href=&#34;https://ind.ie&#34;&gt;ind.ie&lt;/a&gt;, so I think I’ll be writing more about situations like these as time goes on.&lt;/p&gt;
 
@@ -7075,7 +7077,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>ind.ie Project Stratosphere announcement</title>
       <link>https://laurakalbag.com/indie-project-stratosphere/</link>
       <pubDate>Thu, 02 Oct 2014 14:16:15 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/indie-project-stratosphere/</guid>
       <description>&lt;p&gt;After a few months of being pretty quiet, and working towards our crowdfunding campaign, we’re finally able to reveal &lt;a href=&#34;https://ind.ie/&#34;&gt;some big stuff about ind.ie&lt;/a&gt;.&lt;/p&gt;
 
@@ -7100,7 +7102,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Speaking at Web Day at Bath Digital Festival</title>
       <link>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</link>
       <pubDate>Thu, 25 Sep 2014 14:09:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</guid>
       <description>&lt;p&gt;I’m speaking at &lt;a href=&#34;http://2014.bathdigitalfestival.com/event/web-day/&#34;&gt;Web Day at Bath Digital Festival&lt;/a&gt; on the 28th of October. Bath is great, I went to university there, and it’s full of lovely people. I’m looking forward to going back and giving a talk about accessibility. &lt;a href=&#34;https://www.eventbrite.co.uk/e/web-day-tickets-13137878749&#34;&gt;Tickets are a very reasonable £15&lt;/a&gt;, and it looks like it’ll be a very interesting day.&lt;/p&gt;
 
@@ -7121,7 +7123,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>5 reasons why you should get an office dog</title>
       <link>https://laurakalbag.com/5-reasons-why-you-should-get-an-office-dog/</link>
       <pubDate>Wed, 17 Sep 2014 09:16:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/5-reasons-why-you-should-get-an-office-dog/</guid>
       <description>
 
@@ -7151,7 +7153,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Speaking at border:none</title>
       <link>https://laurakalbag.com/speaking-at-border-none/</link>
       <pubDate>Tue, 16 Sep 2014 08:44:10 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-border-none/</guid>
       <description>&lt;p&gt;Next month I’m speaking and running a “creator unit” at border:none in Nuremberg. This is incredibly exciting as it’s an event focused around the decentralisation of the web, a topic that I care about a great deal. I’ll be talking about using considerate design and great user experiences to create genuine alternatives to the products that make money from exploiting their users’ data.&lt;/p&gt;
 
@@ -7174,7 +7176,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>dConstruct 2014</title>
       <link>https://laurakalbag.com/dconstruct-2014/</link>
       <pubDate>Mon, 08 Sep 2014 15:08:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dconstruct-2014/</guid>
       <description>
 
@@ -7221,7 +7223,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Building a diverse speaker lineup</title>
       <link>https://laurakalbag.com/building-a-diverse-speaker-lineup/</link>
       <pubDate>Tue, 02 Sep 2014 08:53:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/building-a-diverse-speaker-lineup/</guid>
       <description>&lt;p&gt;This post is so good, and so incredibly valuable, that it’s deserving of more than just a passing tweet. Julie Pagano has written about ‘&lt;a href=&#34;http://juliepagano.com/blog/2014/08/26/building-a-diverse-speaker-lineup/&#34;&gt;Building a Diverse Speaker Lineup&lt;/a&gt;.’ This should be the go-to post for conference organisers, and it should be read as soon as you’re even thinking about organising an event.&lt;/p&gt;
 
@@ -7260,7 +7262,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Unfinished Business 83: Slightly sticky bottoms</title>
       <link>https://laurakalbag.com/unfinished-business-83-slightly-sticky-bottoms/</link>
       <pubDate>Wed, 27 Aug 2014 16:04:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-83-slightly-sticky-bottoms/</guid>
       <description>&lt;p&gt;Andy is back this week and so we did a handover &lt;a href=&#34;http://unfinished.bz/83&#34;&gt;episode of Unfinished Business&lt;/a&gt;. This week we talked about our different approaches to the podcast and what’s relevant to “business”. Andy found an interesting article on the BBC website about smartphone stress, so we talked about how we handle disconnecting when we go on holiday, and in our downtime at home.&lt;/p&gt;
 
@@ -7281,7 +7283,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Give and Tell Challenge</title>
       <link>https://laurakalbag.com/give-and-tell-challenge/</link>
       <pubDate>Tue, 26 Aug 2014 14:42:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/give-and-tell-challenge/</guid>
       <description>
 
@@ -7330,7 +7332,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Indie Tech Summit videos and my talk on Universal Design</title>
       <link>https://laurakalbag.com/indie-tech-summit-videos/</link>
       <pubDate>Tue, 26 Aug 2014 11:59:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/indie-tech-summit-videos/</guid>
       <description>
 
@@ -7361,7 +7363,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Unfinished Business 81 and 82</title>
       <link>https://laurakalbag.com/unfinished-business-81-and-82/</link>
       <pubDate>Tue, 19 Aug 2014 18:57:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-81-and-82/</guid>
       <description>&lt;p&gt;I was so busy last week that I forgot to post about &lt;a href=&#34;http://unfinished.bz/81&#34;&gt;Unfinished Business episode 81: Do you have a dinosaur onesie?&lt;/a&gt; This week, Ashley and I recorded &lt;a href=&#34;http://unfinished.bz/82&#34;&gt;episode 82: Love a good pep talk&lt;/a&gt;.&lt;/p&gt;
 
@@ -7388,7 +7390,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Workplaces of Web Professionals</title>
       <link>https://laurakalbag.com/workplaces-of-web-professionals/</link>
       <pubDate>Fri, 15 Aug 2014 07:20:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/workplaces-of-web-professionals/</guid>
       <description>&lt;p&gt;This morning Martin Wolf published an interesting &lt;a href=&#34;http://martinwolf.org/2014/08/14/workplaces-of-web-professionals-part-1/&#34;&gt;blog post with photos of the “workplaces of web professionals”&lt;/a&gt;. I always wonder if people really are &lt;em&gt;that&lt;/em&gt; tidy, or if they spent a while clearing up before they took the photo.&lt;/p&gt;
 
@@ -7411,7 +7413,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Digital Arts: Designing for the unknown</title>
       <link>https://laurakalbag.com/digital-arts-designing-for-the-unknown/</link>
       <pubDate>Thu, 14 Aug 2014 15:47:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digital-arts-designing-for-the-unknown/</guid>
       <description>&lt;p&gt;Last week, Craig Grannell asked me some questions about designing for the unknown. The result was a really fantastic article called &lt;a href=&#34;http://www.digitalartsonline.co.uk/features/graphic-design/designing-for-unknown-how-design-templates-frameworks/&#34;&gt;Designing for the unknown: how to design templates and frameworks&lt;/a&gt;, and has contributions from some really smart people.&lt;/p&gt;
 
@@ -7434,7 +7436,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Desert.fm Playlist</title>
       <link>https://laurakalbag.com/desert-fm-playlist/</link>
       <pubDate>Tue, 05 Aug 2014 09:30:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/desert-fm-playlist/</guid>
       <description>&lt;p&gt;A few weeks ago I was asked to create a &lt;a href=&#34;http://www.desert.fm/laura-kalbag.html&#34;&gt;playlist of ten songs for Desert.fm&lt;/a&gt;. Nate, Bobby and Jamie sent me an email with the premise:&lt;/p&gt;
 
@@ -7465,7 +7467,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Unfinished Business 80: I wonder why he trusts us?</title>
       <link>https://laurakalbag.com/unfinished-business-80/</link>
       <pubDate>Mon, 04 Aug 2014 09:47:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-80/</guid>
       <description>&lt;p&gt;Andy Clarke is on holiday for three weeks and has handed over the &lt;a href=&#34;http://unfinished.bz/&#34;&gt;Unfinished Business&lt;/a&gt; reins to &lt;a href=&#34;http://insurancebyjack.co.uk/&#34;&gt;Ashley Baxter&lt;/a&gt; and I. &lt;a href=&#34;http://unfinished.bz/80&#34;&gt;This week’s episode&lt;/a&gt; is all about business insurance for freelancers and small businesses. We talked about public liability, professional indemnity, business contents and copyright infringement. It was great because I got to ask Ashley loads of questions I forgot to ask when she was helping me get insured!&lt;/p&gt;
 
@@ -7488,7 +7490,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Digital Arts: The future of web design</title>
       <link>https://laurakalbag.com/digital-arts-the-future-of-web-design/</link>
       <pubDate>Fri, 01 Aug 2014 13:16:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digital-arts-the-future-of-web-design/</guid>
       <description>&lt;p&gt;Over the next few days I’m catching up on things I failed to share in recent months. It’s been a very busy few months, but I still like to have a record of what I did and where I’ve been!&lt;/p&gt;
 
@@ -7511,7 +7513,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>I Don’t Like It on A List Apart</title>
       <link>https://laurakalbag.com/i-dont-like-it-on-a-list-apart/</link>
       <pubDate>Thu, 31 Jul 2014 15:52:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/i-dont-like-it-on-a-list-apart/</guid>
       <description>&lt;p&gt;Heh. That’s a misleading title! I’ve been on holiday, so I’m late to posting this update. Just over a week ago, &lt;a href=&#34;http://alistapart.com/column/i-dont-like-it&#34;&gt;my most recent column, I Don’t Like It&lt;/a&gt;, was posted on A List Apart. I’d heard some designers discussing their clients in less-than-favourable terms. This kind of behaviour makes me cross. It’s the &lt;a href=&#34;http://clientsfromhell.net/&#34;&gt;Clients From Hell&lt;/a&gt; attitude that poor communication is a client’s fault, when &lt;a href=&#34;http://alistapart.com/column/good-designers-good-clients&#34; title=&#34;Column on Good Designers, Good Clients&#34;&gt;it’s more often a designer’s fault&lt;/a&gt;. It might be easier to talk about these situations in the abstract than give solid advice on how to behave better. So I gave it a try, with some example interactions in my column.&lt;/p&gt;
 
@@ -7532,7 +7534,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Discount code for WXG 2014 in Guildford</title>
       <link>https://laurakalbag.com/discount-code-for-wxg-2014/</link>
       <pubDate>Tue, 29 Jul 2014 10:25:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/discount-code-for-wxg-2014/</guid>
       <description>&lt;p&gt;You might have seen that I’m speaking at WXG in Guildford in September. If you didn’t already get a ticket, you might want to use my discount code of &lt;strong&gt;kalbagWXG&lt;/strong&gt; to get £10 off the (already very affordable £99) ticket price.&lt;/p&gt;
 
@@ -7555,7 +7557,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Accessibility en France</title>
       <link>https://laurakalbag.com/accessibility-en-france/</link>
       <pubDate>Sat, 14 Jun 2014 11:19:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/accessibility-en-france/</guid>
       <description>
 
@@ -7688,7 +7690,7 @@ Thanks.&lt;/p&gt; &lt;/div&gt;
       <title>Unfinished Business 72: Big Bad Boy Breakfast Bap</title>
       <link>https://laurakalbag.com/unfinished-business-72/</link>
       <pubDate>Mon, 09 Jun 2014 16:02:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-72/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://unfinished.bz/72&#34;&gt;This week’s episode of Unfinished Business&lt;/a&gt; was great fun to record. After &lt;a href=&#34;https://laurakalbag.com/indie-phone/&#34; title=&#34;Becoming part of Indie Phone&#34;&gt;my recent move to working on Indie Phone&lt;/a&gt;, alongside my boyfriend Aral Balkan, I was curious to know how Andy and Sue have worked so well together since the beginning of Stuff and Nonsense.&lt;/p&gt;
 
@@ -7711,7 +7713,7 @@ Thanks.&lt;/p&gt; &lt;/div&gt;
       <title>And I accidentally became a control freak…</title>
       <link>https://laurakalbag.com/junes-pastry-box-thought-on-being-a-control-freak/</link>
       <pubDate>Thu, 05 Jun 2014 08:28:36 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/junes-pastry-box-thought-on-being-a-control-freak/</guid>
       <description>&lt;p&gt;Following on from &lt;a href=&#34;https://laurakalbag.com/indie-phone/&#34; title=&#34;Becoming part of Indie Phone&#34;&gt;my post yesterday about working with Indie Phone for 50% of my time&lt;/a&gt;, &lt;a href=&#34;https://the-pastry-box-project.net/laura-kalbag/2014-June-5&#34;&gt;my thought on the Pastry Box today is about how I accidentally became a control freak&lt;/a&gt;. It’s hard to admit the flaws you find in yourself, but I’m so determined to do a good job that I think it’s better to find those flaws and try to fix them!&lt;/p&gt;
 
@@ -7732,7 +7734,7 @@ Thanks.&lt;/p&gt; &lt;/div&gt;
       <title>Becoming part of Indie Phone</title>
       <link>https://laurakalbag.com/indie-phone/</link>
       <pubDate>Wed, 04 Jun 2014 08:36:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/indie-phone/</guid>
       <description>
 
@@ -7823,7 +7825,7 @@ Thanks.&lt;/p&gt; &lt;/div&gt;
       <title>How to get started with public speaking</title>
       <link>https://laurakalbag.com/how-to-get-started-with-public-speaking/</link>
       <pubDate>Wed, 21 May 2014 14:59:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/how-to-get-started-with-public-speaking/</guid>
       <description>&lt;p&gt;Last week, the wonderful &lt;a href=&#34;http://twitter.com/iamashley&#34;&gt;Ashley Baxter&lt;/a&gt; asked me about how I got into public speaking. Ashley asked a few cool people, and published their &lt;a href=&#34;http://insurancebyjack.co.uk/business-and-marketing/2014/05/20/how-to-get-started-with-public-speaking.html&#34;&gt;public speaking stories on the Insurance By Jack blog&lt;/a&gt;.&lt;/p&gt;
 
@@ -7846,7 +7848,7 @@ Thanks.&lt;/p&gt; &lt;/div&gt;
       <title>Why accessibility matters to me #GAAD</title>
       <link>https://laurakalbag.com/why-accessibility-matters-to-me/</link>
       <pubDate>Thu, 15 May 2014 10:14:06 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/why-accessibility-matters-to-me/</guid>
       <description>
 
@@ -7872,7 +7874,7 @@ Thanks.&lt;/p&gt; &lt;/div&gt;
       <title>A look inside a designer’s sketchbook</title>
       <link>https://laurakalbag.com/a-look-inside-a-designers-sketchbook/</link>
       <pubDate>Thu, 08 May 2014 10:52:20 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-look-inside-a-designers-sketchbook/</guid>
       <description>
 
@@ -8047,7 +8049,7 @@ Again, thanks for sharing this, Laura! :)&lt;/p&gt;   &lt;/div&gt;
       <title>April’s Pastry Box thought on writing</title>
       <link>https://laurakalbag.com/marchs-pastry-box-thought-on-writing/</link>
       <pubDate>Tue, 06 May 2014 09:34:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/marchs-pastry-box-thought-on-writing/</guid>
       <description>&lt;p&gt;I was slow to post about&lt;a href=&#34;https://the-pastry-box-project.net/laura-kalbag/2014-april-19&#34;&gt; my April Pastry Box post&lt;/a&gt; as &lt;a href=&#34;https://laurakalbag.com/a-little-realign/&#34; title=&#34;A little realign&#34;&gt;my realign&lt;/a&gt; got in the way. It was really a little insecure thought about how my writing and thinking is improving, but I’m finding it hard.&lt;/p&gt;
 
@@ -8068,7 +8070,7 @@ Again, thanks for sharing this, Laura! :)&lt;/p&gt;   &lt;/div&gt;
       <title>A little realign</title>
       <link>https://laurakalbag.com/a-little-realign/</link>
       <pubDate>Fri, 02 May 2014 13:10:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-little-realign/</guid>
       <description>
 
@@ -8312,7 +8314,7 @@ Anyway, cheers to the realign, and keep killing it!&lt;/p&gt; &lt;/div&gt;
       <title>Unfinished Business #64</title>
       <link>https://laurakalbag.com/unfinished-business-64/</link>
       <pubDate>Tue, 15 Apr 2014 14:58:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-64/</guid>
       <description>&lt;p&gt;On Friday I was a guest on the &lt;a href=&#34;http://unfinished.bz/64&#34;&gt;Unfinished Business podcast&lt;/a&gt; again. It was a special episode as &lt;a href=&#34;http://rachelandrew.co.uk&#34;&gt;Rachel Andrew&lt;/a&gt; was also a guest (yeah, I designed her site!) I don’t like to go on about stuff like this too often, but if you’d told 21 year old me (7 years ago) that I’d be appearing on a podcast with Andy Clarke and Rachel Andrew, it would’ve blown my mind. They’re two very lovely people whose writing helped me learn about, and become so excited about, the web.&lt;/p&gt;
 
@@ -8335,7 +8337,7 @@ Anyway, cheers to the realign, and keep killing it!&lt;/p&gt; &lt;/div&gt;
       <title>Me and My Big Fat Ego on A List Apart</title>
       <link>https://laurakalbag.com/me-and-my-big-fat-ego-on-a-list-apart/</link>
       <pubDate>Thu, 03 Apr 2014 12:56:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/me-and-my-big-fat-ego-on-a-list-apart/</guid>
       <description>&lt;p&gt;Today &lt;a href=&#34;http://alistapart.com/column/me-and-my-big-fat-ego&#34;&gt;my column on Me and My Big Fat Ego&lt;/a&gt; was published on A List Apart. It’s not that I’d say I have a huge ego, but it’s definitely something that’s easily bruised when I feel like things aren’t going my way.&lt;/p&gt;
 
@@ -8356,7 +8358,7 @@ Anyway, cheers to the realign, and keep killing it!&lt;/p&gt; &lt;/div&gt;
       <title>Speaking at KiwiParty in Strasbourg</title>
       <link>https://laurakalbag.com/speaking-at-kiwiparty/</link>
       <pubDate>Thu, 27 Mar 2014 07:50:21 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-kiwiparty/</guid>
       <description>
 
@@ -8403,7 +8405,7 @@ See you on the 13th of June.
       <title>Unfinished Business #61</title>
       <link>https://laurakalbag.com/unfinished-business-61/</link>
       <pubDate>Tue, 25 Mar 2014 10:52:12 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-61/</guid>
       <description>&lt;p&gt;Last weekend I was a guest on the &lt;a href=&#34;http://unfinished.bz/61&#34;&gt;Unfinished Business podcast&lt;/a&gt; again. I had a lovely time chatting to Andy about speaking at conferences, working for free and I even managed to squeeze in a rant about accessibility.&lt;/p&gt;
 
@@ -8424,7 +8426,7 @@ See you on the 13th of June.
       <title>Inspiration on A List Apart</title>
       <link>https://laurakalbag.com/inspiration-on-a-list-apart/</link>
       <pubDate>Mon, 24 Mar 2014 10:37:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/inspiration-on-a-list-apart/</guid>
       <description>&lt;p&gt;Last week my column on Inspiration was published on A List Apart. It follows roughly the same structure as &lt;a href=&#34;https://speakerdeck.com/laurakalbag/inspiration&#34; title=&#34;slides from my talk at Design + Banter&#34;&gt;the talk&lt;/a&gt; I gave at &lt;a href=&#34;http://designandbanter.com&#34;&gt;Design + Banter&lt;/a&gt; a few weeks ago.&lt;/p&gt;
 
@@ -8445,7 +8447,7 @@ See you on the 13th of June.
       <title>Video interview for Interlink conference</title>
       <link>https://laurakalbag.com/video-interview-for-interlink-conference/</link>
       <pubDate>Thu, 13 Mar 2014 17:47:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/video-interview-for-interlink-conference/</guid>
       <description>&lt;p&gt;&lt;em&gt;Sadly, &lt;a href=&#34;http://interlinkconference.com&amp;quot; title=&amp;quot;The End of Interlink&#34;&gt;Interlink conference has been cancelled&lt;/a&gt;. I’m gutted that I won’t be visiting Canada this year, but I totally understand how difficult it is to run a conference, especially if you’re trying to put on the best possible event for your attendees and speakers.&lt;/em&gt;&lt;/p&gt;
 
@@ -8472,7 +8474,7 @@ See you on the 13th of June.
       <title>March’s Pastry Box thought on purpose</title>
       <link>https://laurakalbag.com/pastry-box-march/</link>
       <pubDate>Tue, 11 Mar 2014 17:46:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/pastry-box-march/</guid>
       <description>&lt;p&gt;Today &lt;a href=&#34;https://the-pastry-box-project.net/laura-kalbag/2014-march-11&#34;&gt;my thought for March was posted on The Pastry Box&lt;/a&gt;. It was inspired by &lt;a href=&#34;http://firstthingsfirst2014.org&#34;&gt;First Things First 2014&lt;/a&gt;, talks by &lt;a href=&#34;http://twitter.com/cole_peters&#34;&gt;Cole Peters&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/takete&#34;&gt;Nicklas de León Persson&lt;/a&gt; at &lt;a href=&#34;http://designandbanter.com&#34;&gt;Design and Banter&lt;/a&gt;, and &lt;a href=&#34;http://fictivekin.com/purpose&#34;&gt;Fictive Kin&lt;/a&gt;‘s &lt;a href=&#34;http://slashpurpose.org&#34;&gt;slashpurpose.org&lt;/a&gt;.&lt;/p&gt;
 
@@ -8495,7 +8497,7 @@ See you on the 13th of June.
       <title>Speaking at WXG 2014 in Guildford</title>
       <link>https://laurakalbag.com/speaking-at-wxg-2014-in-guildford/</link>
       <pubDate>Mon, 10 Mar 2014 10:52:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-wxg-2014-in-guildford/</guid>
       <description>&lt;p&gt;I’m speaking at &lt;a href=&#34;http://wxg.co.uk/#speakers&#34;&gt;WXG 2014 in Guildford&lt;/a&gt; in September. This is exciting for me because I attended the first ever WXG a couple of years ago, and it’s about as local as a conference is going to get to my hometown, Reigate.&lt;/p&gt;
 
@@ -8520,7 +8522,7 @@ See you on the 13th of June.
       <title>Guest on A Bit More Backendy podcast</title>
       <link>https://laurakalbag.com/a-bit-more-backendy/</link>
       <pubDate>Fri, 07 Mar 2014 12:04:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-bit-more-backendy/</guid>
       <description>&lt;p&gt;Yesterday the &lt;a href=&#34;http://backendy.com/2014/03/4-laura-kalbag/&#34;&gt;fourth episode of the Backendy podcast&lt;/a&gt; was released, and I was the guest. It was lovely talking to Darren, partly because he’s been a great client for a while now, partly because I’ve been working on the podcast logo and site, and also because I think a podcast focusing on back-end development is a really good idea.&lt;/p&gt;
 
@@ -8541,7 +8543,7 @@ See you on the 13th of June.
       <title>Design theory for the web workshop at Interlink conference</title>
       <link>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</link>
       <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</guid>
       <description>
 
@@ -8606,7 +8608,7 @@ See you on the 13th of June.
       <title>Delivery Logistics on A List Apart</title>
       <link>https://laurakalbag.com/delivery-logistics-on-a-list-apart/</link>
       <pubDate>Thu, 27 Feb 2014 15:25:44 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/delivery-logistics-on-a-list-apart/</guid>
       <description>&lt;p&gt;There’s nothing wrong with sending a client a rough sketch if that’s all that’s needed to communicate your idea. In &lt;a href=&#34;http://alistapart.com/column/delivery-logistics&#34;&gt;my latest column on A List Apart&lt;/a&gt;, I’ve written about deliverables and why what the client expects isn’t always the right thing to do…&lt;/p&gt;
 
@@ -8627,7 +8629,7 @@ See you on the 13th of June.
       <title>Speaking at Design &#43; Banter</title>
       <link>https://laurakalbag.com/speaking-at-design-and-banter/</link>
       <pubDate>Wed, 26 Feb 2014 12:07:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-design-and-banter/</guid>
       <description>&lt;p&gt;I’m speaking at &lt;a href=&#34;http://designandbanter.com&#34;&gt;Design + Banter&lt;/a&gt; on Monday in London. It’s already sold out, but there’s a waiting list available for the free tickets.&lt;/p&gt;
 
@@ -8650,7 +8652,7 @@ See you on the 13th of June.
       <title>Interview about web fonts on Type Quest</title>
       <link>https://laurakalbag.com/interview-about-web-fonts-on-type-quest/</link>
       <pubDate>Tue, 25 Feb 2014 11:17:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/interview-about-web-fonts-on-type-quest/</guid>
       <description>
 
@@ -8691,7 +8693,7 @@ See you on the 13th of June.
       <title>Speaking at Interlink conference in Toronto</title>
       <link>https://laurakalbag.com/speaking-at-interlink-conference-in-toronto/</link>
       <pubDate>Mon, 03 Feb 2014 11:34:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-interlink-conference-in-toronto/</guid>
       <description>
 
@@ -8734,7 +8736,7 @@ See you on the 13th of June.
       <title>Sketch of the day</title>
       <link>https://laurakalbag.com/sketch-of-the-day/</link>
       <pubDate>Fri, 31 Jan 2014 10:08:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/sketch-of-the-day/</guid>
       <description>&lt;p&gt;A strange thing has happened in the last week. I’ve been a bit blue, but I’ve really got into my &lt;a href=&#34;http://www.amazon.co.uk/dp/0811875342&#34;&gt;One Sketch A Day book&lt;/a&gt;. This was a lovely little book that &lt;a href=&#34;https://twitter.com/missrachilli&#34;&gt;Rachel Shillcock&lt;/a&gt; sent me.&lt;/p&gt;
 
@@ -8927,7 +8929,7 @@ See you on the 13th of June.
       <title>Unfinished Business #54</title>
       <link>https://laurakalbag.com/unfinished-business-54/</link>
       <pubDate>Sun, 26 Jan 2014 18:59:34 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-54/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;http://unfinished.bz/54&#34;&gt;latest Unfinished Business podcast&lt;/a&gt; has just been published, and I’m on it again! I had a lovely time talking to Andy about scheduling projects, invoicing, rates and people who don’t understand copyright.&lt;/p&gt;
 
@@ -8950,7 +8952,7 @@ See you on the 13th of June.
       <title>Industry mentoring on Creative Bloq</title>
       <link>https://laurakalbag.com/industry-mentoring-on-creative-bloq/</link>
       <pubDate>Thu, 23 Jan 2014 14:06:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/industry-mentoring-on-creative-bloq/</guid>
       <description>&lt;p&gt;Craig Grannell has written &lt;a href=&#34;http://www.creativebloq.com/netmag/why-industry-mentoring-utterly-invaluable-11410363&#34;&gt;a fantastic article on Creative Bloq about mentoring&lt;/a&gt;, looking at loads of different ways the web industry can do mentoring well. Including interviews with Clare Sutcliffe, Greg Hoy, Jeffery Zeldman, Andy Budd, Josh Emerson, Andy Budd, Anna Debenham and me!&lt;/p&gt;
 
@@ -8973,7 +8975,7 @@ See you on the 13th of June.
       <title>Speaking at DotYork</title>
       <link>https://laurakalbag.com/speaking-at-dotyork/</link>
       <pubDate>Mon, 20 Jan 2014 18:06:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-dotyork/</guid>
       <description>
 
@@ -9014,7 +9016,7 @@ See you on the 13th of June.
       <title>Interview with Heart Internet</title>
       <link>https://laurakalbag.com/interview-with-heart-internet/</link>
       <pubDate>Fri, 17 Jan 2014 15:12:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/interview-with-heart-internet/</guid>
       <description>&lt;p&gt;Yesterday, Heart Internet posted &lt;a href=&#34;http://www.heartinternet.co.uk/blog/article/interview-with-web-accessibility-champion-laura-kalbag&#34;&gt;an interview with me&lt;/a&gt; on their site. They start off saying some very kind things about me, and then it covers accessibility, design, speaking at conferences and a bit of client work. As a bonus, it’s interspersed with photos of me pulling weird faces at conferences (and being business on the phone!)&lt;/p&gt;
 
@@ -9035,7 +9037,7 @@ See you on the 13th of June.
       <title>Writing on The Pastry Box and my first post on ethics</title>
       <link>https://laurakalbag.com/writing-on-the-pastry-box/</link>
       <pubDate>Sat, 11 Jan 2014 11:06:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/writing-on-the-pastry-box/</guid>
       <description>
 
@@ -9066,7 +9068,7 @@ See you on the 13th of June.
       <title>I love this pen</title>
       <link>https://laurakalbag.com/i-love-this-pen/</link>
       <pubDate>Tue, 07 Jan 2014 09:25:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/i-love-this-pen/</guid>
       <description>
 
@@ -9162,7 +9164,7 @@ The Pen’s store link was in your article -&amp;gt; [http://www.bureaudirect.co
       <title>Speaking at 12 Devs of Winter</title>
       <link>https://laurakalbag.com/speaking-at-12-devs-of-winter/</link>
       <pubDate>Mon, 06 Jan 2014 21:17:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-12-devs-of-winter/</guid>
       <description>
 
@@ -9203,7 +9205,7 @@ The Pen’s store link was in your article -&amp;gt; [http://www.bureaudirect.co
       <title>My 2013</title>
       <link>https://laurakalbag.com/my-2013/</link>
       <pubDate>Tue, 31 Dec 2013 17:14:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2013/</guid>
       <description>
 
@@ -9548,7 +9550,7 @@ The Pen’s store link was in your article -&amp;gt; [http://www.bureaudirect.co
       <title>Interview on Workspiration</title>
       <link>https://laurakalbag.com/interview-on-workspiration/</link>
       <pubDate>Wed, 18 Dec 2013 11:59:17 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/interview-on-workspiration/</guid>
       <description>&lt;p&gt;A few weeks ago &lt;a href=&#34;http://workspiration.org/laura-kalbag&#34;&gt;I answered some questions&lt;/a&gt; for &lt;a href=&#34;http://workspiration.org&#34;&gt;Workspiration&lt;/a&gt; on my hardware and software setup, inspiration and dreams.&lt;/p&gt;
 
@@ -9571,7 +9573,7 @@ The Pen’s store link was in your article -&amp;gt; [http://www.bureaudirect.co
       <title>Why Bother With Accessibility? on 24ways</title>
       <link>https://laurakalbag.com/why-bother-with-accessibility-on-24ways/</link>
       <pubDate>Tue, 10 Dec 2013 09:45:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/why-bother-with-accessibility-on-24ways/</guid>
       <description>
 
@@ -9599,7 +9601,7 @@ The Pen’s store link was in your article -&amp;gt; [http://www.bureaudirect.co
       <title>Guest on Beyond Ink podcast</title>
       <link>https://laurakalbag.com/guest-on-beyond-ink-podcast/</link>
       <pubDate>Tue, 03 Dec 2013 09:06:12 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/guest-on-beyond-ink-podcast/</guid>
       <description>&lt;p&gt;Yesterday the &lt;a href=&#34;http://www.beyondink.co.uk/shows/01-laura-and-simon&#34;&gt;first episode&lt;/a&gt; of &lt;a href=&#34;http://www.beyondink.co.uk&#34;&gt;the Beyond Ink podcast&lt;/a&gt; went live. This was a podcast that Rachel had in the works for a while, and we first recorded together a few months ago. Last week we re-recorded that episode, so everything was up-to-date, and I had a fancy new microphone so I didn’t sound as terrible as I did &lt;a href=&#34;https://laurakalbag.com/unfinished-business-44/&#34; title=&#34;Unfinished Business #44&#34;&gt;on the last Unfinished Business&lt;/a&gt;.&lt;/p&gt;
 
@@ -9622,7 +9624,7 @@ The Pen’s store link was in your article -&amp;gt; [http://www.bureaudirect.co
       <title>Speaking at MKGN this Thursday</title>
       <link>https://laurakalbag.com/speaking-at-mkgn/</link>
       <pubDate>Mon, 02 Dec 2013 10:57:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-mkgn/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://mkgeeknight.co.uk&#34;&gt;This Thursday I’m speaking at Milton Keynes Geek Night&lt;/a&gt;. Tickets sold out terrifyingly quickly, but I put that down to MKGN always being a great event.&lt;/p&gt;
 
@@ -9643,7 +9645,7 @@ The Pen’s store link was in your article -&amp;gt; [http://www.bureaudirect.co
       <title>Unfinished Business #44</title>
       <link>https://laurakalbag.com/unfinished-business-44/</link>
       <pubDate>Tue, 12 Nov 2013 18:22:41 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/unfinished-business-44/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://unfinished.bz/44&#34;&gt;Last week I was on Unfinished Business again&lt;/a&gt;! Andy and I talked about hosting workshops, business names and how to make a good impression via email. My audio is pretty awful, and I’m sorry for that. I tried to be all clever with my headset, but ended up sounding very small and faraway…&lt;/p&gt;
 
@@ -9666,7 +9668,7 @@ The Pen’s store link was in your article -&amp;gt; [http://www.bureaudirect.co
       <title>Including “ask me anything” in my contract</title>
       <link>https://laurakalbag.com/including-ask-me-anything-in-my-contract/</link>
       <pubDate>Mon, 04 Nov 2013 10:14:44 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/including-ask-me-anything-in-my-contract/</guid>
       <description>
 
@@ -9720,7 +9722,7 @@ Your &lt;i&gt;Ask Me Anything&lt;/i&gt; paragraph has such a friendly tone, much
       <title>Interviewed by The Learning People</title>
       <link>https://laurakalbag.com/interviewed-by-the-learning-people/</link>
       <pubDate>Thu, 31 Oct 2013 10:51:06 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/interviewed-by-the-learning-people/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.learningpeople.co.uk/blog/blog-posts/finding-your-inspiration-an-interview-with-web-designer-laura-kalbag&#34;&gt;The Learning People have posted an interview they did with me&lt;/a&gt; about women in the technology sector, working for myself, and what inspires me.&lt;/p&gt;
 
@@ -9741,7 +9743,7 @@ Your &lt;i&gt;Ask Me Anything&lt;/i&gt; paragraph has such a friendly tone, much
       <title>Talking about building with Typecast</title>
       <link>https://laurakalbag.com/talking-about-building-with-typecast/</link>
       <pubDate>Thu, 24 Oct 2013 09:03:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/talking-about-building-with-typecast/</guid>
       <description>&lt;p&gt;Last November at Build conference 2012, I had fun talking to some of the folks from Typecast about building, web design, responsive design and type. They recorded these videos (along with a load of lovely, smart and cool people!) and &lt;a href=&#34;http://typecast.com/build&#34;&gt;made a nice collection that you can watch on their website&lt;/a&gt;.&lt;/p&gt;
 
@@ -9764,7 +9766,7 @@ Your &lt;i&gt;Ask Me Anything&lt;/i&gt; paragraph has such a friendly tone, much
       <title>My Secret is Honesty talk video</title>
       <link>https://laurakalbag.com/my-secret-is-honesty-talk-video/</link>
       <pubDate>Mon, 21 Oct 2013 18:59:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-secret-is-honesty-talk-video/</guid>
       <description>&lt;p&gt;The lovely people at &lt;a href=&#34;http://2013.dareconf.com&#34;&gt;Dare conference&lt;/a&gt; have released &lt;a href=&#34;http://2013.dareconf.com/videos/kalbag&#34;&gt;the video of my talk, My Secret is Honesty&lt;/a&gt;. It’s pretty much a longer, talk-version of &lt;a href=&#34;http://alistapart.com/column/open-for-business&#34;&gt;my latest column on A List Apart, “Open for Business.”&lt;/a&gt;&lt;/p&gt;
 
@@ -9787,7 +9789,7 @@ Your &lt;i&gt;Ask Me Anything&lt;/i&gt; paragraph has such a friendly tone, much
       <title>Open for Business on A List Apart</title>
       <link>https://laurakalbag.com/open-for-business/</link>
       <pubDate>Thu, 17 Oct 2013 14:04:33 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/open-for-business/</guid>
       <description>
 
@@ -9826,7 +9828,7 @@ Your &lt;i&gt;Ask Me Anything&lt;/i&gt; paragraph has such a friendly tone, much
       <title>I also pledge to be better</title>
       <link>https://laurakalbag.com/i-also-pledge-to-be-better/</link>
       <pubDate>Thu, 17 Oct 2013 07:28:18 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/i-also-pledge-to-be-better/</guid>
       <description>
 
@@ -9876,7 +9878,7 @@ Your &lt;i&gt;Ask Me Anything&lt;/i&gt; paragraph has such a friendly tone, much
       <title>Speaking at MobX Conference in Berlin</title>
       <link>https://laurakalbag.com/speaking-at-mobx-conference-in-berlin/</link>
       <pubDate>Thu, 05 Sep 2013 17:05:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-mobx-conference-in-berlin/</guid>
       <description>
 
@@ -9918,7 +9920,7 @@ Cheers, Anna&lt;/p&gt;    &lt;/div&gt;
       <title>A List Apart column and first post on Good Designers, Good Clients</title>
       <link>https://laurakalbag.com/a-list-apart-column/</link>
       <pubDate>Fri, 30 Aug 2013 09:00:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-list-apart-column/</guid>
       <description>&lt;p&gt;This week the &lt;a href=&#34;http://alistapart.com/column/good-designers-good-clients&#34;&gt;first post was published on my A List Apart column&lt;/a&gt;. It’s a very exciting thing for me. I’ve been reading A List Apart since I started learning about the web and loads of people I admire have written there.&lt;/p&gt;
 
@@ -9941,7 +9943,7 @@ Cheers, Anna&lt;/p&gt;    &lt;/div&gt;
       <title>No more Red Bull</title>
       <link>https://laurakalbag.com/no-more-red-bull/</link>
       <pubDate>Tue, 27 Aug 2013 09:00:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/no-more-red-bull/</guid>
       <description>
 
@@ -9997,7 +9999,7 @@ PS Sorry I just came around now to posting here, so late after your publication
       <title>Guest on Happy Monday Podcast</title>
       <link>https://laurakalbag.com/guest-on-happy-monday-podcast/</link>
       <pubDate>Mon, 19 Aug 2013 08:26:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/guest-on-happy-monday-podcast/</guid>
       <description>&lt;p&gt;Last Friday I was a guest for today’s &lt;a href=&#34;http://www.happymondaypodcast.com/episodes/laura-kalbag&#34;&gt;Happy Monday podcast&lt;/a&gt;. It was great fun chatting with Josh and Sarah about design, client work and inspiration.&lt;/p&gt;
 
@@ -10018,7 +10020,7 @@ PS Sorry I just came around now to posting here, so late after your publication
       <title>Design theory for the web, a workshop</title>
       <link>https://laurakalbag.com/design-theory-for-the-web-workshop/</link>
       <pubDate>Mon, 12 Aug 2013 10:18:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-theory-for-the-web-workshop/</guid>
       <description>
 
@@ -10092,7 +10094,7 @@ It’s absolutely aimed at developers and beginners who are new to designing for
       <title>Podcast interview with Jonathan Kahn</title>
       <link>https://laurakalbag.com/podcast-interview-with-jonathan-kahn/</link>
       <pubDate>Fri, 09 Aug 2013 08:52:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/podcast-interview-with-jonathan-kahn/</guid>
       <description>&lt;p&gt;Ahead of &lt;a href=&#34;https://laurakalbag.com/speaking-at-dare-conference/&#34; title=&#34;Speaking at Dare conference&#34;&gt;speaking at Dare conference&lt;/a&gt; this September, &lt;a href=&#34;http://lucidplot.com/2013/08/05/kalbag-podcast/&#34;&gt;I was interviewed by Jonathan Kahn&lt;/a&gt;, one of Dare’s organisers, about being honest, client relationships and mentoring in the web industry.&lt;/p&gt;
 
@@ -10115,7 +10117,7 @@ It’s absolutely aimed at developers and beginners who are new to designing for
       <title>Browser windows and responsive language</title>
       <link>https://laurakalbag.com/browser-windows/</link>
       <pubDate>Thu, 08 Aug 2013 18:59:17 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/browser-windows/</guid>
       <description>
 
@@ -10169,7 +10171,7 @@ Great post, referring to the browser when talking about RWD makes a lot of sense
       <title>Sass for designers — the talk and the case study</title>
       <link>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</link>
       <pubDate>Fri, 26 Jul 2013 09:00:10 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</guid>
       <description>
 
@@ -10213,7 +10215,7 @@ So many great tools out there at the moment :-)
       <title>Web talk dog walk, the site</title>
       <link>https://laurakalbag.com/web-talk-dog-walk-the-site/</link>
       <pubDate>Thu, 25 Jul 2013 17:56:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/web-talk-dog-walk-the-site/</guid>
       <description>
 
@@ -10254,7 +10256,7 @@ So many great tools out there at the moment :-)
       <title>Speaking at Dare conference</title>
       <link>https://laurakalbag.com/speaking-at-dare-conference/</link>
       <pubDate>Wed, 03 Jul 2013 16:49:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-dare-conference/</guid>
       <description>
 
@@ -10286,7 +10288,7 @@ So many great tools out there at the moment :-)
       <title>Fonts.com mockup fonts</title>
       <link>https://laurakalbag.com/fonts-com-mockup-fonts/</link>
       <pubDate>Tue, 02 Jul 2013 09:53:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fonts-com-mockup-fonts/</guid>
       <description>
 
@@ -10397,7 +10399,7 @@ Fonts.com&lt;/p&gt;   &lt;/div&gt;
       <title>Interview in Allan McAvoy’s Freelancers series</title>
       <link>https://laurakalbag.com/interview-in-freelancers-series/</link>
       <pubDate>Tue, 02 Jul 2013 09:00:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/interview-in-freelancers-series/</guid>
       <description>&lt;p&gt;Last week Allan McAvoy posted up &lt;a href=&#34;http://allanmcavoy.co.uk/blog/freelancers/an-interview-with-laura-kalbag&#34; title=&#34;An interview with Laura Kalbag&#34;&gt;the interview he did with me&lt;/a&gt; as part of his &lt;a href=&#34;http://allanmcavoy.co.uk/blog/category/freelancers&#34;&gt;Freelancers series&lt;/a&gt;. Some of the questions are fairly standard, but there’s also some unusual ones like “favourite colour for design” and “typical day in the life…”&lt;/p&gt;
 
@@ -10435,7 +10437,7 @@ Fonts.com&lt;/p&gt;   &lt;/div&gt;
       <title>Mentoring Q and A on .net magazine</title>
       <link>https://laurakalbag.com/mentoring-q-and-a-on-netmag/</link>
       <pubDate>Mon, 01 Jul 2013 21:19:05 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-q-and-a-on-netmag/</guid>
       <description>&lt;p&gt;After &lt;a href=&#34;https://laurakalbag.com/mentoring-the-evaluation/&#34; title=&#34;Mentoring: the evaluation&#34;&gt;finishing the mentoring project last week&lt;/a&gt;, I had a chat with Craig Grannell about mentoring which he published on the .net website: “&lt;a href=&#34;http://www.netmagazine.com/news/laura-kalbag-web-designers-should-mentor-newcomers-132847&#34; title=&#34;Laura Kalbag: web designers should mentor newcomers on .net magazine&#34;&gt;Laura Kalbag: web designers should mentor newcomers&lt;/a&gt;.”&lt;/p&gt;
 
@@ -10458,7 +10460,7 @@ Fonts.com&lt;/p&gt;   &lt;/div&gt;
       <title>Web talk dog walk II</title>
       <link>https://laurakalbag.com/web-talk-dog-walk-2/</link>
       <pubDate>Thu, 27 Jun 2013 09:29:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/web-talk-dog-walk-2/</guid>
       <description>
 
@@ -10520,7 +10522,7 @@ Fonts.com&lt;/p&gt;   &lt;/div&gt;
       <title>Mentoring: the evaluation</title>
       <link>https://laurakalbag.com/mentoring-the-evaluation/</link>
       <pubDate>Tue, 25 Jun 2013 11:11:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-the-evaluation/</guid>
       <description>
 
@@ -10659,7 +10661,7 @@ Fonts.com&lt;/p&gt;   &lt;/div&gt;
       <title>The Critters 2013</title>
       <link>https://laurakalbag.com/the-critters-2013/</link>
       <pubDate>Fri, 14 Jun 2013 19:25:35 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-critters-2013/</guid>
       <description>
 
@@ -10700,7 +10702,7 @@ Fonts.com&lt;/p&gt;   &lt;/div&gt;
       <title>Fl&amp;#42;t design trend</title>
       <link>https://laurakalbag.com/flat-design-trend/</link>
       <pubDate>Tue, 11 Jun 2013 14:41:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/flat-design-trend/</guid>
       <description>
 
@@ -10905,7 +10907,7 @@ Steve
       <title>Speaking at Untangle the Web</title>
       <link>https://laurakalbag.com/speaking-at-untangle-the-web/</link>
       <pubDate>Mon, 10 Jun 2013 11:09:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-untangle-the-web/</guid>
       <description>
 
@@ -10950,7 +10952,7 @@ Thanking ye’ :)
       <title>Web talk dog walk</title>
       <link>https://laurakalbag.com/web-talk-dog-walk/</link>
       <pubDate>Sun, 09 Jun 2013 16:13:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/web-talk-dog-walk/</guid>
       <description>
 
@@ -11021,7 +11023,7 @@ Thanking ye’ :)
       <title>Speaking at LXJS in Portugal</title>
       <link>https://laurakalbag.com/speaking-at-lxjs-in-portugal/</link>
       <pubDate>Sat, 08 Jun 2013 09:10:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-lxjs-in-portugal/</guid>
       <description>&lt;p&gt;I’m really looking forward to October, where I get to return to Portugal to speak at &lt;a href=&#34;http://2013.lxjs.org/&#34;&gt;LXJS in Lisbon&lt;/a&gt;.&lt;/p&gt;
 
@@ -11046,7 +11048,7 @@ Thanking ye’ :)
       <title>#define 2013</title>
       <link>https://laurakalbag.com/define-2013/</link>
       <pubDate>Fri, 07 Jun 2013 11:24:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/define-2013/</guid>
       <description>&lt;p&gt;Next Saturday I’m speaking at #define 2013, a “diversity in computing festival” for 11-13 year old students who wouldn’t usually consider careers in computing.&lt;/p&gt;
 
@@ -11069,7 +11071,7 @@ Thanking ye’ :)
       <title>.net awards 2013</title>
       <link>https://laurakalbag.com/netmag-awards-2013/</link>
       <pubDate>Sun, 02 Jun 2013 09:32:12 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/netmag-awards-2013/</guid>
       <description>
 
@@ -11119,7 +11121,7 @@ Thanking ye’ :)
       <title>Guest co-host on Unfinished Business II</title>
       <link>https://laurakalbag.com/guest-co-host-on-unfinished-business-ii/</link>
       <pubDate>Mon, 20 May 2013 09:07:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/guest-co-host-on-unfinished-business-ii/</guid>
       <description>
 
@@ -11159,7 +11161,7 @@ Thanking ye’ :)
       <title>Sass For Designers at CSS Summit 2013</title>
       <link>https://laurakalbag.com/css-summit-2013/</link>
       <pubDate>Thu, 09 May 2013 09:13:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/css-summit-2013/</guid>
       <description>
 
@@ -11217,7 +11219,7 @@ Big fan of you in the industry. Small thing i just noticed on your comment form 
       <title>Mentoring a project: contract and kicking off</title>
       <link>https://laurakalbag.com/mentoring-a-project-contract-and-kicking-off/</link>
       <pubDate>Tue, 07 May 2013 18:58:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-a-project-contract-and-kicking-off/</guid>
       <description>
 
@@ -11280,7 +11282,7 @@ Moreover, by using a license that permits re-use, modification, etc., you are cl
       <title>Psychology for designers</title>
       <link>https://laurakalbag.com/psychology-for-designers/</link>
       <pubDate>Mon, 15 Apr 2013 08:55:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/psychology-for-designers/</guid>
       <description>
 
@@ -11366,7 +11368,7 @@ Wow. That comment is exactly an example of why I couldn’t write a book… ;-)
       <title>Learning to speak</title>
       <link>https://laurakalbag.com/learning-to-speak/</link>
       <pubDate>Thu, 11 Apr 2013 17:46:03 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/learning-to-speak/</guid>
       <description>
 
@@ -11490,7 +11492,7 @@ If I could I would most definitely go to Aral’s workshop. I’ll never forget 
       <title>Responsive Day Out</title>
       <link>https://laurakalbag.com/responsive-day-out/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/responsive-day-out/</guid>
       <description>
 
@@ -11994,7 +11996,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>Guest co-host on Unfinished Business</title>
       <link>https://laurakalbag.com/guest-co-host-on-unfinished-business/</link>
       <pubDate>Mon, 01 Apr 2013 10:17:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/guest-co-host-on-unfinished-business/</guid>
       <description>&lt;p&gt;Last week I was guest co-host on &lt;a href=&#34;https://laurakalbag.com/why-i-love-unfinished-business/&#34; title=&#34;Why I love Unfinished Business&#34;&gt;one of my most favourite podcasts&lt;/a&gt;, &lt;a href=&#34;http://unfinished.bz/12&#34;&gt;Unfinished Business&lt;/a&gt;. It was great to ramble and rant with Andy for 90 minutes as it’s not often I get to chat for so long to another designer whose main focus is client work.&lt;/p&gt;
 
@@ -12017,7 +12019,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>Alfred App v2 theme</title>
       <link>https://laurakalbag.com/alfred-app-v2-theme/</link>
       <pubDate>Sat, 30 Mar 2013 20:09:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/alfred-app-v2-theme/</guid>
       <description>&lt;p&gt;Today I finally got around to playing with &lt;a href=&#34;http://www.alfredapp.com/&#34;&gt;Alfred v2&lt;/a&gt;. This is the one OSX app I’ll allow to open on login, I use it to launch every app and find every file. I use it to work out maths for my CSS and double-check the meanings of words I’m about to write. And it does so much more.&lt;/p&gt;
 
@@ -12051,7 +12053,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>Speaking at Breaking Borders</title>
       <link>https://laurakalbag.com/speaking-at-breaking-borders/</link>
       <pubDate>Fri, 29 Mar 2013 16:01:21 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-breaking-borders/</guid>
       <description>&lt;p&gt;Next month I’m speaking at &lt;a href=&#34;http://breakingborde.rs/&#34;&gt;Breaking Borders&lt;/a&gt;. Breaking Borders is a brand new, totally free, bi-monthly event in Reading organised by my good friend, &lt;a href=&#34;http://www.benmacgowan.co.uk/&#34;&gt;Ben MacGowan&lt;/a&gt;.&lt;/p&gt;
 
@@ -12076,7 +12078,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>Ladies In Tech</title>
       <link>https://laurakalbag.com/ladies-in-tech/</link>
       <pubDate>Tue, 26 Mar 2013 14:15:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/ladies-in-tech/</guid>
       <description>
 
@@ -12121,7 +12123,7 @@ So happy Jeremy got us in touch!! And double happy that you shared your story wi
       <title>Interviewed on The Industry</title>
       <link>https://laurakalbag.com/interviewed-on-the-industry/</link>
       <pubDate>Thu, 14 Mar 2013 07:36:06 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/interviewed-on-the-industry/</guid>
       <description>&lt;p&gt;Last week I had a chat with the lovely Conor O’Driscoll and last night he &lt;a href=&#34;http://theindustry.cc/2013/03/13/an-interview-with-laura-kalbag/&#34;&gt;published the interview on The Industry&lt;/a&gt;. We talking about design work, education and what I define as success, among other things.&lt;/p&gt;
 
@@ -12142,7 +12144,7 @@ So happy Jeremy got us in touch!! And double happy that you shared your story wi
       <title>Burnout</title>
       <link>https://laurakalbag.com/burnout/</link>
       <pubDate>Tue, 12 Mar 2013 20:41:36 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/burnout/</guid>
       <description>
 
@@ -12505,7 +12507,7 @@ Getting away from work can provide a temporary relief, but doesn’t change the 
       <title>Mentoring a project: the project</title>
       <link>https://laurakalbag.com/mentoring-the-project/</link>
       <pubDate>Mon, 04 Mar 2013 11:38:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-the-project/</guid>
       <description>
 
@@ -12585,7 +12587,7 @@ I’m really interested to follow along and see how it plays out.
       <title>Nothing to display podcast</title>
       <link>https://laurakalbag.com/nothing-to-display-podcast/</link>
       <pubDate>Sat, 02 Mar 2013 17:43:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/nothing-to-display-podcast/</guid>
       <description>&lt;p&gt;Last week I had a lovely chat with El for her &lt;a href=&#34;http://nothingtodisplay.co.uk/2013/03/02/nothing-to-display-podcast-no-3-the-web-freelance-life-mentoring-with-laura-kalbag/&#34;&gt;Nothing To Display podcast&lt;/a&gt;. We talked about technology and how people get started with technology, accessibility, mentoring and dystopian futures! It was a real treat.&lt;/p&gt;
 
@@ -12606,7 +12608,7 @@ I’m really interested to follow along and see how it plays out.
       <title>Why I love Unfinished Business</title>
       <link>https://laurakalbag.com/why-i-love-unfinished-business/</link>
       <pubDate>Mon, 25 Feb 2013 17:48:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/why-i-love-unfinished-business/</guid>
       <description>
 
@@ -12745,7 +12747,7 @@ Y&lt;/p&gt;   &lt;/div&gt;
       <title>Upfront Podcast</title>
       <link>https://laurakalbag.com/upfront-podcast/</link>
       <pubDate>Fri, 15 Feb 2013 09:06:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/upfront-podcast/</guid>
       <description>&lt;p&gt;I was a guest on &lt;a href=&#34;http://upfrontpodcast.com/2013/02/15/episode4.html&#34;&gt;the Upfront podcast with the lovely Jack Franklin and Ben Howdle&lt;/a&gt;. They got me on to talk about accessibility, but we ended up chatting about the mentoring project too! You can &lt;a href=&#34;http://upfrontpodcast.com/2013/02/15/episode4.html&#34;&gt;listen on their website&lt;/a&gt;, or &lt;a href=&#34;https://itunes.apple.com/gb/podcast/upfront-podcast/id598389212?mt=2&#34;&gt;listen and subscribe on iTunes&lt;/a&gt;.&lt;/p&gt;
 
@@ -12766,7 +12768,7 @@ Y&lt;/p&gt;   &lt;/div&gt;
       <title>Design Feast Designer’s Quest(ionnaire)</title>
       <link>https://laurakalbag.com/design-feast-designers-questionnaire/</link>
       <pubDate>Thu, 14 Feb 2013 08:51:34 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-feast-designers-questionnaire/</guid>
       <description>&lt;p&gt;Design Feast have my answers to their Designer’s Quest(ionnaire) on their site.&lt;/p&gt;
 
@@ -12797,7 +12799,7 @@ Y&lt;/p&gt;   &lt;/div&gt;
       <title>Mentoring a project: finding the right people</title>
       <link>https://laurakalbag.com/mentoring-a-project-finding-the-right-people/</link>
       <pubDate>Mon, 11 Feb 2013 10:54:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-a-project-finding-the-right-people/</guid>
       <description>
 
@@ -12947,7 +12949,7 @@ Can’t wait to see how it turns out, it’s such a nice thing to do for folks.
       <title>Using emoji in Mail.app to make better visual indicators</title>
       <link>https://laurakalbag.com/using-emoji-in-mail-app-to-make-better-visual-indicators/</link>
       <pubDate>Sun, 10 Feb 2013 15:31:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/using-emoji-in-mail-app-to-make-better-visual-indicators/</guid>
       <description>
 
@@ -13096,7 +13098,7 @@ Can’t wait to see how it turns out, it’s such a nice thing to do for folks.
       <title>The East Wing podcast</title>
       <link>https://laurakalbag.com/the-east-wing-podcast/</link>
       <pubDate>Wed, 06 Feb 2013 09:23:20 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-east-wing-podcast/</guid>
       <description>&lt;p&gt;Yesterday I was a guest on &lt;a href=&#34;http://twitter.com/ttimsmith&#34;&gt;Tim Smith&lt;/a&gt;‘s &lt;a href=&#34;http://theeastwing.net/&#34;&gt;The East Wing podcast&lt;/a&gt;. It was a pre-recorded conversation and it was great fun. You can &lt;a href=&#34;http://theeastwing.net/episodes/laura-kalbag&#34;&gt;listen to it on the East Wing website&lt;/a&gt;, and it’ll be up on iTunes soon.&lt;/p&gt;
 
@@ -13123,7 +13125,7 @@ Can’t wait to see how it turns out, it’s such a nice thing to do for folks.
       <title>Women and conferences</title>
       <link>https://laurakalbag.com/women-and-conferences/</link>
       <pubDate>Mon, 04 Feb 2013 21:39:47 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/women-and-conferences/</guid>
       <description>
 
@@ -13384,7 +13386,7 @@ Additionally, I am prepared to take one for the team, reviewing the appropriaten
       <title>Live-designing WordPress Admin Icons</title>
       <link>https://laurakalbag.com/live-designing-wordpress-admin-icons/</link>
       <pubDate>Sat, 02 Feb 2013 13:09:26 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/live-designing-wordpress-admin-icons/</guid>
       <description>
 
@@ -13469,7 +13471,7 @@ Thanks for the post! It was great to have you at WordPress London. The talk was 
       <title>Mentoring a project: the right project</title>
       <link>https://laurakalbag.com/mentoring-a-project-the-right-project/</link>
       <pubDate>Fri, 01 Feb 2013 15:59:34 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-a-project-the-right-project/</guid>
       <description>
 
@@ -13510,7 +13512,7 @@ Thanks for the post! It was great to have you at WordPress London. The talk was 
       <title>Mentoring a project: the idea</title>
       <link>https://laurakalbag.com/mentoring-a-project-the-idea/</link>
       <pubDate>Wed, 30 Jan 2013 09:31:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mentoring-a-project-the-idea/</guid>
       <description>
 
@@ -13615,7 +13617,7 @@ I tend to forget how hard-won my 10 years of accumulated web knowledge has been 
       <title>The Sharers on The Branch</title>
       <link>https://laurakalbag.com/the-sharers-on-the-branch/</link>
       <pubDate>Wed, 23 Jan 2013 09:44:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-sharers-on-the-branch/</guid>
       <description>
 
@@ -13668,7 +13670,7 @@ James
       <title>A loveletter</title>
       <link>https://laurakalbag.com/a-loveletter/</link>
       <pubDate>Tue, 15 Jan 2013 12:04:03 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-loveletter/</guid>
       <description>
 
@@ -13845,7 +13847,7 @@ Regarding efforts to subvert it, this is a great resource: [http://geekfeminism.
       <title>New To Design</title>
       <link>https://laurakalbag.com/new-to-design/</link>
       <pubDate>Thu, 03 Jan 2013 15:47:58 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/new-to-design/</guid>
       <description>&lt;p&gt;Following my &lt;a href=&#34;https://laurakalbag.com/learning-design/&#34; title=&#34;Learning Design&#34;&gt;learning design post&lt;/a&gt;, I’ve started a little project called “new to design.” At the moment it just consists of &lt;a href=&#34;https://pinboard.in/u:laurakalbag/t:learn-design/&#34;&gt;a learn-design tag on my Pinboard bookmarks&lt;/a&gt; and a &lt;a href=&#34;http://twitter.com/newtodesign&#34;&gt;Twitter account @newtodesign &lt;/a&gt;so that I can share useful design resources (especially for those new to design.)&lt;/p&gt;
 
@@ -13867,7 +13869,7 @@ Regarding efforts to subvert it, this is a great resource: [http://geekfeminism.
       <title>Grid Frameworks and why I’m not keen on them…</title>
       <link>https://laurakalbag.com/grid-frameworks/</link>
       <pubDate>Tue, 01 Jan 2013 19:01:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/grid-frameworks/</guid>
       <description>
 
@@ -13999,7 +14001,7 @@ If I’m honest, I would actually have to pay more attention if a supplier uses 
       <title>My 2012</title>
       <link>https://laurakalbag.com/my-2012/</link>
       <pubDate>Mon, 31 Dec 2012 23:12:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2012/</guid>
       <description>
 
@@ -14506,7 +14508,7 @@ Chris&lt;/p&gt;   &lt;/div&gt;
       <title>Learning Design</title>
       <link>https://laurakalbag.com/learning-design/</link>
       <pubDate>Mon, 31 Dec 2012 14:57:05 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/learning-design/</guid>
       <description>
 
@@ -14681,7 +14683,7 @@ Cheers from Canada :)&lt;/p&gt;   &lt;/div&gt;
       <title>Sass for Designers — The Setup</title>
       <link>https://laurakalbag.com/sass-for-designers-the-setup/</link>
       <pubDate>Fri, 28 Dec 2012 17:51:36 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/sass-for-designers-the-setup/</guid>
       <description>
 
@@ -14838,7 +14840,7 @@ I’ve just come across your site and really enjoyed digging around. Keep up the
       <title>Sass for Designers</title>
       <link>https://laurakalbag.com/sass-for-designers/</link>
       <pubDate>Fri, 28 Dec 2012 17:51:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/sass-for-designers/</guid>
       <description>
 
@@ -15321,7 +15323,7 @@ Mixins are best used when you need to calculate things, for instance I use this 
       <title>We read with our own contexts</title>
       <link>https://laurakalbag.com/we-read-with-our-own-contexts/</link>
       <pubDate>Tue, 18 Dec 2012 14:40:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/we-read-with-our-own-contexts/</guid>
       <description>
 
@@ -15465,7 +15467,7 @@ Also, I think you provide a good example of some of what I don’t like about Tw
       <title>Speaking at the WordPress London January meetup</title>
       <link>https://laurakalbag.com/speaking-at-the-wordpress-london-january-meetup/</link>
       <pubDate>Mon, 17 Dec 2012 11:56:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-the-wordpress-london-january-meetup/</guid>
       <description>
 
@@ -15502,7 +15504,7 @@ Also, I think you provide a good example of some of what I don’t like about Tw
       <title>24 Ways: Design Systems</title>
       <link>https://laurakalbag.com/24-ways-design-systems/</link>
       <pubDate>Wed, 12 Dec 2012 10:45:08 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/24-ways-design-systems/</guid>
       <description>&lt;p&gt;I’ve been thinking a lot about the design in ‘responsive’ design lately. &lt;a href=&#34;http://24ways.org/2012/design-systems/&#34;&gt;My post on 24ways&lt;/a&gt; is where I started to get some of my thoughts and ideas out. Here I talk about design systems and how thinking in this way, and basing our processes around this concept, can help us create more flexible future-proof responsive designs.&lt;/p&gt;
 </description>
@@ -15512,7 +15514,7 @@ Also, I think you provide a good example of some of what I don’t like about Tw
       <title>Bardowl: The Big One</title>
       <link>https://laurakalbag.com/bardowl-the-big-one/</link>
       <pubDate>Mon, 10 Dec 2012 21:23:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/bardowl-the-big-one/</guid>
       <description>
 
@@ -15598,7 +15600,7 @@ Ola&lt;/p&gt; &lt;/div&gt;
       <title>Reinvention and Building Ourselves — Build 2012</title>
       <link>https://laurakalbag.com/reinvention-and-building-ourselves-build-2012/</link>
       <pubDate>Wed, 05 Dec 2012 18:10:23 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/reinvention-and-building-ourselves-build-2012/</guid>
       <description>&lt;p&gt;I’ve posted a &lt;a href=&#34;http://www.ubelly.com/2012/12/reinvention-and-building-ourselves-build-2012/&#34;&gt;writeup of Build conference 2012 on ubelly&lt;/a&gt;.&lt;/p&gt;
 
@@ -15610,7 +15612,7 @@ Ola&lt;/p&gt; &lt;/div&gt;
       <title>Insites Xmas Special—Integrity and Polarity</title>
       <link>https://laurakalbag.com/insites-xmas-special-integrity-and-polarity/</link>
       <pubDate>Tue, 04 Dec 2012 08:45:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/insites-xmas-special-integrity-and-polarity/</guid>
       <description>
 
@@ -15662,7 +15664,7 @@ It can be really difficult when you’re surrounded by people that consider a jo
       <title>display: none;</title>
       <link>https://laurakalbag.com/display-none/</link>
       <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/display-none/</guid>
       <description>
 
@@ -16264,7 +16266,7 @@ I bet most people feel the same way, so don’t worry. I’ve been designing &am
       <title>SMACSS –; Scalable and Modular Architecture for CSS</title>
       <link>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</link>
       <pubDate>Wed, 31 Oct 2012 08:45:52 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</guid>
       <description>
 
@@ -16442,7 +16444,7 @@ no, you’re not! great shoptalkshop btw. keep it up!&lt;/p&gt; &lt;/div&gt;
       <title>My favourite apps—fit for purpose</title>
       <link>https://laurakalbag.com/my-favourite-apps-fit-for-purpose/</link>
       <pubDate>Thu, 25 Oct 2012 16:37:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-favourite-apps-fit-for-purpose/</guid>
       <description>
 
@@ -16770,7 +16772,7 @@ I would like to thank you for mentioning Sketch, though. Looks promising, keeps 
       <title>CreativeJS for non-coders workshop with Seb Lee-Delisle</title>
       <link>https://laurakalbag.com/creativejs-for-non-coders/</link>
       <pubDate>Sat, 20 Oct 2012 13:11:08 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/creativejs-for-non-coders/</guid>
       <description>
 
@@ -16869,7 +16871,7 @@ Thanks for posting this. I feel less alone seeing someone like you going through
       <title>Grids, flexibility and responsiveness</title>
       <link>https://laurakalbag.com/grids-flexibility-and-responsiveness/</link>
       <pubDate>Fri, 12 Oct 2012 21:39:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/grids-flexibility-and-responsiveness/</guid>
       <description>
 
@@ -17305,7 +17307,7 @@ I really like the design of you site, so simple and beautiful.&lt;/p&gt;  &lt;/d
       <title>Really, a redesign? This can’t be real…</title>
       <link>https://laurakalbag.com/really-a-redesign-this-cant-be-real/</link>
       <pubDate>Tue, 09 Oct 2012 07:00:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/really-a-redesign-this-cant-be-real/</guid>
       <description>
 
@@ -17487,7 +17489,7 @@ PS: what’s with the favicon, are there tiny hands growing out of your chin ;-)
       <title>A Practical Guide to Designing with Data</title>
       <link>https://laurakalbag.com/a-practical-guide-to-designing-with-data/</link>
       <pubDate>Mon, 02 Jul 2012 10:51:29 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-practical-guide-to-designing-with-data/</guid>
       <description>&lt;p&gt;Another ubelly post from me, this time a review. Much like &lt;a href=&#34;https://laurakalbag.com/mobile-first/&#34; title=&#34;Mobile First&#34;&gt;my&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/designing-for-emotion/&#34; title=&#34;Designing For Emotion&#34;&gt;other&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/a-practical-guide-to-designing-the-invisible/&#34; title=&#34;A Practical Guide to Designing the invisible&#34;&gt;reviews&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/hardboiled-web-design-and-transcending-css/&#34; title=&#34;Hardboiled Web Design and Transcending CSS&#34;&gt;of&lt;/a&gt; &lt;a href=&#34;https://laurakalbag.com/category/reviews/&#34;&gt;books on this blog&lt;/a&gt;, just in another location!&lt;/p&gt;
 
@@ -17499,7 +17501,7 @@ PS: what’s with the favicon, are there tiny hands growing out of your chin ;-)
       <title>Six months of the Fitbit (and the new Fitbit Aria)</title>
       <link>https://laurakalbag.com/six-months-of-the-fitbit-and-the-new-fitbit-aria/</link>
       <pubDate>Fri, 29 Jun 2012 16:39:58 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/six-months-of-the-fitbit-and-the-new-fitbit-aria/</guid>
       <description>
 
@@ -18414,7 +18416,7 @@ Linda
       <title>Typography and the web at Ampersand Conference</title>
       <link>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</link>
       <pubDate>Mon, 25 Jun 2012 12:06:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/typography-and-the-web-at-ampersand-conference/</guid>
       <description>&lt;p&gt;I’ve written &lt;a href=&#34;http://www.ubelly.com/2012/06/typography-and-the-web-at-ampersand-conference/&#34;&gt;a big old writeup for ubelly&lt;/a&gt; from my notes at &lt;a href=&#34;http://2012.ampersandconf.com/&#34;&gt;Ampersand conference&lt;/a&gt; earlier in the month.&lt;/p&gt;
 
@@ -18428,7 +18430,7 @@ Linda
       <title>Don’t let the technical processes of web development stifle your imagination</title>
       <link>https://laurakalbag.com/dont-let-the-technical-processes-of-web-development-stifle-your-imagination/</link>
       <pubDate>Sun, 10 Jun 2012 18:17:14 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dont-let-the-technical-processes-of-web-development-stifle-your-imagination/</guid>
       <description>&lt;p&gt;A new post from me, &lt;a href=&#34;http://www.netmagazine.com/opinions/keep-it-creative&#34; title=&#34;Keep it Creative! by Laura Kalbag on .net magazine&#34;&gt;this time at .net magazine. Keep it creative!&lt;/a&gt; There’s some pretty cool comments over there too.&lt;/p&gt;
 </description>
@@ -18438,7 +18440,7 @@ Linda
       <title>Will understanding the mainstream affect me as a designer?</title>
       <link>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</link>
       <pubDate>Fri, 01 Jun 2012 21:51:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/will-understanding-the-mainstream-affect-me-as-a-designer/</guid>
       <description>
 
@@ -18644,7 +18646,7 @@ It’s like when you go back and watch a really good kids show and realize how m
       <title>Craft and Care: Future Of Web Design 2012</title>
       <link>https://laurakalbag.com/craft-and-care-future-of-web-design-2012/</link>
       <pubDate>Tue, 22 May 2012 09:28:41 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/craft-and-care-future-of-web-design-2012/</guid>
       <description>&lt;p&gt;I’ve written up &lt;a href=&#34;http://www.ubelly.com/2012/05/craft-and-care-future-of-web-design-london-2012/&#34;&gt;my digest of Future Of Web Design 2012 over at the ubelly blog&lt;/a&gt;.&lt;/p&gt;
 
@@ -18658,7 +18660,7 @@ It’s like when you go back and watch a really good kids show and realize how m
       <title>Critiques, giving and receiving useful feedback</title>
       <link>https://laurakalbag.com/critiques-giving-and-receiving-useful-feedback/</link>
       <pubDate>Mon, 14 May 2012 09:09:10 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/critiques-giving-and-receiving-useful-feedback/</guid>
       <description>
 
@@ -18735,7 +18737,7 @@ It’s like when you go back and watch a really good kids show and realize how m
       <title>Solving problems with naïvety</title>
       <link>https://laurakalbag.com/solving-problems-with-naivety/</link>
       <pubDate>Mon, 07 May 2012 14:46:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/solving-problems-with-naivety/</guid>
       <description>
 
@@ -18832,7 +18834,7 @@ That’s the best feedback I could hope to read on my talk; so happy to hear it 
       <title>New Adventures in Web Design 2012</title>
       <link>https://laurakalbag.com/new-adventures-in-web-design-2012/</link>
       <pubDate>Mon, 23 Jan 2012 10:47:35 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/new-adventures-in-web-design-2012/</guid>
       <description>&lt;p&gt;My digest post about New Adventures in Web Design conference –; &lt;a href=&#34;http://www.ubelly.com/2012/01/the-job-the-process-and-creativity-naconf-2012?WT.mc_id=evn-c-gb--dca-F3-naconf&#34; title=&#34;The Job, The Process and Creativity - NAConf 2012&#34;&gt;The Job, The Process and Creativity –; NAConf 2012&lt;/a&gt; is now up on uBelly.&lt;/p&gt;
 
@@ -18844,7 +18846,7 @@ That’s the best feedback I could hope to read on my talk; so happy to hear it 
       <title>Mobile First</title>
       <link>https://laurakalbag.com/mobile-first/</link>
       <pubDate>Mon, 12 Dec 2011 09:14:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/mobile-first/</guid>
       <description>&lt;p&gt;Continuing on with my chapter-a-day, last week I finished reading the brilliant &lt;a href=&#34;http://www.abookapart.com/products/mobile-first&#34; title=&#34;Mobile First on A Book Apart&#34;&gt;Mobile First&lt;/a&gt; by Luke Wroblewski.&lt;/p&gt;
 
@@ -18880,7 +18882,7 @@ Mobile design and development has gained momentum over the last few years; with 
       <title>Designing For Emotion</title>
       <link>https://laurakalbag.com/designing-for-emotion/</link>
       <pubDate>Tue, 15 Nov 2011 09:43:18 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/designing-for-emotion/</guid>
       <description>
 
@@ -18958,7 +18960,7 @@ Mobile design and development has gained momentum over the last few years; with 
       <title>A Practical Guide to Designing the invisible</title>
       <link>https://laurakalbag.com/a-practical-guide-to-designing-the-invisible/</link>
       <pubDate>Tue, 01 Nov 2011 08:27:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-practical-guide-to-designing-the-invisible/</guid>
       <description>&lt;p&gt;After reading &lt;a href=&#34;http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web&#34; title=&#34;Five Simple Steps - A Practical Guide to Designing For The Web&#34;&gt;Mark Boulton’s A Practical Guide to Designing For The Web&lt;/a&gt; and &lt;a href=&#34;https://laurakalbag.com/hardboiled-web-design-and-transcending-css/&#34; title=&#34;Hardboiled Web Design and Transcending CSS&#34;&gt;Andy Clarke’s Hardboiled Web Design&lt;/a&gt;, I was keen to read another Five Simple Steps’ design book. &lt;a href=&#34;http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-the-invisible&#34; title=&#34;Five Simple Steps - A Practical Guide to Designing the invisible&#34;&gt;Robert Mills’ A Practical Guide to Designing the invisible&lt;/a&gt; definitely didn’t disappoint.&lt;/p&gt;
 
@@ -19048,7 +19050,7 @@ Mobile design and development has gained momentum over the last few years; with 
       <title>dConstruct 2011 — My Digest</title>
       <link>https://laurakalbag.com/dconstruct-2011-my-digest/</link>
       <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dconstruct-2011-my-digest/</guid>
       <description>
 
@@ -19275,7 +19277,7 @@ If you could  bits that you would recommend I read?
       <title>Insites Tour Brighton</title>
       <link>https://laurakalbag.com/insites-tour-brighton/</link>
       <pubDate>Wed, 20 Jul 2011 11:56:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/insites-tour-brighton/</guid>
       <description>
 
@@ -19383,7 +19385,7 @@ Great post, thanks for sharing –; sounds like a great evening! I’ll write th
       <title>Responsive Web Design</title>
       <link>https://laurakalbag.com/responsive-web-design/</link>
       <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/responsive-web-design/</guid>
       <description>
 
@@ -19488,7 +19490,7 @@ Great post, thanks for sharing –; sounds like a great evening! I’ll write th
       <title>Notes from Ampersand conference — My Digest</title>
       <link>https://laurakalbag.com/digest-from-ampersand-conf/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
       <description>
 
@@ -19811,7 +19813,7 @@ See you next year I hope!
       <title>Notes from Ampersand conference — Actual Notes</title>
       <link>https://laurakalbag.com/notes-from-ampersand-conf/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:08 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/notes-from-ampersand-conf/</guid>
       <description>&lt;p&gt;For those who wanted my notes in an undigested, scatterbrained form, here’s images from my notebook. (&lt;a href=&#34;https://laurakalbag.com/digest-from-ampersand-conf/&#34;&gt;My digest is available too&lt;/a&gt;.)&lt;/p&gt;
 
@@ -19825,7 +19827,7 @@ See you next year I hope!
       <title>Labels in input fields aren’t such a good idea</title>
       <link>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</link>
       <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</guid>
       <description>
 
@@ -20571,7 +20573,7 @@ I really like the aesthetic of having the label inside the input field –; just
       <title>Future Of Web Design 2011 –; The Summary –; Day Two</title>
       <link>https://laurakalbag.com/fowd-2011-summary-day-two/</link>
       <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fowd-2011-summary-day-two/</guid>
       <description>
 
@@ -20707,7 +20709,7 @@ I really like the aesthetic of having the label inside the input field –; just
       <title>Future Of Web Design 2011 –; The Summary –; Day One</title>
       <link>https://laurakalbag.com/fowd-2011-summary-day-one/</link>
       <pubDate>Mon, 23 May 2011 15:05:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fowd-2011-summary-day-one/</guid>
       <description>
 
@@ -20822,7 +20824,7 @@ I really like the aesthetic of having the label inside the input field –; just
       <title>Future Of Web Design 2011 –; The Review</title>
       <link>https://laurakalbag.com/fowd-2011-the-review/</link>
       <pubDate>Mon, 23 May 2011 15:00:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fowd-2011-the-review/</guid>
       <description>
 
@@ -20890,7 +20892,7 @@ Should we try to patent supersonic websites? or should we donate it to the commu
       <title>Yeah, so what if I live-tweet at conferences?</title>
       <link>https://laurakalbag.com/yeah-so-what-if-i-live-tweet-at-conferences/</link>
       <pubDate>Wed, 18 May 2011 18:55:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/yeah-so-what-if-i-live-tweet-at-conferences/</guid>
       <description>
 
@@ -20994,7 +20996,7 @@ Should we try to patent supersonic websites? or should we donate it to the commu
       <title>Notebooks and Getting Over Moleskine</title>
       <link>https://laurakalbag.com/notebooks-and-getting-over-moleskine/</link>
       <pubDate>Wed, 30 Mar 2011 12:37:11 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/notebooks-and-getting-over-moleskine/</guid>
       <description>
 
@@ -21307,7 +21309,7 @@ They’ve become my perfect notebook, although I may have to try out a Leuchttur
       <title>The Big M</title>
       <link>https://laurakalbag.com/the-big-m/</link>
       <pubDate>Fri, 25 Mar 2011 18:15:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-big-m/</guid>
       <description>
 
@@ -21527,7 +21529,7 @@ They’ve become my perfect notebook, although I may have to try out a Leuchttur
       <title>Who wants a ticket for The Big M?</title>
       <link>https://laurakalbag.com/win-a-ticket-for-the-big-m/</link>
       <pubDate>Wed, 02 Mar 2011 15:36:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/win-a-ticket-for-the-big-m/</guid>
       <description>
 
@@ -21570,7 +21572,7 @@ They’ve become my perfect notebook, although I may have to try out a Leuchttur
       <title>Women in…</title>
       <link>https://laurakalbag.com/women-in/</link>
       <pubDate>Wed, 02 Mar 2011 13:57:05 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/women-in/</guid>
       <description>
 
@@ -21655,7 +21657,7 @@ They’ve become my perfect notebook, although I may have to try out a Leuchttur
       <title>New Adventures 2011</title>
       <link>https://laurakalbag.com/new-adventures-2011/</link>
       <pubDate>Fri, 04 Feb 2011 00:21:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/new-adventures-2011/</guid>
       <description>
 
@@ -21785,7 +21787,7 @@ They’ve become my perfect notebook, although I may have to try out a Leuchttur
       <title>Hardboiled Web Design and Transcending CSS</title>
       <link>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</link>
       <pubDate>Tue, 18 Jan 2011 16:28:19 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</guid>
       <description>
 
@@ -22059,7 +22061,7 @@ Once I get it I’ll go through another read through and will probably have it o
       <title>Design work is 50% visual, 50% justification</title>
       <link>https://laurakalbag.com/design-is-50percent-visual-50percent-justification-2/</link>
       <pubDate>Tue, 23 Nov 2010 16:31:50 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-is-50percent-visual-50percent-justification-2/</guid>
       <description>
 
@@ -22123,7 +22125,7 @@ Once I get it I’ll go through another read through and will probably have it o
       <title>Design Tips For Developers</title>
       <link>https://laurakalbag.com/design-tips-for-developers/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-tips-for-developers/</guid>
       <description>
 
@@ -22657,7 +22659,7 @@ x
       <title>Bathcamp plea for bad designs by developers</title>
       <link>https://laurakalbag.com/bathcamp-plea-for-bad-designs-by-developers/</link>
       <pubDate>Mon, 25 Oct 2010 19:21:06 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/bathcamp-plea-for-bad-designs-by-developers/</guid>
       <description>
 
@@ -22793,7 +22795,7 @@ x
       <title>Stuck on a design</title>
       <link>https://laurakalbag.com/stuck-on-a-design/</link>
       <pubDate>Fri, 15 Oct 2010 16:59:29 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/stuck-on-a-design/</guid>
       <description>
 
@@ -22884,7 +22886,7 @@ I also totally agree that it&amp;#039;s helpful to have someone who is not the c
       <title>Good old designer snobbery is alive and kicking</title>
       <link>https://laurakalbag.com/good-old-designer-snobbery-is-live-and-kicking/</link>
       <pubDate>Wed, 06 Oct 2010 10:38:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/good-old-designer-snobbery-is-live-and-kicking/</guid>
       <description>
 
@@ -23437,7 +23439,7 @@ Snobbery is a sad and stupid trait and should be (IMHO) ignored when it springs 
       <title>Using Dribbble and Forrst for feedback on a client project</title>
       <link>https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/</link>
       <pubDate>Tue, 14 Sep 2010 20:06:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/</guid>
       <description>
 
@@ -23912,7 +23914,7 @@ Personally I find Dribbble more difficult to translate into speech. Is it “dri
       <title>dConstruct 2010</title>
       <link>https://laurakalbag.com/dconstruct-2010/</link>
       <pubDate>Sun, 05 Sep 2010 12:58:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dconstruct-2010/</guid>
       <description>
 
@@ -24091,7 +24093,7 @@ I realised it *was* an awesome conference, and I think you&amp;#039;re descripti
       <title>Me vs We</title>
       <link>https://laurakalbag.com/me-vs-we/</link>
       <pubDate>Thu, 02 Sep 2010 10:42:49 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/me-vs-we/</guid>
       <description>
 
@@ -24790,7 +24792,7 @@ If a client has done basic research he should have a ruff idea of what he is buy
       <title>Year One</title>
       <link>https://laurakalbag.com/year-1/</link>
       <pubDate>Tue, 31 Aug 2010 10:00:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/year-1/</guid>
       <description>
 
@@ -25061,7 +25063,7 @@ Cheers Chris
       <title>Girlguides UK Anti-airbrushing Campaign</title>
       <link>https://laurakalbag.com/girlguides-uk-anti-airbrushing-campaign/</link>
       <pubDate>Wed, 04 Aug 2010 10:32:18 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/girlguides-uk-anti-airbrushing-campaign/</guid>
       <description>
 
@@ -25157,7 +25159,7 @@ As a girl guide I think it shows we are still being a movement and trying to imp
       <title>How the iPad is saving my sanity</title>
       <link>https://laurakalbag.com/how-the-ipad-is-saving-my-sanity/</link>
       <pubDate>Sun, 01 Aug 2010 18:54:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/how-the-ipad-is-saving-my-sanity/</guid>
       <description>
 
@@ -25510,7 +25512,7 @@ If you have skype, add me (I’ve set my username as the bit before the @ symbol
       <title>WordPress 3.0 Part 3—Theme Development and the Design</title>
       <link>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</guid>
       <description>
 
@@ -25765,7 +25767,7 @@ If you have skype, add me (I’ve set my username as the bit before the @ symbol
       <title>WordPress 3.0 Part 2—Really WordPress 3.0</title>
       <link>https://laurakalbag.com/wordpress-3-0-really-wordpress-3/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:50 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/wordpress-3-0-really-wordpress-3/</guid>
       <description>
 
@@ -26048,7 +26050,7 @@ This post has three parts. This is part two. Visit the other parts below:
       <title>WordPress 3.0 Part 1—Pre 3.0 and Beyond</title>
       <link>https://laurakalbag.com/wordpress-3-0-pre-3-and-beyond/</link>
       <pubDate>Fri, 16 Jul 2010 21:49:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/wordpress-3-0-pre-3-and-beyond/</guid>
       <description>
 
@@ -26207,7 +26209,7 @@ This is great if you want to output small thumbnail images on your homepage temp
       <title>HTML5 For Web Designers</title>
       <link>https://laurakalbag.com/html5-for-web-designers/</link>
       <pubDate>Mon, 12 Jul 2010 16:29:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/html5-for-web-designers/</guid>
       <description>
 
@@ -26362,7 +26364,7 @@ This is great if you want to output small thumbnail images on your homepage temp
       <title>Picking Fonts</title>
       <link>https://laurakalbag.com/picking-fonts/</link>
       <pubDate>Mon, 05 Jul 2010 19:23:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/picking-fonts/</guid>
       <description>
 
@@ -26594,7 +26596,7 @@ OK, rant over :-)
       <title>Web Fonts</title>
       <link>https://laurakalbag.com/web-fonts/</link>
       <pubDate>Fri, 02 Jul 2010 18:12:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/web-fonts/</guid>
       <description>
 
@@ -26818,7 +26820,7 @@ OK, rant over :-)
       <title>Autodesk SketchBook Pro</title>
       <link>https://laurakalbag.com/autodesk-sketchbook-pro/</link>
       <pubDate>Sat, 19 Jun 2010 13:19:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/autodesk-sketchbook-pro/</guid>
       <description>
 
@@ -26967,7 +26969,7 @@ OK, rant over :-)
       <title>Open In A New Window</title>
       <link>https://laurakalbag.com/open-in-a-new-window/</link>
       <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/open-in-a-new-window/</guid>
       <description>
 
@@ -27101,7 +27103,7 @@ Good stuff! =0)
       <title>Zootool — The best and most beautiful tool for storing inspiration</title>
       <link>https://laurakalbag.com/zootool-the-best-tool-for-storing-inspiration/</link>
       <pubDate>Thu, 10 Jun 2010 21:39:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/zootool-the-best-tool-for-storing-inspiration/</guid>
       <description>
 
@@ -27211,7 +27213,7 @@ Evernote has got prettier over the last few updates. And its iPad app has made m
       <title>Promises</title>
       <link>https://laurakalbag.com/promises/</link>
       <pubDate>Thu, 10 Jun 2010 12:09:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/promises/</guid>
       <description>&lt;p&gt;Well, I’ve got a blog.&lt;/p&gt;
 

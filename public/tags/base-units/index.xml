@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Fri, 12 Oct 2012 21:39:30 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/base-units/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Grids, flexibility and responsiveness</title>
       <link>https://laurakalbag.com/grids-flexibility-and-responsiveness/</link>
       <pubDate>Fri, 12 Oct 2012 21:39:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/grids-flexibility-and-responsiveness/</guid>
       <description>
 

@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Thu, 14 Aug 2014 15:47:30 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Digital Arts: Designing for the unknown</title>
       <link>https://laurakalbag.com/digital-arts-designing-for-the-unknown/</link>
       <pubDate>Thu, 14 Aug 2014 15:47:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digital-arts-designing-for-the-unknown/</guid>
       <description>&lt;p&gt;Last week, Craig Grannell asked me some questions about designing for the unknown. The result was a really fantastic article called &lt;a href=&#34;http://www.digitalartsonline.co.uk/features/graphic-design/designing-for-unknown-how-design-templates-frameworks/&#34;&gt;Designing for the unknown: how to design templates and frameworks&lt;/a&gt;, and has contributions from some really smart people.&lt;/p&gt;
 
@@ -38,7 +40,7 @@
       <title>Digital Arts: The future of web design</title>
       <link>https://laurakalbag.com/digital-arts-the-future-of-web-design/</link>
       <pubDate>Fri, 01 Aug 2014 13:16:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digital-arts-the-future-of-web-design/</guid>
       <description>&lt;p&gt;Over the next few days I’m catching up on things I failed to share in recent months. It’s been a very busy few months, but I still like to have a record of what I did and where I’ve been!&lt;/p&gt;
 

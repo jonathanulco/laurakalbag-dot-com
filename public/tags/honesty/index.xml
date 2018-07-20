@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 21 Oct 2013 18:59:45 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/honesty/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>My Secret is Honesty talk video</title>
       <link>https://laurakalbag.com/my-secret-is-honesty-talk-video/</link>
       <pubDate>Mon, 21 Oct 2013 18:59:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-secret-is-honesty-talk-video/</guid>
       <description>&lt;p&gt;The lovely people at &lt;a href=&#34;http://2013.dareconf.com&#34;&gt;Dare conference&lt;/a&gt; have released &lt;a href=&#34;http://2013.dareconf.com/videos/kalbag&#34;&gt;the video of my talk, My Secret is Honesty&lt;/a&gt;. It’s pretty much a longer, talk-version of &lt;a href=&#34;http://alistapart.com/column/open-for-business&#34;&gt;my latest column on A List Apart, “Open for Business.”&lt;/a&gt;&lt;/p&gt;
 
@@ -38,7 +40,7 @@
       <title>Podcast interview with Jonathan Kahn</title>
       <link>https://laurakalbag.com/podcast-interview-with-jonathan-kahn/</link>
       <pubDate>Fri, 09 Aug 2013 08:52:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/podcast-interview-with-jonathan-kahn/</guid>
       <description>&lt;p&gt;Ahead of &lt;a href=&#34;https://laurakalbag.com/speaking-at-dare-conference/&#34; title=&#34;Speaking at Dare conference&#34;&gt;speaking at Dare conference&lt;/a&gt; this September, &lt;a href=&#34;http://lucidplot.com/2013/08/05/kalbag-podcast/&#34;&gt;I was interviewed by Jonathan Kahn&lt;/a&gt;, one of Dare’s organisers, about being honest, client relationships and mentoring in the web industry.&lt;/p&gt;
 
@@ -61,7 +63,7 @@
       <title>Speaking at Dare conference</title>
       <link>https://laurakalbag.com/speaking-at-dare-conference/</link>
       <pubDate>Wed, 03 Jul 2013 16:49:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-dare-conference/</guid>
       <description>
 
@@ -93,7 +95,7 @@
       <title>Bardowl: The Big One</title>
       <link>https://laurakalbag.com/bardowl-the-big-one/</link>
       <pubDate>Mon, 10 Dec 2012 21:23:00 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/bardowl-the-big-one/</guid>
       <description>
 
@@ -179,7 +181,7 @@ Ola&lt;/p&gt; &lt;/div&gt;
       <title>Insites Xmas Special—Integrity and Polarity</title>
       <link>https://laurakalbag.com/insites-xmas-special-integrity-and-polarity/</link>
       <pubDate>Tue, 04 Dec 2012 08:45:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/insites-xmas-special-integrity-and-polarity/</guid>
       <description>
 

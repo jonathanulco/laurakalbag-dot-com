@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 02 Jul 2018 19:25:46 +0100</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Gallery Grid With CSS Grid</title>
       <link>https://laurakalbag.com/gallery-grid-with-css-grid/</link>
       <pubDate>Mon, 02 Jul 2018 19:25:46 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/gallery-grid-with-css-grid/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout&#34;&gt;CSS Grid Layout&lt;/a&gt; is great. My site layout is fairly simple, so had no need for lots of grid—I only used it for lining up comments and avatars on old blog posts.&lt;/p&gt;
 
@@ -75,7 +77,7 @@ figcaption {
       <title>A little realign</title>
       <link>https://laurakalbag.com/a-little-realign/</link>
       <pubDate>Fri, 02 May 2014 13:10:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-little-realign/</guid>
       <description>
 
@@ -319,7 +321,7 @@ Anyway, cheers to the realign, and keep killing it!&lt;/p&gt; &lt;/div&gt;
       <title>Sass for designers — the talk and the case study</title>
       <link>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</link>
       <pubDate>Fri, 26 Jul 2013 09:00:10 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/sass-for-designers-the-talk-and-the-case-study/</guid>
       <description>
 
@@ -363,7 +365,7 @@ So many great tools out there at the moment :-)
       <title>Sass For Designers at CSS Summit 2013</title>
       <link>https://laurakalbag.com/css-summit-2013/</link>
       <pubDate>Thu, 09 May 2013 09:13:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/css-summit-2013/</guid>
       <description>
 
@@ -421,7 +423,7 @@ Big fan of you in the industry. Small thing i just noticed on your comment form 
       <title>Responsive Day Out</title>
       <link>https://laurakalbag.com/responsive-day-out/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/responsive-day-out/</guid>
       <description>
 
@@ -925,7 +927,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>Sass for Designers — The Setup</title>
       <link>https://laurakalbag.com/sass-for-designers-the-setup/</link>
       <pubDate>Fri, 28 Dec 2012 17:51:36 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/sass-for-designers-the-setup/</guid>
       <description>
 
@@ -1082,7 +1084,7 @@ I’ve just come across your site and really enjoyed digging around. Keep up the
       <title>Sass for Designers</title>
       <link>https://laurakalbag.com/sass-for-designers/</link>
       <pubDate>Fri, 28 Dec 2012 17:51:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/sass-for-designers/</guid>
       <description>
 
@@ -1565,7 +1567,7 @@ Mixins are best used when you need to calculate things, for instance I use this 
       <title>display: none;</title>
       <link>https://laurakalbag.com/display-none/</link>
       <pubDate>Tue, 06 Nov 2012 08:45:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/display-none/</guid>
       <description>
 
@@ -2167,7 +2169,7 @@ I bet most people feel the same way, so don’t worry. I’ve been designing &am
       <title>SMACSS –; Scalable and Modular Architecture for CSS</title>
       <link>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</link>
       <pubDate>Wed, 31 Oct 2012 08:45:52 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/smacss-scalable-and-modular-architecture-for-css/</guid>
       <description>
 
@@ -2345,7 +2347,7 @@ no, you’re not! great shoptalkshop btw. keep it up!&lt;/p&gt; &lt;/div&gt;
       <title>Responsive Web Design</title>
       <link>https://laurakalbag.com/responsive-web-design/</link>
       <pubDate>Tue, 05 Jul 2011 19:05:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/responsive-web-design/</guid>
       <description>
 
@@ -2450,7 +2452,7 @@ no, you’re not! great shoptalkshop btw. keep it up!&lt;/p&gt; &lt;/div&gt;
       <title>Notes from Ampersand conference — My Digest</title>
       <link>https://laurakalbag.com/digest-from-ampersand-conf/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
       <description>
 
@@ -2773,7 +2775,7 @@ See you next year I hope!
       <title>Design Tips For Developers</title>
       <link>https://laurakalbag.com/design-tips-for-developers/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-tips-for-developers/</guid>
       <description>
 
@@ -3307,7 +3309,7 @@ x
       <title>Web Fonts</title>
       <link>https://laurakalbag.com/web-fonts/</link>
       <pubDate>Fri, 02 Jul 2010 18:12:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/web-fonts/</guid>
       <description>
 

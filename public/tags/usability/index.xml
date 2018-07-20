@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 10 Dec 2013 09:45:22 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/usability/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Why Bother With Accessibility? on 24ways</title>
       <link>https://laurakalbag.com/why-bother-with-accessibility-on-24ways/</link>
       <pubDate>Tue, 10 Dec 2013 09:45:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/why-bother-with-accessibility-on-24ways/</guid>
       <description>
 
@@ -43,7 +45,7 @@
       <title>Designing For Emotion</title>
       <link>https://laurakalbag.com/designing-for-emotion/</link>
       <pubDate>Tue, 15 Nov 2011 09:43:18 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/designing-for-emotion/</guid>
       <description>
 
@@ -121,7 +123,7 @@
       <title>Labels in input fields aren’t such a good idea</title>
       <link>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</link>
       <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</guid>
       <description>
 
@@ -867,7 +869,7 @@ I really like the aesthetic of having the label inside the input field –; just
       <title>WordPress 3.0 Part 3—Theme Development and the Design</title>
       <link>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</guid>
       <description>
 
@@ -1122,7 +1124,7 @@ I really like the aesthetic of having the label inside the input field –; just
       <title>Open In A New Window</title>
       <link>https://laurakalbag.com/open-in-a-new-window/</link>
       <pubDate>Wed, 16 Jun 2010 14:40:42 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/open-in-a-new-window/</guid>
       <description>
 

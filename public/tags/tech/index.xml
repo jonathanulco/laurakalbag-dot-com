@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Wed, 02 Mar 2011 13:57:05 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Women in…</title>
       <link>https://laurakalbag.com/women-in/</link>
       <pubDate>Wed, 02 Mar 2011 13:57:05 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/women-in/</guid>
       <description>
 

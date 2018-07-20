@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 05 Feb 2018 13:45:02 +0100</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/categories/indie/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>I’m a DIY Rebel</title>
       <link>https://laurakalbag.com/im-a-diy-rebel/</link>
       <pubDate>Mon, 05 Feb 2018 13:45:02 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/im-a-diy-rebel/</guid>
       <description>&lt;p&gt;Probably the coolest I’ve ever sounded…&lt;/p&gt;
 

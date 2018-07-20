@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 14 Sep 2010 20:06:38 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/drafts/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Using Dribbble and Forrst for feedback on a client project</title>
       <link>https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/</link>
       <pubDate>Tue, 14 Sep 2010 20:06:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dribbble-and-forrst-for-client-project-feedback/</guid>
       <description>
 

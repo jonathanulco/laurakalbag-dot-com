@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Fri, 07 Mar 2014 12:04:04 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/back-end-development/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Guest on A Bit More Backendy podcast</title>
       <link>https://laurakalbag.com/a-bit-more-backendy/</link>
       <pubDate>Fri, 07 Mar 2014 12:04:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-bit-more-backendy/</guid>
       <description>&lt;p&gt;Yesterday the &lt;a href=&#34;http://backendy.com/2014/03/4-laura-kalbag/&#34;&gt;fourth episode of the Backendy podcast&lt;/a&gt; was released, and I was the guest. It was lovely talking to Darren, partly because he’s been a great client for a while now, partly because I’ve been working on the podcast logo and site, and also because I think a podcast focusing on back-end development is a really good idea.&lt;/p&gt;
 

@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 05 Aug 2014 09:30:57 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Desert.fm Playlist</title>
       <link>https://laurakalbag.com/desert-fm-playlist/</link>
       <pubDate>Tue, 05 Aug 2014 09:30:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/desert-fm-playlist/</guid>
       <description>&lt;p&gt;A few weeks ago I was asked to create a &lt;a href=&#34;http://www.desert.fm/laura-kalbag.html&#34;&gt;playlist of ten songs for Desert.fm&lt;/a&gt;. Nate, Bobby and Jamie sent me an email with the premise:&lt;/p&gt;
 

@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Tue, 07 Apr 2015 09:26:27 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/conference/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Speaking at 418:conf web meetup</title>
       <link>https://laurakalbag.com/speaking-at-418-conf-web-meetup/</link>
       <pubDate>Tue, 07 Apr 2015 09:26:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-418-conf-web-meetup/</guid>
       <description>&lt;p&gt;I’m speaking at the very first &lt;a href=&#34;http://418conf.co.uk&#34;&gt;418:conf web meetup&lt;/a&gt; on 16th June 2015 in Nutfield (near Redhill) in Surrey. It’s exciting for me because it’s near where I used to live, and it’s a cool new meetup with a lot of potential.&lt;/p&gt;
 
@@ -38,7 +40,7 @@
       <title>Speaking at Web Day at Bath Digital Festival</title>
       <link>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</link>
       <pubDate>Thu, 25 Sep 2014 14:09:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</guid>
       <description>&lt;p&gt;I’m speaking at &lt;a href=&#34;http://2014.bathdigitalfestival.com/event/web-day/&#34;&gt;Web Day at Bath Digital Festival&lt;/a&gt; on the 28th of October. Bath is great, I went to university there, and it’s full of lovely people. I’m looking forward to going back and giving a talk about accessibility. &lt;a href=&#34;https://www.eventbrite.co.uk/e/web-day-tickets-13137878749&#34;&gt;Tickets are a very reasonable £15&lt;/a&gt;, and it looks like it’ll be a very interesting day.&lt;/p&gt;
 
@@ -59,7 +61,7 @@
       <title>Speaking at border:none</title>
       <link>https://laurakalbag.com/speaking-at-border-none/</link>
       <pubDate>Tue, 16 Sep 2014 08:44:10 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-border-none/</guid>
       <description>&lt;p&gt;Next month I’m speaking and running a “creator unit” at border:none in Nuremberg. This is incredibly exciting as it’s an event focused around the decentralisation of the web, a topic that I care about a great deal. I’ll be talking about using considerate design and great user experiences to create genuine alternatives to the products that make money from exploiting their users’ data.&lt;/p&gt;
 
@@ -82,7 +84,7 @@
       <title>Discount code for WXG 2014 in Guildford</title>
       <link>https://laurakalbag.com/discount-code-for-wxg-2014/</link>
       <pubDate>Tue, 29 Jul 2014 10:25:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/discount-code-for-wxg-2014/</guid>
       <description>&lt;p&gt;You might have seen that I’m speaking at WXG in Guildford in September. If you didn’t already get a ticket, you might want to use my discount code of &lt;strong&gt;kalbagWXG&lt;/strong&gt; to get £10 off the (already very affordable £99) ticket price.&lt;/p&gt;
 
@@ -105,7 +107,7 @@
       <title>Speaking at KiwiParty in Strasbourg</title>
       <link>https://laurakalbag.com/speaking-at-kiwiparty/</link>
       <pubDate>Thu, 27 Mar 2014 07:50:21 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-kiwiparty/</guid>
       <description>
 
@@ -152,7 +154,7 @@ See you on the 13th of June.
       <title>Speaking at WXG 2014 in Guildford</title>
       <link>https://laurakalbag.com/speaking-at-wxg-2014-in-guildford/</link>
       <pubDate>Mon, 10 Mar 2014 10:52:16 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-wxg-2014-in-guildford/</guid>
       <description>&lt;p&gt;I’m speaking at &lt;a href=&#34;http://wxg.co.uk/#speakers&#34;&gt;WXG 2014 in Guildford&lt;/a&gt; in September. This is exciting for me because I attended the first ever WXG a couple of years ago, and it’s about as local as a conference is going to get to my hometown, Reigate.&lt;/p&gt;
 
@@ -177,7 +179,7 @@ See you on the 13th of June.
       <title>Speaking at DotYork</title>
       <link>https://laurakalbag.com/speaking-at-dotyork/</link>
       <pubDate>Mon, 20 Jan 2014 18:06:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-dotyork/</guid>
       <description>
 
@@ -218,7 +220,7 @@ See you on the 13th of June.
       <title>Speaking at MobX Conference in Berlin</title>
       <link>https://laurakalbag.com/speaking-at-mobx-conference-in-berlin/</link>
       <pubDate>Thu, 05 Sep 2013 17:05:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-mobx-conference-in-berlin/</guid>
       <description>
 
@@ -260,7 +262,7 @@ Cheers, Anna&lt;/p&gt;    &lt;/div&gt;
       <title>Speaking at Dare conference</title>
       <link>https://laurakalbag.com/speaking-at-dare-conference/</link>
       <pubDate>Wed, 03 Jul 2013 16:49:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-dare-conference/</guid>
       <description>
 
@@ -292,7 +294,7 @@ Cheers, Anna&lt;/p&gt;    &lt;/div&gt;
       <title>Speaking at LXJS in Portugal</title>
       <link>https://laurakalbag.com/speaking-at-lxjs-in-portugal/</link>
       <pubDate>Sat, 08 Jun 2013 09:10:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-lxjs-in-portugal/</guid>
       <description>&lt;p&gt;I’m really looking forward to October, where I get to return to Portugal to speak at &lt;a href=&#34;http://2013.lxjs.org/&#34;&gt;LXJS in Lisbon&lt;/a&gt;.&lt;/p&gt;
 
@@ -317,7 +319,7 @@ Cheers, Anna&lt;/p&gt;    &lt;/div&gt;
       <title>Sass For Designers at CSS Summit 2013</title>
       <link>https://laurakalbag.com/css-summit-2013/</link>
       <pubDate>Thu, 09 May 2013 09:13:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/css-summit-2013/</guid>
       <description>
 
@@ -375,7 +377,7 @@ Big fan of you in the industry. Small thing i just noticed on your comment form 
       <title>Learning to speak</title>
       <link>https://laurakalbag.com/learning-to-speak/</link>
       <pubDate>Thu, 11 Apr 2013 17:46:03 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/learning-to-speak/</guid>
       <description>
 
@@ -499,7 +501,7 @@ If I could I would most definitely go to Aral’s workshop. I’ll never forget 
       <title>Insites Xmas Special—Integrity and Polarity</title>
       <link>https://laurakalbag.com/insites-xmas-special-integrity-and-polarity/</link>
       <pubDate>Tue, 04 Dec 2012 08:45:27 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/insites-xmas-special-integrity-and-polarity/</guid>
       <description>
 
@@ -551,7 +553,7 @@ It can be really difficult when you’re surrounded by people that consider a jo
       <title>Solving problems with naïvety</title>
       <link>https://laurakalbag.com/solving-problems-with-naivety/</link>
       <pubDate>Mon, 07 May 2012 14:46:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/solving-problems-with-naivety/</guid>
       <description>
 
@@ -648,7 +650,7 @@ That’s the best feedback I could hope to read on my talk; so happy to hear it 
       <title>dConstruct 2011 — My Digest</title>
       <link>https://laurakalbag.com/dconstruct-2011-my-digest/</link>
       <pubDate>Mon, 12 Sep 2011 10:56:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dconstruct-2011-my-digest/</guid>
       <description>
 
@@ -875,7 +877,7 @@ If you could  bits that you would recommend I read?
       <title>Insites Tour Brighton</title>
       <link>https://laurakalbag.com/insites-tour-brighton/</link>
       <pubDate>Wed, 20 Jul 2011 11:56:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/insites-tour-brighton/</guid>
       <description>
 
@@ -983,7 +985,7 @@ Great post, thanks for sharing –; sounds like a great evening! I’ll write th
       <title>Notes from Ampersand conference — My Digest</title>
       <link>https://laurakalbag.com/digest-from-ampersand-conf/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
       <description>
 
@@ -1306,7 +1308,7 @@ See you next year I hope!
       <title>Future Of Web Design 2011 –; The Summary –; Day Two</title>
       <link>https://laurakalbag.com/fowd-2011-summary-day-two/</link>
       <pubDate>Mon, 23 May 2011 15:05:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fowd-2011-summary-day-two/</guid>
       <description>
 
@@ -1442,7 +1444,7 @@ See you next year I hope!
       <title>Future Of Web Design 2011 –; The Summary –; Day One</title>
       <link>https://laurakalbag.com/fowd-2011-summary-day-one/</link>
       <pubDate>Mon, 23 May 2011 15:05:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fowd-2011-summary-day-one/</guid>
       <description>
 
@@ -1557,7 +1559,7 @@ See you next year I hope!
       <title>Future Of Web Design 2011 –; The Review</title>
       <link>https://laurakalbag.com/fowd-2011-the-review/</link>
       <pubDate>Mon, 23 May 2011 15:00:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fowd-2011-the-review/</guid>
       <description>
 
@@ -1625,7 +1627,7 @@ Should we try to patent supersonic websites? or should we donate it to the commu
       <title>Yeah, so what if I live-tweet at conferences?</title>
       <link>https://laurakalbag.com/yeah-so-what-if-i-live-tweet-at-conferences/</link>
       <pubDate>Wed, 18 May 2011 18:55:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/yeah-so-what-if-i-live-tweet-at-conferences/</guid>
       <description>
 
@@ -1729,7 +1731,7 @@ Should we try to patent supersonic websites? or should we donate it to the commu
       <title>The Big M</title>
       <link>https://laurakalbag.com/the-big-m/</link>
       <pubDate>Fri, 25 Mar 2011 18:15:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-big-m/</guid>
       <description>
 
@@ -1949,7 +1951,7 @@ Should we try to patent supersonic websites? or should we donate it to the commu
       <title>Who wants a ticket for The Big M?</title>
       <link>https://laurakalbag.com/win-a-ticket-for-the-big-m/</link>
       <pubDate>Wed, 02 Mar 2011 15:36:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/win-a-ticket-for-the-big-m/</guid>
       <description>
 
@@ -1992,7 +1994,7 @@ Should we try to patent supersonic websites? or should we donate it to the commu
       <title>dConstruct 2010</title>
       <link>https://laurakalbag.com/dconstruct-2010/</link>
       <pubDate>Sun, 05 Sep 2010 12:58:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dconstruct-2010/</guid>
       <description>
 

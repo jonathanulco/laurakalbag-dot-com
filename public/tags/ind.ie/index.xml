@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 10 Apr 2017 12:58:22 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/ind.ie/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Digital Assistants, Facebook Quizzes, And Fake News! You Won’t Believe What Happens Next</title>
       <link>https://laurakalbag.com/you-wont-believe-what-happens-next/</link>
       <pubDate>Mon, 10 Apr 2017 12:58:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/you-wont-believe-what-happens-next/</guid>
       <description>
 
@@ -1365,7 +1367,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Diary, 29th June 2016</title>
       <link>https://laurakalbag.com/diary-29th-june-2016/</link>
       <pubDate>Wed, 29 Jun 2016 13:44:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-29th-june-2016/</guid>
       <description>
 
@@ -1423,7 +1425,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Diary, 13th June 2016</title>
       <link>https://laurakalbag.com/diary-13th-june-2016/</link>
       <pubDate>Mon, 13 Jun 2016 13:38:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-13th-june-2016/</guid>
       <description>
 
@@ -1467,7 +1469,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Diary, 22nd April 2016</title>
       <link>https://laurakalbag.com/diary-22nd-april-2016/</link>
       <pubDate>Fri, 22 Apr 2016 14:59:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/diary-22nd-april-2016/</guid>
       <description>
 
@@ -1507,7 +1509,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>My 2015</title>
       <link>https://laurakalbag.com/my-2015/</link>
       <pubDate>Fri, 01 Jan 2016 12:45:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2015/</guid>
       <description>
 
@@ -1536,7 +1538,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Flexboxing the Universal Video Player</title>
       <link>https://laurakalbag.com/flexbox-video-player/</link>
       <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/flexbox-video-player/</guid>
       <description>&lt;p&gt;I added a flexbox layout to our Universal Video Player (accessible HTML5 video player) and wrote &lt;a href=&#34;https://ind.ie/labs/blog/video-player-flexbox/&#34;&gt;a blog post on Ind.ie Labs about using flexbox with progressive enhancement&lt;/a&gt;.&lt;/p&gt;
 
@@ -1557,7 +1559,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Is there potential for “ethical analytics”?</title>
       <link>https://laurakalbag.com/is-there-potential-for-ethical-analytics/</link>
       <pubDate>Thu, 30 Jul 2015 10:19:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/is-there-potential-for-ethical-analytics/</guid>
       <description>&lt;p&gt;We have &lt;a href=&#34;https://forum.ind.ie/t/piwik-alternative-for-analytics/627&#34;&gt;Piwik analytics&lt;/a&gt; on the &lt;a href=&#34;https://ind.ie/&#34;&gt;Ind.ie site&lt;/a&gt;, and I use Gauges and GoSquared on my own site (I was indecisive at the time…) But I use &lt;a href=&#34;https://www.ghostery.com/en/&#34;&gt;Ghostery&lt;/a&gt; so I actually block analytics like this for my own use.&lt;/p&gt;
 
@@ -1594,7 +1596,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>Interview on the Subjective podcast</title>
       <link>https://laurakalbag.com/subjective-podcast/</link>
       <pubDate>Sat, 23 May 2015 16:12:38 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/subjective-podcast/</guid>
       <description>&lt;p&gt;At the beginning of the week, I had fun talking to Victor Johnson on &lt;a href=&#34;http://subjective.fm/episodes/9&#34;&gt;Episode 9 of the Subjective podcast, ‘Free As In Liberty.’&lt;/a&gt; I ranted &lt;strong&gt;a lot&lt;/strong&gt;, and we talked about Ind.ie, diversity, my upbringing, and how I got into design and the web.&lt;/p&gt;
 
@@ -1606,7 +1608,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>The Illusion Of Free on A List Apart</title>
       <link>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</link>
       <pubDate>Fri, 03 Apr 2015 14:31:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-illusion-of-free-on-a-list-apart/</guid>
       <description>&lt;p&gt;Last week, &lt;a href=&#34;http://alistapart.com/column/the-illusion-of-free&#34;&gt;my column on The Illusion Of Free&lt;/a&gt; was published on A List Apart. I took a lot of time writing it, as I think it’s an incredibly important issue, and it reflects my thinking around &lt;a href=&#34;https://ind.ie&#34;&gt;Ind.ie&lt;/a&gt;. As ever, a massive thank you to the wonderful editor Rose Weisburd who helped me round things out, made me sound smarter and encouraged me in the first place.&lt;/p&gt;
 
@@ -1627,7 +1629,7 @@ What that shows is, that you have to invest — nothing is for free these days. 
       <title>My 2014</title>
       <link>https://laurakalbag.com/my-2014/</link>
       <pubDate>Thu, 01 Jan 2015 14:21:02 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/my-2014/</guid>
       <description>
 
@@ -1938,7 +1940,7 @@ I find there’s benefits in both working freelance and in a team. There’s les
       <title>What I’m doing now and why</title>
       <link>https://laurakalbag.com/what-im-doing-now-and-why/</link>
       <pubDate>Fri, 28 Nov 2014 13:09:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/what-im-doing-now-and-why/</guid>
       <description>
 
@@ -2060,7 +2062,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>ind.ie Project Stratosphere announcement</title>
       <link>https://laurakalbag.com/indie-project-stratosphere/</link>
       <pubDate>Thu, 02 Oct 2014 14:16:15 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/indie-project-stratosphere/</guid>
       <description>&lt;p&gt;After a few months of being pretty quiet, and working towards our crowdfunding campaign, we’re finally able to reveal &lt;a href=&#34;https://ind.ie/&#34;&gt;some big stuff about ind.ie&lt;/a&gt;.&lt;/p&gt;
 
@@ -2085,7 +2087,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Speaking at border:none</title>
       <link>https://laurakalbag.com/speaking-at-border-none/</link>
       <pubDate>Tue, 16 Sep 2014 08:44:10 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-border-none/</guid>
       <description>&lt;p&gt;Next month I’m speaking and running a “creator unit” at border:none in Nuremberg. This is incredibly exciting as it’s an event focused around the decentralisation of the web, a topic that I care about a great deal. I’ll be talking about using considerate design and great user experiences to create genuine alternatives to the products that make money from exploiting their users’ data.&lt;/p&gt;
 
@@ -2108,7 +2110,7 @@ Thanks, Matthijs&lt;/p&gt;    &lt;/div&gt;
       <title>Indie Tech Summit videos and my talk on Universal Design</title>
       <link>https://laurakalbag.com/indie-tech-summit-videos/</link>
       <pubDate>Tue, 26 Aug 2014 11:59:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/indie-tech-summit-videos/</guid>
       <description>
 

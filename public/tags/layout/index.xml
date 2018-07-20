@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 03 Mar 2014 18:42:46 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/layout/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Design theory for the web workshop at Interlink conference</title>
       <link>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</link>
       <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</guid>
       <description>
 
@@ -80,7 +82,7 @@
       <title>Responsive Day Out</title>
       <link>https://laurakalbag.com/responsive-day-out/</link>
       <pubDate>Mon, 01 Apr 2013 22:52:39 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/responsive-day-out/</guid>
       <description>
 
@@ -584,7 +586,7 @@ I hope that clears a few things up. I might try to write up my complete take on 
       <title>Design Tips For Developers</title>
       <link>https://laurakalbag.com/design-tips-for-developers/</link>
       <pubDate>Thu, 04 Nov 2010 16:26:24 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-tips-for-developers/</guid>
       <description>
 

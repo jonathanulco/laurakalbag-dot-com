@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 26 Oct 2015 13:11:45 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/html5/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Flexboxing the Universal Video Player</title>
       <link>https://laurakalbag.com/flexbox-video-player/</link>
       <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/flexbox-video-player/</guid>
       <description>&lt;p&gt;I added a flexbox layout to our Universal Video Player (accessible HTML5 video player) and wrote &lt;a href=&#34;https://ind.ie/labs/blog/video-player-flexbox/&#34;&gt;a blog post on Ind.ie Labs about using flexbox with progressive enhancement&lt;/a&gt;.&lt;/p&gt;
 
@@ -36,7 +38,7 @@
       <title>Labels in input fields aren’t such a good idea</title>
       <link>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</link>
       <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</guid>
       <description>
 
@@ -782,7 +784,7 @@ I really like the aesthetic of having the label inside the input field –; just
       <title>The Big M</title>
       <link>https://laurakalbag.com/the-big-m/</link>
       <pubDate>Fri, 25 Mar 2011 18:15:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-big-m/</guid>
       <description>
 
@@ -1002,7 +1004,7 @@ I really like the aesthetic of having the label inside the input field –; just
       <title>Hardboiled Web Design and Transcending CSS</title>
       <link>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</link>
       <pubDate>Tue, 18 Jan 2011 16:28:19 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/hardboiled-web-design-and-transcending-css/</guid>
       <description>
 
@@ -1276,7 +1278,7 @@ Once I get it I’ll go through another read through and will probably have it o
       <title>HTML5 For Web Designers</title>
       <link>https://laurakalbag.com/html5-for-web-designers/</link>
       <pubDate>Mon, 12 Jul 2010 16:29:43 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/html5-for-web-designers/</guid>
       <description>
 

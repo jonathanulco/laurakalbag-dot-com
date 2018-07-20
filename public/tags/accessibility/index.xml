@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Mon, 12 Mar 2018 12:17:46 +0100</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Bookmarked: Animation</title>
       <link>https://laurakalbag.com/bookmarked-on-animation/</link>
       <pubDate>Mon, 12 Mar 2018 12:17:46 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/bookmarked-on-animation/</guid>
       <description>
 
@@ -52,7 +54,7 @@
       <title>Semantic HTML on 24 Ways</title>
       <link>https://laurakalbag.com/semantic-html-on-24-ways/</link>
       <pubDate>Fri, 22 Dec 2017 18:59:08 +0100</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/semantic-html-on-24-ways/</guid>
       <description>&lt;p&gt;It’s been a few years since I wrote something for &lt;a href=&#34;http://24ways.org&#34;&gt;24ways&lt;/a&gt;, but this year I’m back, &lt;a href=&#34;https://24ways.org/2017/accessibility-through-semantic-html/&#34;&gt;making the case for semantic HTML&lt;/a&gt;.&lt;/p&gt;
 
@@ -75,7 +77,7 @@
       <title>Flexboxing the Universal Video Player</title>
       <link>https://laurakalbag.com/flexbox-video-player/</link>
       <pubDate>Mon, 26 Oct 2015 13:11:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/flexbox-video-player/</guid>
       <description>&lt;p&gt;I added a flexbox layout to our Universal Video Player (accessible HTML5 video player) and wrote &lt;a href=&#34;https://ind.ie/labs/blog/video-player-flexbox/&#34;&gt;a blog post on Ind.ie Labs about using flexbox with progressive enhancement&lt;/a&gt;.&lt;/p&gt;
 
@@ -96,7 +98,7 @@
       <title>Accessibility By Design</title>
       <link>https://laurakalbag.com/12-days-of-podcasts-day-3/</link>
       <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/12-days-of-podcasts-day-3/</guid>
       <description>
 
@@ -916,7 +918,7 @@ Laura, this is the second time I have randomly found one of your articles, gaine
       <title>Accessibility By Design</title>
       <link>https://laurakalbag.com/accessibility-by-design/</link>
       <pubDate>Sat, 23 May 2015 15:04:40 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/accessibility-by-design/</guid>
       <description>
 
@@ -1727,7 +1729,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>What do web experts think of BBC Taster?</title>
       <link>https://laurakalbag.com/bbc-taster/</link>
       <pubDate>Tue, 14 Apr 2015 13:55:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/bbc-taster/</guid>
       <description>&lt;p&gt;In the spirit of catching up on slightly older news, in January I was part of a &lt;a href=&#34;http://www.creativebloq.com/web-design/what-do-web-experts-think-bbc-taster-11514087&#34;&gt;panel commenting on BBC Taster on Creative Bloq&lt;/a&gt;.&lt;/p&gt;
 
@@ -1756,7 +1758,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>A realign for 2015</title>
       <link>https://laurakalbag.com/a-realign-for-2015/</link>
       <pubDate>Thu, 02 Apr 2015 17:24:04 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/a-realign-for-2015/</guid>
       <description>
 
@@ -1892,7 +1894,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Speaking at the Sherpa Summit</title>
       <link>https://laurakalbag.com/speaking-at-the-sherpa-summit/</link>
       <pubDate>Thu, 02 Apr 2015 10:57:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-the-sherpa-summit/</guid>
       <description>
 
@@ -1921,7 +1923,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Speaking at Web Day at Bath Digital Festival</title>
       <link>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</link>
       <pubDate>Thu, 25 Sep 2014 14:09:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-web-day-at-bath-digital-festival/</guid>
       <description>&lt;p&gt;I’m speaking at &lt;a href=&#34;http://2014.bathdigitalfestival.com/event/web-day/&#34;&gt;Web Day at Bath Digital Festival&lt;/a&gt; on the 28th of October. Bath is great, I went to university there, and it’s full of lovely people. I’m looking forward to going back and giving a talk about accessibility. &lt;a href=&#34;https://www.eventbrite.co.uk/e/web-day-tickets-13137878749&#34;&gt;Tickets are a very reasonable £15&lt;/a&gt;, and it looks like it’ll be a very interesting day.&lt;/p&gt;
 
@@ -1942,7 +1944,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Indie Tech Summit videos and my talk on Universal Design</title>
       <link>https://laurakalbag.com/indie-tech-summit-videos/</link>
       <pubDate>Tue, 26 Aug 2014 11:59:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/indie-tech-summit-videos/</guid>
       <description>
 
@@ -1973,7 +1975,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
       <title>Accessibility en France</title>
       <link>https://laurakalbag.com/accessibility-en-france/</link>
       <pubDate>Sat, 14 Jun 2014 11:19:30 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/accessibility-en-france/</guid>
       <description>
 
@@ -2106,7 +2108,7 @@ Thanks.&lt;/p&gt; &lt;/div&gt;
       <title>Why accessibility matters to me #GAAD</title>
       <link>https://laurakalbag.com/why-accessibility-matters-to-me/</link>
       <pubDate>Thu, 15 May 2014 10:14:06 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/why-accessibility-matters-to-me/</guid>
       <description>
 
@@ -2132,7 +2134,7 @@ Thanks.&lt;/p&gt; &lt;/div&gt;
       <title>Speaking at KiwiParty in Strasbourg</title>
       <link>https://laurakalbag.com/speaking-at-kiwiparty/</link>
       <pubDate>Thu, 27 Mar 2014 07:50:21 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-kiwiparty/</guid>
       <description>
 
@@ -2179,7 +2181,7 @@ See you on the 13th of June.
       <title>Design theory for the web workshop at Interlink conference</title>
       <link>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</link>
       <pubDate>Mon, 03 Mar 2014 18:42:46 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/design-theory-for-the-web-workshop-at-interlink-conference/</guid>
       <description>
 
@@ -2244,7 +2246,7 @@ See you on the 13th of June.
       <title>Interview with Heart Internet</title>
       <link>https://laurakalbag.com/interview-with-heart-internet/</link>
       <pubDate>Fri, 17 Jan 2014 15:12:48 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/interview-with-heart-internet/</guid>
       <description>&lt;p&gt;Yesterday, Heart Internet posted &lt;a href=&#34;http://www.heartinternet.co.uk/blog/article/interview-with-web-accessibility-champion-laura-kalbag&#34;&gt;an interview with me&lt;/a&gt; on their site. They start off saying some very kind things about me, and then it covers accessibility, design, speaking at conferences and a bit of client work. As a bonus, it’s interspersed with photos of me pulling weird faces at conferences (and being business on the phone!)&lt;/p&gt;
 
@@ -2265,7 +2267,7 @@ See you on the 13th of June.
       <title>Why Bother With Accessibility? on 24ways</title>
       <link>https://laurakalbag.com/why-bother-with-accessibility-on-24ways/</link>
       <pubDate>Tue, 10 Dec 2013 09:45:22 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/why-bother-with-accessibility-on-24ways/</guid>
       <description>
 
@@ -2293,7 +2295,7 @@ See you on the 13th of June.
       <title>Speaking at MobX Conference in Berlin</title>
       <link>https://laurakalbag.com/speaking-at-mobx-conference-in-berlin/</link>
       <pubDate>Thu, 05 Sep 2013 17:05:28 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-mobx-conference-in-berlin/</guid>
       <description>
 
@@ -2335,7 +2337,7 @@ Cheers, Anna&lt;/p&gt;    &lt;/div&gt;
       <title>Nothing to display podcast</title>
       <link>https://laurakalbag.com/nothing-to-display-podcast/</link>
       <pubDate>Sat, 02 Mar 2013 17:43:55 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/nothing-to-display-podcast/</guid>
       <description>&lt;p&gt;Last week I had a lovely chat with El for her &lt;a href=&#34;http://nothingtodisplay.co.uk/2013/03/02/nothing-to-display-podcast-no-3-the-web-freelance-life-mentoring-with-laura-kalbag/&#34;&gt;Nothing To Display podcast&lt;/a&gt;. We talked about technology and how people get started with technology, accessibility, mentoring and dystopian futures! It was a real treat.&lt;/p&gt;
 
@@ -2356,7 +2358,7 @@ Cheers, Anna&lt;/p&gt;    &lt;/div&gt;
       <title>Upfront Podcast</title>
       <link>https://laurakalbag.com/upfront-podcast/</link>
       <pubDate>Fri, 15 Feb 2013 09:06:32 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/upfront-podcast/</guid>
       <description>&lt;p&gt;I was a guest on &lt;a href=&#34;http://upfrontpodcast.com/2013/02/15/episode4.html&#34;&gt;the Upfront podcast with the lovely Jack Franklin and Ben Howdle&lt;/a&gt;. They got me on to talk about accessibility, but we ended up chatting about the mentoring project too! You can &lt;a href=&#34;http://upfrontpodcast.com/2013/02/15/episode4.html&#34;&gt;listen on their website&lt;/a&gt;, or &lt;a href=&#34;https://itunes.apple.com/gb/podcast/upfront-podcast/id598389212?mt=2&#34;&gt;listen and subscribe on iTunes&lt;/a&gt;.&lt;/p&gt;
 
@@ -2377,7 +2379,7 @@ Cheers, Anna&lt;/p&gt;    &lt;/div&gt;
       <title>Grid Frameworks and why I’m not keen on them…</title>
       <link>https://laurakalbag.com/grid-frameworks/</link>
       <pubDate>Tue, 01 Jan 2013 19:01:59 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/grid-frameworks/</guid>
       <description>
 
@@ -2509,7 +2511,7 @@ If I’m honest, I would actually have to pay more attention if a supplier uses 
       <title>Labels in input fields aren’t such a good idea</title>
       <link>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</link>
       <pubDate>Fri, 27 May 2011 17:52:37 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/</guid>
       <description>
 
@@ -3255,7 +3257,7 @@ I really like the aesthetic of having the label inside the input field –; just
       <title>Future Of Web Design 2011 –; The Summary –; Day One</title>
       <link>https://laurakalbag.com/fowd-2011-summary-day-one/</link>
       <pubDate>Mon, 23 May 2011 15:05:31 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/fowd-2011-summary-day-one/</guid>
       <description>
 
@@ -3370,7 +3372,7 @@ I really like the aesthetic of having the label inside the input field –; just
       <title>WordPress 3.0 Part 3—Theme Development and the Design</title>
       <link>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</link>
       <pubDate>Fri, 16 Jul 2010 21:50:57 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/wordpress-3-0-theme-development-and-the-design/</guid>
       <description>
 

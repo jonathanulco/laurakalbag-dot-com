@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Thu, 02 Apr 2015 10:57:51 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/online-conference/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Speaking at the Sherpa Summit</title>
       <link>https://laurakalbag.com/speaking-at-the-sherpa-summit/</link>
       <pubDate>Thu, 02 Apr 2015 10:57:51 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-the-sherpa-summit/</guid>
       <description>
 
@@ -44,7 +46,7 @@
       <title>Sass For Designers at CSS Summit 2013</title>
       <link>https://laurakalbag.com/css-summit-2013/</link>
       <pubDate>Thu, 09 May 2013 09:13:01 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/css-summit-2013/</guid>
       <description>
 

@@ -6,6 +6,8 @@
     <description>Recent posts from Laura Kalbag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
+    <managingEditor>hi@laurakalbag.com (Laura Kalbag)</managingEditor>
+    <webMaster>hi@laurakalbag.com (Laura Kalbag)</webMaster>
     <lastBuildDate>Wed, 03 Jul 2013 16:49:56 +0000</lastBuildDate>
     
         <atom:link href="https://laurakalbag.com/tags/event/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Speaking at Dare conference</title>
       <link>https://laurakalbag.com/speaking-at-dare-conference/</link>
       <pubDate>Wed, 03 Jul 2013 16:49:56 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/speaking-at-dare-conference/</guid>
       <description>
 
@@ -47,7 +49,7 @@
       <title>Notes from Ampersand conference — My Digest</title>
       <link>https://laurakalbag.com/digest-from-ampersand-conf/</link>
       <pubDate>Wed, 22 Jun 2011 09:26:45 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/digest-from-ampersand-conf/</guid>
       <description>
 
@@ -370,7 +372,7 @@ See you next year I hope!
       <title>The Big M</title>
       <link>https://laurakalbag.com/the-big-m/</link>
       <pubDate>Fri, 25 Mar 2011 18:15:25 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/the-big-m/</guid>
       <description>
 
@@ -590,7 +592,7 @@ See you next year I hope!
       <title>dConstruct 2010</title>
       <link>https://laurakalbag.com/dconstruct-2010/</link>
       <pubDate>Sun, 05 Sep 2010 12:58:54 +0000</pubDate>
-      
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/dconstruct-2010/</guid>
       <description>
 
