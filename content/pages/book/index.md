@@ -9,6 +9,7 @@ menu:
 body_classes: "book colours-004"
 slug: "book"
 description: "I wrote a book! It’s called *Accessibility For Everyone*, and you can buy it in paperback and ebook from A Book Apart."
+image: "/images/2017/12/book-collage.jpg"
 ---
 
 I wrote a book! It’s called *Accessibility For Everyone*, and you can [buy it in paperback and ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone). Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.<!--more-->
