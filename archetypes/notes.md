@@ -8,8 +8,10 @@ body_classes: "notes colours-008"
 twitterurl: ""
 mastodonurl: ""
 instagramurl: ""
+image: ""
+description: ""
 ---
 
 Note text
 
-{{< figure class="note-image" src="office-dog.png" link="https://alink.com" alt="alt text" caption="caption text"> }}
+{{<figure class="note-image" src="office-dog.png" link="https://alink.com" alt="alt text" caption="caption text">}}

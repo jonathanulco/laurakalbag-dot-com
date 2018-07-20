@@ -5,4 +5,6 @@ draft: true
 tags: []
 categories: []
 body_classes: "blog colours-001"
+image: ""
+description: ""
 ---
