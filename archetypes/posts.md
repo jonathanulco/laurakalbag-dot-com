@@ -9,4 +9,6 @@ image: ""
 description: ""
 ---
 
-{{< figure class="note-image" src="/images/2018/06/office-dog.png" alt="alt text" caption="caption text"> }}
+Post text<!--more-->
+
+{{<figure class="note-image" src="office-dog.png" link="https://alink.com" alt="alt text" caption="caption text">}}
