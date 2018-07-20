@@ -7,17 +7,21 @@ menu:
   weight: 30
 body_classes: "speaking colours-003"
 slug: "speaking"
-description: "I love conferences and meetups, and attend as many as I can, I think they’re a great way to stay up-to-date with the latest in technology, meet other like-minded folk and it gets me out of the office."
+description: "I love conferences and meetups, they’re a great way to share what we’re working on, learn from like-minded folk, and meet new friends. I’ve been really lucky to be invited to speak at over fifty conferences in the last eight years, doing presentations, panels, interviews, and even playing MC."
 ---
 
-I love conferences and meetups, and attend as many as I can, I think they’re a great way to stay up-to-date with the latest in technology, meet other like-minded folk and it gets me out of the office.<!--more-->
+I love conferences and meetups, they’re a great way to share what we’re working on, learn from like-minded folk, and meet new friends. I’ve been really lucky to be invited to speak at over fifty conferences in the last eight years, doing presentations, panels, interviews, and even playing <abbr title="Master of Ceremonies">MC</abbr>.<!--more-->
 
-I’ve been really lucky to be invited to speak at a few conferences. You can find my [upcoming talks on the Ind.ie site](https://ind.ie/events). There’s [videos of a few past talks](https://ind.ie/services/talks/#laura) on the Ind.ie site too. You can find a list of most of my [past talks](#past-talks) below.
+You can find my [upcoming talks on the Ind.ie site](https://ind.ie/events). There’s [videos of a few past talks](https://ind.ie/services/talks/#laura) on the Ind.ie site too. You can find a list of most of my [past talks](#past-talks) below.
+
+If you think I might be a good fit for speaking at your event, please [drop me an email](mailto:laura@ind.ie), I’d love to hear from you. My talks are easy-to-understand introductions to privacy, ethical design, and accessibility/inclusive design. They are usually designed for a wide audience of people in the web and tech industry, but can contain more technical detail or more accessible explanations to better suit the background of the audience. I’m very friendly to non-technical audiences, and try to practice accessibility and inclusivity in everything I do.
 
 [{{< figure src="/images/2012/10/Me-speaking-at-12-Devs.jpg" alt="Me speaking at 12 Devs of Winter" caption="A photo of me speaking at 12 Devs of Winter in 2014, taken by the talented Alex Jegtnes" >}}](http://www.flickr.com/photos/68110573@N02/12132726904/)
 
 ## Past Talks
 
+* **Ask Direct Fundraising Summer School** in Dublin, Ireland <abbr class="dtstart" title="2018-07-12">12th-13th July 2018</abbr>
+* **Futurefest** in London, UK <abbr class="dtstart" title="2018-07-6">6th-7th July 2018</abbr>
 * **Webinale** in Berlin, Germany <abbr class="dtstart" title="2018-06-5">5th June 2018</abbr>
 * **NZZ X.Days** in Interlaken, Switzerland <abbr class="dtstart" title="2018-03-21">21st March 2018</abbr>
 * **UX Copenhagen** in Copenhagen, Denmark <abbr class="dtstart" title="2018-02-27">27th February 2018</abbr>
@@ -67,7 +71,7 @@ I’ve been really lucky to be invited to speak at a few conferences. You can fi
 * **From The Front – The Treasure of Frontend Island** in Italy: Bologna on <abbr class="dtstart" title="2012-09-20">20th</abbr>– <abbr class="dtend" title="2012-09-21">21st September 2012</abbr>
 * **Over the Air 2012** in UK: Bletchley Park on <abbr class="dtstart" title="2012-06-01">1st</abbr>– <abbr class="dtend" title="2012-06-02">2nd June 2012</abbr>
 * **The Future of Web Design London 2012** in UK: London on <abbr class="dtstart" title="2012-05-14">14th</abbr>– <abbr class="dtend" title="2012-05-16">16th May 2012</abbr>
-* **Future Insights Live 2012**United States United States: Las Vegas on <abbr class="dtstart" title="2012-04-30">30th April</abbr> to <abbr class="dtend" title="2012-05-04">4th May 2012</abbr>
+* **Future Insights Live 2012** United States United States: Las Vegas on <abbr class="dtstart" title="2012-04-30">30th April</abbr> to <abbr class="dtend" title="2012-05-04">4th May 2012</abbr>
 * **London Web Standards: Flux** in UK: London on <abbr class="dtstart" title="2012-03-12">12th March 2012</abbr>
 * **Update 2011** in UK: Brighton on <abbr class="dtstart" title="2011-09-05">5th September 2011</abbr>
 * **Bathcamp (the barcamp) 2010** in UK: Bath on <abbr class="dtstart" title="2010-10-30">30th</abbr>– <abbr class="dtend" title="2010-10-31">31st October 2010</abbr>
