@@ -1,0 +1,23 @@
+{{ define "main" }}
+	<article>
+		<div class="entry-content">
+			{{ .Content }}
+		</div>
+	</article>
+	{{ $section := where .Data.Pages "Section" .Section }}
+	<ul class="photos-list">
+		{{ range $section }}
+			<li class="summary">
+                <figure>
+                    <a href="{{ .URL }}">
+                        <img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}"/>
+                    </a>
+                    <figcaption>
+                        {{ .Content }}
+                        <div class="entry-notes"><p>{{ .Title }}.</p></div>
+                    </figcaption>
+                </figure>
+			</li>
+		{{ end }}
+	</ul>
+{{ end }}
