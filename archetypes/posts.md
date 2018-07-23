@@ -6,6 +6,7 @@ tags: []
 categories: []
 body_classes: "blog colours-001"
 image: ""
+imagealt: ""
 description: ""
 ---
 

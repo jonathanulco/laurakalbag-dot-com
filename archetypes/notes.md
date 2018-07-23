@@ -9,6 +9,7 @@ twitterurl: ""
 mastodonurl: ""
 instagramurl: ""
 image: ""
+imagealt: ""
 description: ""
 ---
 
