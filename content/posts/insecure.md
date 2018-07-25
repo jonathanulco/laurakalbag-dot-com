@@ -5,6 +5,7 @@ tags: []
 categories: []
 body_classes: "blog colours-005"
 image: "/images/2018/07/weary-laura.jpg"
+imageAlt: "Photo of me looking wearily at the camera."
 description: "The state of sharing on the web is broken."
 ---
 
