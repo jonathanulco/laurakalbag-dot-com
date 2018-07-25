@@ -14,16 +14,81 @@
     
     
     <item>
+      <title>Cross-posting using meta information</title>
+      <link>https://laurakalbag.com/crossposting-using-meta/</link>
+      <pubDate>Wed, 25 Jul 2018 10:31:01 +0100</pubDate>
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
+      <guid>https://laurakalbag.com/crossposting-using-meta/</guid>
+      <description>&lt;p&gt;Writing a few blog posts last week, and cross-posting them in various locations, got me thinking about how meta information can be reused.&lt;/p&gt;
+
+&lt;p&gt;I started looking into the meta information in the &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; of each page, and how best to format it so that social networks (Twitter, Facebook, messaging apps…) would pick up on titles, descriptions and images. That way, when I share a URL from my site, if the site/app has the functionality, they can expand that URL into a preview including a nicely-formatted title, summary, and image. When a platform expands a URL like this, it also saves on the cross-posting hassle, as just posting a URL pulls in the acceptable length of text, correct number of images, and any other arbitrary platform-specific limits. I can just paste a URL into an Apple Message, Slack, Facebook, Wire, and Twitter, and those platforms do the work:&lt;/p&gt;
+
+&lt;figure&gt; 
+    &lt;img src=&#34;https://laurakalbag.com/images/2018/07/on-slack.jpg&#34; alt=&#34;On Slack the URL expands to a tiny thumbnail image, title, and summary, as well as the site’s favicon.&#34; style=&#34;max-width:482px;&#34;&gt;
+    &lt;ficaption&gt;&lt;p&gt;The URL expanded on Slack&lt;/p&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt; 
+    &lt;img src=&#34;https://laurakalbag.com/images/2018/07/on-twitter.png&#34; alt=&#34;On Twitter the URL expands to a thumbnail image, title, and summary.&#34; style=&#34;max-width:587px;&#34;&gt;
+    &lt;ficaption&gt;&lt;p&gt;The URL expanded on Twitter&lt;/p&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt; 
+    &lt;img src=&#34;https://laurakalbag.com/images/2018/07/on-wire.jpg&#34; alt=&#34;On Wire the URL just expands to include the title.&#34;  style=&#34;max-width:475px;&#34;&gt;
+    &lt;ficaption&gt;&lt;p&gt;The URL expanded on Wire&lt;/p&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt; 
+    &lt;img src=&#34;https://laurakalbag.com/images/2018/07/on-messages.png&#34; alt=&#34;On Apple Messages the URL expands to a large image and title.&#34; style=&#34;max-width:227px;&#34;&gt;
+    &lt;ficaption&gt;&lt;p&gt;The URL expanded on Apple Messages&lt;/p&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt; 
+    &lt;img src=&#34;https://laurakalbag.com/images/2018/07/on-facebook.png&#34; alt=&#34;On Facebook the URL expands to a large image, title, and summary.&#34; style=&#34;max-width:502px;&#34;&gt;
+    &lt;ficaption&gt;&lt;p&gt;The URL expanded on Facebook&lt;/p&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;An additional bonus is that if anyone else shares that URL from my site, the same preview will usually be shown, so I have some additional control.&lt;/p&gt;
+
+&lt;p&gt;Writing &lt;code&gt;&amp;lt;meta&amp;gt;&lt;/code&gt; tags for each blog post or note could be very time-consuming, especially as &lt;a href=&#34;https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards.html&#34;&gt;Twitter cards&lt;/a&gt;
+ and &lt;a href=&#34;http://ogp.me&#34;&gt;Open Graph&lt;/a&gt;
+ require different formats, resulting in (currently) sixteen meta tags on each page of my site. Fortunately, it seems like most sites pull from these same formats, or the standard &lt;code&gt;&amp;lt;meta name&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;meta author&amp;gt;&lt;/code&gt; etc. Hugo can generate these from its &lt;a href=&#34;https://github.com/gohugoio/hugo/tree/master/tpl/tplimpl/embedded/templates&#34;&gt;embedded templates&lt;/a&gt;, or you can use something like the &lt;a href=&#34;https://www.indiego.org.uk&#34;&gt;Indiego theme&lt;/a&gt;, which helps with other useful meta information such as microformats. Both types of templates use either the default title and summary in your post/page and site config, but can also use the &lt;a href=&#34;https://gohugo.io/content-management/front-matter#readout&#34;&gt;front matter&lt;/a&gt; from each post/page to override or add additional meta information. For example, here’s the extra front matter from my &lt;a href=&#34;https://laurakalbag.com/insecure&#34;&gt;Insecure blog post&lt;/a&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;image: &amp;quot;/images/2018/07/weary-laura.jpg&amp;quot;
+imageAlt: &amp;quot;Photo of me looking wearily at the camera.&amp;quot;
+description: &amp;quot;The state of sharing on the web is broken.&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Using this front matter, the platforms use the specified image, rather than my site’s favicon, and the specified description, rather than a truncated form of the first paragraph.&lt;/p&gt;
+
+&lt;p&gt;When I wrote a &lt;a href=&#34;https://laurakalbag.com/notes/2018/07/17/18/08/&#34;&gt;note about cross-posting the other week&lt;/a&gt;
+, I talked about manually producing summaries for different social media platforms. But when I was starting to add &lt;code&gt;description&lt;/code&gt; and &lt;code&gt;image&lt;/code&gt; to the front matter for my latest blog posts and site pages, I realised that the custom-written summaries and descriptions would be far more reusable if I wrote and stored them on my site, at the time of writing.&lt;/p&gt;
+
+&lt;p&gt;Maybe something like:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;image: &amp;quot;/images/2018/07/weary-laura.jpg&amp;quot;
+imageAlt: &amp;quot;Photo of me looking wearily at the camera.&amp;quot;
+description: &amp;quot;The state of sharing on the web is broken.&amp;quot;
+description280chars: &amp;quot;The state of sharing on the web is broken. After the Snowden revelations, it became clear that my sharing “content” willy-nilly was a potential danger to me. I was previously oblivious to the risk of sharing everything about myself on social media…&amp;quot;
+description500chars: &amp;quot;The state of sharing on the web is broken. After the Snowden revelations, it became clear that my sharing “content” willy-nilly was a potential danger to me. I was previously oblivious to the risk of sharing everything about myself on social media. The tiniest most harmless piece of information about me could be derived in a data set somewhere to become something very meaningful (even if it’s wrong) and potentially dangerous.&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I’d make the description lengths (280 characters for Twitter, 500 for Mastodon) generic, rather than specific to the social networks (e.g &lt;code&gt;descriptionMastodon&lt;/code&gt;) as I might want to use those description lengths for other platforms, and those may not be my platforms of choice in the future.&lt;/p&gt;
+
+&lt;p&gt;With these custom descriptions, I can either use them for automated posting (using something like &lt;a href=&#34;https://ifttt.com&#34;&gt;IFTTT&lt;/a&gt; or clever API integration), or just copy and paste the text out if I want to manually post somewhere. The descriptions are stored in a memorable and canonical location.&lt;/p&gt;
+
+&lt;p&gt;I suspect the arrival of &lt;a href=&#34;https://gohugo.io/content-management/image-processing/#the-image-page-resource&#34;&gt;image resources&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/content-management/organization/#page-bundles&#34;&gt;page bundles&lt;/a&gt; in Hugo will help with automating meta information around images. Though I’m yet to get my head around bundles, and I’m concerned that automatically grabbing images from folders means it may not be easy to include vital meta information like alternative text.&lt;/p&gt;
+
+&lt;p&gt;As I continue making my site more useful and efficient, I’m sure I will find other ways to automate as much of this as possible. Nothing beats handwritten copy, but I don’t need to be writing the same thing over and over again.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>20 July 2018 21:28 IST</title>
       <link>https://laurakalbag.com/notes/2018/07/20/21/28/</link>
       <pubDate>Fri, 20 Jul 2018 21:28:23 +0100</pubDate>
       <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/notes/2018/07/20/21/28/</guid>
       <description>
-&lt;figure class=&#34;note-image&#34;&gt;
+&lt;figure class=&#34;note-image grid&#34;&gt;
 	
-		&lt;img src=&#34;notes/2018/07/20/21/28/osky-1.jpg&#34; alt=&#34;Selfie of me and Oskar the huskamute, he’s looking at me.&#34;/&gt;
-		&lt;img src=&#34;notes/2018/07/20/21/28/osky-2.jpg&#34; alt=&#34;Selfie of me and Oskar the huskamute, he’s licking my face.&#34;/&gt;
+		&lt;img src=&#34;https://laurakalbag.com/notes/2018/07/20/21/28/osky-1.jpg&#34; alt=&#34;Selfie of me and Oskar the huskamute, he’s looking at me.&#34;/&gt;
+		&lt;img src=&#34;https://laurakalbag.com/notes/2018/07/20/21/28/osky-2.jpg&#34; alt=&#34;Selfie of me and Oskar the huskamute, he’s licking my face.&#34;/&gt;
 		
 	
 	
@@ -389,7 +454,7 @@ figcaption {
       <description>&lt;p&gt;How could you say no to this face?&lt;/p&gt;
 
 
-&lt;figure class=&#34;note-image&#34;&gt;
+&lt;figure class=&#34;note-image grid&#34;&gt;
 	
 		&lt;img src=&#34;https://laurakalbag.com/notes/2018/06/14/21/osky1.jpg&#34; alt=&#34;Oskar with his head on a cushion and begging eyes.&#34;/&gt;
 		&lt;img src=&#34;https://laurakalbag.com/notes/2018/06/14/21/osky2.jpg&#34; alt=&#34;Oskar with his head on a cushion and closed eyes.&#34;/&gt;
@@ -455,7 +520,7 @@ figcaption {
 &lt;p&gt;Today we learned I use US English pronunciation for a few random words. As the book is in US English, and I’m very British, hopefully it won’t be too off-putting… 😬&lt;/p&gt;
 
 
-&lt;figure class=&#34;note-image&#34;&gt;
+&lt;figure class=&#34;note-image grid&#34;&gt;
 	
 		&lt;img src=&#34;https://laurakalbag.com/notes/2018/05/18/18/laura.jpg&#34; alt=&#34;Selfie of me speaking into a pop shield in front of a microphone.&#34;/&gt;
 		&lt;img src=&#34;https://laurakalbag.com/notes/2018/05/18/18/sam.jpg&#34; alt=&#34;Half of Sam’s head and body, partly obscured by the microphone. It’s my view of him and the desk while we’re recording.&#34;/&gt;
@@ -502,7 +567,7 @@ figcaption {
       <author>hi@laurakalbag.com (Laura Kalbag)</author>
       <guid>https://laurakalbag.com/notes/2018/03/17/12/08/</guid>
       <description>
-&lt;figure class=&#34;note-image&#34;&gt;
+&lt;figure class=&#34;note-image grid&#34;&gt;
 	
 		&lt;img src=&#34;https://laurakalbag.com/notes/2018/03/17/12/me.jpg&#34; alt=&#34;Me wrapped in layers of scarf, hat and coat, with a cold scrunched face, all covered in fine icy snow.&#34;/&gt;
 		&lt;img src=&#34;https://laurakalbag.com/notes/2018/03/17/12/osky.jpg&#34; alt=&#34;Oskar the huskamute sitting proudly on the beach looking unphased by the snow.&#34;/&gt;
