@@ -1,17 +1,17 @@
 <a href="#content" class="skip-link">Skip navigation</a>
 <nav>
 	<div class="navigation-menu">
-		{{ $currentPage := . }}
+		{{- $currentPage := . -}}
 		{{ if .Site.Menus.main }}
 		<ul>
-			{{ range .Site.Menus.main }}
+			{{ range .Site.Menus.main -}}
 			<li {{if $currentPage.IsMenuCurrent "main" . }} class="active"{{end}}>
 				<a href="{{ .URL }}">
-					{{ .Name }}
+					{{- .Name -}}
 				</a>
 			</li>
-			{{ end }}
+			{{- end }}
 		</ul>
-	{{ end }}
+	{{- end }}
 	</div>
 </nav>
