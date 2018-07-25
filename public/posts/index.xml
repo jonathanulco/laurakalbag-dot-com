@@ -75,7 +75,8 @@ description500chars: &amp;quot;The state of sharing on the web is broken. After 
 
 &lt;p&gt;I suspect the arrival of &lt;a href=&#34;https://gohugo.io/content-management/image-processing/#the-image-page-resource&#34;&gt;image resources&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/content-management/organization/#page-bundles&#34;&gt;page bundles&lt;/a&gt; in Hugo will help with automating meta information around images. Though I’m yet to get my head around bundles, and I’m concerned that automatically grabbing images from folders means it may not be easy to include vital meta information like alternative text.&lt;/p&gt;
 
-&lt;p&gt;As I continue making my site more useful and efficient, I’m sure I will find other ways to automate as much of this as possible. Nothing beats handwritten copy, but I don’t need to be writing the same thing over and over again.&lt;/p&gt;</description>
+&lt;p&gt;As I continue making my site more useful and efficient, I’m sure I will find other ways to automate as much of this as possible. Nothing beats handwritten copy, but I don’t need to be writing the same thing over and over again.&lt;/p&gt;
+</description>
     </item>
     
     <item>

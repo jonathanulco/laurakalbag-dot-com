@@ -14,6 +14,33 @@
     
     
     <item>
+      <title>25 July 2018 14:04 IST</title>
+      <link>https://laurakalbag.com/notes/2018/07/25/14/04/</link>
+      <pubDate>Wed, 25 Jul 2018 14:04:44 +0100</pubDate>
+      <author>hi@laurakalbag.com (Laura Kalbag)</author>
+      <guid>https://laurakalbag.com/notes/2018/07/25/14/04/</guid>
+      <description>&lt;p&gt;Angry thoughts while updating the Better Blocker blocklist… (I get them every time!)&lt;/p&gt;
+
+&lt;p&gt;If you are providing third party services on a domain that is entirely unrelated to your (or any previously acquired) business name, you look veeeery sketchy…&lt;/p&gt;
+
+&lt;p&gt;I’m looking at you, Adobe. 👀&lt;/p&gt;
+
+&lt;p&gt;If you do this &lt;em&gt;and&lt;/em&gt; you hide your domain ownership in whois, you are extra sketchy.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Nothing makes me angry quite like researching trackers for Better Blocker.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Use &lt;a href=&#34;https://better.fyi&#34;&gt;Better Blocker&lt;/a&gt;? There’s new block rules waiting for you. Open the app to fetch them. A couple of little fixes and a couple of new trackers blocked. I’ll get more sorted over the next week (these were a little tricksy!)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://better.fyi/news/&#34;&gt;https://better.fyi/news/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Now I am having a large G&amp;amp;T.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Cross-posting using meta information</title>
       <link>https://laurakalbag.com/crossposting-using-meta/</link>
       <pubDate>Wed, 25 Jul 2018 10:31:01 +0100</pubDate>
@@ -75,7 +102,8 @@ description500chars: &amp;quot;The state of sharing on the web is broken. After 
 
 &lt;p&gt;I suspect the arrival of &lt;a href=&#34;https://gohugo.io/content-management/image-processing/#the-image-page-resource&#34;&gt;image resources&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/content-management/organization/#page-bundles&#34;&gt;page bundles&lt;/a&gt; in Hugo will help with automating meta information around images. Though I’m yet to get my head around bundles, and I’m concerned that automatically grabbing images from folders means it may not be easy to include vital meta information like alternative text.&lt;/p&gt;
 
-&lt;p&gt;As I continue making my site more useful and efficient, I’m sure I will find other ways to automate as much of this as possible. Nothing beats handwritten copy, but I don’t need to be writing the same thing over and over again.&lt;/p&gt;</description>
+&lt;p&gt;As I continue making my site more useful and efficient, I’m sure I will find other ways to automate as much of this as possible. Nothing beats handwritten copy, but I don’t need to be writing the same thing over and over again.&lt;/p&gt;
+</description>
     </item>
     
     <item>
