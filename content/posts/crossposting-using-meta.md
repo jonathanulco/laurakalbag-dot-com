@@ -8,7 +8,7 @@ image: ""
 description: "Writing a few blog posts last week, and cross-posting them in various locations, got me thinking about how meta information can be reused."
 ---
 
-Writing a few blog posts last week, and cross-posting them in various locations, got me thinking about how meta information can be reused.<!--more-->
+Writing a few blog posts last week, and cross-posting them in various locations, got me thinking about how meta information can be reused.
 
 I started looking into the meta information in the `<head>` of each page, and how best to format it so that social networks (Twitter, Facebook, messaging apps…) would pick up on titles, descriptions and images. That way, when I share a URL from my site, if the site/app has the functionality, they can expand that URL into a preview including a nicely-formatted title, summary, and image. When a platform expands a URL like this, it also saves on the cross-posting hassle, as just posting a URL pulls in the acceptable length of text, correct number of images, and any other arbitrary platform-specific limits. I can just paste a URL into an Apple Message, Slack, Facebook, Wire, and Twitter, and those platforms do the work:
 
