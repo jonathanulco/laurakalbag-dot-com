@@ -1,0 +1,20 @@
+{{ define "main" }}
+	<article>
+		<div class="entry-content">
+			{{ .Content }}
+		</div>
+	</article>
+	<ul class="notes-list">
+		{{ range where .Site.Pages "Latest" .Section }}
+			<li>
+				<h2>
+					{{ .Title }}
+				</h2>
+				<div class="summary">
+					{{ .Content }}
+					<div class="entry-notes"><p><a href="{{ .URL }}">Canonical URL for {{ .Title }}</a>.</p></div>
+				</div>
+			</li>
+		{{ end }}
+	</ul>
+{{ end }}
