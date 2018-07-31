@@ -5155,13 +5155,13 @@ figure a {
   text-decoration: none;
 }
 
-	figure {
+	figure.grid {
 		display: grid;
 		grid-template-areas:"image1 image2 image3"
       	"figcaption figcaption figcaption";
 	}
 
-	figcaption {
+	figure.grid figcaption {
       grid-area: figcaption;
 	}
 figcaption {
