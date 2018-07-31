@@ -3,6 +3,7 @@ title: {{ dateFormat "02 January 2006 15:04 MST" .Date }}
 date: {{ .Date }}
 tags: []
 categories: []
+type: ["photo", "latest"]
 visibility: ["public"]
 body_classes: "notes colours-008"
 twitterurl: ""

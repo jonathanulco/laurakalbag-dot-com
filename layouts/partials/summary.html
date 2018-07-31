@@ -1,13 +1,18 @@
-<li>
-	<h3>
+<li class="post">
+	<h2>
 		<a href="{{ .URL }}">
 		{{- .Title -}}
 		</a>
-	</h3>
-	<p class="entry-meta">Posted: {{.Date.Format "2 January 2006"}}</p>
+	</h2>
+	<div class="entry-meta">
+		<p>Posted: <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+			{{- .Date.Format "2" | humanize }} {{ .Date.Format "January, 2006" -}}
+			</time>
+		</p>
+	</div>
 	<div class="summary">
 		<p>
-		{{- .Summary }} <a href="{{ .URL }}">Read {{ .Title -}}</a>.
+		{{- .Summary }} <a href="{{ .URL }}">Read {{ .Title }}</a>.
 		</p>
 	</div>
 </li>

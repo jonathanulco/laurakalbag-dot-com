@@ -4,6 +4,7 @@ date: {{ .Date }}
 draft: true
 tags: []
 categories: []
+type: "post"
 body_classes: "blog colours-001"
 image: ""
 imagealt: ""

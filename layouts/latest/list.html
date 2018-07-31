@@ -4,9 +4,9 @@
 			{{- .Content -}}
 		</div>
 	</article>
-	{{- $section := where .Data.Pages "Section" .Section -}}
-	<ul class="posts-list">
-		{{- range $section -}}
+	
+	<ul class="latest-list">
+		{{ range .Pages }}
 			{{ partial "summary.html" . }}
 		{{ end }}
 	</ul>
