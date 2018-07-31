@@ -9,8 +9,16 @@ twitterurl: ""
 mastodonurl: ""
 instagramurl: ""
 image: ""
-imagealt: ""
+imageAlt: ""
+image2: ""
+imageAlt2: ""
+image3: ""
+imageAlt3: ""
+image4: ""
+imageAlt4: ""
+image5: ""
+imageAlt5: ""
 description: ""
 ---
 
-Text here will be rendered as the figure caption.
+Text here will be rendered as ordinary text on the single page version of the photo.

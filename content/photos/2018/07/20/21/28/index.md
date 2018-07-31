@@ -9,8 +9,14 @@ twitterurl: ""
 mastodonurl: ""
 instagramurl: ""
 image: "/notes/2018/07/20/21/28/osky-1.jpg"
-imagealt: "Selfie of me and Oskar the huskamute, he’s looking at me."
-description: ""
+imageAlt: "Selfie of me and Oskar the huskamute, he’s looking at me."
+image2: "Selfie of me and Oskar the huskamute, he’s licking my face."
+imageAlt2: "Selfie of me and Oskar the huskamute, he’s licking my face."
+image3: ""
+imageAlt3: ""
+image4: ""
+imageAlt4: ""
+image5: ""
+imageAlt5: ""
+description: "Inevitable"
 ---
-
-{{<figure class="note-image" src="/notes/2018/07/20/21/28/osky-1.jpg" alt="Selfie of me and Oskar the huskamute, he’s looking at me." src2="/notes/2018/07/20/21/28/osky-2.jpg" alt2="Selfie of me and Oskar the huskamute, he’s licking my face." caption="Inevitable">}}
