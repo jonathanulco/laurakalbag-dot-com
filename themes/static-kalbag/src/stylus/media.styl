@@ -34,3 +34,34 @@ img
 // for images with .always-full-height class, remove max-height
 figure.always-full-height img
 	max-height none
+
+.photos .posts-list .photo-post img
+	display block
+	margin 0
+
+// use @css as stylus isn’t compiling flexbox properly yet
+@css {
+	@media screen and (min-width: 35em) {
+		.photos .posts-list {
+			display: flex;
+			flex-wrap: wrap;
+			align-items: flex-start;
+		}
+
+		.photos .posts-list	.photo-post {
+			flex: 1 1 auto;
+		}
+
+		.photos .posts-list .photo-post img {
+			height: auto;
+			max-height: 15em;
+			max-width: 100%;
+			width: auto;
+		}
+	}
+}
+
+// don't do underline on photo links
+body ul.posts-list li.photo-post a, body ul.posts-list li.photo-post a:hover, body ul.posts-list li.photo-post a:active
+	background none
+	display block
