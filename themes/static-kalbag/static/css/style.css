@@ -5191,11 +5191,16 @@ figure.always-full-height img {
 		.photos .posts-list {
 			display: flex;
 			flex-wrap: wrap;
-			align-items: flex-start;
+			align-items: stretch;
+			align-content: space-between;
 		}
 
 		/* for square/default photos */
 		.photos .posts-list	.photo-post {
+			flex: 1 1 10em;
+		}
+
+		.photos .posts-list	.photo-post.portrait {
 			flex: 1 1 10em;
 		}
 
