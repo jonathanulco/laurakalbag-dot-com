@@ -1,18 +1,34 @@
-<li class="post">
-	<h2>
+<li class="post {{ if eq .Type "photos" }}photo-post {{ end -}}{{ if eq .Type "notes" }}note-post {{ end -}}">
+	{{ if ne .Type "photos" -}}
+		<h2>
+			<a href="{{ .URL }}">
+			{{- .Title -}}
+			</a>
+		</h2>
+		{{ if ne .Type "notes" -}}
+			<div class="entry-meta">
+				<p>Posted: <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+					{{- .Date.Format "2" | humanize }} {{ .Date.Format "January, 2006" -}}
+					</time>
+				</p>
+			</div>
+		{{- end }}
+		{{ if eq .Type "notes" -}}
+			<div class="summary">
+				{{ .Content }}
+				<div class="entry-notes"><p><a href="{{ .URL }}">Canonical URL for {{ .Title }}</a>.</p></div>
+			</div>
+		{{ else }}
+			<div class="summary">
+				<p>
+				{{- .Summary }} <a href="{{ .URL }}">Read {{ .Title }}</a>.
+				</p>
+			</div>
+		{{ end }}
+	{{- end }}
+	{{ if eq .Type "photos" -}}
 		<a href="{{ .URL }}">
-		{{- .Title -}}
+			<img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}"/>
 		</a>
-	</h2>
-	<div class="entry-meta">
-		<p>Posted: <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-			{{- .Date.Format "2" | humanize }} {{ .Date.Format "January, 2006" -}}
-			</time>
-		</p>
-	</div>
-	<div class="summary">
-		<p>
-		{{- .Summary }} <a href="{{ .URL }}">Read {{ .Title }}</a>.
-		</p>
-	</div>
+	{{- end }}
 </li>

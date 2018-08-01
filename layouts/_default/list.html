@@ -5,7 +5,7 @@
 		</div>
 	</article>
 	{{- $section := where .Data.Pages "Section" .Section -}}
-	<ul class="posts-list">
+	<ul class="posts-list {{- if eq .Type "photo" }}photos-list {{ end -}}{{- if eq .Type "note" }}notes-list {{ end -}}">
 		{{- range $section -}}
 			{{ partial "summary.html" . }}
 		{{ end }}
