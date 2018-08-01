@@ -46,30 +46,29 @@ figure.always-full-height img
 @css {
 	@media screen and (min-width: 35em) {
 		.photos .posts-list {
-			display: flex;
-			flex-wrap: wrap;
-			align-items: stretch;
-			align-content: space-between;
+			display: grid;
+			grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
+			grid-gap: 1em;
+			grid-auto-flow: dense;
 		}
 
 		/* for square/default photos */
 		.photos .posts-list	.photo-post {
-			flex: 1 1 10em;
+			grid-column-end: span 1;
 		}
 
 		.photos .posts-list	.photo-post.portrait {
-			flex: 1 1 10em;
+			grid-column-end: span 1;
 		}
 
 		.photos .posts-list	.photo-post.landscape {
-			flex: 1 1 20em;
+			grid-column-end: span 2;
 		}
 
 		.photos .posts-list .photo-post img {
-			height: auto;
-			max-height: none;
-			max-width: 100%;
-			width: auto;
+			object-fit: cover;
+			height: 100%;
+			width: 100%;
 		}
 	}
 }
