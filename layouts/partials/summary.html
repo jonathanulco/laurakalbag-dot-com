@@ -30,25 +30,35 @@
 		<a href="{{ .URL }}">
 			<img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}"/>
 		</a>
-		{{ if .Params.image2 }}
+	{{- end }}
+</li>
+{{ if eq .Type "photos" -}}
+	{{ if .Params.image2 }}
+		<li class="photo-post">
 			<a href="{{ .URL }}">
 				<img src="{{ .Params.image2 }}" alt="{{ .Params.imageAlt2 }}"/>
 			</a>
-		{{ end }}
-		{{ if .Params.image3 }}
+		</li>
+	{{ end }}
+	{{ if .Params.image3 }}
+		<li class="photo-post">
 			<a href="{{ .URL }}">
 				<img src="{{ .Params.image3 }}" alt="{{ .Params.imageAlt3 }}"/>
 			</a>
-		{{ end }}
-		{{ if .Params.image4 }}
+		</li>
+	{{ end }}
+	{{ if .Params.image4 }}
+		<li class="photo-post">
 			<a href="{{ .URL }}">
 				<img src="{{ .Params.image4 }}" alt="{{ .Params.imageAlt4 }}"/>
 			</a>
-		{{ end }}
-		{{ if .Params.image5 }}
+		</li>
+	{{ end }}
+	{{ if .Params.image5 }}
+		<li class="photo-post">
 			<a href="{{ .URL }}">
 				<img src="{{ .Params.image5 }}" alt="{{ .Params.imageAlt5 }}"/>
 			</a>
-		{{ end }}
-	{{- end }}
-</li>
+		</li>
+	{{ end }}
+{{ end }}
