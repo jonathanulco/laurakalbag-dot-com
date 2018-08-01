@@ -1,7 +1,7 @@
 ---
 title: "Photos"
 date: 2018-07-23T17:00:02+01:00
-body_classes: "notes colours-008"
+body_classes: "photos colours-008"
 description: "Photos from Laura Kalbag."
 ---
 
