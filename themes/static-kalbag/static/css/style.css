@@ -5191,13 +5191,18 @@ figure.always-full-height img {
 			align-items: flex-start;
 		}
 
+		/* for square/default photos */
 		.photos .posts-list	.photo-post {
-			flex: 1 1 auto;
+			flex: 1 1 10em;
+		}
+
+		.photos .posts-list	.photo-post.landscape {
+			flex: 1 1 20em;
 		}
 
 		.photos .posts-list .photo-post img {
 			height: auto;
-			max-height: 15em;
+			max-height: none;
 			max-width: 100%;
 			width: auto;
 		}

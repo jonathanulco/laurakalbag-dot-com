@@ -1,4 +1,4 @@
-<li class="post {{ if eq .Type "photos" }}photo-post {{ end -}}{{ if eq .Type "notes" }}note-post {{ end -}}">
+<li class="post {{ if eq .Type "photos" }}photo-post {{ end -}}{{ if eq .Type "notes" }}note-post {{ end -}}{{ with .Params.imageOrientation }} {{ . }}{{ end }}">
 	{{ if ne .Type "photos" -}}
 		<h2>
 			<a href="{{ .URL }}">
