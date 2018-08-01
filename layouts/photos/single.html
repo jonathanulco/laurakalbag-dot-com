@@ -1,0 +1,9 @@
+{{ define "header" }}{{ partial "header.html" . }}{{ end }}
+{{ define "main" }}
+	<article class="h-entry">
+		<h1 class="page-title p-name">{{ .Page.Title }}</h1>
+		<div class="entry-content e-content">
+		    {{ .Content }}
+		</div>
+	</article>
+{{ end }}
