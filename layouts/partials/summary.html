@@ -30,5 +30,25 @@
 		<a href="{{ .URL }}">
 			<img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}"/>
 		</a>
+		{{ if .Params.image2 }}
+			<a href="{{ .URL }}">
+				<img src="{{ .Params.image2 }}" alt="{{ .Params.imageAlt2 }}"/>
+			</a>
+		{{ end }}
+		{{ if .Params.image3 }}
+			<a href="{{ .URL }}">
+				<img src="{{ .Params.image3 }}" alt="{{ .Params.imageAlt3 }}"/>
+			</a>
+		{{ end }}
+		{{ if .Params.image4 }}
+			<a href="{{ .URL }}">
+				<img src="{{ .Params.image4 }}" alt="{{ .Params.imageAlt4 }}"/>
+			</a>
+		{{ end }}
+		{{ if .Params.image5 }}
+			<a href="{{ .URL }}">
+				<img src="{{ .Params.image5 }}" alt="{{ .Params.imageAlt5 }}"/>
+			</a>
+		{{ end }}
 	{{- end }}
 </li>
