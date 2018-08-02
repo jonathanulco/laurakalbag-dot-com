@@ -90,12 +90,14 @@ h1 {
     font-size: 4em;
   }
 }
-.notes article .page-title {
+.notes article .page-title,
+.photos article .page-title {
   font-size: 2em;
   margin-top: 2em;
 }
 @media screen and (min-width: 35em) {
-  .notes article .page-title {
+  .notes article .page-title,
+  .photos article .page-title {
     font-size: 2.5em;
   }
 }
