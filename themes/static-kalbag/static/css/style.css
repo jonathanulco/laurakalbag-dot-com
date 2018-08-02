@@ -5252,6 +5252,14 @@ figure.always-full-height img {
 		justify-content: flex-start;
 		align-content: stretch;
 	}
+
+	.latest-photos li a {
+		margin-right: 0.25em;
+	}
+
+	.latest-photos li:last-of-type a {
+		margin-right: 0;
+	}
 body ul.posts-list li.photo-post a,
 body ul.posts-list li.photo-post a:hover,
 body ul.posts-list li.photo-post a:active {
