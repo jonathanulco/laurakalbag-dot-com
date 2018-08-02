@@ -60,12 +60,17 @@ pre
 
 &.blog
 	// set active navigation link background colour
-	.navigation-menu li a[href="/posts/"]
+	.navigation-menu li a[href="/latest/"]
 		background $primary-bg
 
 &.notes
 	// set active navigation link background colour
-	.navigation-menu li a[href="/notes/"]
+	.navigation-menu li a[href="/latest/"]
+		background $primary-bg
+
+&.photos
+	// set active navigation link background colour
+	.navigation-menu li a[href="/latest/"]
 		background $primary-bg
 
 &.kind-404
@@ -96,10 +101,10 @@ highlight-and-underline-on-interaction()
 &.book .navigation-menu a[href="/about-me/"],
 &.book .navigation-menu a[href="/posts/"],
 &.blog .navigation-menu a[href="/book/"],
-&.blog .navigation-menu a[href="/notes/"],
-&.notes .navigation-menu a[href="/posts/"],
-&.notes .navigation-menu a[href="/speaking/"],
-&.speaking .navigation-menu a[href="/notes/"],
+&.blog .navigation-menu a[href="/latest/"],
+&.latest .navigation-menu a[href="/posts/"],
+&.latest .navigation-menu a[href="/speaking/"],
+&.speaking .navigation-menu a[href="/latest/"],
 &.speaking .navigation-menu a[href="/contact-me/"],
 &.contact-me .navigation-menu a[href="/speaking/"]
 	background alpha($tab-two, .8)
@@ -114,13 +119,13 @@ highlight-and-underline-on-interaction()
 &.kind-404 .navigation-menu a[href="/book/"],
 &.about-me .navigation-menu a[href="/posts/"],
 &.book .navigation-menu a[href="/"],
-&.book .navigation-menu a[href="/notes/"],
+&.book .navigation-menu a[href="/latest/"],
 &.blog .navigation-menu a[href="/about-me/"],
 &.blog .navigation-menu a[href="/speaking/"],
-&.notes .navigation-menu a[href="/book/"],
-&.notes .navigation-menu a[href="/contact-me/"],
+&.latest .navigation-menu a[href="/book/"],
+&.latest .navigation-menu a[href="/contact-me/"],
 &.speaking .navigation-menu a[href="/posts/"],
-&.contact-me .navigation-menu a[href="/notes/"]
+&.contact-me .navigation-menu a[href="/latest/"]
 	background alpha($tab-three, .8)
 	color $darklinktext
 
@@ -131,11 +136,11 @@ highlight-and-underline-on-interaction()
 // darken text accordingly
 &.home .navigation-menu a[href="/posts/"],
 &.kind-404 .navigation-menu a[href="/posts/"],
-&.about-me .navigation-menu a[href="/notes/"],
+&.about-me .navigation-menu a[href="/latest/"],
 &.blog .navigation-menu a[href="/"],
 &.blog .navigation-menu a[href="/contact-me/"],
 &.book .navigation-menu a[href="/speaking/"],
-&.notes .navigation-menu a[href="/about-me/"],
+&.latest .navigation-menu a[href="/about-me/"],
 &.speaking .navigation-menu a[href="/book/"],
 &.contact-me .navigation-menu a[href="/posts/"]
 	background alpha($tab-four, .8)
@@ -146,11 +151,11 @@ highlight-and-underline-on-interaction()
 
 // links fourth before and after active navigation
 // darken text accordingly
-&.home .navigation-menu a[href="/notes/"],
-&.kind-404 .navigation-menu a[href="/notes/"],
+&.home .navigation-menu a[href="/latest/"],
+&.kind-404 .navigation-menu a[href="/latest/"],
 &.about-me .navigation-menu a[href="/speaking/"],
 &.book .navigation-menu a[href="/contact-me/"],
-&.notes .navigation-menu a[href="/"],
+&.latest .navigation-menu a[href="/"],
 &.speaking .navigation-menu a[href="/about-me/"],
 &.contact-me .navigation-menu a[href="/book/"]
 	background alpha($tab-five, .8)
@@ -164,7 +169,7 @@ highlight-and-underline-on-interaction()
 &.home .navigation-menu a[href="/speaking/"],
 &.kind-404 .navigation-menu a[href="/speaking/"],
 &.about-me .navigation-menu a[href="/contact-me/"],
-&.notes .navigation-menu a[href="/"],
+&.latest .navigation-menu a[href="/"],
 &.speaking .navigation-menu a[href="/"],
 &.contact-me .navigation-menu a[href="/about-me/"]
 	background alpha($tab-six, .8)
