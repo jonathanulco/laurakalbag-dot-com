@@ -1,7 +1,10 @@
 <!-- image -->
 <figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
 	{{ with .Get "link"}}<a href="{{.}}">{{ end }}
-		<img src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }}{{ with .Get "srcset" }}{{ printf "srcset=%q" . | safeHTMLAttr }}{{ end }}{{ with .Get "sizes" }}{{ printf "sizes=%q" . | safeHTMLAttr }}{{ end }}/>
+		<img src="{{ .Get "src" }}" {{ if .Get "alt" }}alt="{{ with .Get "alt"}}{{.}}{{ end }}"{{ end }}{{ with .Get "srcset" }}{{ printf "srcset=%q" . | safeHTMLAttr }}{{ end }}{{ with .Get "sizes" }}{{ printf "sizes=%q" . | safeHTMLAttr }}{{ end }}/>
+	{{ if .Get "src2"}}</a>
+		<img src="{{ .Get "src2" }}" {{ if .Get "alt2" }}alt="{{ with .Get "alt2"}}{{.}}{{ end }}"{{ end }}{{ with .Get "srcset2" }}{{ printf "srcset=%q" . | safeHTMLAttr }}{{ end }}{{ with .Get "sizes2" }}{{ printf "sizes=%q" . | safeHTMLAttr }}{{ end }}/>
+	{{ end }}
 	{{ if .Get "link"}}</a>{{ end }}
 	{{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}
 	<figcaption>
