@@ -3,6 +3,8 @@ title: "Notes"
 date: 2018-06-28T18:20:02+01:00
 body_classes: "notes latest colours-008"
 description: "Scraps, notes, and photos from Laura Kalbag."
+aliases:
+    - /latest/notes/
 ---
 
 # Notes
