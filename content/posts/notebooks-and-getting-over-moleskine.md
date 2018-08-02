@@ -28,7 +28,7 @@ You don’t have to worry about hierarchy as you would on note taking software (
 
 One of the stigmas that I find are attached to Moleskines is the idea of the ‘perfect’ designer’s notebook. You envisage perfect neat pages of beautiful flowing joined handwriting or elaborate wall-worthy pen-and-ink drawings. I don’t know about everybody else, but my sketchbooks are filled with barely-legible scratchy notes and wireframes so wonky that you start to wonder whether browsers are available in parallelogram shapes.
 
-[<img src="http://farm3.static.flickr.com/2333/1819807458_71d6a434a9.jpg" alt="moleskine book 2, page 98" width="500" height="308" >}}
+[<img src="https://farm3.static.flickr.com/2333/1819807458_71d6a434a9.jpg" alt="moleskine book 2, page 98" width="500" height="308" >}}
 ](http://www.flickr.com/photos/flyingturtle/1819807458/ "moleskine book 2, page 98 by steve loya, on Flickr")
 
 *(The “perfect” style Moleskine page, from [Flickr](http://www.flickr.com/photos/flyingturtle/1819807458/ "moleskine book 2, page 98"))*
