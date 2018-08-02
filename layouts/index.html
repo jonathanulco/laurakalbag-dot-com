@@ -6,13 +6,13 @@
 	</article>
 	{{ range first 1 (where .Data.Pages "Section" "notes") }}
 		<h2>Latest Note</h2>
-		<div class="notes-list">
+		<div class="notes-list note-post">
 			<h3>
-				{{ .Title }}
+				<a href="{{ .URL }}">
+				{{- .Title -}}
+				</a>
 			</h3>
-			<div class="summary">
-				{{ .Content }}
-			</div>
+			{{ partial "summary.html" . }}
 		</div>
 	{{ end }}
 	{{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
@@ -34,7 +34,14 @@
 				{{ end }}
 				<ul class="posts-list">
 				{{ range (first 3 $section) }}
-					{{ partial "summary.html" . }}
+					<li class="post {{ if eq .Type "notes" }}note-post {{ end -}}">
+						<h3>
+							<a href="{{ .URL }}">
+							{{- .Title -}}
+							</a>
+						</h3>
+						{{ partial "summary.html" . }}
+					</li>
 				{{ end }}
 				</ul>
 				</section>

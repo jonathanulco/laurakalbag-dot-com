@@ -7,14 +7,7 @@
 	{{- $section := where .Data.Pages "Section" .Section -}}
 	<ul class="posts-list {{- if eq .Type "photo" }}photos-list {{ end -}}{{- if eq .Type "note" }}notes-list {{ end -}}">
 		{{- range $section -}}
-		<li class="post {{ if eq .Type "notes" }}note-post {{ end -}}">
-			<h2>
-				<a href="{{ .URL }}">
-				{{- .Title -}}
-				</a>
-			</h2>
-			{{ partial "summary.html" . }}
-		</li>
+			{{ partial "summary-photo.html" . }}
 		{{ end }}
 	</ul>
 {{ end }}

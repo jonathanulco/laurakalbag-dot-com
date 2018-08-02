@@ -1,0 +1,33 @@
+<li class="post photo-post {{ with .Params.imageOrientation }} {{ . }}{{ end }}{{ with .Params.imageOrientation2 }} {{ . }}{{ end }}{{ with .Params.imageOrientation3 }} {{ . }}{{ end }}{{ with .Params.imageOrientation4 }} {{ . }}{{ end }}{{ with .Params.imageOrientation5 }} {{ . }}{{ end }}">
+    <a href="{{ .URL }}">
+        <img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}"/>
+    </a>
+</li>
+{{ if .Params.image2 }}
+    <li class="photo-post">
+        <a href="{{ .URL }}">
+            <img src="{{ .Params.image2 }}" alt="{{ .Params.imageAlt2 }}"/>
+        </a>
+    </li>
+{{ end }}
+{{ if .Params.image3 }}
+    <li class="photo-post">
+        <a href="{{ .URL }}">
+            <img src="{{ .Params.image3 }}" alt="{{ .Params.imageAlt3 }}"/>
+        </a>
+    </li>
+{{ end }}
+{{ if .Params.image4 }}
+    <li class="photo-post">
+        <a href="{{ .URL }}">
+            <img src="{{ .Params.image4 }}" alt="{{ .Params.imageAlt4 }}"/>
+        </a>
+    </li>
+{{ end }}
+{{ if .Params.image5 }}
+    <li class="photo-post">
+        <a href="{{ .URL }}">
+            <img src="{{ .Params.image5 }}" alt="{{ .Params.imageAlt5 }}"/>
+        </a>
+    </li>
+{{ end }}

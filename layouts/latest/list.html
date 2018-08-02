@@ -4,10 +4,27 @@
 			{{- .Content -}}
 		</div>
 	</article>
+
+	<h2>Photos</h2>
+	<p><a href="/photos">See all photos</a></p>
+	<ul class="posts-list latest-photos">
+		{{ range first 5 (where .Site.Pages "Section" "=" "photos") }}
+			{{ partial "summary-photo.html" . }}
+		{{ end }}
+	</ul>
 	
-	<ul class="latest-list">
-		{{ range .Pages }}
-			{{ partial "summary.html" . }}
+	<h2>Notes</h2>
+	<p><a href="/notes">See all notes</a></p>
+	<ul class="notes-list">
+		{{ range first 3 (where .Site.Pages "Section" "=" "notes") }}
+			<li class="post note-post">
+				<h3>
+					<a href="{{ .URL }}">
+					{{- .Title -}}
+					</a>
+				</h3>
+				{{ partial "summary.html" . }}
+			</li>
 		{{ end }}
 	</ul>
 {{ end }}

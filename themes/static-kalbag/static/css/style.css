@@ -5244,6 +5244,14 @@ figure.always-full-height img {
 			width: 100%;
 		}
 	}
+
+	.latest-photos {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		justify-content: flex-start;
+		align-content: stretch;
+	}
 body ul.posts-list li.photo-post a,
 body ul.posts-list li.photo-post a:hover,
 body ul.posts-list li.photo-post a:active {
