@@ -12,6 +12,7 @@
 		<meta name="robots" content="index, follow">
 		<meta name="description" content="{{ .Summary }}">
 		<meta name="author" content="{{ .Site.Params.publisher }}">
+
 		<link href='{{ "css/style.css" | relURL }}' rel='stylesheet' type="text/css" />
 
 		{{- block "favicon" . -}}
@@ -27,9 +28,10 @@
 		<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else if eq .Title "Home" }}RSS feed for posts on {{ .Site.Title }}{{ else }}{{ with .Title }}RSS feed for posts from {{.}} on {{ end }}{{ .Site.Title }}{{ end }}" />
 		{{- end -}}
 
-		{{- partial "meta-schema.html" . -}}
 		{{- partial "meta-twitter.html" . -}}
 		{{- partial "meta-identities.html" . }}
+		{{- partial "meta-schema.html" . -}}
+
 	</head>
 
 	<body class="colours-001 kind-{{ .Kind }} {{ $.Param "body_classes"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
