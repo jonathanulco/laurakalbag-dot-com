@@ -4,7 +4,7 @@ date: 2018-07-20T21:28:23+01:00
 tags: ["oskar"]
 categories: []
 visibility: ["public"]
-body_classes: "notes colours-008"
+body_classes: "notes latest colours-008"
 twitterurl: ""
 mastodonurl: ""
 instagramurl: ""

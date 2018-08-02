@@ -4,7 +4,7 @@ date: 2018-07-23T17:01:23+01:00
 tags: []
 categories: []
 visibility: ["public"]
-body_classes: "notes colours-008"
+body_classes: "notes latest colours-008"
 twitterurl: ""
 mastodonurl: ""
 instagramurl: ""

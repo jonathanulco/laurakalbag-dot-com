@@ -5,7 +5,7 @@ tags: []
 categories: []
 type: ["photo", "latest"]
 visibility: ["public"]
-body_classes: "photos colours-008"
+body_classes: "photos latest colours-008"
 twitterurl: ""
 mastodonurl: ""
 instagramurl: ""

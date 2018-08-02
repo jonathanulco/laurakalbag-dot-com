@@ -4,7 +4,7 @@ date: 2018-07-05T11:12:11+01:00
 tags: ["UK"]
 categories: []
 visibility: ["public"]
-body_classes: "notes colours-008"
+body_classes: "notes latest colours-008"
 twitterurl: "https://twitter.com/laurakalbag/status/1014813281373052929"
 mastodonurl: ""
 instagramurl: ""
