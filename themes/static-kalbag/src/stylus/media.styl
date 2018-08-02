@@ -47,27 +47,22 @@ figure.always-full-height img
 	@media screen and (min-width: 35em) {
 		.photos .posts-list {
 			display: grid;
-			grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
-			grid-gap: 1em;
-			grid-auto-flow: dense;
+			grid-template-columns: repeat(auto-fill, minmax(12em, 1fr));
+			grid-auto-rows: minmax(12em, auto);
+			grid-gap: 0.25em;
+			justify-content: space-between;
 		}
 
-		/* for square/default photos */
-		.photos .posts-list	.photo-post {
-			grid-column-end: span 1;
-		}
-
-		.photos .posts-list	.photo-post.portrait {
-			grid-column-end: span 1;
-		}
-
-		.photos .posts-list	.photo-post.landscape {
-			grid-column-end: span 2;
+		/* link act as crop for image */
+		.photos .posts-list .photo-post a {
+			height: 100%;
+			width: 100%;
 		}
 
 		.photos .posts-list .photo-post img {
 			object-fit: cover;
 			height: 100%;
+			max-height: none;
 			width: 100%;
 		}
 	}
