@@ -5,8 +5,8 @@ tags: []
 categories: []
 type: "post"
 body_classes: "blog colours-004"
-image: ""
-imagealt: "screenshot of the Audible store showing Accessibility For Everyone book available to buy."
+image: "https://laurakalbag.com/images/2018/08/audible.png"
+imagealt: "screenshot of the Audible store showing Accessibility For Everyone audiobook available to buy."
 description: "I am very happy to tell you that the audiobook of Accessibility For Everyone is now available to buy on Audible."
 ---
 
@@ -14,7 +14,7 @@ I am very happy to tell you that [the audiobook of Accessibility For Everyone is
 
 It’s thanks to the hard work of my brother, Sam Kalbag, who single-handedly edited, engineered and produced the audiobook, helped me do the recording properly, and gave me the benefit of his extensive knowledge of audiobooks. And also Katel LeDû, A Book Apart’s CEO and all-round publishing legend, who navigated the Audible process for us all.
 
-{{<figure class="post-image" src="/images/2018/08/audible.png" link="https://www.audible.com/pd/B07G24HLXS/?source_code=AUDFPWS0223189MWT-BK-ACX0-123554&ref=acx_bty_BK_ACX0_123554_rh_us" alt="screenshot of the Audible store showing Accessibility For Everyone book available to buy" caption="The “Health and Personal Development” category does make it sound a little like a self-help book…" width="600px">}}
+{{<figure class="post-image" src="/images/2018/08/audible.png" link="https://www.audible.com/pd/B07G24HLXS/?source_code=AUDFPWS0223189MWT-BK-ACX0-123554&ref=acx_bty_BK_ACX0_123554_rh_us" alt="screenshot of the Audible store showing Accessibility For Everyone audiobook available to buy" caption="The “Health and Personal Development” category does make it sound a little like a self-help book…" width="600px">}}
 
 ## Audiobook vs paperback and ebook
 
