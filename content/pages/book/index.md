@@ -12,7 +12,7 @@ description: "I wrote a book! It’s called *Accessibility For Everyone*, and yo
 image: "/images/2017/12/book-collage.jpg"
 ---
 
-I wrote a book! It’s called *Accessibility For Everyone*, and you can [buy it in paperback and ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone). Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.<!--more-->
+I wrote a book! It’s called *Accessibility For Everyone*, and you can [buy it in paperback and ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone), and as an [audiobook on Audible](https://www.audible.com/pd/Science-Technology/Accessibility-for-Everyone-Audiobook/B07G24HLXS?source_code=AUDFPWS0223189MWT-BK-ACX0-123554&ref=acx_bty_BK_ACX0_123554_rh_us&ipRedirectOverride=true&overrideBaseCountry=true&pf_rd_p=a2114686-0da6-4a69-b176-801cc68d86c0&pf_rd_r=CJKZGDNQVCGAKRBFC54Z&). Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.<!--more-->
 
 {{< figure src="/images/2017/12/book-collage.jpg" alt="Collage of photos of the Accessibility For Everyone paperback posted on people’s desks, tables and outside." srcset="/images/2017/12/book-collage-300x200.jpg 150w, /images/2017/12/book-collage-768x576.jpg 380w, /images/2017/12/book-collage-1024x768.jpg 512w, /images/2017/12/book-collage.jpg 1024w" sizes="100vw" caption="Photos taken by folks on Twitter" >}}
 
