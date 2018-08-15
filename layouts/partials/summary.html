@@ -19,11 +19,15 @@
 	</div>
 	<div class="entry-notes">
 		<p>Categorised under:
-			{{ range .Params.categories -}}
-			  <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{- . -}}</a>
-			{{ end -}}. With tags: 
-		{{- range .Params.tags }}
-		<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{- . -}}</a>
-	  {{- end -}}.</p>
+			{{ range $index, $categories := .Params.categories }}
+				{{- if gt $index 0 }}, {{ end -}}
+				<a href="{{ "categories/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+			{{- end }}.
+			Tagged with:
+			{{ range $index, $tags := .Params.tags }}
+				{{- if gt $index 0 }}, {{ end -}}
+				<a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+			{{- end }}.
+		</p>
 	</div>
 {{ end }}
