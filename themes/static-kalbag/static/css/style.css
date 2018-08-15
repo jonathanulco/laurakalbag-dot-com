@@ -3474,6 +3474,16 @@ figcaption p {
 .notes-list li {
   list-style-type: none;
 }
+.posts-list li ul li,
+.resources-list li ul li,
+.notes-list li ul li {
+  list-style-type: disc;
+}
+.posts-list li ol li,
+.resources-list li ol li,
+.notes-list li ol li {
+  list-style-type: decimal;
+}
 .posts-list h2 a,
 .resources-list h2 a,
 .notes-list h2 a,
