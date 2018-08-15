@@ -34,7 +34,8 @@
 
 	</head>
 
-	<body class="colours-001 kind-{{ .Kind }} {{ $.Param "body_classes"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+	<body class="colours-001 kind-{{ .Kind }} {{ if eq .Kind "taxonomy" -}}colours-007
+	{{ end }}{{ $.Param "body_classes"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
 		{{ block "header" . }}
 			{{ partial "header.html" .}}
