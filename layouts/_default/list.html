@@ -1,9 +1,7 @@
 {{ define "main" }}
-	<article>
-		<div class="entry-content">
-			{{- .Content -}}
-		</div>
-	</article>
+	<div class="entry-content">
+		{{- .Content -}}
+	</div>
 	{{- $section := where .Data.Pages "Section" .Section -}}
 	<ul class="posts-list {{- if eq .Type "photo" }}photos-list {{ end -}}{{- if eq .Type "note" }}notes-list {{ end -}}">
 		{{- range $section -}}

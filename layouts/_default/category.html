@@ -1,10 +1,8 @@
 {{ define "main" }}
-	<article>
-		<h1>Posts categorised under “{{ .Page.Title }}”</h1>
-		<div class="entry-content">
-			{{- .Content -}}
-		</div>
-	</article>
+	<h1>Posts categorised under “{{ .Page.Title }}”</h1>
+	<div class="entry-content">
+		{{- .Content -}}
+	</div>
 	{{ $section := .Data.Pages }}
 	<ul class="posts-list">
 		{{- range $section -}}
