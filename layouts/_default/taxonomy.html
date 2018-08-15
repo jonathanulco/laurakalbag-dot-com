@@ -1,6 +1,6 @@
 {{ define "main" }}
 	<article>
-		<h1>{{$data := .Data}}{{$data.Singular | title }}: “{{ .Page.Title }}”</h1>
+		<h1>Posts tagged with: “{{ .Page.Title }}”</h1>
 		<div class="entry-content">
 			{{- .Content -}}
 		</div>
