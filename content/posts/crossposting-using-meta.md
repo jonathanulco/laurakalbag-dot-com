@@ -1,8 +1,8 @@
 ---
 title: "Cross-posting using meta information"
 date: 2018-07-25T10:31:01+01:00
-tags: []
-categories: []
+categories: ["Decentralisation"]
+tags: ["crossposting", "social networks", "Hugo", "development", "personal websites"]
 body_classes: "blog colours-001"
 image: ""
 description: "Writing a few blog posts last week, and cross-posting them in various locations, got me thinking about how meta information can be reused."
@@ -14,23 +14,23 @@ I started looking into the meta information in the `<head>` of each page, and ho
 
 <figure> 
     <img src="/images/2018/07/on-slack.jpg" alt="On Slack the URL expands to a tiny thumbnail image, title, and summary, as well as the site’s favicon." style="max-width:482px;">
-    <ficaption><p>The URL expanded on Slack</p></figcaption>
+    <figcaption><p>The URL expanded on Slack</p></figcaption>
 </figure>
 <figure> 
     <img src="/images/2018/07/on-twitter.png" alt="On Twitter the URL expands to a thumbnail image, title, and summary." style="max-width:587px;">
-    <ficaption><p>The URL expanded on Twitter</p></figcaption>
+    <figcaption><p>The URL expanded on Twitter</p></figcaption>
 </figure>
 <figure> 
     <img src="/images/2018/07/on-wire.jpg" alt="On Wire the URL just expands to include the title."  style="max-width:475px;">
-    <ficaption><p>The URL expanded on Wire</p></figcaption>
+    <figcaption><p>The URL expanded on Wire</p></figcaption>
 </figure>
 <figure> 
     <img src="/images/2018/07/on-messages.png" alt="On Apple Messages the URL expands to a large image and title." style="max-width:227px;">
-    <ficaption><p>The URL expanded on Apple Messages</p></figcaption>
+    <figcaption><p>The URL expanded on Apple Messages</p></figcaption>
 </figure>
 <figure> 
     <img src="/images/2018/07/on-facebook.png" alt="On Facebook the URL expands to a large image, title, and summary." style="max-width:502px;">
-    <ficaption><p>The URL expanded on Facebook</p></figcaption>
+    <figcaption><p>The URL expanded on Facebook</p></figcaption>
 </figure>
 
 An additional bonus is that if anyone else shares that URL from my site, the same preview will usually be shown, so I have some additional control.

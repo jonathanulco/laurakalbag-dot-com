@@ -2,7 +2,7 @@
 title: "Gallery Grid With CSS Grid"
 date: 2018-07-02T19:25:46+01:00
 tags: ["css", "CSS grid layout", "html"]
-categories: ["development"]
+categories: ["Development"]
 body_classes: "blog colours-006"
 ---
 

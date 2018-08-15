@@ -1,8 +1,8 @@
 ---
 title: "Beyond my means"
 date: 2018-07-17T14:43:23+01:00
-tags: []
-categories: []
+categories: ["Decentralisation", "Personal"]
+tags: ["privilege", "privacy", "inclusivity", "accessibility", "personal websites"]
 body_classes: "blog colours-005"
 description: "I am not being defeatist when I say that these tasks are often beyond my means. Beyond my means in financial cost, ability, time, and confidence."
 ---

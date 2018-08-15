@@ -1,8 +1,8 @@
 ---
 title: "Accessibility for Everyone Audiobook"
 date: 2018-08-14T13:44:04+01:00
-tags: []
-categories: []
+categories: ["Accessibility", "Writing"]
+tags: ["Accessibility For Everyone", "book", "audiobook"]
 type: "post"
 body_classes: "blog colours-004"
 image: "https://laurakalbag.com/images/2018/08/audible.png"

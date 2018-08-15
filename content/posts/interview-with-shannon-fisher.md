@@ -1,8 +1,8 @@
 ---
 title: "Interview with Shannon Fisher about Accessibility For Everyone"
 date: 2018-08-14T13:36:25+01:00
-tags: []
-categories: []
+categories: ["Accessibility"]
+tags: ["Accessibility For Everyone", "book", "interview", "inclusivity"]
 type: "post"
 body_classes: "blog colours-004"
 image: ""

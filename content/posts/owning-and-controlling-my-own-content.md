@@ -1,8 +1,8 @@
 ---
 title: "Owning and controlling my own content"
 date: 2018-07-17T12:01:07+01:00
-tags: []
-categories: ["Ind.ie"]
+categories: ["Decentralisation", "Personal", "Ind.ie"]
+tags: ["privacy", "sharing", "personal websites"]
 body_classes: "blog colours-005"
 description: "One of the ultimate goals we have at Ind.ie is owning and controlling our own data. That means I want to have ownership and control over my own personal information, rather than it being in the hands of big corporations."
 ---

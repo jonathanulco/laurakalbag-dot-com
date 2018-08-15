@@ -1,7 +1,7 @@
 ---
 title: "Hello Ireland"
 date: 2018-05-28T10:12:52+01:00
-tags: ["moving"]
+tags: ["moving", "Ireland", "Sweden", "politics"]
 categories: ["Milestones"]
 body_classes: "blog colours-013"
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Wonky for now"
 date: 2017-11-30T15:25:45+01:00
+tags: ["design"]
+categories: ["Redesign"]
 body_classes: "blog colours-001"
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Insecure"
 date: 2018-07-19T11:58:38+01:00
-tags: []
-categories: []
+categories: ["Decentralisation", "Personal"]
+tags: ["social networks", "privacy", "sharing", "personal websites"]
 body_classes: "blog colours-005"
 image: "/images/2018/07/weary-laura.jpg"
 imageAlt: "Photo of me looking wearily at the camera."
