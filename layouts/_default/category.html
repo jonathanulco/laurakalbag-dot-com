@@ -1,0 +1,21 @@
+{{ define "main" }}
+	<article>
+		<h1>Posts categorised under “{{ .Page.Title }}”</h1>
+		<div class="entry-content">
+			{{- .Content -}}
+		</div>
+	</article>
+	{{ $section := .Data.Pages }}
+	<ul class="posts-list">
+		{{- range $section -}}
+		<li class="post}">
+			<h2>
+				<a href="{{ .URL }}">
+				{{- .Title -}}
+				</a>
+			</h2>
+			{{ partial "summary.html" . }}
+		</li>
+		{{ end }}
+	</ul>
+{{ end }}
