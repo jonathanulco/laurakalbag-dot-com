@@ -3422,7 +3422,8 @@ pre {
 .entry-notes {
   padding-top: 2em;
 }
-.notes-list .entry-notes {
+.notes-list .entry-notes,
+.posts-list .entry-notes {
   padding-top: 0.5em;
 }
 .site-footer {
