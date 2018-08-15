@@ -6,9 +6,9 @@
 		</div>
 	</article>
 	{{ $section := .Data.Pages }}
-	<ul class="posts-list {{- if eq .Type "photo" }}photos-list {{ end -}}{{- if eq .Type "note" }}notes-list {{ end -}}">
+	<ul class="posts-list">
 		{{- range $section -}}
-		<li class="post {{ if eq .Type "notes" }}note-post {{ end -}}">
+		<li class="post}">
 			<h2>
 				<a href="{{ .URL }}">
 				{{- .Title -}}
