@@ -16,4 +16,4 @@ Email is the easiest way to contact me. If you want to talk about Ind.ie-related
 
 ## Just Say Hi
 
-If you just want to say hi, it’s definitely best to [contact me on Twitter](http://twitter.com/laurakalbag "Laura Kalbag on Twitter"). I’m also chatty on the [Ind.ie forum](https://forum.ind.ie).
+If you just want to say hi, it’s definitely best to [contact me on Mastodon](https://mastodon.laurakalbag.com/@laura) or [on Twitter](http://twitter.com/laurakalbag "Laura Kalbag on Twitter"). I’m not on Twitter so much nowadays. You’ll also find me being chatty on the [Ind.ie forum](https://forum.ind.ie).
