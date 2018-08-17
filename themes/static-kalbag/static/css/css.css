@@ -413,5 +413,80 @@ pre {
 
 /*  - - - - - - - - BLOG
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+.posts-list, .resources-list, .notes-list {
+	margin: 0;
+	padding-left: 0;
+}
+
+.posts-list li, .resources-list li, .notes-list li {
+	list-style-type: none
+}
+
+.posts-list ul li, .resources-list ul li, .notes-list ul li {
+	list-style-type: disc;
+}
+		
+.posts-list ol li, .resources-list ol li, .notes-list ol li {
+	list-style-type: decimal;
+}
+
+.posts-list h2 a, .resources-list h2 a, .notes-list h2 a,
+.posts-list h3 a, .resources-list h3 a, .notes-list h3 a {
+	text-decoration: none;
+}
+			
+.posts-list .entry-meta, .resources-list .entry-meta, .notes-list .entry-meta {
+	font-family: var(--font-family-black);
+	font-weight: bold;
+}
+
+main article .entry-meta {
+	font-family: var(--font-family-black);
+	font-weight: bold;
+}
+
+.resources-list li {
+	margin-left: var(--layout-unit);
+}
+
+.commentlist {
+	margin-top: 2em;
+	padding-left: 0;
+}
+	
+.commentlist li {
+	list-style-type: none;
+	margin-bottom: 3em;
+	padding-left: 0;
+}
+	
+.commentlist li .comment-author {
+	display: grid;
+	grid-template-columns: auto 1fr;
+	grid-template-areas: "a b"
+						"a c";
+}
+	
+.commentlist li .avatar {
+	grid-area: a;
+	margin: 0 0 1em 0;
+}
+	
+.commentlist li .fn {
+	display: block;
+	grid-area: b;
+	margin-left: var(--layout-unit);
+}
+			
+.commentlist li .comment-meta {
+	grid-area: c;
+}
+			
+.commentlist li .comment-meta a {
+	align-self: flex-start;
+	background: none;
+}
+
 /*  - - - - - - - - MEDIA 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
