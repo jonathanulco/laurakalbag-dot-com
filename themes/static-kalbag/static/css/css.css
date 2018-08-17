@@ -85,7 +85,8 @@
     --layout-unit: 1rem;
     --font-family: "Informat", Verdana, sans-serif;
     --font-family-black: "Informat Black", Verdana, sans-serif;
-    --font-family-code: "Overpass", monospace;
+	--font-family-code: "Overpass", monospace;
+	--background-colour: red;
 }
 
 /*  - - - - - - - - TYPOGRAPHY
@@ -295,8 +296,6 @@ figcaption, .site-footer p, .site-footer small, .note {
     text-transform: uppercase;
 }
 
-/*  - - - - - - - - COLOUR
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 /*  - - - - - - - - LAYOUT
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
@@ -577,4 +576,11 @@ figure.always-full-height img {
 
 .latest-photos li:last-of-type a {
 	margin-right: 0;
+}
+
+/*  - - - - - - - - COLOUR
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+body {
+	background: var(--background-colour);
 }
