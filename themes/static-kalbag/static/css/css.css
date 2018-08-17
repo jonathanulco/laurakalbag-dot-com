@@ -86,7 +86,18 @@
     --font-family: "Informat", Verdana, sans-serif;
     --font-family-black: "Informat Black", Verdana, sans-serif;
 	--font-family-code: "Overpass", monospace;
-	--background-colour: red;
+	/* define colour theme variables that can be overridden on pages */
+	--primary-bg: #E9E9E9;
+	--secondary-bg: #D0D0D0;
+	--text: #444040;
+	--linktext: #313131;
+	--darklinktext: #020202;
+	--brilliant: #7E8080;
+	--tab-two: #D7D7D7;
+	--tab-three: #C5C6C6;
+	--tab-four: #B3B4B4;
+	--tab-five: #A2A4A4;
+	--tab-six: #909292;
 }
 
 /*  - - - - - - - - TYPOGRAPHY
@@ -581,6 +592,188 @@ figure.always-full-height img {
 /*  - - - - - - - - COLOUR
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
+/* Plug colour variables into here */
+
 body {
-	background: var(--background-colour);
+	background: var(--secondary-bg);
+	color: var(--text);
+}
+
+a {
+	color: var(--linktext);
+	text-decoration: underline;
+	text-decoration-color: var(--brilliant);
+	-webkit-text-decoration-color: var(--brilliant);
+}
+
+a:hover, a:active {
+	color: var(--linktext);
+	text-decoration: underline;
+	text-decoration-color: var(--brilliant);
+	-webkit-text-decoration-color: var(--brilliant);
+	transition: 0.2s;
+}
+
+p a:hover, ul a:hover, ol a:hover, figcaption a:hover {
+	color: darken(var(--brilliant), .2);
+}
+
+h1 a, h2 a, h3 a, figure a, figure a:hover {
+	color: var(--text);
+}
+
+.site-title a {
+	background: var(--secondary-bg);
+	color: var(--text);
+	text-decoration: none;
+}
+
+.site-footer {
+	background: var(--secondary-bg);
+}
+
+hr {
+	border: var(--brilliant) dashed 0.1em;
+	margin: 2em 0;
+}
+
+/* invert colours for code */
+pre {
+	background: var(--text);
+}
+
+pre code {
+	color: var(--primary-bg);
+}
+
+.navigation-menu ul {
+	background: alpha(var(--tab-five), 0.1);
+}
+
+.navigation-menu ul li {
+	background: var(--secondary-bg);
+}
+
+.navigation-menu {
+	background: alpha(var(--tab-five), 0.1);
+}
+
+	/* set active navigation link background colour */
+.navigation-menu li.active a {
+	background: alpha(var(--primary-bg), 0.5);
+	color: var(--text);
+}
+
+.navigation-menu li a:hover, .navigation-menu li a:active {
+	text-decoration: underline;
+	text-decoration-color: inherit;
+	-webkit-text-decoration-color: inherit;
+}
+
+/* TODO: might need to replace highlight colour for un-"active" active nav items here */
+	
+/* links before and after active navigation (relies on order of navigation being reflected) */
+body.home .navigation-menu a[href="/about-me/"],
+body.kind-404 .navigation-menu a[href="/about-me/"],
+body.about-me .navigation-menu a[href="/"],
+body.about-me .navigation-menu a[href="/book/"],
+body.book .navigation-menu a[href="/about-me/"],
+body.book .navigation-menu a[href="/posts/"],
+body.blog .navigation-menu a[href="/book/"],
+body.blog .navigation-menu a[href="/latest/"],
+body.kind-taxonomy .navigation-menu a[href="/book/"],
+body.kind-taxonomy .navigation-menu a[href="/latest/"],
+body.latest .navigation-menu a[href="/posts/"],
+body.latest .navigation-menu a[href="/speaking/"],
+body.speaking .navigation-menu a[href="/latest/"],
+body.speaking .navigation-menu a[href="/contact-me/"],
+body.contact-me .navigation-menu a[href="/speaking/"] {
+	background alpha(var(--tab-two), .8);
+	color: var(--darklinktext);
+}
+
+/* links second before and after active navigation */
+/* darken text accordingly */
+body.home .navigation-menu a[href="/book/"],
+body.kind-404 .navigation-menu a[href="/book/"],
+body.about-me .navigation-menu a[href="/posts/"],
+body.book .navigation-menu a[href="/"],
+body.book .navigation-menu a[href="/latest/"],
+body.blog .navigation-menu a[href="/about-me/"],
+body.blog .navigation-menu a[href="/speaking/"],
+body.kind-taxonomy .navigation-menu a[href="/about-me/"],
+body.kind-taxonomy .navigation-menu a[href="/speaking/"],
+body.latest .navigation-menu a[href="/book/"],
+body.latest .navigation-menu a[href="/contact-me/"],
+body.speaking .navigation-menu a[href="/posts/"],
+body.contact-me .navigation-menu a[href="/latest/"] {
+	background alpha(var(--tab-three), .8);
+	color: var(--darklinktext);
+}
+
+/* links third before and after active navigation */
+/* darken text accordingly */
+body.home .navigation-menu a[href="/posts/"],
+body.kind-404 .navigation-menu a[href="/posts/"],
+body.about-me .navigation-menu a[href="/latest/"],
+body.blog .navigation-menu a[href="/"],
+body.blog .navigation-menu a[href="/contact-me/"],
+body.kind-taxonomy .navigation-menu a[href="/"],
+body.kind-taxonomy .navigation-menu a[href="/contact-me/"],
+body.book .navigation-menu a[href="/speaking/"],
+body.latest .navigation-menu a[href="/about-me/"],
+body.speaking .navigation-menu a[href="/book/"],
+body.contact-me .navigation-menu a[href="/posts/"] {
+	background alpha(var(--tab-four), .8);
+	color: var(--darklinktext);
+}
+
+/* links fourth before and after active navigation */
+/* darken text accordingly */
+body.home .navigation-menu a[href="/latest/"],
+body.kind-404 .navigation-menu a[href="/latest/"],
+body.about-me .navigation-menu a[href="/speaking/"],
+body.book .navigation-menu a[href="/contact-me/"],
+body.latest .navigation-menu a[href="/"],
+body.speaking .navigation-menu a[href="/about-me/"],
+body.contact-me .navigation-menu a[href="/book/"] {
+	background alpha(var(--tab-five), .8);
+	color: var(--darklinktext);
+}
+
+/* links fifth before and after active navigation */
+/* darken text accordingly */
+body.home .navigation-menu a[href="/speaking/"],
+body.kind-404 .navigation-menu a[href="/speaking/"],
+body.about-me .navigation-menu a[href="/contact-me/"],
+body.latest .navigation-menu a[href="/"],
+body.speaking .navigation-menu a[href="/"],
+body.contact-me .navigation-menu a[href="/about-me/"] {
+	background alpha(var(--tab-six), .8);
+	color: var(--darklinktext);
+}
+
+/* links sixth before and after active navigation */
+/* darken text accordingly */
+body.home .navigation-menu a[href="/contact-me/"],
+body.kind-404 .navigation-menu a[href="/contact-me/"],
+body.contact-me .navigation-menu a[href="/"] {
+	background alpha(var(--brilliant), .8);
+	color: var(--darklinktext);
+}
+
+/* add colour behind top elements on page so image doesn’t make it hard to read */
+#content h1, #content main > h2:nth-of-type(1), #content  .entry-content > p:nth-of-type(1) {
+	background: var(--primary-bg);
+	box-shadow: var(--primary-bg) 0 0 0 calc(var(--layout-unit)*1.4);
+}
+		
+@media screen and (min-width: 18em) {
+	#content h1, #content main > h2:nth-of-type(1), #content  .entry-content > p:nth-of-type(1) {
+		box-shadow: var(--primary-bg) 0 0 0 calc(var(--layout-unit)*2.6);
+	}
+}
+
+h1 {
+	display: table; /* make background only cover space behind text */
 }
