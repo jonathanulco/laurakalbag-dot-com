@@ -378,6 +378,39 @@ pre {
 
 /*  - - - - - - - - NAVIGATION
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+.skip-link {
+	display: block;
+	padding: 0.25em 1em;
+	position: absolute;
+	right: 0;
+	top: -10em;
+}
+
+.navigation-menu ul {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-content: stretch;
+	align-items: stretch;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.navigation-menu ul a {
+	display: block;
+	padding: calc(var(--layout-unit)/2) var(--layout-unit);
+	text-decoration: none;
+}
+	
+@media screen and (min-width: 35em) {
+	.navigation-menu ul a {
+		padding: calc(var(--layout-unit)/2) var(--layout-unit);
+	}
+}
+
 /*  - - - - - - - - BLOG
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 /*  - - - - - - - - MEDIA 
