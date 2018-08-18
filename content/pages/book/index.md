@@ -10,6 +10,18 @@ body_classes: "book colours-004"
 slug: "book"
 description: "I wrote a book! It’s called *Accessibility For Everyone*, and you can buy it in paperback and ebook from A Book Apart."
 image: "/images/2017/12/book-collage.jpg"
+colours:
+  primary-bg: "97,100%,90%"
+  secondary-bg: "103,95%,86%"
+  text: "180,100%,18%"
+  linktext: "141,100%,19%"
+  darklinktext: "189,37%,11%"
+  brilliant: "139,100%,31%"
+  tab-two: "114,65%,81%"
+  tab-three: "124,54%,72%"
+  tab-four: "129,50%,62%"
+  tab-five: "134,48%,52%"
+  tab-six: "137,64%,42%"
 ---
 
 I wrote a book! It’s called *Accessibility For Everyone*, and you can [buy it in paperback and ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone), and as an [audiobook on Audible](https://www.audible.com/pd/Science-Technology/Accessibility-for-Everyone-Audiobook/B07G24HLXS?source_code=AUDFPWS0223189MWT-BK-ACX0-123554&ref=acx_bty_BK_ACX0_123554_rh_us&ipRedirectOverride=true&overrideBaseCountry=true&pf_rd_p=a2114686-0da6-4a69-b176-801cc68d86c0&pf_rd_r=CJKZGDNQVCGAKRBFC54Z&). Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.<!--more-->
