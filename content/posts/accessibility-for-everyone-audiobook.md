@@ -4,7 +4,19 @@ date: 2018-08-14T13:44:04+01:00
 categories: ["Accessibility", "Writing"]
 tags: ["Accessibility For Everyone", "book", "audiobook"]
 type: "post"
-body_classes: "blog colours-004"
+body_classes: "blog"
+colours:
+    primary-bg: "97,100%,90%"
+    secondary-bg: "103,95%,86%"
+    text: "180,100%,18%"
+    linktext: "141,100%,19%"
+    darklinktext: "189,37%,11%"
+    brilliant: "139,100%,31%"
+    tab-two: "114,65%,81%"
+    tab-three: "124,54%,72%"
+    tab-four: "129,50%,62%"
+    tab-five: "134,48%,52%"
+    tab-six: "137,64%,42%"
 image: "https://laurakalbag.com/images/2018/08/audible.png"
 imagealt: "screenshot of the Audible store showing Accessibility For Everyone audiobook available to buy."
 description: "I am very happy to tell you that the audiobook of Accessibility For Everyone is now available to buy on Audible."
