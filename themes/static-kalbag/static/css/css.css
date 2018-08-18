@@ -628,6 +628,16 @@ h1 a, h2 a, h3 a, figure a, figure a:hover {
 	text-decoration: none;
 }
 
+.site-header {
+	background: hsl(var(--secondary-bg)) 20em repeat;
+	background-size: 20em;
+}
+
+#content {
+	background: hsl(var(--primary-bg)) repeat-x;
+	background-size: 20em;
+}
+
 .site-footer {
 	background: hsl(var(--secondary-bg));
 }
