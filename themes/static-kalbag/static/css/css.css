@@ -87,17 +87,17 @@
     --font-family-black: "Informat Black", Verdana, sans-serif;
 	--font-family-code: "Overpass", monospace;
 	/* define colour theme variables that can be overridden on pages */
-	--primary-bg: #E9E9E9;
-	--secondary-bg: #D0D0D0;
-	--text: #444040;
-	--linktext: #313131;
-	--darklinktext: #020202;
-	--brilliant: #7E8080;
-	--tab-two: #D7D7D7;
-	--tab-three: #C5C6C6;
-	--tab-four: #B3B4B4;
-	--tab-five: #A2A4A4;
-	--tab-six: #909292;
+	--primary-bg: 0,0%,91%; /* hsl */
+	--secondary-bg: 0,0%,82%; /* hsl */
+	--text: 0,4%,26%; /* hsl */
+	--linktext: 0,0%,19%; /* hsl */
+	--darklinktext: 0,0%,1%; /* hsl */
+	--brilliant: 180,1%,50%; /* hsl */
+	--tab-two: 0,0%,84%; /* hsl */
+	--tab-three: 180,2%,78%; /* hsl */
+	--tab-four: 180,2%,71%; /* hsl */
+	--tab-five: 0,0%,64%; /* hsl */
+	--tab-six: 180,1%,57%; /* hsl */
 }
 
 /*  - - - - - - - - TYPOGRAPHY
@@ -595,73 +595,73 @@ figure.always-full-height img {
 /* Plug colour variables into here */
 
 body {
-	background: var(--secondary-bg);
-	color: var(--text);
+	background: hsl(var(--secondary-bg));
+	color: hsl(var(--text));
 }
 
 a {
-	color: var(--linktext);
+	color: hsl(var(--linktext));
 	text-decoration: underline;
-	text-decoration-color: var(--brilliant);
-	-webkit-text-decoration-color: var(--brilliant);
+	text-decoration-color: hsl(var(--brilliant));
+	-webkit-text-decoration-color: hsl(var(--brilliant));
 }
 
 a:hover, a:active {
-	color: var(--linktext);
+	color: hsl(var(--linktext));
 	text-decoration: underline;
-	text-decoration-color: var(--brilliant);
-	-webkit-text-decoration-color: var(--brilliant);
+	text-decoration-color: hsl(var(--brilliant));
+	-webkit-text-decoration-color: hsl(var(--brilliant));
 	transition: 0.2s;
 }
 
 p a:hover, ul a:hover, ol a:hover, figcaption a:hover {
-	color: darken(var(--brilliant), .2);
+	/* color: darken(hsl(var(--brilliant), .2); */
 }
 
 h1 a, h2 a, h3 a, figure a, figure a:hover {
-	color: var(--text);
+	color: hsl(var(--text));
 }
 
 .site-title a {
-	background: var(--secondary-bg);
-	color: var(--text);
+	background: hsl(var(--secondary-bg));
+	color: hsl(var(--text));
 	text-decoration: none;
 }
 
 .site-footer {
-	background: var(--secondary-bg);
+	background: hsl(var(--secondary-bg));
 }
 
 hr {
-	border: var(--brilliant) dashed 0.1em;
+	border: hsl(var(--brilliant)) dashed 0.1em;
 	margin: 2em 0;
 }
 
 /* invert colours for code */
 pre {
-	background: var(--text);
+	background: hsl(var(--text));
 }
 
 pre code {
-	color: var(--primary-bg);
+	color: hsl(var(--primary-bg));
 }
 
 .navigation-menu ul {
-	background: alpha(var(--tab-five), 0.1);
+	background: hsla(var(--tab-five), 0.1);
 }
 
 .navigation-menu ul li {
-	background: var(--secondary-bg);
+	background: hsl(var(--secondary-bg));
 }
 
 .navigation-menu {
-	background: alpha(var(--tab-five), 0.1);
+	background: hsla(var(--tab-five), 0.1);
 }
 
 	/* set active navigation link background colour */
 .navigation-menu li.active a {
-	background: alpha(var(--primary-bg), 0.5);
-	color: var(--text);
+	background: hsla(var(--primary-bg), 0.5);
+	color: hsl(var(--text));
 }
 
 .navigation-menu li a:hover, .navigation-menu li a:active {
@@ -688,8 +688,8 @@ body.latest .navigation-menu a[href="/speaking/"],
 body.speaking .navigation-menu a[href="/latest/"],
 body.speaking .navigation-menu a[href="/contact-me/"],
 body.contact-me .navigation-menu a[href="/speaking/"] {
-	background alpha(var(--tab-two), .8);
-	color: var(--darklinktext);
+	background: hsla(var(--tab-two), .8);
+	color: hsl(var(--darklinktext));
 }
 
 /* links second before and after active navigation */
@@ -707,8 +707,8 @@ body.latest .navigation-menu a[href="/book/"],
 body.latest .navigation-menu a[href="/contact-me/"],
 body.speaking .navigation-menu a[href="/posts/"],
 body.contact-me .navigation-menu a[href="/latest/"] {
-	background alpha(var(--tab-three), .8);
-	color: var(--darklinktext);
+	background: hsla(var(--tab-three), .8);
+	color: hsl(var(--darklinktext));
 }
 
 /* links third before and after active navigation */
@@ -724,8 +724,8 @@ body.book .navigation-menu a[href="/speaking/"],
 body.latest .navigation-menu a[href="/about-me/"],
 body.speaking .navigation-menu a[href="/book/"],
 body.contact-me .navigation-menu a[href="/posts/"] {
-	background alpha(var(--tab-four), .8);
-	color: var(--darklinktext);
+	background: hsla(var(--tab-four), .8);
+	color: hsl(var(--darklinktext));
 }
 
 /* links fourth before and after active navigation */
@@ -737,8 +737,8 @@ body.book .navigation-menu a[href="/contact-me/"],
 body.latest .navigation-menu a[href="/"],
 body.speaking .navigation-menu a[href="/about-me/"],
 body.contact-me .navigation-menu a[href="/book/"] {
-	background alpha(var(--tab-five), .8);
-	color: var(--darklinktext);
+	background: hsla(var(--tab-five), .8);
+	color: hsl(var(--darklinktext));
 }
 
 /* links fifth before and after active navigation */
@@ -749,8 +749,8 @@ body.about-me .navigation-menu a[href="/contact-me/"],
 body.latest .navigation-menu a[href="/"],
 body.speaking .navigation-menu a[href="/"],
 body.contact-me .navigation-menu a[href="/about-me/"] {
-	background alpha(var(--tab-six), .8);
-	color: var(--darklinktext);
+	background: hsla(var(--tab-six), .8);
+	color: hsl(var(--darklinktext));
 }
 
 /* links sixth before and after active navigation */
@@ -758,19 +758,19 @@ body.contact-me .navigation-menu a[href="/about-me/"] {
 body.home .navigation-menu a[href="/contact-me/"],
 body.kind-404 .navigation-menu a[href="/contact-me/"],
 body.contact-me .navigation-menu a[href="/"] {
-	background alpha(var(--brilliant), .8);
-	color: var(--darklinktext);
+	background: hsla(var(--brilliant), .8);
+	color: hsl(var(--darklinktext));
 }
 
 /* add colour behind top elements on page so image doesn’t make it hard to read */
 #content h1, #content main > h2:nth-of-type(1), #content  .entry-content > p:nth-of-type(1) {
-	background: var(--primary-bg);
-	box-shadow: var(--primary-bg) 0 0 0 calc(var(--layout-unit)*1.4);
+	background: hsl(var(--primary-bg));
+	box-shadow: hsl(var(--primary-bg)) 0 0 0 calc(var(--layout-unit)*1.4);
 }
 		
 @media screen and (min-width: 18em) {
 	#content h1, #content main > h2:nth-of-type(1), #content  .entry-content > p:nth-of-type(1) {
-		box-shadow: var(--primary-bg) 0 0 0 calc(var(--layout-unit)*2.6);
+		box-shadow: hsl(var(--primary-bg)) 0 0 0 calc(var(--layout-unit)*2.6);
 	}
 }
 
