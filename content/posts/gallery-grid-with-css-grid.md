@@ -3,7 +3,19 @@ title: "Gallery Grid With CSS Grid"
 date: 2018-07-02T19:25:46+01:00
 tags: ["css", "CSS grid layout", "html"]
 categories: ["Development"]
-body_classes: "blog colours-006"
+body_classes: "blog"
+colours:
+  primary-bg: "259,100%,95%" # hsl(259,100%,95%)
+  secondary-bg: "256,100%,93%" # hsl(256,100%,93%)
+  text: "347,48%,35%" # hsl(347,48%,35%)
+  linktext: "350,69%,43%" # hsl(350,69%,43%)
+  darklinktext: "331,33%,18%" # hsl(331,33%,18%)
+  brilliant: "352,100%,67%" # hsl(352,100%,67%)
+  tab-two: "317,55%,87%" # hsl(317,55%,87%)
+  tab-three: "335,72%,83%" # hsl(335,72%,83%)
+  tab-four: "344,81%,79%" # hsl(344,81%,79%)
+  tab-five: "346,89%,75%" # hsl(346,89%,75%)
+  tab-six: "350,97%,71%" # hsl(350,97%,71%)
 ---
 
 [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) is great. My site layout is fairly simple, so had no need for lots of grid—I only used it for lining up comments and avatars on old blog posts.<!--more-->

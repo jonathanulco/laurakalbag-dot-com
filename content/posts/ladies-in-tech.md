@@ -6,6 +6,18 @@ date: 2013-03-26T14:15:22+00:00
 categories: ["Events", "Personal"]
 tags: ["speaking", "writing"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 A while ago, [Jeremy Keith](http://adactio.com) introduced me to [ladiesintech.com](http://ladiesintech.com/), suggesting that it might be something that’d interest me. After having a chat with the lovely [Jenn Lukas](https://twitter.com/jennlukas) over email, I had a story that I wanted to share about my adventures in speaking, and Jenn has now helped me [share it on the site](http://ladiesintech.com/asking-for-help/).

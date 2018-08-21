@@ -1,11 +1,21 @@
 ---
 title: "dConstruct 2014"
-draft: false
-colours: ["#2e8354", "#677812", "#f83f36", "#2f4811", "#ffffff", "#20320c", "#ffffff"]
 date: 2014-09-08T15:08:47+00:00
 categories: ["Design Issues", "Events"]
 tags: ["dConstruct", "diversity", "freedom", "privacy", "surveillance", "technology", "writeup"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 Jeremy Keith is a master curator of brilliant talks from wonderful speakers, and Friday’s [dConstruct](http://2014.dconstruct.org/) was a great event. Gone are the days where I write long connected writeups on conference themes. I wish I had the time, and venues like the Brighton Dome are far too dark to take notes. However, I really wanted to record and share some of the thoughts I got out of dConstruct, as I think the themes are very important.

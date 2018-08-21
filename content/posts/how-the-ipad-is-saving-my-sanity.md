@@ -1,11 +1,21 @@
 ---
 title: "How the iPad is saving my sanity"
-draft: false
-colours: ["#51749d", "#304E75", "#A6C7E5", "#253c56", "#486C92", "#1d2d3f", "#2666DA"]
 date: 2010-08-01T18:54:56+00:00
 categories: ["Reviews"]
 tags: ["App Store", "App Stream", "Crop Suey", "iBooks", "iPad", "iPhoto", "photos", "reading", "reeder", "RSS", "Twitter", "Twitterrific", "wordpress", "work habits"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 ## Fan girl

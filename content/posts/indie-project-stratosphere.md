@@ -1,11 +1,21 @@
 ---
 title: "ind.ie Project Stratosphere announcement"
-draft: false
-colours: ["#ee0000", "#3f3f3f", "#b70000", "#232323", "#7a7a7a", "#020202", "#8e8e8e"]
 date: 2014-10-02T14:16:15+00:00
 categories: ["Design", "ind.ie"]
 tags: ["Ind.ie"]
-body_classes: "blog colours-010"
+body_classes: "blog"
+colours:
+  primary-bg: "0,0%,95%" # hsl(0,0%,95%)
+  secondary-bg: "0,0%,82%" # hsl(0,0%,82%)
+  text: "0,0%,21%" # hsl(0,0%,21%)
+  linktext: "0,100%,33%" # hsl(0,100%,33%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "7,81%,49%" # hsl(7,81%,49%)
+  tab-two: "6,44%,86%" # hsl(6,44%,86%)
+  tab-three: "5,50%,78%" # hsl(5,50%,78%)
+  tab-four: "5,55%,70%" # hsl(5,55%,70%)
+  tab-five: "6,59%,62%" # hsl(6,59%,62%)
+  tab-six: "4,57%,53%" # hsl(4,57%,53%)
 ---
 
 After a few months of being pretty quiet, and working towards our crowdfunding campaign, we’re finally able to reveal [some big stuff about ind.ie](https://ind.ie/).

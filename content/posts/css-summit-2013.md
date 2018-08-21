@@ -1,11 +1,21 @@
 ---
 title: "Sass For Designers at CSS Summit 2013"
-draft: false
-colours: ["#4F6E8D", "#0C6C52", "#557799", "#454545", "#FFFFFF", "#313131", "#AA2CAA"]
 date: 2013-05-09T09:13:01+00:00
 categories: ["Events"]
 tags: ["conference", "CSS", "online conference", "Sass", "speaking"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 I’m speaking at [CSS Summit 2013](http://environmentsforhumans.com/2013/css-summit/) about Sass For Designers. CSS Summit is a great online conference, meaning you can attend from anywhere in the world (hooray!)

@@ -6,6 +6,18 @@ date: 2015-05-02T12:27:28+00:00
 categories: ["Learning"]
 tags: ["photography"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 I’ve had a DSLR for nearly a year now. And I still only ever use it on the Auto modes. I studied photography (with film cameras) during my Art Foundation course ~10 years ago, but I think any decent photos were mostly luck, and I can’t remember much of it. So when Ashley set up her [Girl With A Camera Course](http://girlwithacamera.co.uk/courses/), “For the beginner photographer who wants to pick up their camera more,” I was instantly sold!

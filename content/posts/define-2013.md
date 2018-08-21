@@ -1,11 +1,21 @@
 ---
 title: "#define 2013"
-draft: false
-colours: ["#518551", "#4D3A6E", "#6D0AAB", "#480772", "#ffffff", "#2C0445", "#51A451"]
 date: 2013-06-07T11:24:22+00:00
 categories: ["Events"]
 tags: ["diversity", "freelance", "speaking"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 Next Saturday I’m speaking at #define 2013, a “diversity in computing festival” for 11-13 year old students who wouldn’t usually consider careers in computing.

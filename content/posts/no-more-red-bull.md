@@ -6,6 +6,18 @@ date: 2013-08-27T09:00:00+00:00
 categories: ["Personal"]
 tags: ["addiction", "caffeine", "health"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 Using a Fitbit over the last year and a half has taught me that making your habits more visible in public makes you more likely to work harder. When you’re giving up a bad habit, often there’s not much stopping us from slipping back into the bad habits. So I am writing here, on Tuesday 27th August 2013 that <i>I am giving up Red Bull</i>.

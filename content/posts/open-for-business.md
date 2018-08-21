@@ -6,6 +6,18 @@ date: 2013-10-17T14:04:33+00:00
 categories: ["Design", "Freelancing"]
 tags: ["business", "client work", "openness", "transparency"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 [My second column for A List Apart, “Open for Business,” is now up](http://alistapart.com/column/open-for-business). I wrote Open for Business as a follow-up to my [Dare conference](http://2013.dareconf.com) talk about honesty. It’s not the same as the full talk (and has been edited into a far better shape by Rose Weisburd) but is the essence of why I feel that being open works for my business.

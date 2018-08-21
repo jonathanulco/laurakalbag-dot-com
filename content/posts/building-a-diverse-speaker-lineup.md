@@ -1,11 +1,21 @@
 ---
 title: "Building a diverse speaker lineup"
-draft: false
-colours: ["#324c88", "#4a7d7d", "#6a1916", "#2d606e", "#9dd0d0", "#26515d", "#9dd0d0"]
 date: 2014-09-02T08:53:56+00:00
 categories: ["Events"]
 tags: ["code of conduct", "conferences", "diversity", "speaking"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 This post is so good, and so incredibly valuable, that it’s deserving of more than just a passing tweet. Julie Pagano has written about ‘[Building a Diverse Speaker Lineup](http://juliepagano.com/blog/2014/08/26/building-a-diverse-speaker-lineup/).’ This should be the go-to post for conference organisers, and it should be read as soon as you’re even thinking about organising an event.

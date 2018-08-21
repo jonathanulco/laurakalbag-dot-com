@@ -1,11 +1,21 @@
 ---
 title: "Critiques, giving and receiving useful feedback"
-draft: false
-colours: ["#f04293", "#584f92", "#E16CAF", "#cd3c76", "#8a68ca", "#6547b3", "#7058da"]
 date: 2012-05-14T09:09:10+00:00
 categories: ["Design", "Design Issues"]
 tags: ["crit", "critiques", "education", "feedback"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 Funnily enough, a couple of days before [Mark Boulton said](http://twitter.com/markboulton/status/200509667384885250 "&quot;Theory: Web designers lack the ability (through practice and traditional schooling) to critique design effectively.&quot; says Mark Boulton on Twitter") and [wrote his piece on design critiques](http://www.markboulton.co.uk/journal/comments/its-not-working-for-me-crit "It’s Not Working For Me by Mark Boulton"), I’d been thinking about that same topic. I’ve been struggling through an iPhone app icon design, and [had asked Twitter for help.](https://twitter.com/#!/laurakalbag/status/199846580407377921 "&quot;2) I've got an app icon design that needs some criticism as I've lost sight of it. Anyone free to give me some time via email today?&quot; by Laura Kalbag on Twitter") Knowing that the 160 character limit wasn’t going to help me much, I emailed everyone who offered me assistance and sat back waiting for the criticism.

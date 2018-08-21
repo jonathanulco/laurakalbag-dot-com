@@ -1,11 +1,21 @@
 ---
 title: "Good old designer snobbery is alive and kicking"
-draft: false
-colours: ["#26404f", "#4B6594", "#6286cb", "#355467", "#87a6e0", "#1f323d", "#8faadc"]
 date: 2010-10-06T10:38:28+00:00
 categories: ["Design"]
 tags: ["critiques", "design", "designers", "Dribbble", "logo design"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 There’s one thing that I hate about being a designer and that’s the snobbery. Most, if not all, designers are a little bit guilty of looking down on other people’s work. Comments such as “Pah! They used Comic Sans” or “Ergh! Don’t they know reflections are so out of date now?”

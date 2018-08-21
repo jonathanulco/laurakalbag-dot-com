@@ -1,11 +1,21 @@
 ---
 title: "Is there potential for “ethical analytics”?"
-draft: false
-colours: ["#149116", "#424242", "#22aa16", "#0b7709", "#058964", "#086613", "#0a9994"]
 date: 2015-07-30T10:19:04+00:00
 categories: ["Design Issues"]
 tags: ["analytics", "design ethics", "ethics", "forum", "Ind.ie"]
-body_classes: "blog colours-010"
+body_classes: "blog"
+colours:
+  primary-bg: "0,0%,95%" # hsl(0,0%,95%)
+  secondary-bg: "0,0%,82%" # hsl(0,0%,82%)
+  text: "0,0%,21%" # hsl(0,0%,21%)
+  linktext: "0,100%,33%" # hsl(0,100%,33%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "7,81%,49%" # hsl(7,81%,49%)
+  tab-two: "6,44%,86%" # hsl(6,44%,86%)
+  tab-three: "5,50%,78%" # hsl(5,50%,78%)
+  tab-four: "5,55%,70%" # hsl(5,55%,70%)
+  tab-five: "6,59%,62%" # hsl(6,59%,62%)
+  tab-six: "4,57%,53%" # hsl(4,57%,53%)
 ---
 
 We have [Piwik analytics](https://forum.ind.ie/t/piwik-alternative-for-analytics/627) on the [Ind.ie site](https://ind.ie/), and I use Gauges and GoSquared on my own site (I was indecisive at the time…) But I use [Ghostery](https://www.ghostery.com/en/) so I actually block analytics like this for my own use.

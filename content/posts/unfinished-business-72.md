@@ -6,6 +6,18 @@ date: 2014-06-09T16:02:49+00:00
 categories: ["Podcasts"]
 tags: ["books", "publishing", "writing"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 [This week’s episode of Unfinished Business](http://unfinished.bz/72) was great fun to record. After [my recent move to working on Indie Phone](/indie-phone/ "Becoming part of Indie Phone"), alongside my boyfriend Aral Balkan, I was curious to know how Andy and Sue have worked so well together since the beginning of Stuff and Nonsense.

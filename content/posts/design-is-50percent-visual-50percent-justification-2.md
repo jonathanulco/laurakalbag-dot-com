@@ -1,11 +1,21 @@
 ---
 title: "Design work is 50% visual, 50% justification"
-draft: false
-colours: ["#41be7a", "#178047", "#44bb53", "#18513f", "#59ebbc", "#0d4738", "#57fff8"]
 date: 2010-11-23T16:31:50+00:00
 categories: ["Design"]
 tags: ["clients", "decisions", "design", "justification", "school", "value", "work", "writing"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 After I finished my last post about [Design Tips for Developers](/design-tips-for-developers/), it really struck me how much I wrote to justify my design. I wasn’t just writing tips saying “*do this, it’s good*“, “*don’t do this, it’s bad.*” I put time and effort into explaining why I made these decisions and why I didn’t do it another way.

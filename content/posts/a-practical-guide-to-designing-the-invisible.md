@@ -1,10 +1,21 @@
 ---
 title: "A Practical Guide to Designing the invisible"
 draft: false
-colours: ["#7ccef4", "#0186ad", "#62b7d0", "#10667e", "#6fc8e2", "#0f3b48", "#8edef6"]
 date: 2011-11-01T08:27:28+00:00
 categories: ["Design", "Reviews"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 After reading [Mark Boulton’s A Practical Guide to Designing For The Web](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web "Five Simple Steps - A Practical Guide to Designing For The Web") and [Andy Clarke’s Hardboiled Web Design](/hardboiled-web-design-and-transcending-css/ "Hardboiled Web Design and Transcending CSS"), I was keen to read another Five Simple Steps’ design book. [Robert Mills’ A Practical Guide to Designing the invisible](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-the-invisible "Five Simple Steps - A Practical Guide to Designing the invisible") definitely didn’t disappoint.

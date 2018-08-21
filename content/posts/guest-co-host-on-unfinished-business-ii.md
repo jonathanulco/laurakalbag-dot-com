@@ -1,11 +1,21 @@
 ---
 title: "Guest co-host on Unfinished Business II"
-draft: false
-colours: ["#a4491e", "#581505", "#8e1406", "#311107", "#F0D8B4", "#1c0903", "#D5C9BF"]
 date: 2013-05-20T09:07:45+00:00
 categories: ["Events", "Freelancing"]
 tags: ["agencies", "clients", "feedback", "freelancing", "getting started", "location", "podcast", "subcontractor"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 Last Friday I was a [guest co-host on Unfinished Business](http://unfinished.bz/19) again. It was great fun, Andy and I spoke about clients, how location affects our businesses, how to find good subcontractors and Star Trek.
