@@ -771,14 +771,16 @@ body.contact-me .navigation-menu a[href="/"] {
 }
 
 /* add colour behind top elements on page so image doesn’t make it hard to read */
-#content h1, #content main > h2:nth-of-type(1), #content  .entry-content > p:nth-of-type(1) {
+#content h1, #content main > h2:nth-of-type(1), #content  .entry-content > p:nth-of-type(1), #content  .entry-content > h2:nth-of-type(1) {
 	background: hsl(var(--primary-bg));
-	box-shadow: hsl(var(--primary-bg)) 0 0 0 calc(var(--layout-unit)*1.4);
+	box-shadow: hsl(var(--primary-bg)) 0 0 0 calc(var(--layout-unit)*1);
+	position: relative; /* so we can use z-index */
+	z-index: 2;
 }
 		
 @media screen and (min-width: 18em) {
 	#content h1, #content main > h2:nth-of-type(1), #content  .entry-content > p:nth-of-type(1) {
-		box-shadow: hsl(var(--primary-bg)) 0 0 0 calc(var(--layout-unit)*2.6);
+		box-shadow: hsl(var(--primary-bg)) 0 0 0 calc(var(--layout-unit)*1.5);
 	}
 }
 
