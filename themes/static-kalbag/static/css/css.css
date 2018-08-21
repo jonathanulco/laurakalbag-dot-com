@@ -791,7 +791,7 @@ h1 {
 
 /* SVGs are included in the HTML because otherwise they can’t pick up from the CSS variables */
 
-.tilet {
+.tilett, .tilet {
 	display: block;
 	height: 15em;
 	margin-top: -0.5em; /* offset top margin */
@@ -800,9 +800,7 @@ h1 {
 	z-index: 1;
 }
 
-/* in header, make tiling SVG fully opaque */
-.site-header {
-	--tile-opacity: 1;
+main, .site-header {
 	position: relative; /* allow absolute positioning inside */
 }
 
@@ -815,13 +813,6 @@ h1 {
 	.site-header .tilet {
 		height: 4em; /* height of title */
 	}
-}
-
-/* in main, making tiling SVG transparent */
-
-main {
-	--tile-opacity: 0.5;
-	position: relative; /* allow absolute positioning inside */
 }
 
 /*  - - - - - - - - COLOUR THEMES 
