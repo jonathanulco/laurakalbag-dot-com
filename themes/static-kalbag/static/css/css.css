@@ -609,15 +609,11 @@ a {
 }
 
 a:hover, a:active {
-	color: hsl(var(--linktext));
+	color: hsl(var(--brilliant));
 	text-decoration: underline;
 	text-decoration-color: hsl(var(--brilliant));
 	-webkit-text-decoration-color: hsl(var(--brilliant));
 	transition: 0.2s;
-}
-
-p a:hover, ul a:hover, ol a:hover, figcaption a:hover {
-	/* color: darken(hsl(var(--brilliant), .2); */
 }
 
 h1 a, h2 a, h3 a, figure a, figure a:hover {
