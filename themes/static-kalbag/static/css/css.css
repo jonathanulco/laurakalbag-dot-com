@@ -629,14 +629,11 @@ h1 a, h2 a, h3 a, figure a, figure a:hover {
 }
 
 .site-header {
-	background: hsl(var(--secondary-bg)) 20em repeat;
-	background-size: 20em;
+	background: hsl(var(--secondary-bg));
 }
 
 #content {
-	background-color: hsl(var(--primary-bg));
-	background-repeat: repeat-x;
-	background-size: 20em;
+	background: hsl(var(--primary-bg));
 }
 
 .site-footer {
@@ -787,6 +784,38 @@ body.contact-me .navigation-menu a[href="/"] {
 
 h1 {
 	display: table; /* make background only cover space behind text */
+}
+
+/*  - - - - - - - - SVG TILE
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+/* SVGs are included in the HTML because otherwise they can’t pick up from the CSS variables */
+
+.tilet {
+	display: block;
+	height: 20em;
+	margin-top: -0.5em; /* offset top margin */
+	position: absolute;
+	width: 100%;
+	z-index: 1;
+}
+
+/* in header, make tiling SVG fully opaque */
+.site-header {
+	--tile-opacity: 1;
+	position: relative; /* allow absolute positioning inside */
+}
+
+.site-header .tilet {
+	height: 4em; /* height of title */
+	margin-top: -1em; /* offset top margin */
+}
+
+/* in main, making tiling SVG transparent */
+
+main {
+	--tile-opacity: 0.5;
+	position: relative; /* allow absolute positioning inside */
 }
 
 /*  - - - - - - - - COLOUR THEMES 
