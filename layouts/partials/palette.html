@@ -1,4 +1,5 @@
 <style>
+    {{ if .Params.colours }}
     :root {
         /* define colour theme variables to override default styles */
         --primary-bg: {{ $.Param "colours.primary-bg" | safeCSS }};
@@ -13,12 +14,13 @@
         --tab-five: {{ $.Param "colours.tab-five" | safeCSS }};
         --tab-six: {{ $.Param "colours.tab-six" | safeCSS }};
     }
+    {{ end }}
 
     .site-header {
         background-image: url('/images/tile-001.svg');
     }
 
-    #content {
-        background-image: url('/images/tile-001-transparent.svg');
-    }
+    /* #content {
+        background-image: url({{- partial "svg-tile-transparent.html" . -}});
+    } */
 </style>
