@@ -86,18 +86,18 @@
     --font-family: "Informat", Verdana, sans-serif;
     --font-family-black: "Informat Black", Verdana, sans-serif;
 	--font-family-code: "Overpass", monospace;
-	/* define colour theme variables that can be overridden on pages */
-	--primary-bg: 0,0%,91%; /* hsl */
-	--secondary-bg: 0,0%,82%; /* hsl */
-	--text: 0,4%,26%; /* hsl */
-	--linktext: 0,0%,19%; /* hsl */
-	--darklinktext: 0,0%,1%; /* hsl */
-	--brilliant: 180,1%,50%; /* hsl */
-	--tab-two: 0,0%,84%; /* hsl */
-	--tab-three: 180,2%,78%; /* hsl */
-	--tab-four: 180,2%,71%; /* hsl */
-	--tab-five: 0,0%,64%; /* hsl */
-	--tab-six: 180,1%,57%; /* hsl */
+	/* default colour theme variables that can be overridden on pages */
+	--primary-bg: 0,0%,91%; /* hsl(0,0%,91%) */
+	--secondary-bg: 0,0%,82%; /* hsl(0,0%,82%) */
+	--text: 0,4%,26%; /* hsl(0,4%,26%) */
+	--linktext: 0,0%,19%; /* hsl(0,0%,19%) */
+	--darklinktext: 0,0%,1%; /* hsl(0,0%,1%) */
+	--brilliant: 180,1%,50%; /* hsl(180,1%,50%) */
+	--tab-two: 0,0%,84%; /* hsl(0,0%,84%) */
+	--tab-three: 180,2%,78%; /* hsl(180,2%,78%) */
+	--tab-four: 180,2%,71%; /* hsl(180,2%,71%) */
+	--tab-five: 0,0%,64%; /* hsl(0,0%,64%) */
+	--tab-six: 180,1%,57%; /* hsl(180,1%,57%) */
 }
 
 /*  - - - - - - - - TYPOGRAPHY
@@ -786,4 +786,144 @@ body.contact-me .navigation-menu a[href="/"] {
 
 h1 {
 	display: table; /* make background only cover space behind text */
+}
+
+/*  - - - - - - - - COLOUR THEMES 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+/* used in the front matter of pages. kept here for when we need to set without front matter */
+
+/* theme 001 (default theme as defined in variables at top of this style sheet) */
+body.colours-001 {
+    --primary-bg: 0,0%,91%; /* hsl(0,0%,91%) */
+    --secondary-bg: 0,0%,82%; /* hsl(0,0%,82%) */
+    --text: 0,4%,26%; /* hsl(0,4%,26%) */
+    --linktext: 0,0%,19%; /* hsl(0,0%,19%) */
+    --darklinktext: 0,0%,1%; /* hsl(0,0%,1%) */
+    --brilliant: 180,1%,50%; /* hsl(180,1%,50%) */
+    --tab-two: 0,0%,84%; /* hsl(0,0%,84%) */
+    --tab-three: 180,2%,78%; /* hsl(180,2%,78%) */
+    --tab-four: 180,2%,71%; /* hsl(180,2%,71%) */
+    --tab-five: 0,0%,64%; /* hsl(0,0%,64%) */
+    --tab-six: 180,1%,57%; /* hsl(180,1%,57%) */
+}
+
+/* theme 004 */
+body.colours-004 {
+	--primary-bg: 97,100%,90%; /* hsl(97,100%,90%) */
+    --secondary-bg: 103,95%,86%; /* hsl(103,95%,86%) */
+	--text: 180,100%,18%; /* hsl(180,100%,18%) */
+	--linktext: 141,100%,19%; /* hsl(141,100%,19%) */
+	--darklinktext: 189,37%,11%; /* hsl(189,37%,11%) */
+	--brilliant: 139,100%,31%; /* hsl(139,100%,31%) */
+    --tab-two: 114,65%,81%; /* hsl(114,65%,81%) */
+    --tab-three: 124,54%,72%; /* hsl(124,54%,72%) */
+    --tab-four: 129,50%,62%; /* hsl(129,50%,62%) */
+    --tab-five: 134,48%,52%; /* hsl(134,48%,52%) */
+    --tab-six: 137,64%,42%; /* hsl(137,64%,42%) */
+}
+
+/* theme 005 */
+body.colours-005 {
+	--primary-bg: 327,100%,96%; /* hsl(327,100%,96%) */
+    --secondary-bg: 319,100%,93%; /* hsl(319,100%,93%) */
+    --text: 30,58%,27%; /* hsl(30,58%,27%) */
+    --linktext: 35,100%,30%; /* hsl(35,100%,30%) */
+    --darklinktext: 45,48%,8%; /* hsl(45,48%,8%) */
+    --brilliant: 26,49%,48%; /* hsl(26,49%,48%) */
+    --tab-two: 354,56%,89%; /* hsl(354,56%,89%) */
+    --tab-three: 10,53%,82%; /* hsl(10,53%,82%) */
+    --tab-four: 17,46%,73%; /* hsl(17,46%,73%) */
+    --tab-five: 21,47%,65%; /* hsl(21,47%,65%) */
+    --tab-six: 24,46%,56%; /* hsl(24,46%,56%) */
+}
+
+/* theme 006 */
+body.colours-006 {
+	--primary-bg: 259,100%,95%; /* hsl(259,100%,95%) */
+    --secondary-bg: 256,100%,93%; /* hsl(256,100%,93%) */
+    --text: 347,48%,35%; /* hsl(347,48%,35%) */
+    --linktext: 350,69%,43%; /* hsl(350,69%,43%) */
+    --darklinktext: 331,33%,18%; /* hsl(331,33%,18%) */
+    --brilliant: 352,100%,67%; /* hsl(352,100%,67%) */
+    --tab-two: 317,55%,87%; /* hsl(317,55%,87%) */
+    --tab-three: 335,72%,83%; /* hsl(335,72%,83%) */
+    --tab-four: 344,81%,79%; /* hsl(344,81%,79%) */
+    --tab-five: 346,89%,75%; /* hsl(346,89%,75%) */
+    --tab-six: 350,97%,71%; /* hsl(350,97%,71%) */
+}
+
+/* theme 007 */
+body.colours-007 {
+    --primary-bg: 58,95%,83%; /* hsl(58,95%,83%) */
+    --secondary-bg: 60,76%,76%; /* hsl(60,76%,76%) */
+    --text: 212,47%,25%; /* hsl(212,47%,25%) */
+    --linktext: 193,100%,19%; /* hsl(193,100%,19%) */
+    --darklinktext: 0,0%,0%; /* hsl(0,0%,0%) */
+    --brilliant: 208,100%,44%; /* hsl(208,100%,44%) */
+    --tab-two: 83,45%,80%; /* hsl(83,45%,80%) */
+    --tab-three: 152,28%,74%; /* hsl(152,28%,74%) */
+    --tab-four: 189,37%,64%; /* hsl(189,37%,64%) */
+    --tab-five: 200,54%,57%; /* hsl(200,54%,57%) */
+	--tab-six: 205,68%,51%; /* hsl(205,68%,51%) */
+}
+
+/* theme 008 */
+body.colours-008 {
+    --primary-bg: 3,100%,92%; /* hsl(3,100%,92%) */
+    --secondary-bg: 5,100%,89%; /* hsl(5,100%,89%) */
+    --text: 195,100%,20%; /* hsl(195,100%,20%) */
+    --linktext: 195,100%,25%; /* hsl(195,100%,25%) */
+    --darklinktext: 195,70%,14%; /* hsl(195,70%,14%) */
+    --brilliant: 196,100%,42%; /* hsl(196,100%,42%) */
+    --tab-two: 278,9%,83%; /* hsl(278,9%,83%) */
+    --tab-three: 205,35%,76%; /* hsl(205,35%,76%) */
+    --tab-four: 199,52%,67%; /* hsl(199,52%,67%) */
+    --tab-five: 197,62%,59%; /* hsl(197,62%,59%) */
+    --tab-six: 196,68%,51%; /* hsl(196,68%,51%) */
+}
+
+/* theme 009 */
+body.colours-009 {
+	--primary-bg: 161,100%,90%; /* hsl(161,100%,90%) */
+    --secondary-bg: 162,69%,81%; /* hsl(162,69%,81%) */
+	--text: 217,55%,36%; /* hsl(217,55%,36%) */
+	--linktext: 216,85%,35%; /* hsl(216,85%,35%) */
+	--darklinktext: 231,37%,11%; /* hsl(231,37%,11%) */
+	--brilliant: 217,90%,60%; /* hsl(217,90%,60%) */
+    --tab-two: 185,68%,82%; /* hsl(185,68%,82%) */
+    --tab-three: 124,54%,72%; /* hsl(124,54%,72%) */
+    --tab-four: 206,82%,73%; /* hsl(206,82%,73%) */
+    --tab-five: 211,85%,69%; /* hsl(211,85%,69%) */
+    --tab-six: 214,89%,65%; /* hsl(214,89%,65%) */
+}
+
+/* theme 010 */
+body.colours-010 {
+    --primary-bg: 0,0%,95%; /* hsl(0,0%,95%) */
+    --secondary-bg: 0,0%,82%; /* hsl(0,0%,82%) */
+    --text: 0,0%,21%; /* hsl(0,0%,21%) */
+    --linktext: 0,100%,33%; /* hsl(0,100%,33%) */
+    --darklinktext: 0,0%,0%; /* hsl(0,0%,0%) */
+    --brilliant: 7,81%,49%; /* hsl(7,81%,49%) */
+    --tab-two: 6,44%,86%; /* hsl(6,44%,86%) */
+    --tab-three: 5,50%,78%; /* hsl(5,50%,78%) */
+    --tab-four: 5,55%,70%; /* hsl(5,55%,70%) */
+    --tab-five: 6,59%,62%; /* hsl(6,59%,62%) */
+    --tab-six: 4,57%,53%; /* hsl(4,57%,53%) */
+}
+
+/* theme 013 (Ireland theme) */
+body.colours-013 {
+	--primary-bg: 97,100%,90%; /* hsl(97,100%,90%) */
+    --secondary-bg: 103,95%,86%; /* hsl(103,95%,86%) */
+	--text: 25,79%,37%; /* hsl(25,79%,37%) */
+	--linktext: 17,80%,32%; /* hsl(17,80%,32%) */
+	--darklinktext: 189,37%,11%; /* hsl(189,37%,11%) */
+	--brilliant: 139,100%,31%; /* hsl(139,100%,31%) */
+    --tab-two: 114,65%,81%; /* hsl(114,65%,81%) */
+    --tab-three: 124,54%,72%; /* hsl(124,54%,72%) */
+    --tab-four: 129,50%,62%; /* hsl(129,50%,62%) */
+    --tab-five: 134,48%,52%; /* hsl(134,48%,52%) */
+    --tab-six: 137,64%,42%; /* hsl(137,64%,42%) */
 }
