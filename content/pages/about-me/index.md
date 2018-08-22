@@ -1,11 +1,22 @@
 ---
 title: "About Me"
 date: 2017-10-26T20:28:58+02:00
-colours: ["#C9ECFF", "#BADEFF", "#5E3B77", "#95549D"]
 menu:
  main:
   weight: 10
-body_classes: "about-me colours-002"
+body_classes: "about-me"
+colours:
+    primary-bg: "199,100%,90%" # hsl(199,100%,90%)
+    secondary-bg: "209,100%,87%" # hsl(209,100%,87%)
+    text: "275,34%,35%" # hsl(275,34%,35%)
+    linktext: "278,43%,35%" # hsl(278,43%,35%)
+    darklinktext: "271,37%,11%" # hsl(271,37%,11%)
+    brilliant: "260,88%,68%" # hsl(260,88%,68%)
+    tab-two: "217,94%,87%" # hsl(217,94%,87%)
+    tab-three: "233,95%,86%" # hsl(233,95%,86%)
+    tab-four: "245,89%,82%" # hsl(245,89%,82%)
+    tab-five: "253,91%,77%" # hsl(253,91%,77%)
+    tab-six: "258,87%,71%" # hsl(258,87%,71%)
 slug: "about-me"
 description: "I’m Laura Kalbag, a designer and British person, now living in Cork, Ireland. I wrote a book about web accessibility called Accessibility For Everyone. You can buy it in paperback or ebook from A Book Apart."
 ---

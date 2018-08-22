@@ -3,7 +3,19 @@ title: "Hello Ireland"
 date: 2018-05-28T10:12:52+01:00
 tags: ["moving", "Ireland", "Sweden", "politics"]
 categories: ["Milestones"]
-body_classes: "blog colours-013"
+body_classes: "blog"
+colours:
+  primary-bg: "97,100%,90%" # hsl(97,100%,90%)
+  secondary-bg: "103,95%,86%" # hsl(103,95%,86%)
+  text: "25,79%,37%" # hsl(25,79%,37%)
+  linktext: "17,80%,32%" # hsl(17,80%,32%)
+  darklinktext: "189,37%,11%" # hsl(189,37%,11%)
+  brilliant: "139,100%,31%" # hsl(139,100%,31%)
+  tab-two: "114,65%,81%" # hsl(114,65%,81%)
+  tab-three: "124,54%,72%" # hsl(124,54%,72%)
+  tab-four: "129,50%,62%" # hsl(129,50%,62%)
+  tab-five: "134,48%,52%" # hsl(134,48%,52%)
+  tab-six: "137,64%,42%" # hsl(137,64%,42%)
 ---
 
 On Saturday, we celebrated [the victory for Irish people as they repealed the anti-abortion laws](https://www.irishtimes.com/news/politics/abortion-referendum). We were celebrating not just because we care about the rights of people with uteruses, but also because we have now been resident in Ireland for two months. And we love it here.

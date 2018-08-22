@@ -1,11 +1,21 @@
 ---
 title: "dConstruct 2011 — My Digest"
-draft: false
-colours: ["#87BA3C", "#343B34", "#aab1a0", "#757b6f", "#5e7c31", "#1c1c1c", "#74865b"]
 date: 2011-09-12T10:56:45+00:00
 categories: ["Events"]
 tags: ["augmented reality", "conference", "dConstruct", "digital history", "digital past", "digital products", "emotion", "empowering users", "memories", "narratives", "possessions", "systems", "technology", "user experience"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 It was another inspiring day at dConstruct, the best abstract thought-inducing conference around.

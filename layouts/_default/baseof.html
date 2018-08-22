@@ -14,6 +14,7 @@
 		<meta name="author" content="{{ .Site.Params.publisher }}">
 
 		<link href='{{ "css/style.css" | relURL }}' rel='stylesheet' type="text/css" />
+		{{- partial "palette.html" . -}}
 
 		{{- block "favicon" . -}}
 			{{- partial "site-favicon.html" . -}}
@@ -34,7 +35,7 @@
 
 	</head>
 
-	<body class="colours-001 kind-{{ .Kind }} {{ if eq .Kind "taxonomy" -}}colours-007
+	<body class="kind-{{ .Kind }} {{ if eq .Kind "taxonomy" -}}colours-007
 	{{ end }}{{ $.Param "body_classes"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
 		{{ block "header" . }}
@@ -42,6 +43,7 @@
 		{{ end }}
 
 		<main id="content">
+			{{ partial "tile-transparent-svg.html" . }}
 			{{ block "main" . }}{{ end }}
 		</main>
 

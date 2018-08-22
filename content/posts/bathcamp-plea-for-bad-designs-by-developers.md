@@ -1,11 +1,21 @@
 ---
 title: "Bathcamp plea for bad designs by developers"
-draft: false
-colours: ["#15A4D6", "#117699", "#5cc9ef", "#0e6685", "#ffffff", "#0c607e", "#ffffff"]
 date: 2010-10-25T19:21:06+00:00
 categories: ["Events"]
 tags: []
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 I’ve got a talk for [Bathcamp 2010](http://bathcamp.org) in the works! Thanks to the ever-helpful [Rich Quick](http://twitter.com/richquick) for the idea, I’m going to do a talk on **Design Tips for Developers**.

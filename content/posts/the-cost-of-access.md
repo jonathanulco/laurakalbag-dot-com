@@ -3,7 +3,19 @@ title: "The cost of access"
 date: 2018-07-07T22:07:24+01:00
 tags: ["access", "inclusivity", "assistive technology"]
 categories: ["Accessibility", "Ind.ie" ]
-body_classes: "blog colours-008"
+body_classes: "blog"
+colours:
+  primary-bg: "3,100%,92%" # hsl(3,100%,92%)
+  secondary-bg: "5,100%,89%" # hsl(5,100%,89%)
+  text: "195,100%,20%" # hsl(195,100%,20%)
+  linktext: "195,100%,25%" # hsl(195,100%,25%)
+  darklinktext: "195,70%,14%" # hsl(195,70%,14%)
+  brilliant: "196,100%,42%" # hsl(196,100%,42%)
+  tab-two: "278,9%,83%" # hsl(278,9%,83%)
+  tab-three: "205,35%,76%" # hsl(205,35%,76%)
+  tab-four: "199,52%,67%" # hsl(199,52%,67%)
+  tab-five: "197,62%,59%" # hsl(197,62%,59%)
+  tab-six: "196,68%,51%" # hsl(196,68%,51%)
 description: "It’s a wonderful thing that assistive technology is now built into some technology as a default. It’s an important part of making technology more inclusive. But in the case of Amazon’s Alexa, and many inexpensive or free solutions, the cost of access is your privacy."
 ---
 

@@ -1,11 +1,21 @@
 ---
 title: "Autodesk SketchBook Pro"
-draft: false
-colours: ["#e17314", "#828C63", "#EBE870", "#54753C", "#F1A25D", "#36442c", "#EBE870"]
 date: 2010-06-19T13:19:16+00:00
 categories: ["Reviews"]
 tags: ["drawing", "gestures", "iPad", "painting", "sketching", "user experience"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 I’ve always been a kind-of arty person. I took Art at school, did an Art Foundation and a Graphics degree. I totally loved art when I was small, but as I’ve got older, and more technology and web-obsessed, a lot of the old media went a bit out of the window.

@@ -1,11 +1,21 @@
 ---
 title: "I also pledge to be better"
-draft: false
-colours: ["#485dad", "#344e8d", "#4f47ae", "#383276", "#7c76bc", "#2b266e", "#3862c7"]
 date: 2013-10-17T07:28:18+00:00
 categories: ["Events", "Personal"]
 tags: ["conferences", "discrimination", "diversity", "pledge", "women"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 This post was inspired by [Faruk’s great post “I Pledge To Be Better (And I Hope You Do Too)”](http://farukat.es/journal/2013/10/698-i-pledge-be-better-and-i-hope-you-do-too) where he speaks about the continuing problems with discrimination and lack of diversity in tech, and how more people should speak up about these issues. Faruk rightly says we all have the power and responsibility to make things better. I believe that when we don’t speak out about discrimination, we’re almost causing as much damage as condoning discrimination. Because it won’t just go away if we pretend it’s not there.

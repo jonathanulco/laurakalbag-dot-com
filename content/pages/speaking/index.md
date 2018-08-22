@@ -1,11 +1,22 @@
 ---
 title: "Speaking"
 date: 2017-11-01T18:07:44+01:00
-colours: ["#E2D8FF", "#D8CAFF", "#811A3D", "#B32666"]
 menu:
  main:
   weight: 30
-body_classes: "speaking colours-003"
+body_classes: "speaking"
+colours:
+    primary-bg: "259,100%,95%" # hsl(259,100%,95%)
+    secondary-bg: "256,100%,93%" # hsl(256,100%,93%)
+    text: "347,48%,35%" # hsl(347,48%,35%)
+    linktext: "350,69%,43%" # hsl(350,69%,43%)
+    darklinktext: "331,33%,18%" # hsl(331,33%,18%)
+    brilliant: "352,100%,67%" # hsl(352,100%,67%)
+    tab-two: "317,55%,87%" # hsl(317,55%,87%)
+    tab-three: "335,72%,83%" # hsl(335,72%,83%)
+    tab-four: "344,81%,79%" # hsl(344,81%,79%)
+    tab-five: "346,89%,75%" # hsl(346,89%,75%)
+    tab-six: "350,97%,71%" # hsl(350,97%,71%)
 slug: "speaking"
 description: "I love conferences and meetups, they’re a great way to share what we’re working on, learn from like-minded folk, and meet new friends. I’ve been really lucky to be invited to speak at over fifty conferences in the last eight years, doing presentations, panels, interviews, and even playing MC."
 ---

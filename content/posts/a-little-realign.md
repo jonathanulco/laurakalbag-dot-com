@@ -1,12 +1,21 @@
 ---
-
 title: "A little realign"
-draft: false
-colours: ["#2a4d9d", "#703967", "#24478b", "#2c2c62", "#509fe1", "#1b144a", "#ffffff"]
 date: 2014-05-02T13:10:30+00:00
 categories: ["Design", "Development", "Milestones"]
 tags: ["case studies", "CSS", "portfolio", "realign", "redesign", "Sass", "typography", "update"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 Things are looking a bit different around here. It’s not a redesign so much as a [realign](http://alistapart.com/article/redesignrealign). I’ve been tinkering for a few months, and finally got to the point where I’m happy to push it live (even though there’s more I could do.)

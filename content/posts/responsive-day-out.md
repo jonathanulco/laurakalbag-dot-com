@@ -6,6 +6,18 @@ date: 2013-04-01T22:52:39+00:00
 categories: ["Design", "Development", "Events"]
 tags: ["approach", "asset fonts", "attitude", "breakpoints", "capabilities", "comfortable", "communication", "content", "CSS", "devices", "features", "flexbox", "fluid", "HTML", "images", "inputs", "layout", "markup", "navigation", "performance", "prefixes", "process", "responsive", "Responsive Day Out", "responsive web design", "screens", "typography", "viewports", "web fonts"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 <em style="opacity: 0.9;">A month ago I spoke at [Responsive Day Out](http://responsiveconf.com/), an “affordable, enjoyable gathering of UK designers and developers sharing their workflow strategies, techniques, and experiences with responsive web design.” As I said to [Jeremy Keith](http://adactio.com) when he first asked me if I wanted to do it, this would be a day I couldn’t possibly miss, regardless of speaking. It very much lived up to my expectations.</em>

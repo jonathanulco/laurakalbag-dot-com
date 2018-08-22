@@ -1,11 +1,21 @@
 ---
 title: "Give and Tell Challenge"
-draft: false
-colours: ["#008188", "#565656", "#eb2954", "#444444", "#00c0ca", "#020202", "#e4bb07"]
 date: 2014-08-26T14:42:01+00:00
 categories: ["Personal"]
 tags: ["charity", "equality"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 When [Andy Clarke challenged me to the “Give and Tell Challenge”](http://stuffandnonsense.co.uk/blog/about/give-and-tell-challenge), I was very happy to comply. [Dan James,](http://www.ceoblues.com/archive/2014/august/giveandtell) inspired by the [ALS Ice Bucket Challenge](https://en.wikipedia.org/wiki/Ice_Bucket_Challenge), came up with the challenge:

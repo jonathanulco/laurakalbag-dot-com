@@ -1,11 +1,21 @@
 ---
 title: "Designing For Emotion"
-draft: false
-colours: ["#cf68cf", "#6C356C", "#e788d0", "#4b1b4b", "#a84da8", "#3e283e", "#b93cb9"]
 date: 2011-11-15T09:43:18+00:00
 categories: ["Design", "Reviews"]
 tags: ["beyond usability", "book", "design", "emotional design", "usability", "user experience"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 I bought [Designing For Emotion](http://www.abookapart.com/products/designing-for-emotion "Designing For Emotion by Aarron Walter") as part of the [A Book Apart deal](http://www.abookapart.com/products/designing-for-emotion-mobile-first-bundle "Buy Designing For Emotion and Mobile First together from A Book Apart"), alongside Mobile First. After listening to [Jeffery Zeldman talking about the release of these books with Dan Benjamin on The Big Web Show](http://5by5.tv/bigwebshow/58 "The Big Web Show #58"), and hearing how they were perfect books to read before a redesign (my site is in a constant state of awaiting redesign) I was really eager to get stuck in. Oddly, I decided to read Mobile First second.

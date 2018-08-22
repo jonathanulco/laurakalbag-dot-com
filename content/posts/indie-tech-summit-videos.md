@@ -1,11 +1,21 @@
 ---
 title: "Indie Tech Summit videos and my talk on Universal Design"
-draft: false
-colours: ["#832821", "#565656", "#b6372e", "#343434", "#ffffff", "#020202", "#ffffff"]
 date: 2014-08-26T11:59:37+00:00
 categories: ["Design", "Events"]
 tags: ["accessibility", "diversity", "Ind.ie", "Indie Tech Summit", "universal design", "video"]
-body_classes: "blog colours-010"
+body_classes: "blog"
+colours:
+  primary-bg: "0,0%,95%" # hsl(0,0%,95%)
+  secondary-bg: "0,0%,82%" # hsl(0,0%,82%)
+  text: "0,0%,21%" # hsl(0,0%,21%)
+  linktext: "0,100%,33%" # hsl(0,100%,33%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "7,81%,49%" # hsl(7,81%,49%)
+  tab-two: "6,44%,86%" # hsl(6,44%,86%)
+  tab-three: "5,50%,78%" # hsl(5,50%,78%)
+  tab-four: "5,55%,70%" # hsl(5,55%,70%)
+  tab-five: "6,59%,62%" # hsl(6,59%,62%)
+  tab-six: "4,57%,53%" # hsl(4,57%,53%)
 ---
 
 Yesterday we finally published [all the videos from the Indie Tech Summit](https://ind.ie/summit/videos) on the [ind.ie site](https://ind.ie/). It was a fantastic event, with two days of talking about how we can create sustainable and ethical alternatives to corporate surveillance. The first day was talks and panels, with everyone discussing the problems and their own free and open solutions. The second day had workshops and discussion groups where we talked about where we could go from there, and what we could do as a community.

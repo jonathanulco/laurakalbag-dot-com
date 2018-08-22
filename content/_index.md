@@ -2,9 +2,21 @@
 title: "Home"
 date: 2017-10-26T20:28:58+02:00
 menu:
- main:
-  weight: -20
-body_classes: "home colours-009"
+    main:
+        weight: -20
+body_classes: "home"
+colours:
+    primary-bg: "161,100%,90%" # hsl(161,100%,90%)
+    secondary-bg: "162,69%,81%" # hsl(162,69%,81%)
+    text: "217,55%,36%" # hsl(217,55%,36%)
+    linktext: "216,85%,35%" # hsl(216,85%,35%)
+    darklinktext: "231,37%,11%" # hsl(231,37%,11%)
+    brilliant: "217,90%,60%" # hsl(217,90%,60%)
+    tab-two: "185,68%,82%" # hsl(185,68%,82%)
+    tab-three: "199,79%,78%" # hsl(199,79%,78%)
+    tab-four: "206,82%,73%" # hsl(206,82%,73%)
+    tab-five: "211,85%,69%" # hsl(211,85%,69%)
+    tab-six: "214,89%,65%" # hsl(214,89%,65%)
 description: "Hello! I’m a friendly designer originally from the UK, now living in Ireland. You’ll usually find me talking about ethical design, accessibility and inclusivity, privacy, web design and development."
 ---
 

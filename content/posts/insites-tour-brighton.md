@@ -6,6 +6,18 @@ date: 2011-07-20T11:56:25+00:00
 categories: ["Events"]
 tags: ["clients", "conference", "contract", "design", "education", "freelancing", "industry", "labels", "titles", "user experience"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 [Insites](http://insitestour.com/) is a mini tour of four cities in the UK where [Keir Whitaker](http://keirwhitaker.com/) and [Elliot Jay Stocks](http://elliotjaystocks.com/) present discussions with well-known people from the web/tech industry. I was lucky enough to go to the first evening in Brighton on Monday where [Aral Balkan](http://aralbalkan.com/), [Sarah Parmenter](http://www.sazzy.co.uk/) and [Jeremy Keith](http://adactio.com/) were the guests.

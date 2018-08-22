@@ -6,6 +6,18 @@ date: 2014-10-13T11:14:47+00:00
 categories: ["Personal", "Podcasts"]
 tags: ["burnout", "Geek Mental Help Week", "mental health"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 [Last week’s episode of Unfinished Business](http://unfinished.bz/89) was a very different discussion from the usual. Andy and I talked about his fantastic idea for Geek Mental Help week (October 27th onwards) and how so many people in our industry are affected by mental health issues. I’ll definitely be writing a post for Geek Mental Help Week, and I hope you will too! I’m sure you’ll be able to find out the latest about Geek Mental Help Week from the Twitter account [@geekmentalhelp](https://twitter.com/geekmentalhelp).

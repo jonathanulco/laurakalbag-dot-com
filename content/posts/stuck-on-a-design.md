@@ -6,6 +6,18 @@ date: 2010-10-15T16:59:29+00:00
 categories: ["Design"]
 tags: ["clients", "community", "criticism", "designers", "feedback", "trends", "users"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 After [discussing Dribbble and Forrst](/dribbble-and-forrst-for-client-project-feedback/ "Using Dribbble and Forrst for feedback on a client project"), and [my latest post that looked at criticism in design](/good-old-designer-snobbery-is-live-and-kicking/ "Good old designer snobbery is alive and kicking"), I’ve been thinking a lot more about how feedback features in my design process.

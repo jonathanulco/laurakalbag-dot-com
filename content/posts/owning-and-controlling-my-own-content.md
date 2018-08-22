@@ -3,7 +3,19 @@ title: "Owning and controlling my own content"
 date: 2018-07-17T12:01:07+01:00
 categories: ["Decentralisation", "Personal", "Ind.ie"]
 tags: ["privacy", "sharing", "personal websites"]
-body_classes: "blog colours-005"
+body_classes: "blog"
+colours:
+  primary-bg: "327,100%,96%" # hsl(327,100%,96%)
+  secondary-bg: "319,100%,93%" # hsl(319,100%,93%)
+  text: "30,58%,27%" # hsl(30,58%,27%)
+  linktext: "35,100%,30%" # hsl(35,100%,30%)
+  darklinktext: "45,48%,8%" # hsl(45,48%,8%)
+  brilliant: "26,49%,48%" # hsl(26,49%,48%)
+  tab-two: "354,56%,89%" # hsl(354,56%,89%)
+  tab-three: "10,53%,82%" # hsl(10,53%,82%)
+  tab-four: "17,46%,73%" # hsl(17,46%,73%)
+  tab-five: "21,47%,65%" # hsl(21,47%,65%)
+  tab-six: "24,46%,56%" # hsl(24,46%,56%)
 description: "One of the ultimate goals we have at Ind.ie is owning and controlling our own data. That means I want to have ownership and control over my own personal information, rather than it being in the hands of big corporations."
 ---
 

@@ -6,7 +6,19 @@ menu:
  main:
   name: "Book"
   weight: 10
-body_classes: "book colours-004"
+body_classes: "book"
+colours:
+    primary-bg: "97,100%,90%" # hsl(97,100%,90%)
+    secondary-bg: "103,95%,86%" # hsl(103,95%,86%)
+    text: "180,100%,18%" # hsl(180,100%,18%)
+    linktext: "141,100%,19%" # hsl(141,100%,19%)
+    darklinktext: "189,37%,11%" # hsl(189,37%,11%)
+    brilliant: "139,100%,31%" # hsl(139,100%,31%)
+    tab-two: "114,65%,81%" # hsl(114,65%,81%)
+    tab-three: "124,54%,72%" # hsl(124,54%,72%)
+    tab-four: "129,50%,62%" # hsl(129,50%,62%)
+    tab-five: "134,48%,52%" # hsl(134,48%,52%)
+    tab-six: "137,64%,42%" # hsl(137,64%,42%)
 slug: "book"
 description: "I wrote a book! It’s called *Accessibility For Everyone*, and you can buy it in paperback and ebook from A Book Apart."
 image: "/images/2017/12/book-collage.jpg"

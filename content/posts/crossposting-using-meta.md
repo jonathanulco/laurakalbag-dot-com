@@ -3,7 +3,19 @@ title: "Cross-posting using meta information"
 date: 2018-07-25T10:31:01+01:00
 categories: ["Decentralisation"]
 tags: ["crossposting", "social networks", "Hugo", "development", "personal websites"]
-body_classes: "blog colours-001"
+body_classes: "blog"
+colours:
+  primary-bg: "0,0%,91%" # hsl(0,0%,91%)
+  secondary-bg: "0,0%,82%" # hsl(0,0%,82%)
+  text: "0,4%,26%" # hsl(0,4%,26%)
+  linktext: "0,0%,19%" # hsl(0,0%,19%)
+  darklinktext: "0,0%,1%" # hsl(0,0%,1%)
+  brilliant: "180,1%,50%" # hsl(180,1%,50%)
+  tab-two: "0,0%,84%" # hsl(0,0%,84%)
+  tab-three: "180,2%,78%" # hsl(180,2%,78%)
+  tab-four: "180,2%,71%" # hsl(180,2%,71%)
+  tab-five: "0,0%,64%" # hsl(0,0%,64%)
+  tab-six: "180,1%,57%" # hsl(180,1%,57%)
 image: ""
 description: "Writing a few blog posts last week, and cross-posting them in various locations, got me thinking about how meta information can be reused."
 ---

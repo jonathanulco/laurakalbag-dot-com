@@ -1,11 +1,21 @@
 ---
 title: "Burnout"
-draft: false
-colours: ["#326c95", "#647887", "#658195", "#4E5860", "#738b9c", "#3a4750", "#ff6205"]
 date: 2013-03-12T20:41:36+00:00
 categories: ["Freelancing", "Personal"]
 tags: ["burnout", "freelancing", "health"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 Burnout. Spending hours just staring into space when you’re supposed to be doing work, when you *want* to be doing work. Feeling foggy-headed and grey the whole time when you usually feel eager and excitable. Menial tasks are just about manageable, but anything requiring careful consideration or creative thinking feels impossible. I sleep but I still feel tired.

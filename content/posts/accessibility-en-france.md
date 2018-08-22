@@ -1,11 +1,22 @@
 ---
 title: "Accessibility en France"
 draft: false
-colours: ["#006594", "#005176", "#687b00", "#003751", "#a4ba25", "#001c2d", "#ed135a"]
 date: 2014-06-14T11:19:30+00:00
 categories: ["Uncategorized"]
 tags: ["accessibility", "French", "languages", "translation"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 Yesterday I gave a talk at [KiwiParty](http://kiwiparty.fr/) in Strasbourg. KiwiParty is a lovely conference, but all of the speakers spoke in French, to the French audience. Except me. I speak a little bit of (A-Level) French, but I certainly couldn’t give a talk in French.

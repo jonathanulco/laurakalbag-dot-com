@@ -6,6 +6,18 @@ date: 2013-02-11T10:54:24+00:00
 categories: ["Design", "Freelancing", "Learning"]
 tags: ["clients", "mentee", "mentor", "project"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 We’ve got a project! I’ll elaborate on the details of the project in a future post, but the importance of having a project was that it’s allowed me to choose the designers/developers who could get something out of being [mentees](http://en.wikipedia.org/wiki/Mentee). I didn’t want to do this before securing the right project as I needed to know what I was looking for in a mentee.

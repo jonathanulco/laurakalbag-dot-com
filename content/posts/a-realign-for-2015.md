@@ -1,11 +1,21 @@
 ---
 title: "A realign for 2015"
-draft: false
-colours: ["#843e92", "#482e61", "#524489", "#432761", "#735093", "#29193a", "#8f6093"]
 date: 2015-04-02T17:24:04+00:00
 categories: ["Design", "Milestones"]
 tags: ["accessibility", "colour", "design"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 Almost a year after [last year’s realign](/a-little-realign/ "A little realign"), I’ve made some more tweaks to my site. There were a few reasons behind it:

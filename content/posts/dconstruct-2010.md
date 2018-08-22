@@ -1,11 +1,21 @@
 ---
 title: "dConstruct 2010"
-draft: false
-colours: ["#53712b", "#1D3722", "#D1EF5A", "#8EAB36", "#2DCCFA", "#19291c", "#464646"]
 date: 2010-09-05T12:58:54+00:00
 categories: ["Design", "Events"]
 tags: ["conference", "design", "event", "ideas", "learning"]
 body_classes: "blog"
+colours:
+  primary-bg: "58,95%,83%" # hsl(58,95%,83%)
+  secondary-bg: "60,76%,76%" # hsl(60,76%,76%)
+  text: "212,47%,25%" # hsl(212,47%,25%)
+  linktext: "193,100%,19%" # hsl(193,100%,19%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "208,100%,44%" # hsl(208,100%,44%)
+  tab-two: "83,45%,80%" # hsl(83,45%,80%)
+  tab-three: "152,28%,74%" # hsl(152,28%,74%)
+  tab-four: "189,37%,64%" # hsl(189,37%,64%)
+  tab-five: "200,54%,57%" # hsl(200,54%,57%)
+  tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
 I was a bit skeptical about dConstruct at first. The idea of a conference based on ‘creativity and ideas’ made me worry it might be a bit pretentious but I was convinced by a lot of friends on Twitter that it’d be worthwhile, and they were so right.

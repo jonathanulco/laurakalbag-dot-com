@@ -1,11 +1,21 @@
 ---
 title: "Becoming part of Indie Phone"
-draft: false
-colours: ["#ee0000", "#3f3f3f", "#b70000", "#232323", "#7a7a7a", "#020202", "#8e8e8e"]
 date: 2014-06-04T08:36:28+00:00
 categories: ["Design", "Freelancing", "Milestones", "Personal"]
 tags: ["client work", "data", "discount", "freedom", "freelancing", "Indie Phone", "indie tech", "privacy"]
-body_classes: "blog colours-010"
+body_classes: "blog"
+colours:
+  primary-bg: "0,0%,95%" # hsl(0,0%,95%)
+  secondary-bg: "0,0%,82%" # hsl(0,0%,82%)
+  text: "0,0%,21%" # hsl(0,0%,21%)
+  linktext: "0,100%,33%" # hsl(0,100%,33%)
+  darklinktext: "0,0%,0%" # hsl(0,0%,0%)
+  brilliant: "7,81%,49%" # hsl(7,81%,49%)
+  tab-two: "6,44%,86%" # hsl(6,44%,86%)
+  tab-three: "5,50%,78%" # hsl(5,50%,78%)
+  tab-four: "5,55%,70%" # hsl(5,55%,70%)
+  tab-five: "6,59%,62%" # hsl(6,59%,62%)
+  tab-six: "4,57%,53%" # hsl(4,57%,53%)
 ---
 
 There’s some big changes around here. As of Monday, I am now working with [Indie Phone](http://indiephone.eu) for 50% of my working time.
