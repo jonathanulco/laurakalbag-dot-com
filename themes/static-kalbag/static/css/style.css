@@ -643,6 +643,13 @@ hr {
 	margin: 2em 0;
 }
 
+/* when the hr is in a summary, make it a bit more subtle/not full width */
+hr {
+	border: hsl(var(--brilliant)) dashed 0.075em;
+	margin: 1em var(--layout-unit);
+	max-width: var(--max-width);
+}
+
 /* invert colours for code */
 pre {
 	background: hsl(var(--text));
