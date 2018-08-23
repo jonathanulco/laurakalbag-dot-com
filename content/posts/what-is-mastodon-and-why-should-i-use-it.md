@@ -29,7 +29,7 @@ This post is a follow-up to [What’s wrong with Twitter?](/what-is-wrong-with-t
 
 Mastodon started out with many similar features to Twitter, such as character limit on posts, but has evolved with more features that show a progressive and inclusive focus.<!--more-->
 
-There’s a truly good [Toot How-to: Intro to Mastodon by Ginny McQueen](medium.com/@GinnyMcQueen/toot-how-to-intro-to-mastodon-e5655bfa87d2) that covers all the introductory basics. Also [How Does Mastodon Work? By Kev Quirk](kevq.uk/how-does-mastodon-work/) introduces Mastodon with comparisons to Twitter, in case that makes it easier to understand.
+ https://blog.joinmastodon.org/2018/07/cage-the-mastodon/
 
 If you’re looking for apps and web clients for using with Mastodon, beyond the default interface, check out [the definitive list](github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md) of apps. It also has other useful stuff listed, such as cross-posting tools.
 
@@ -55,19 +55,21 @@ Mastodon is unique for a few reasons:
 
 
 
+## How to use Mastodon
 
+I’m not an expert, and my use of Mastodon is still in its infancy. Here are a list of great How-To guides by people who know Mastodon far better than me:
 
-# Some answers to some common statements…
+- **[An Increasingly Less-Brief Guide to Mastodon by @joyeusenoelle](https://github.com/joyeusenoelle/GuideToMastodon/)**—Simply-written guide following a Frequently-Asked-Questions format. Useful if you want to find an answer to a specific question.
+- **[Toot How-to: Intro to Mastodon by Ginny McQueen](medium.com/@GinnyMcQueen/toot-how-to-intro-to-mastodon-e5655bfa87d2)**—Covers all the introductory basics to Mastodon with an eye on keeping yourself safe. 
+- **[What is Mastodon and why is it better than Twitter by Nolan Lawson](https://nolanlawson.com/2017/10/23/what-is-mastodon-and-why-is-it-better-than-twitter/)**—A detailed introduction to Mastodon and some of its history.
+- **[Cage The Mastodon by Eugen Rochko](https://blog.joinmastodon.org/2018/07/cage-the-mastodon/)**—“An overview of features for dealing with abuse and harassment” which also explains the design decisions behind Mastodon.
+- **[How Does Mastodon Work? By Kev Quirk](kevq.uk/how-does-mastodon-work/)**—Introduces Mastodon with comparisons to Twitter, in case that makes it easier to understand.
 
-I’d call them questions, but they’re not…
-
-
-### But all my friends/cool people/interesting discussions are on Twitter…
+## But all my friends/cool people/interesting discussions are on Twitter…
 
 Were all your friends, the cool people, and the interesting discussions on Twitter when you joined? 
 
-
-### I don’t have the time to join another social network
+## I don’t have the time to join another social network
 
 - is it free and open
 - Why do people keep inviting me to their instances
