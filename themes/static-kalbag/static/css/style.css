@@ -559,6 +559,9 @@ figure.always-full-height img {
 		grid-auto-rows: minmax(12em, auto);
 		grid-gap: 0.25em;
 		justify-content: space-between;
+		/* for some reason it needs this so doesn't have lower index than svg above */
+		position: relative;
+		z-index: 2;
 	}
 
 	/* link act as crop for image */
@@ -672,7 +675,7 @@ pre code {
 }
 
 	/* set active navigation link background colour */
-.navigation-menu li.active a {
+.navigation-menu li.active a, body.blog .navigation-menu a[href="/posts/"], body.latest .navigation-menu a[href="/latest/"] {
 	background: hsla(var(--primary-bg), 0.5);
 	color: hsl(var(--text));
 }
