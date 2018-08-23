@@ -672,8 +672,8 @@ pre code {
 
 .navigation-menu li a:hover, .navigation-menu li a:active {
 	text-decoration: underline;
-	text-decoration-color: inherit;
-	-webkit-text-decoration-color: inherit;
+	text-decoration-color: currentcolor;
+	-webkit-text-decoration-color: currentcolor;
 }
 
 /* TODO: might need to replace highlight colour for un-"active" active nav items here */
