@@ -19,7 +19,11 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Content | html }}</description>
+      {{ if eq .Type "photos" }}
+      <description>{{ partial "photos.xml" . }}</description>
+      {{ else }}
+      <description>{{ .Content | html }}&lt;p&gt;&lt;a href=&#34;{{ .Permalink}}&#34;&gt;Read the original post&lt;/a&gt;.&lt;/p&gt;</description>
+      {{ end }}
     </item>
     {{ end }}
   </channel>
