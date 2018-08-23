@@ -366,6 +366,9 @@ pre {
 #content {
 /* to clear contained margins */
 	padding: 0.5em 0 4.5em;
+	/* to make svg stay below content */
+	position: relative;
+	z-index: 2;
 }
 
 .entry-notes {
