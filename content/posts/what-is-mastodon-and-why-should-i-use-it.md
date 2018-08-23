@@ -64,6 +64,7 @@ I’m not an expert, and my use of Mastodon is still in its infancy. Here are a 
 - **[What is Mastodon and why is it better than Twitter by Nolan Lawson](https://nolanlawson.com/2017/10/23/what-is-mastodon-and-why-is-it-better-than-twitter/)**—A detailed introduction to Mastodon and some of its history.
 - **[Cage The Mastodon by Eugen Rochko](https://blog.joinmastodon.org/2018/07/cage-the-mastodon/)**—“An overview of features for dealing with abuse and harassment” which also explains the design decisions behind Mastodon.
 - **[How Does Mastodon Work? By Kev Quirk](kevq.uk/how-does-mastodon-work/)**—Introduces Mastodon with comparisons to Twitter, in case that makes it easier to understand.
+Privacy settings https://dev.glitch.social/@cassolotl/99942218361780184
 
 ## But all my friends/cool people/interesting discussions are on Twitter…
 
