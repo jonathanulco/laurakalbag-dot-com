@@ -47,6 +47,8 @@ If Twitter were to stick to a strict abuse and harassment policy, there would be
 
 If Twitter were to give us adequate tools to moderate our own Twitter feeds, @replies, and messages, it would likely impact what the algorithm chooses to show us.
 
+https://openstate.pr.co/108959-twitter-cuts-off-diplotwoops-and-politwoops-in-all-remaining-30-countries
+
 In short, Twitter does not deal with abuse because surveillance capitalism.
 
 ### Twitter actually encourages abuse 
