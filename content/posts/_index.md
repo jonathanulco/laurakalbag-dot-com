@@ -25,4 +25,4 @@ aliases: [
 
 # Blog
 
-Want these posts in your feed reader? You can [subscribe to my blog RSS feed](https://laurakalbag.com/posts/index.xml). Want all these blog posts and the notes too? [Subscribe to my Blog and Notes feed](https://laurakalbag.com/index.xml).
+Want these posts in your feed reader? You can [subscribe to my blog RSS feed](https://laurakalbag.com/posts/index.xml). Want all these blog posts and the notes and photos too? [Subscribe to my Whole Site feed](https://laurakalbag.com/index.xml).

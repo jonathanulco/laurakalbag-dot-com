@@ -20,3 +20,5 @@ aliases:
 ---
 
 # Photos
+
+Want to see this in your feed reader? [Subscribe to the Photos RSS feed](/photos/index.xml).
