@@ -100,7 +100,7 @@
 	--tab-six: 180,1%,57%; /* hsl(180,1%,57%) */
 }
 
-/*  - - - - - - - - TYPOGRAPHY
+/*  - - - - - - - - NAKED ELEMENTS
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
 
@@ -128,8 +128,11 @@ html {
 }
 
 body {
+	background: hsl(var(--secondary-bg));
+	color: hsl(var(--text));
 	font-family: var(--font-family);
-    letter-spacing: -0.02em;
+	letter-spacing: -0.02em;
+	margin: 0;
 }
 	
 h1, h2, h3 {
@@ -143,6 +146,7 @@ h1, h2, h3 {
 }
 	
 h1 {
+	display: table; /* make background only cover space behind text */
 	font-size: 2.5em;
     margin-top: 1em;
 }
@@ -255,6 +259,10 @@ p {
 }
 	
 a {
+	color: hsl(var(--linktext));
+	text-decoration: underline;
+	text-decoration-color: hsl(var(--brilliant));
+	-webkit-text-decoration-color: hsl(var(--brilliant));
 	/* for really long URLs */
 	-ms-word-break: break-all;
 	word-break: break-all;
@@ -262,6 +270,14 @@ a {
 	-webkit-hyphens: auto;
 	-moz-hyphens: auto;
     hyphens: auto;
+}
+
+a:hover, a:active {
+	color: hsl(var(--brilliant));
+	text-decoration: underline;
+	text-decoration-color: hsl(var(--brilliant));
+	-webkit-text-decoration-color: hsl(var(--brilliant));
+	transition: 0.2s;
 }
 	
 strong {
@@ -277,6 +293,15 @@ code {
 	/* give Overpass monospace font same x-height as Informative */
     font-size: 0.95em;
 }
+
+ul, ol {
+	margin: 1em var(--layout-unit);
+	padding-left: var(--layout-unit);
+}
+
+p, small {
+	max-width: var(--max-width);
+}
 	
 small {
     font-size: 0.9em;
@@ -288,6 +313,45 @@ small a {
 		
 blockquote {
     font-style: italic;
+	margin: 1em var(--layout-unit);
+}
+
+pre {
+	/* invert colours for code */
+	background: hsl(var(--text));
+	-ms-word-break: break-all;
+	word-break: break-all;
+	word-break: break-word;
+	border: none;
+	margin: 1em 0;
+	max-width: calc(var(--max-width)*1.195);
+	overflow-x: scroll;
+	overflow-y: visible;
+	padding: 2em var(--layout-unit) 3em var(--layout-unit);
+}
+
+/* invert colours for code */
+pre code {
+	color: hsl(var(--primary-bg));
+}
+
+hr {
+	border: hsl(var(--brilliant)) dashed 0.1em;
+	margin: 2em 0;
+}
+
+/* when the hr is in a summary, make it a bit more subtle/not full width */
+hr {
+	border: hsl(var(--brilliant)) dashed 0.075em;
+	margin: 1em var(--layout-unit);
+	max-width: var(--max-width);
+}
+
+/*  - - - - - - - - CLASSES AND IDs
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+h1 a, h2 a, h3 a, figure a, figure a:hover {
+	color: hsl(var(--text));
 }
 
 .entry-meta {
@@ -307,48 +371,12 @@ figcaption, .site-footer p, .site-footer small, .note {
     text-transform: uppercase;
 }
 
-/*  - - - - - - - - LAYOUT
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
-
-/*  - - - - - - - - NAKED ELEMENTS */
-
-body {
-	margin: 0;
-}
-
-p, small {
-	max-width: var(--max-width);
-}
-		
-ul, ol {
-	margin: 1em var(--layout-unit);
-	padding-left: var(--layout-unit);
-}
-
-blockquote {
-	margin: 1em var(--layout-unit);
-}
-
-pre {
-	-ms-word-break: break-all;
-	word-break: break-all;
-	word-break: break-word;
-	border: none;
-	margin: 1em 0;
-	max-width: calc(var(--max-width)*1.195);
-	overflow-x: scroll;
-	overflow-y: visible;
-	padding: 2em var(--layout-unit) 3em var(--layout-unit);
-}
-
-/*  - - - - - - - - CUSTOM COMPONENTS (CLASSES AND IDs) */
-
-/*  - - - - - - - - HEADER */
-
 .site-header {
+	background: hsl(var(--secondary-bg));
 	/* to clear contained margins */
 	padding: 0.5em 0 0 0;
 }
+
 
 .site-title {
 	margin-top: 0;
@@ -358,13 +386,16 @@ pre {
 }
 	
 .site-title a {
+	background: hsl(var(--secondary-bg));
+	color: hsl(var(--text));
 	text-decoration: none;
 }
 
 /*  - - - - - - - - MAIN */
 
 #content {
-/* to clear contained margins */
+	background: hsl(var(--primary-bg));
+	/* to clear contained margins */
 	padding: 0.5em 0 4.5em;
 	/* to make svg stay below content */
 	position: relative;
@@ -382,7 +413,8 @@ pre {
 /*  - - - - - - - - FOOTER */
 	
 .site-footer {
-/* to clear contained margins */
+	background: hsl(var(--secondary-bg));
+	/* to clear contained margins */
 	padding: 0.5em 0;
 }
 		
@@ -402,7 +434,12 @@ pre {
 	top: -10em;
 }
 
+.navigation-menu {
+	background: hsla(var(--tab-five), 0.1);
+}
+
 .navigation-menu ul {
+	background: hsla(var(--tab-five), 0.1);
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -412,6 +449,10 @@ pre {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+}
+
+.navigation-menu ul li {
+	background: hsl(var(--secondary-bg));
 }
 
 .navigation-menu ul a {
@@ -425,6 +466,126 @@ pre {
 		padding: calc(var(--layout-unit)/2) var(--layout-unit);
 	}
 }
+
+
+/* set active navigation link background colour */
+.navigation-menu li.active a, body.blog .navigation-menu a[href="/posts/"], body.latest .navigation-menu a[href="/latest/"] {
+	background: hsla(var(--primary-bg), 0.5);
+	color: hsl(var(--text));
+}
+
+.navigation-menu li a:hover, .navigation-menu li a:active {
+	text-decoration: underline;
+	text-decoration-color: currentcolor;
+	-webkit-text-decoration-color: currentcolor;
+}
+
+/* links before and after active navigation (relies on order of navigation being reflected) */
+body.home .navigation-menu a[href="/about-me/"],
+body.kind-404 .navigation-menu a[href="/about-me/"],
+body.about-me .navigation-menu a[href="/"],
+body.about-me .navigation-menu a[href="/book/"],
+body.book .navigation-menu a[href="/about-me/"],
+body.book .navigation-menu a[href="/posts/"],
+body.blog .navigation-menu a[href="/book/"],
+body.blog .navigation-menu a[href="/latest/"],
+body.kind-taxonomy .navigation-menu a[href="/book/"],
+body.kind-taxonomy .navigation-menu a[href="/latest/"],
+body.latest .navigation-menu a[href="/posts/"],
+body.latest .navigation-menu a[href="/speaking/"],
+body.speaking .navigation-menu a[href="/latest/"],
+body.speaking .navigation-menu a[href="/contact-me/"],
+body.contact-me .navigation-menu a[href="/speaking/"] {
+	background: hsla(var(--tab-two), .8);
+	color: hsl(var(--darklinktext));
+}
+
+/* links second before and after active navigation */
+/* darken text accordingly */
+body.home .navigation-menu a[href="/book/"],
+body.kind-404 .navigation-menu a[href="/book/"],
+body.about-me .navigation-menu a[href="/posts/"],
+body.book .navigation-menu a[href="/"],
+body.book .navigation-menu a[href="/latest/"],
+body.blog .navigation-menu a[href="/about-me/"],
+body.blog .navigation-menu a[href="/speaking/"],
+body.kind-taxonomy .navigation-menu a[href="/about-me/"],
+body.kind-taxonomy .navigation-menu a[href="/speaking/"],
+body.latest .navigation-menu a[href="/book/"],
+body.latest .navigation-menu a[href="/contact-me/"],
+body.speaking .navigation-menu a[href="/posts/"],
+body.contact-me .navigation-menu a[href="/latest/"] {
+	background: hsla(var(--tab-three), .8);
+	color: hsl(var(--darklinktext));
+}
+
+/* links third before and after active navigation */
+/* darken text accordingly */
+body.home .navigation-menu a[href="/posts/"],
+body.kind-404 .navigation-menu a[href="/posts/"],
+body.about-me .navigation-menu a[href="/latest/"],
+body.blog .navigation-menu a[href="/"],
+body.blog .navigation-menu a[href="/contact-me/"],
+body.kind-taxonomy .navigation-menu a[href="/"],
+body.kind-taxonomy .navigation-menu a[href="/contact-me/"],
+body.book .navigation-menu a[href="/speaking/"],
+body.latest .navigation-menu a[href="/about-me/"],
+body.speaking .navigation-menu a[href="/book/"],
+body.contact-me .navigation-menu a[href="/posts/"] {
+	background: hsla(var(--tab-four), .8);
+	color: hsl(var(--darklinktext));
+}
+
+/* links fourth before and after active navigation */
+/* darken text accordingly */
+body.home .navigation-menu a[href="/latest/"],
+body.kind-404 .navigation-menu a[href="/latest/"],
+body.about-me .navigation-menu a[href="/speaking/"],
+body.book .navigation-menu a[href="/contact-me/"],
+body.latest .navigation-menu a[href="/"],
+body.speaking .navigation-menu a[href="/about-me/"],
+body.contact-me .navigation-menu a[href="/book/"] {
+	background: hsla(var(--tab-five), .8);
+	color: hsl(var(--darklinktext));
+}
+
+/* links fifth before and after active navigation */
+/* darken text accordingly */
+body.home .navigation-menu a[href="/speaking/"],
+body.kind-404 .navigation-menu a[href="/speaking/"],
+body.about-me .navigation-menu a[href="/contact-me/"],
+body.latest .navigation-menu a[href="/"],
+body.speaking .navigation-menu a[href="/"],
+body.contact-me .navigation-menu a[href="/about-me/"] {
+	background: hsla(var(--tab-six), .8);
+	color: hsl(var(--darklinktext));
+}
+
+/* links sixth before and after active navigation */
+/* darken text accordingly */
+body.home .navigation-menu a[href="/contact-me/"],
+body.kind-404 .navigation-menu a[href="/contact-me/"],
+body.contact-me .navigation-menu a[href="/"] {
+	background: hsla(var(--brilliant), .8);
+	color: hsl(var(--darklinktext));
+}
+
+/* add colour behind top elements on page so image doesn’t make it hard to read */
+#content h1, #content h2, #content .entry-content > p:nth-of-type(1) {
+	background: hsl(var(--primary-bg));
+	box-shadow: hsl(var(--primary-bg)) 0 0 0 calc(var(--layout-unit)*0.5);
+	position: relative; /* so we can use z-index */
+	z-index: 2;
+}
+		
+@media screen and (min-width: 18em) {
+	#content h1, #content main > h2:nth-of-type(1), #content  .entry-content > p:nth-of-type(1) {
+		box-shadow: hsl(var(--primary-bg)) 0 0 0 calc(var(--layout-unit)*0.5);
+	}
+}
+
+/*  - - - - - - - - VIEW-SPECIFIC
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
 /*  - - - - - - - - BLOG
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
@@ -595,208 +756,6 @@ figure.always-full-height img {
 
 .latest-photos li:last-of-type a {
 	margin-right: 0;
-}
-
-/*  - - - - - - - - COLOUR
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
-
-/* Plug colour variables into here */
-
-body {
-	background: hsl(var(--secondary-bg));
-	color: hsl(var(--text));
-}
-
-a {
-	color: hsl(var(--linktext));
-	text-decoration: underline;
-	text-decoration-color: hsl(var(--brilliant));
-	-webkit-text-decoration-color: hsl(var(--brilliant));
-}
-
-a:hover, a:active {
-	color: hsl(var(--brilliant));
-	text-decoration: underline;
-	text-decoration-color: hsl(var(--brilliant));
-	-webkit-text-decoration-color: hsl(var(--brilliant));
-	transition: 0.2s;
-}
-
-h1 a, h2 a, h3 a, figure a, figure a:hover {
-	color: hsl(var(--text));
-}
-
-.site-title a {
-	background: hsl(var(--secondary-bg));
-	color: hsl(var(--text));
-	text-decoration: none;
-}
-
-.site-header {
-	background: hsl(var(--secondary-bg));
-}
-
-#content {
-	background: hsl(var(--primary-bg));
-}
-
-.site-footer {
-	background: hsl(var(--secondary-bg));
-}
-
-hr {
-	border: hsl(var(--brilliant)) dashed 0.1em;
-	margin: 2em 0;
-}
-
-/* when the hr is in a summary, make it a bit more subtle/not full width */
-hr {
-	border: hsl(var(--brilliant)) dashed 0.075em;
-	margin: 1em var(--layout-unit);
-	max-width: var(--max-width);
-}
-
-/* invert colours for code */
-pre {
-	background: hsl(var(--text));
-}
-
-pre code {
-	color: hsl(var(--primary-bg));
-}
-
-.navigation-menu ul {
-	background: hsla(var(--tab-five), 0.1);
-}
-
-.navigation-menu ul li {
-	background: hsl(var(--secondary-bg));
-}
-
-.navigation-menu {
-	background: hsla(var(--tab-five), 0.1);
-}
-
-	/* set active navigation link background colour */
-.navigation-menu li.active a, body.blog .navigation-menu a[href="/posts/"], body.latest .navigation-menu a[href="/latest/"] {
-	background: hsla(var(--primary-bg), 0.5);
-	color: hsl(var(--text));
-}
-
-.navigation-menu li a:hover, .navigation-menu li a:active {
-	text-decoration: underline;
-	text-decoration-color: currentcolor;
-	-webkit-text-decoration-color: currentcolor;
-}
-
-/* TODO: might need to replace highlight colour for un-"active" active nav items here */
-	
-/* links before and after active navigation (relies on order of navigation being reflected) */
-body.home .navigation-menu a[href="/about-me/"],
-body.kind-404 .navigation-menu a[href="/about-me/"],
-body.about-me .navigation-menu a[href="/"],
-body.about-me .navigation-menu a[href="/book/"],
-body.book .navigation-menu a[href="/about-me/"],
-body.book .navigation-menu a[href="/posts/"],
-body.blog .navigation-menu a[href="/book/"],
-body.blog .navigation-menu a[href="/latest/"],
-body.kind-taxonomy .navigation-menu a[href="/book/"],
-body.kind-taxonomy .navigation-menu a[href="/latest/"],
-body.latest .navigation-menu a[href="/posts/"],
-body.latest .navigation-menu a[href="/speaking/"],
-body.speaking .navigation-menu a[href="/latest/"],
-body.speaking .navigation-menu a[href="/contact-me/"],
-body.contact-me .navigation-menu a[href="/speaking/"] {
-	background: hsla(var(--tab-two), .8);
-	color: hsl(var(--darklinktext));
-}
-
-/* links second before and after active navigation */
-/* darken text accordingly */
-body.home .navigation-menu a[href="/book/"],
-body.kind-404 .navigation-menu a[href="/book/"],
-body.about-me .navigation-menu a[href="/posts/"],
-body.book .navigation-menu a[href="/"],
-body.book .navigation-menu a[href="/latest/"],
-body.blog .navigation-menu a[href="/about-me/"],
-body.blog .navigation-menu a[href="/speaking/"],
-body.kind-taxonomy .navigation-menu a[href="/about-me/"],
-body.kind-taxonomy .navigation-menu a[href="/speaking/"],
-body.latest .navigation-menu a[href="/book/"],
-body.latest .navigation-menu a[href="/contact-me/"],
-body.speaking .navigation-menu a[href="/posts/"],
-body.contact-me .navigation-menu a[href="/latest/"] {
-	background: hsla(var(--tab-three), .8);
-	color: hsl(var(--darklinktext));
-}
-
-/* links third before and after active navigation */
-/* darken text accordingly */
-body.home .navigation-menu a[href="/posts/"],
-body.kind-404 .navigation-menu a[href="/posts/"],
-body.about-me .navigation-menu a[href="/latest/"],
-body.blog .navigation-menu a[href="/"],
-body.blog .navigation-menu a[href="/contact-me/"],
-body.kind-taxonomy .navigation-menu a[href="/"],
-body.kind-taxonomy .navigation-menu a[href="/contact-me/"],
-body.book .navigation-menu a[href="/speaking/"],
-body.latest .navigation-menu a[href="/about-me/"],
-body.speaking .navigation-menu a[href="/book/"],
-body.contact-me .navigation-menu a[href="/posts/"] {
-	background: hsla(var(--tab-four), .8);
-	color: hsl(var(--darklinktext));
-}
-
-/* links fourth before and after active navigation */
-/* darken text accordingly */
-body.home .navigation-menu a[href="/latest/"],
-body.kind-404 .navigation-menu a[href="/latest/"],
-body.about-me .navigation-menu a[href="/speaking/"],
-body.book .navigation-menu a[href="/contact-me/"],
-body.latest .navigation-menu a[href="/"],
-body.speaking .navigation-menu a[href="/about-me/"],
-body.contact-me .navigation-menu a[href="/book/"] {
-	background: hsla(var(--tab-five), .8);
-	color: hsl(var(--darklinktext));
-}
-
-/* links fifth before and after active navigation */
-/* darken text accordingly */
-body.home .navigation-menu a[href="/speaking/"],
-body.kind-404 .navigation-menu a[href="/speaking/"],
-body.about-me .navigation-menu a[href="/contact-me/"],
-body.latest .navigation-menu a[href="/"],
-body.speaking .navigation-menu a[href="/"],
-body.contact-me .navigation-menu a[href="/about-me/"] {
-	background: hsla(var(--tab-six), .8);
-	color: hsl(var(--darklinktext));
-}
-
-/* links sixth before and after active navigation */
-/* darken text accordingly */
-body.home .navigation-menu a[href="/contact-me/"],
-body.kind-404 .navigation-menu a[href="/contact-me/"],
-body.contact-me .navigation-menu a[href="/"] {
-	background: hsla(var(--brilliant), .8);
-	color: hsl(var(--darklinktext));
-}
-
-/* add colour behind top elements on page so image doesn’t make it hard to read */
-#content h1, #content h2, #content .entry-content > p:nth-of-type(1) {
-	background: hsl(var(--primary-bg));
-	box-shadow: hsl(var(--primary-bg)) 0 0 0 calc(var(--layout-unit)*0.5);
-	position: relative; /* so we can use z-index */
-	z-index: 2;
-}
-		
-@media screen and (min-width: 18em) {
-	#content h1, #content main > h2:nth-of-type(1), #content  .entry-content > p:nth-of-type(1) {
-		box-shadow: hsl(var(--primary-bg)) 0 0 0 calc(var(--layout-unit)*0.5);
-	}
-}
-
-h1 {
-	display: table; /* make background only cover space behind text */
 }
 
 /*  - - - - - - - - SVG TILE
