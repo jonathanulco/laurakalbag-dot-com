@@ -26,6 +26,6 @@ imagealt: ""
 description: ""
 ---
 
-If you care about inclusive design and accessibility, you must buy Inclusive Components. I refer to @heydon’s writings on a weekly basis to make sure I’m not making a mess of my designs and dev. Truly invaluable work.<!--more-->
+If you care about inclusive design and accessibility, you must buy [Inclusive Components](http://book.inclusive-components.design/). I refer to Heydon’s writings on a weekly basis to make sure I’m not making a mess of my designs and dev. Truly invaluable work.<!--more-->
 
 [Inclusive Components, the book by Heydon Pickering](http://book.inclusive-components.design/)
