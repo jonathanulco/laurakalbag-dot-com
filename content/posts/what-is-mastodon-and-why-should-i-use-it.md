@@ -66,6 +66,14 @@ I’m not an expert, and my use of Mastodon is still in its infancy. Here are a 
 - **[How Does Mastodon Work? By Kev Quirk](kevq.uk/how-does-mastodon-work/)**—Introduces Mastodon with comparisons to Twitter, in case that makes it easier to understand.
 Privacy settings https://dev.glitch.social/@cassolotl/99942218361780184
 
+## Important: Join a small instance/your own instance
+
+- Why don't you (Ind.ie) make an instance we can join?
+
+1. Because I do not have the training/strength
+
+2. Because we are working away from centralisation.
+
 ## But all my friends/cool people/interesting discussions are on Twitter…
 
 Were all your friends, the cool people, and the interesting discussions on Twitter when you joined? 
@@ -76,6 +84,12 @@ Were all your friends, the cool people, and the interesting discussions on Twitt
 - Why do people keep inviting me to their instances
 - Can instances talk to each other
 - Does it matter which instance you join
+
+> “While I've been thinking about and working on this problem since the very beginnings of Twitter, I haven't had much success at addressing these problems. Nor has anyone else.
+>
+> These are *hard problems*. Facile criticism of earnest efforts isn't going to get us anywhere. 
+>
+> Which isn't to say criticism isn't warranted. There are many legitimate issues. But if the argument defaults to "so we should all just continue to hang out on and moan about Twitter" it seriously undercuts the legitimacy of any criticism.” —[Blaine Cook on Twitter](https://twitter.com/blaine/status/1030586266532933633?s=21).
 
 <hr/>
 

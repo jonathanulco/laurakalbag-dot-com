@@ -50,6 +50,12 @@ Being vulnerable and “can’t be arsed” are not the same things.
 
 If, like me, you are not great with sysadmin, or just don’t have the time to maintain your own Mastodon instance, I recommend [Masto.host](https://masto.host). At Masto.host, Hugo Gameiro does the installation and hosting of Mastodon instances for X
 
+## It’s what we’re working towards
+
+A clever person I respect asked me “I’m curious to see how a tech-focused solution might work. (If only because many of these issues feel to me like systemic, structural ones.” My answer to them was this:
+
+So much this. But also that we’re stuck with tech that amplifies systemic issues because we don’t have any alternatives, and that we can’t escape because it’s our new infrastructure. We’ve got to try some stuff to see what sticks!
+
 <hr/>
 
 Part 3 of a series on [Moving to Mastodon](/tags/moving-to-mastodon)
