@@ -89,9 +89,9 @@ Despite the follower/following model of Twitter, I do have friends on Twitter. [
 
 The workaround: [Mastodon](https://joinmastodon.org). A far-from-perfect but  well-intentioned social network. In my next blog post, I’ll explain why (for now at least) it is the Twitter alternative for me.
 
-<!--<hr/>
+<hr/>
 
 Part 1 of a series on [Social Networks](/categories/social-networks)
 
 - Part 2: [What is Mastodon and why should I use it?](/what-is-mastodon-and-why-should-i-use-it)
-- Part 3: [What is an instance-of-one and is it lonely?](/what-is-an-instance-of-one-and-is-it-lonely)-->
+<!-- - Part 3: [What is an instance-of-one and is it lonely?](/what-is-an-instance-of-one-and-is-it-lonely)-->

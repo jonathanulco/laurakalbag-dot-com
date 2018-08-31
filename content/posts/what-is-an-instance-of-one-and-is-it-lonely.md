@@ -25,6 +25,13 @@ description: ""
 
 Post text<!--more-->
 
+I first joined Mastodon (mastodon.social—an important distinction I’ll get to later) [in late 2016](https://mastodon.social/@laurakalbag/54674). While I was fairly active on the [@Better](https://mastodon.social/@better) and [@Indie](https://mastodon.social/@indie) accounts, my own account was very quiet. Mastodon.social was already fairly big, and I wanted to have my own instance, and not invest too much of my time in an account that would eventually cease to exist.
+
+I have my own instance, [mastodon.laurakalbag.com](mastodon.laurakalbag.com) where it’s just me and [Oskar](https://mastodon.laurakalbag.com/@gigapup). This is referred to as an “instance-of-one.”
+
+In an ideal world, you should know your instance admin in person. While we aim 
+Like a family or a club
+
 ## Why set up an instance-of-one?
 
 - Ownership and control
@@ -58,7 +65,7 @@ So much this. But also that we’re stuck with tech that amplifies systemic issu
 
 <hr/>
 
-Part 3 of a series on [Moving to Mastodon](/tags/moving-to-mastodon)
+Part 3 of a series on [Social Networks](/categories/social-networks)
 
 - Part 1: [What’s wrong with Twitter?](/what-is-wrong-with-twitter)
 - Part 2: [What is Mastodon and why should I use it?](/what-is-mastodon-and-why-should-i-use-it)
