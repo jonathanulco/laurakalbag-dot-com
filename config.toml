@@ -10,8 +10,8 @@ theme = "static-kalbag"
 	posts = "/:filename/"
 	projects = "/project/:filename/"
 [params]
-	image = "site-feature.png" # Default other stuff image for site
-	publisherLogo = "site-feature.png" # Default other stuff image for site
+	image = "/site-feature.png" # Default other stuff image for site
+	publisherLogo = "/site-feature.png" # Default other stuff image for site
 	publisher = "Laura Kalbag"
 	twitter = "laurakalbag"
 	facebook = "laurakalbag"
