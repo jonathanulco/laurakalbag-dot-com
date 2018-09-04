@@ -617,6 +617,10 @@ body.contact-me .navigation-menu a[href="/"] {
 	font-weight: bold;
 }
 
+.entry-content ul, .entry-content ol {
+	max-width: var(--max-width);
+}
+
 main article .entry-meta {
 	font-family: var(--font-family-black);
 	font-weight: bold;
