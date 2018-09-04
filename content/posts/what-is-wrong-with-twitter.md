@@ -7,17 +7,17 @@ categories: ["Social Networks"]
 type: "post"
 body_classes: "blog"
 colours:
-    primary-bg: "161,100%,90%" # hsl(161,100%,90%)
-    secondary-bg: "162,69%,81%" # hsl(162,69%,81%)
-    text: "217,55%,36%" # hsl(217,55%,36%)
-    linktext: "216,85%,35%" # hsl(216,85%,35%)
-    darklinktext: "231,37%,11%" # hsl(231,37%,11%)
-    brilliant: "217,90%,60%" # hsl(217,90%,60%)
-    tab-two: "185,68%,82%" # hsl(185,68%,82%)
-    tab-three: "199,79%,78%" # hsl(199,79%,78%)
-    tab-four: "206,82%,73%" # hsl(206,82%,73%)
-    tab-five: "211,85%,69%" # hsl(211,85%,69%)
-    tab-six: "214,89%,65%" # hsl(214,89%,65%)
+    primary-bg: "327,100%,93%" # hsl(327,100%,93%)
+    secondary-bg: "330,66%,86%" # hsl(330,66%,86%)
+    text: "229,16%,19%" # hsl(229,16%,19%)
+    linktext: "208,92%,30%" # hsl(208,92%,30%)
+    darklinktext: "204,16%,6%" # hsl(204,16%,6%)
+    brilliant: "208,63%,52%" # hsl(208,63%,52%)
+    tab-two: "277,40%,86%" # hsl(277,40%,86%)
+    tab-three: "235,40%,82%" # hsl(235,40%,82%)
+    tab-four: "219,50%,74%" # hsl(219,50%,74%)
+    tab-five: "213,56%,66%" # hsl(213,56%,66%)
+    tab-six: "211,61%,60%" # hsl(211,61%,60%)
 image: ""
 imagealt: ""
 description: "Sometimes I assume me saying “Twitter is not good for me” is self-explanatory, but it’s not a universally-held opinion. It’s worth explaining in a little more detail…"
