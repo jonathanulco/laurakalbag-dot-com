@@ -37,4 +37,4 @@ This morning I made an `:indieHeart:` custom emoji for Mastodon. Here are some t
 
 Lastly, but importantly: the macOS screenreader VoiceOver reads “indie underscore heart, image” for `:indie_heart:` and “indie heart, image” for `:indieHeart:`.
 
-So while `word_word` or `wordword` seems to be the standard for mulitple-word emoji on Mastodon, using camel case is probably more accessible.
+So while `word_word` or `wordword` seems to be the standard for multiple-word emoji on Mastodon, using camel case is probably more accessible.
