@@ -676,7 +676,14 @@ figure a {
 	text-decoration: none;
 }
 
-figure.grid {
+figure.grid.two {
+	display: grid;
+	grid-template-areas:
+		"image1 image2"
+		"figcaption figcaption";
+}
+
+figure.grid.three {
 	display: grid;
 	grid-template-areas:
 		"image1 image2 image3"
@@ -925,4 +932,19 @@ body.colours-013 {
     --tab-four: 129,50%,62%; /* hsl(129,50%,62%) */
     --tab-five: 134,48%,52%; /* hsl(134,48%,52%) */
     --tab-six: 137,64%,42%; /* hsl(137,64%,42%) */
+}
+
+/* theme 015 (Mastodon theme) */
+body.colours-015 {
+    --primary-bg: 327,100%,93%; /* hsl(327,100%,93%) */
+    --secondary-bg: 330,66%,86%; /* hsl(330,66%,86%) */
+    --text: 229,16%,19%; /* hsl(229,16%,19%) */
+    --linktext: 208,92%,30%; /* hsl(208,92%,30%) */
+    --darklinktext: 204,16%,6%; /* hsl(204,16%,6%) */
+    --brilliant: 208,63%,52%; /* hsl(208,63%,52%) */
+    --tab-two: 277,40%,86%; /* hsl(277,40%,86%) */
+    --tab-three: 235,40%,82%; /* hsl(235,40%,82%) */
+    --tab-four: 219,50%,74%; /* hsl(219,50%,74%) */
+    --tab-five: 213,56%,66%; /* hsl(213,56%,66%) */
+    --tab-six: 211,61%,60%; /* hsl(211,61%,60%) */
 }
