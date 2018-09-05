@@ -59,7 +59,7 @@ The opposite of centralisation is decentralisation. One decentralising alternati
 
 But posting status updates to a blog misses the social element of social networks. We don’t just use social networks to shout into the void, we use them to [share experiences with each other](/insecure). [Aral and I are working on ways](https://ind.ie) for us to do this with our personal sites, but we’re not there yet. And that’s where federation comes in.
 
-I have my own Mastodon instance, [mastodon.laurakalbag.com](mastodon.laurakalbag.com) where it’s just me (and [Oskar](https://mastodon.laurakalbag.com/@gigapup)). This is referred to as an “instance-of-one.” It’s hosted on my own domain, so I own and control everything I post on there, but because I have the Mastodon installed on there, I can see what other people post on their Mastodon instances, and reply to them with mentions, or favourite and boost (like retweet) their toots, even though they are on different instances. It’s like having my own Twitter which can talk to other Twitters, where I make the rules.
+I have my own Mastodon instance, [mastodon.laurakalbag.com](https://mastodon.laurakalbag.com) where it’s just me (and [Oskar](https://mastodon.laurakalbag.com/@gigapup)). This is referred to as an “instance-of-one.” It’s hosted on my own domain, so I own and control everything I post on there, but because I have the Mastodon installed on there, I can see what other people post on their Mastodon instances, and reply to them with mentions, or favourite and boost (like retweet) their toots, even though they are on different instances. It’s like having my own Twitter which can talk to other Twitters, where I make the rules.
 
 ### Mastodon is ethical
 
@@ -97,12 +97,12 @@ Another of my favourite features of Mastodon is that you can provide alternative
 I’m not an expert, and my use of Mastodon is still in its infancy. Here are a list of great How-To guides by people who know Mastodon far better than me:
 
 - **[An Increasingly Less-Brief Guide to Mastodon by @joyeusenoelle](https://github.com/joyeusenoelle/GuideToMastodon/)**—Simply-written guide following a Frequently-Asked-Questions format. Useful if you want to find an answer to a specific question.
-- **[Toot How-to: Intro to Mastodon by Ginny McQueen](medium.com/@GinnyMcQueen/toot-how-to-intro-to-mastodon-e5655bfa87d2)**—Covers all the introductory basics to Mastodon with an eye on keeping yourself safe. 
+- **[Toot How-to: Intro to Mastodon by Ginny McQueen](https://medium.com/@GinnyMcQueen/toot-how-to-intro-to-mastodon-e5655bfa87d2)**—Covers all the introductory basics to Mastodon with an eye on keeping yourself safe. 
 - **[What is Mastodon and why is it better than Twitter by Nolan Lawson](https://nolanlawson.com/2017/10/23/what-is-mastodon-and-why-is-it-better-than-twitter/)**—A detailed introduction to Mastodon and some of its history.
 - **[Cage The Mastodon by Eugen Rochko](https://blog.joinmastodon.org/2018/07/cage-the-mastodon/)**—“An overview of features for dealing with abuse and harassment” which also explains the design decisions behind Mastodon.
-- **[How Does Mastodon Work? By Kev Quirk](kevq.uk/how-does-mastodon-work/)**—Introduces Mastodon with comparisons to Twitter, in case that makes it easier to understand.
+- **[How Does Mastodon Work? By Kev Quirk](https://kevq.uk/how-does-mastodon-work/)**—Introduces Mastodon with comparisons to Twitter, in case that makes it easier to understand.
 - **[Mastodon Post Privacy](https://dev.glitch.social/@cassolotl/99942218361780184)**—A toot explaining who can see what when you toot on Mastodon with various settings.
-- **[The Definitive List](github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md)**—A handy of apps and web clients for using with Mastodon, beyond the default interface. It also has other useful stuff listed, such as cross-posting tools.
+- **[The Definitive List](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md)**—A handy of apps and web clients for using with Mastodon, beyond the default interface. It also has other useful stuff listed, such as cross-posting tools.
 
 ### Join a small instance, or get your own
 
