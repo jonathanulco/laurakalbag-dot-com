@@ -1,7 +1,6 @@
 ---
 title: "What’s wrong with Twitter?"
-date: 2018-08-22T10:39:35+01:00
-draft: true
+date: 2018-09-05T10:39:35+01:00
 tags: ["twitter","mastodon","Moving to Mastodon"]
 categories: ["Social Networks"]
 type: "post"
@@ -94,4 +93,3 @@ The workaround: [Mastodon](https://joinmastodon.org). A far-from-perfect but  we
 Part 1 of a series on [Social Networks](/categories/social-networks)
 
 - Part 2: [What is Mastodon and why should I use it?](/what-is-mastodon-and-why-should-i-use-it)
-<!-- - Part 3: [What is an instance-of-one and is it lonely?](/what-is-an-instance-of-one-and-is-it-lonely)-->
