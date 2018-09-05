@@ -279,6 +279,12 @@ a:hover, a:active {
 	-webkit-text-decoration-color: hsl(var(--brilliant));
 	transition: 0.2s;
 }
+
+abbr {
+	border-bottom: 0.08em dotted hsl(var(--brilliant));
+	display: inline-block;
+	line-height: 0.9em; /* bring underline closer to text */
+}
 	
 strong {
     font-weight: bold;
