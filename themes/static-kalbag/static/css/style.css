@@ -281,9 +281,10 @@ a:hover, a:active {
 }
 
 abbr {
+	color: hsl(var(--linktext));
 	border-bottom: 0.08em dotted hsl(var(--brilliant));
 	display: inline-block;
-	line-height: 0.9em; /* bring underline closer to text */
+	line-height: 0.7em; /* bring underline closer to text */
 }
 	
 strong {
