@@ -22,6 +22,8 @@ imagealt: ""
 description: "Sometimes I assume me saying “Twitter is not good for me” is self-explanatory, but it’s not a universally-held opinion. It’s worth explaining in a little more detail…"
 ---
 
+[You can read this post en français on the Framasoft blog](https://framablog.org/2018/09/17/bye-bye-twitter-hello-masto/).
+
 A couple of weeks ago I posted [a quick note mentioning I now have my own Mastodon instance](/notes/2018/08/06/16/45/). But first things first: why?
 
 My aim is to use Mastodon as an alternative to Twitter. While Mastodon is not equivalent to Twitter, many of its features are similar. And I’m looking for an alternative to Twitter because Twitter is not good for me.<!--more-->

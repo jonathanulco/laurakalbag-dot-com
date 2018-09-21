@@ -24,6 +24,8 @@ description: "Now you know why I’m moving away from Twitter, you probably have
 
 This post is a follow-up to [What’s wrong with Twitter?](/what-is-wrong-with-twitter).
 
+[You can read this post en français on the Framasoft blog](https://framablog.org/2018/09/17/bye-bye-twitter-hello-masto/).
+
 <hr/>
 
 [Mastodon](https://joinmastodon.org) started out as a microblogging platform similar to Twitter, but has evolved with more features that show an ethical, progressive and inclusive focus. Instead of tweets, your posts on Mastodon are called toots.<!--more-->
