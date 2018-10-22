@@ -1,7 +1,6 @@
 ---
 title: "Thunder Nerds Podcast"
 date: 2018-10-22T14:50:35+01:00
-draft: true
 tags: ["surveillance capitalism", "accessibility", "privacy", "profiling"]
 categories: ["Podcasts"]
 type: "post"
