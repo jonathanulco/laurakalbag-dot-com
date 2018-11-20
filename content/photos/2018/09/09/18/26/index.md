@@ -5,6 +5,8 @@ tags: []
 categories: []
 type: ["photo", "latest"]
 visibility: ["public"]
+aliases:
+    - /photos/2018/09/09/18/26/index.md
 body_classes: "photos latest"
 colours:
     primary-bg: "3,100%,92%" # hsl(3,100%,92%)
