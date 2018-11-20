@@ -23,7 +23,7 @@ colours:
 twitterurl: ""
 mastodonurl: "https://mastodon.laurakalbag.com/web/accounts/1114"
 instagramurl: ""
-image: "/photos/2018/09/09/18/26/poser.jpg"
+image: "/photos/poser.jpg"
 imageAlt: "Oskar the huskamute lying on the top of some stone steps with his paws draped over the edge."
 imageOrientation: "landscape"
 image2: ""

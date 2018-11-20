@@ -23,7 +23,7 @@ colours:
 twitterurl: ""
 mastodonurl: ""
 instagramurl: ""
-image: "/photos/2018/08/31/17/50/rainforest.jpg"
+image: "/photos/rainforest.jpg"
 imageAlt: "Osky the huskamute walking in woods dripping and in lush green."
 imageOrientation: "landscape"
 image2: ""

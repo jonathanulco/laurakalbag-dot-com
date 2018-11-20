@@ -23,7 +23,7 @@ colours:
 twitterurl: ""
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100644958218086712"
 instagramurl: ""
-image: "/photos/2018/08/31/17/08/between-pots.jpg"
+image: "/photos/between-pots.jpg"
 imageAlt: "Oskar the huskamute crammed between two big plant pots in order to stay out of the sun."
 imageOrientation: "landscape"
 image2: ""

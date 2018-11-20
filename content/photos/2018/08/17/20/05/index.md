@@ -23,7 +23,7 @@ colours:
 twitterurl: ""
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100567174692648743"
 instagramurl: ""
-image: "/photos/2018/08/17/20/05/no-more-work.jpg"
+image: "/photos/no-more-work.jpg"
 imageAlt: "Cat sitting on laptop keyboard staring angrily into the camera."
 imageOrientation: "portrait"
 image2: ""

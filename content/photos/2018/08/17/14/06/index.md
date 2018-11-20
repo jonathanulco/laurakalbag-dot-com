@@ -23,7 +23,7 @@ colours:
 twitterurl: "https://twitter.com/laurakalbag/status/1030440992921530368"
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100565725899701508"
 instagramurl: ""
-image: "/photos/2018/08/17/14/06/home-cat.jpg"
+image: "/photos/home-cat.jpg"
 imageAlt: "Selfie with a small grey cat, she’s enjoying having her head stroked."
 imageOrientation: "portrait"
 image2: ""

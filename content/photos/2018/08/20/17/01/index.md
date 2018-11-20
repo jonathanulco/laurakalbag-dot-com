@@ -23,7 +23,7 @@ colours:
 twitterurl: "https://twitter.com/laurakalbag/status/1031572395608494080"
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100583402305039222"
 instagramurl: ""
-image: "/photos/2018/08/20/17/01/post-mow.jpg"
+image: "/photos/post-mow.jpg"
 imageAlt: "Me lying on my back on the grass next to Osky the huskamute who is yawning."
 imageOrientation: "landscape"
 image2: ""

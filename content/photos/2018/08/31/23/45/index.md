@@ -23,7 +23,7 @@ colours:
 twitterurl: ""
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100647279590947634"
 instagramurl: ""
-image: "/photos/2018/08/31/23/45/monkey.jpg"
+image: "/photos/monkey.jpg"
 imageAlt: "a knitted baby monkey with shiny button eyes."
 imageOrientation: "portrait"
 image2: ""

@@ -23,7 +23,7 @@ colours:
 twitterurl: ""
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100571131117625459"
 instagramurl: ""
-image: "/photos/2018/08/18/13/01/happy-cat.jpg"
+image: "/photos/happy-cat.jpg"
 imageAlt: "small grey cat sitting on Aral’s lap looking chilled out."
 imageOrientation: "portrait"
 image2: ""

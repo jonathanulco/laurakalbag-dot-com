@@ -22,7 +22,7 @@ colours:
 twitterurl: ""
 mastodonurl: ""
 instagramurl: ""
-image: "/photos/2018/07/23/17/01/family.jpg"
+image: "/photos/family.jpg"
 imageAlt: "Photo of me and my cousins and their partners all in formal wear in the garden."
 imageOrientation: "landscape"
 description: "Back from a weekend in the UK with this beautiful family. We look pretty fancy when we try!"
