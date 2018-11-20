@@ -25,4 +25,4 @@ instagramurl: ""
 image: "/notes/2018/07/20/21/28/osky-1.jpg"
 ---
 
-{{<figure class="note-image grid" src="/notes/2018/07/20/21/28/osky-1.jpg" alt="Selfie of me and Oskar the huskamute, he’s looking at me." src2="/notes/2018/07/20/21/28/osky-2.jpg" alt2="Selfie of me and Oskar the huskamute, he’s licking my face." caption="Inevitable">}}
+{{<figure class="note-image grid" src="/notes/images/osky-1.jpg" alt="Selfie of me and Oskar the huskamute, he’s looking at me." src2="/notes/images/osky-2.jpg" alt2="Selfie of me and Oskar the huskamute, he’s licking my face." caption="Inevitable">}}
