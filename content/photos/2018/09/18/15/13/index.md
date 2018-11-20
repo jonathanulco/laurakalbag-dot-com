@@ -21,7 +21,7 @@ colours:
 twitterurl: ""
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100748427705939150"
 instagramurl: ""
-image: "/photos/2018/09/18/15/13/woods.jpg"
+image: "/photos/2018/09/18/15/13/woods-3.jpg"
 imageAlt: "Oskar the huskamute standing in the woods looking directly at the camera."
 imageOrientation: "portrait"
 image2: ""
