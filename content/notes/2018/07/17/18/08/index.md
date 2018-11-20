@@ -4,6 +4,8 @@ date: 2018-07-17T18:08:36+01:00
 tags: []
 categories: []
 visibility: ["public"]
+aliases:
+    - /notes/2018/07/17/18/08/index.md
 body_classes: "notes latest"
 colours:
     primary-bg: "3,100%,92%" # hsl(3,100%,92%)

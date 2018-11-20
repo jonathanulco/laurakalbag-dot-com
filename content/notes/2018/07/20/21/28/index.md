@@ -4,6 +4,8 @@ date: 2018-07-20T21:28:23+01:00
 tags: ["oskar"]
 categories: []
 visibility: ["public"]
+aliases:
+    - /notes/2018/07/20/21/28/index.md
 body_classes: "notes latest"
 colours:
     primary-bg: "3,100%,92%" # hsl(3,100%,92%)

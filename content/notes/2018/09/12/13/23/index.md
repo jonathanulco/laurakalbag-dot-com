@@ -5,6 +5,8 @@ tags: []
 categories: []
 type: ["note", "latest"]
 visibility: ["public"]
+aliases:
+    - /notes/2018/09/12/13/23/index.md
 body_classes: "notes latest"
 colours:
     primary-bg: "3,100%,92%" # hsl(3,100%,92%)
