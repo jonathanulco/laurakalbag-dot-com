@@ -34,9 +34,11 @@
 {{ $medium := .Scratch.Get "medium" }}
 {{ $large := .Scratch.Get "large" }}
 
-<img 
-	sizes="{{ with .Get "sizes"}}{{.}}{{ end }}"
-	srcset="{{ $tiny.RelPermalink }} 200w, {{ $small.RelPermalink }} 350w, {{ $medium.RelPermalink }} 600w, {{ $large.RelPermalink }}
-	1200w"
-	src="{{ $medium.RelPermalink }}" 
- 	alt="{{ with .Get "alt"}}{{.}}{{ end }}">
+<a href="{{ $original.RelPermalink }}" class="imagelink" title="original image file">
+	<img 
+		sizes="{{ with .Get "sizes"}}{{.}}{{ end }}"
+		srcset="{{ $tiny.RelPermalink }} 200w, {{ $small.RelPermalink }} 350w, {{ $medium.RelPermalink }} 600w, {{ $large.RelPermalink }}
+		1200w"
+		src="{{ $medium.RelPermalink }}" 
+		alt="{{ with .Get "alt"}}{{.}}{{ end }}">
+</a>

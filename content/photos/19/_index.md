@@ -27,4 +27,6 @@ imageOrientation: "landscape"
 description: "What a poser"
 ---
 
+{{< imgsrcset original="poser" command="Resize" tinyw="200x" smallw="350x" mediumw="600x" largew="1200x" sizes="(max-width: 720px) 100vw, (max-width: 1000px) 80vw, 1200px" alt="aOskar the huskamute lying on the top of some stone steps with his paws draped over the edge." >}}
+
 What a poser.
