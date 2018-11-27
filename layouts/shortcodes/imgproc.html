@@ -13,7 +13,7 @@
 {{ end }}
 {{ $image := .Scratch.Get "image" }}
 <figure>
-	<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ if .Get "alt" }}alt="{{ with .Get "alt"}}{{.}}{{ end }}"{{ end }}>
+	<img src="{{ $image.RelPermalink }}" {{ if .Get "alt" }}alt="{{ with .Get "alt"}}{{.}}{{ end }}"{{ end }}>
 	<figcaption>
 	<small>
 	{{ with .Inner }}
