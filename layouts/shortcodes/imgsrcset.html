@@ -2,11 +2,11 @@
 {{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get "original")) }}
 {{/* get command (Fit, Resize or Fill) as specified as command="" in shortcode  */}}
 {{ $command := .Get "command" }}
-{{/* get sizes as specified as tiny/small/medium/large="" in shortcode  */}}
-{{ $tinyw := .Get "tinyw" }}
-{{ $smallw := .Get "smallw" }}
-{{ $mediumw := .Get "mediumw" }}
-{{ $largew := .Get "largew" }}
+{{/* set sizes, these are hardcoded for now as we aren't using sizes in shortcodes by default  */}}
+{{ $tinyw := default "350x" }}
+{{ $smallw := default "600x" }}
+{{ $mediumw := default "1000x" }}
+{{ $largew := default "1500x" }}
 {{ if eq $command "Fit"}}
 {{/* resize the original image to fit the given sizes */}}
 {{ .Scratch.Set "tiny" ($original.Fit $tinyw) }}
@@ -37,8 +37,8 @@
 <a href="{{ $original.RelPermalink }}" class="imagelink" title="original image file">
 	<img 
 		{{ with .Get "sizes"}}sizes="{{.}}"{{ end }}
-		srcset="{{ $tiny.RelPermalink }} 200w, {{ $small.RelPermalink }} 350w, {{ $medium.RelPermalink }} 600w, {{ $large.RelPermalink }}
-		1200w"
+		srcset="{{ $tiny.RelPermalink }} 350w, {{ $small.RelPermalink }} 600w, {{ $medium.RelPermalink }} 1000w, {{ $large.RelPermalink }}
+		1500w"
 		src="{{ $medium.RelPermalink }}" 
 		alt="{{ with .Get "alt"}}{{.}}{{ end }}">
 </a>
