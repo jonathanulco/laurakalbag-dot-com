@@ -1,7 +1,7 @@
 
-{{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get 0)) }}
-{{ $command := .Get 1 }}
-{{ $options := .Get 2 }}
+{{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get "original")) }}
+{{ $command := .Get "command" }}
+{{ $options := .Get "options" }}
 {{ if eq $command "Fit"}}
 {{ .Scratch.Set "image" ($original.Fit $options) }}
 {{ else if eq $command "Resize"}}
@@ -13,7 +13,7 @@
 {{ end }}
 {{ $image := .Scratch.Get "image" }}
 <figure>
-	<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+	<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ if .Get "alt" }}alt="{{ with .Get "alt"}}{{.}}{{ end }}"{{ end }}>
 	<figcaption>
 	<small>
 	{{ with .Inner }}
