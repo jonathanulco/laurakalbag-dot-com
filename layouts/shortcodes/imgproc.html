@@ -2,49 +2,51 @@
 {{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get "original")) }}
 {{/* get command (Fit, Resize or Fill) as specified as command="" in shortcode  */}}
 {{ $command := .Get "command" }}
-{{/* get srcs as specified as srcs="" in shortcode  */}}
-{{ $srcs := .Get "srcs" }}
-{{ $srcs2 := .Get "srcs2" }}
-{{ $srcs3 := .Get "srcs3" }}
-{{ $srcs4 := .Get "srcs4" }}
+{{/* get sizes as specified as tiny/small/medium/large="" in shortcode  */}}
+{{ $tinyw := .Get "tinyw" }}
+{{ $smallw := .Get "smallw" }}
+{{ $mediumw := .Get "mediumw" }}
+{{ $largew := .Get "largew" }}
 {{ if eq $command "Fit"}}
-{{/* resize the original image to fit the given srcs */}}
-{{ .Scratch.Set "image" ($original.Fit $srcs) }}
-{{ .Scratch.Set "image2" ($original.Fit $srcs2) }}
-{{ .Scratch.Set "image3" ($original.Fit $srcs3) }}
-{{ .Scratch.Set "image4" ($original.Fit $srcs4) }}
+{{/* resize the original image to fit the given sizes */}}
+{{ .Scratch.Set "tiny" ($original.Fit $tinyw) }}
+{{ .Scratch.Set "small" ($original.Fit $smallw) }}
+{{ .Scratch.Set "medium" ($original.Fit $mediumw) }}
+{{ .Scratch.Set "large" ($original.Fit $largew) }}
 {{ else if eq $command "Resize"}}
-{{/* resize the original image to the given srcs */}}
-{{ .Scratch.Set "image" ($original.Resize $srcs) }}
-{{ .Scratch.Set "image2" ($original.Resize $srcs2) }}
-{{ .Scratch.Set "image3" ($original.Resize $srcs3) }}
-{{ .Scratch.Set "image4" ($original.Resize $srcs4) }}
+{{/* resize the original image to the given sizes */}}
+{{ .Scratch.Set "tiny" ($original.Resize $tinyw) }}
+{{ .Scratch.Set "small" ($original.Resize $smallw) }}
+{{ .Scratch.Set "medium" ($original.Resize $mediumw) }}
+{{ .Scratch.Set "large" ($original.Resize $largew) }}
 {{ else if eq $command "Fill"}}
-{{/* resize the original image to fill the given srcs */}}
-{{ .Scratch.Set "image" ($original.Fill $srcs) }}
-{{ .Scratch.Set "image2" ($original.Fill $srcs2) }}
-{{ .Scratch.Set "image3" ($original.Fill $srcs3) }}
-{{ .Scratch.Set "image4" ($original.Fill $srcs4) }}
+{{/* resize the original image to fill the given sizes*/}}
+{{ .Scratch.Set "tiny" ($original.Fill $tinyw) }}
+{{ .Scratch.Set "small" ($original.Fill $smallw) }}
+{{ .Scratch.Set "medium" ($original.Fill $mediumw) }}
+{{ .Scratch.Set "large" ($original.Fill $largew) }}
 {{ else }}
 {{ errorf "Invalid image processing command: Must be one of Fit, Fill or Resize."}}
 {{ end }}
 {{/* add the processed images to the scratch */}}
-{{ $image := .Scratch.Get "image" }}
-{{ $image2 := .Scratch.Get "image2" }}
-{{ $image3 := .Scratch.Get "image3" }}
-{{ $image4 := .Scratch.Get "image4" }}
+{{ $tiny := .Scratch.Get "tiny" }}
+{{ $small := .Scratch.Get "small" }}
+{{ $medium := .Scratch.Get "medium" }}
+{{ $large := .Scratch.Get "large" }}
 
 <figure>
-	<img src="{{ $image.RelPermalink }}" {{ if .Get "alt" }}alt="{{ with .Get "alt"}}{{.}}{{ end }}"{{ end }}>
-	<img src="{{ $image2.RelPermalink }}" {{ if .Get "alt" }}alt="{{ with .Get "alt"}}{{.}}{{ end }}"{{ end }}>
-	<img src="{{ $image3.RelPermalink }}" {{ if .Get "alt" }}alt="{{ with .Get "alt"}}{{.}}{{ end }}"{{ end }}>
-	<img src="{{ $image4.RelPermalink }}" {{ if .Get "alt" }}alt="{{ with .Get "alt"}}{{.}}{{ end }}"{{ end }}>
+	<img src="{{ $medium.RelPermalink }}" sizes="{{ with .Get "sizes"}}{{.}}{{ end }}" alt="{{ with .Get "alt"}}{{.}}{{ end }}">
+
+	<img src="{{ $tiny.RelPermalink }}" alt="{{ with .Get "alt"}}{{.}}{{ end }}">
+	<img src="{{ $small.RelPermalink }}" alt="{{ with .Get "alt"}}{{.}}{{ end }}">
+	<img src="{{ $medium.RelPermalink }}" alt="{{ with .Get "alt"}}{{.}}{{ end }}">
+	<img src="{{ $large.RelPermalink }}" alt="{{ with .Get "alt"}}{{.}}{{ end }}">
 	<figcaption>
 	<small>
 	{{ with .Inner }}
 	{{ . }}
 	{{ else }}
-	.{{ $command }} "{{ $srcs }} {{ $srcs2 }} {{ $srcs3 }} {{ $srcs4 }}"
+	.{{ $command }} "{{ $tinyw }} {{ $smallw }} {{ $mediumw }} {{ $largew }}"
 	{{ end }}
 	</small>
 	</figcaption>
