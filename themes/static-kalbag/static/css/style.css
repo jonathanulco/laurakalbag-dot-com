@@ -712,6 +712,7 @@ figcaption {
 
 img {
 	margin: 1em 0;
+	height: auto; /* fill ratio-appropriate space compared to width */
 	max-width: 100%; /* don’t exceed width of viewport, flex to available space when viewport is resized */
 }
 
