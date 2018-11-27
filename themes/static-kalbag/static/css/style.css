@@ -719,11 +719,6 @@ figure img {
 	margin-bottom: 0;
 }
 
-/* for images with .always-full-height class, remove max-height */
-figure.always-full-height img {
-	max-height: none;
-}
-
 .photos .posts-list {
 	margin-top: 1em;
 }

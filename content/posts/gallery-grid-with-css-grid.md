@@ -54,7 +54,7 @@ The images auto-fill across the first row, filling all available space. If there
 
 The figcaption always fills the whole width, regardless of whether there is one, two, or three images above it.
 
-<figure class="note-image always-full-height">
+<figure class="note-image">
     <a href="/images/2018/07/figures.jpg">
         <img src="/images/2018/07/figures.jpg" alt="Four sets of images showing single, double, and triple image layouts." width="500px">
     </a>
