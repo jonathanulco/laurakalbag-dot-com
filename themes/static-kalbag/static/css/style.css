@@ -714,6 +714,12 @@ img {
 	margin: 1em 0;
 	max-width: 100%; /* don’t exceed width of viewport, flex to available space when viewport is resized */
 }
+
+@media (min-width: 1200px) {
+	img {
+		max-width: 1200px; /* images all have a max-width of 1200px, so don’t let them exceed this */
+	}
+} 
 	
 figure img {
 	margin-bottom: 0;
