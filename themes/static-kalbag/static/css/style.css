@@ -791,6 +791,10 @@ figure img {
 	z-index: 1;
 }
 
+.tilett {
+	z-index: -1; /* position behind everything */
+}
+
 main, .site-header {
 	position: relative; /* allow absolute positioning inside */
 }
