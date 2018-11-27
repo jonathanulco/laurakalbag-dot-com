@@ -27,6 +27,6 @@ imageAlt: "a knitted baby monkey with shiny button eyes."
 imageOrientation: "portrait"
 ---
 
-{{< imgproc original="monkey" command="Resize" options="300x" alt="a knitted baby monkey with shiny button eyes." />}}
+{{< imgproc original="monkey" command="Resize" sizes="200x" sizes2="350x" sizes3="600x" sizes4="1200x" alt="a knitted baby monkey with shiny button eyes." />}}
 
 Knitting has been great for occupying my fidgeting, and keeping me away from the social network scrolling.
