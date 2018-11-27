@@ -1,21 +1,26 @@
-
+{{/* get original file that matches the filename as specified as original="" in shortcode */}}
 {{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get "original")) }}
+{{/* get command (Fit, Resize or Fill) as specified as command="" in shortcode  */}}
 {{ $command := .Get "command" }}
+{{/* get sizes as specified as sizes="" in shortcode  */}}
 {{ $sizes := .Get "sizes" }}
 {{ $sizes2 := .Get "sizes2" }}
 {{ $sizes3 := .Get "sizes3" }}
 {{ $sizes4 := .Get "sizes4" }}
 {{ if eq $command "Fit"}}
+{{/* resize the original image to fit the given sizes */}}
 {{ .Scratch.Set "image" ($original.Fit $sizes) }}
 {{ .Scratch.Set "image2" ($original.Fit $sizes2) }}
 {{ .Scratch.Set "image3" ($original.Fit $sizes3) }}
 {{ .Scratch.Set "image4" ($original.Fit $sizes4) }}
 {{ else if eq $command "Resize"}}
+{{/* resize the original image to the given sizes */}}
 {{ .Scratch.Set "image" ($original.Resize $sizes) }}
 {{ .Scratch.Set "image2" ($original.Resize $sizes2) }}
 {{ .Scratch.Set "image3" ($original.Resize $sizes3) }}
 {{ .Scratch.Set "image4" ($original.Resize $sizes4) }}
 {{ else if eq $command "Fill"}}
+{{/* resize the original image to fill the given sizes */}}
 {{ .Scratch.Set "image" ($original.Fill $sizes) }}
 {{ .Scratch.Set "image2" ($original.Fill $sizes2) }}
 {{ .Scratch.Set "image3" ($original.Fill $sizes3) }}
@@ -23,6 +28,7 @@
 {{ else }}
 {{ errorf "Invalid image processing command: Must be one of Fit, Fill or Resize."}}
 {{ end }}
+{{/* add the processed images to the scratch */}}
 {{ $image := .Scratch.Get "image" }}
 {{ $image2 := .Scratch.Get "image2" }}
 {{ $image3 := .Scratch.Get "image3" }}
