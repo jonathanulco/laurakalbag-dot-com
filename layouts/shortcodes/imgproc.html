@@ -34,18 +34,9 @@
 {{ $medium := .Scratch.Get "medium" }}
 {{ $large := .Scratch.Get "large" }}
 
-<figure>
-	<img src="{{ $medium.RelPermalink }}" sizes="{{ with .Get "sizes"}}{{.}}{{ end }}"  srcset="{{ $tiny.RelPermalink }} 200w, {{ $small.RelPermalink }} 350w, {{ $medium.RelPermalink }} 600w, {{ $large.RelPermalink }}
+<img 
+	src="{{ $medium.RelPermalink }}" 
+	sizes="{{ with .Get "sizes"}}{{.}}{{ end }}"
+	srcset="{{ $tiny.RelPermalink }} 200w, {{ $small.RelPermalink }} 350w, {{ $medium.RelPermalink }} 600w, {{ $large.RelPermalink }}
 	1200w"
- alt="{{ with .Get "alt"}}{{.}}{{ end }}">
-
-	<figcaption>
-	<small>
-	{{ with .Inner }}
-	{{ . }}
-	{{ else }}
-	.{{ $command }} "{{ $tinyw }} {{ $smallw }} {{ $mediumw }} {{ $largew }}"
-	{{ end }}
-	</small>
-	</figcaption>
-</figure>
+ 	alt="{{ with .Get "alt"}}{{.}}{{ end }}">
