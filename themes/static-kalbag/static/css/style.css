@@ -712,8 +712,7 @@ figcaption {
 
 img {
 	margin: 1em 0;
-	/* max-height: 100vh; don’t exceed height of viewport */
-	/* max-width: 100%; don’t exceed width of viewport */
+	max-width: 100%; /* don’t exceed width of viewport, flex to available space when viewport is resized */
 }
 	
 figure img {
