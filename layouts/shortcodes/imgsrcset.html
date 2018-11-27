@@ -36,7 +36,7 @@
 
 <a href="{{ $original.RelPermalink }}" class="imagelink" title="original image file">
 	<img 
-		sizes="{{ with .Get "sizes"}}{{.}}{{ end }}"
+		{{ with .Get "sizes"}}sizes="{{.}}"{{ end }}
 		srcset="{{ $tiny.RelPermalink }} 200w, {{ $small.RelPermalink }} 350w, {{ $medium.RelPermalink }} 600w, {{ $large.RelPermalink }}
 		1200w"
 		src="{{ $medium.RelPermalink }}" 
