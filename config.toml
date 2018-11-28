@@ -19,7 +19,7 @@ theme = "static-kalbag"
 # Default resample filter used for resizing. Default is Box,
 # a simple and fast averaging filter appropriate for downscaling.
 # See https://github.com/disintegration/imaging
-resampleFilter = "box"
+resampleFilter = "Gaussian"
 # Default JPEG quality setting. Default is 75.
 quality = 85
 # Anchor used when cropping pictures.
