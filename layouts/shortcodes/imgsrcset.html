@@ -87,8 +87,11 @@
 <a href="{{ $original.RelPermalink }}" class="imagelink" title="original image file">
 	<img 
 		{{ with .Get "sizes"}}sizes="{{.}}"{{ end }}
-		srcset="{{ $tiny.RelPermalink }} 350w, {{ $small.RelPermalink }} 600w, {{ $medium.RelPermalink }} 1000w, {{ $large.RelPermalink }}
-		1500w"
+		srcset="
+		{{ with $tiny.RelPermalink }}{{.}} 350w{{ end }}
+		{{ with $small.RelPermalink }}, {{.}} 600w{{ end }}
+		{{ with $medium.RelPermalink }}, {{.}} 1000w{{ end }}
+		{{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}"
 		src="{{ $medium.RelPermalink }}" 
 		alt="{{ with .Get "alt"}}{{.}}{{ end }}">
 </a>
