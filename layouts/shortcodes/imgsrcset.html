@@ -54,7 +54,7 @@
 
 <img 
 	{{ with $original.Width }}style="max-width: {{.}}px;"{{ end }}
-	{{ with .Get "sizes" }}sizes='{{.}}'{{ end }}
+	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes='100vw'{{ end }}
 	srcset='
 	{{ if ge $original.Width "350" }}
 		{{ with $tiny.RelPermalink }}{{.}} 350w{{ end }}
