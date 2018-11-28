@@ -92,7 +92,11 @@
 		{{ with $small.RelPermalink }}, {{.}} 600w{{ end }}
 		{{ with $medium.RelPermalink }}, {{.}} 1000w{{ end }}
 		{{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}"
+		{{ if .Get $medium }}
 		src="{{ $medium.RelPermalink }}" 
+		{{ else }}
+		src="{{ $original.RelPermalink }}" 
+		{{ end }}
 		{{ with .Get "alt"}}alt="{{.}}"{{ end }}>
 </a>
 
