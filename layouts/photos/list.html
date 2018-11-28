@@ -1,11 +1,12 @@
+{{/* used for photos list */}}
 {{ define "main" }}
 	<article>
 		<div class="entry-content">
 			{{- .Content -}}
 		</div>
 	</article>
-	{{- $section := where .Data.Pages "Section" .Section -}}
-	<ul class="posts-list {{- if eq .Type "photo" }}photos-list {{ end -}}{{- if eq .Type "note" }}notes-list {{ end -}}">
+	<ul class="posts-list latest-photos">
+		{{- $section := where .Data.Pages "Section" .Section -}}
 		{{- range $section -}}
 			{{ partial "summary-photo.html" . }}
 		{{ end }}

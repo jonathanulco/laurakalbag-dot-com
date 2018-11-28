@@ -757,6 +757,7 @@ figure img {
 		object-fit: cover;
 		height: 100%;
 		max-height: none;
+		max-width: 100%;
 		width: 100%;
 	}
 }

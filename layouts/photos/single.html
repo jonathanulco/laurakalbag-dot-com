@@ -1,31 +1,8 @@
-{{ define "header" }}{{ partial "header.html" . }}{{ end }}
+{{/* used for individual photo posts */}}
 {{ define "main" }}
-	<article class="h-entry">
-		<h1 class="page-title p-name">{{ .Page.Title }}</h1>
-		<div class="entry-content e-content">
-			{{ if isset .Params "description"}}
-			<figure>
-			{{ end }}
-			{{ if isset .Params "image" }}
-				<img src="{{ .Params.image }}" alt="{{ .Params.imageAlt }}"/>
-			{{ end }}
-			{{ if isset .Params "image2" }}
-				<img src="{{ .Params.image2 }}" alt="{{ .Params.imageAlt2 }}"/>
-			{{ end }}
-			{{ if isset .Params "image3" }}
-				<img src="{{ .Params.image3 }}" alt="{{ .Params.imageAlt3 }}"/>
-			{{ end }}
-			{{ if isset .Params "image4" }}
-				<img src="{{ .Params.image4 }}" alt="{{ .Params.imageAlt4 }}"/>
-			{{ end }}
-			{{ if isset .Params "image5" }}
-				<img src="{{ .Params.image5 }}" alt="{{ .Params.imageAlt5 }}"/>
-			{{ end }}
-			{{ if isset .Params "description"}}
-			<figcaption><p>{{ .Params.description }}</p></figcaption>
-			</figure>
-			{{ end }}
-		    {{ .Content }}
+	<article>
+		<div class="entry-content">
+			{{- .Content -}}
 		</div>
 	</article>
 {{ end }}
