@@ -699,21 +699,44 @@ figure a {
 
 figure.grid.two {
 	display: grid;
+	grid-template-rows: 1fr auto;
+	grid-template-columns: 50% 50%;
 	grid-template-areas: 	"image1 	image2"
 							"figcaption	figcaption";
 }
 
+/* for grid-in-grid photo posts */
+.photos .posts-list .photo-post figure.grid.two {
+	grid-template-rows: 1fr 1fr;
+	grid-template-columns: 50% 50%;
+}
+
 figure.grid.three {
 	display: grid;
+	grid-template-rows: 1fr auto;
+	grid-template-columns: 1fr 1fr 1fr;
 	grid-template-areas: 	"image1 	image2 		image 3"
 							"figcaption	figcaption	figcaption";
 }
 
 figure.grid.four {
 	display: grid;
+	grid-template-rows: 1fr 1fr auto;
+	grid-template-columns: 50% 50%;
 	grid-template-areas: 	"image1		image2"
 							"image3		image4"
 							"figcaption	figcaption";
+}
+
+/* for grid-in-grid photo posts */
+.photos .posts-list .photo-post figure.grid.four {
+	grid-template-rows: minmax(9em, 12em) minmax(9em, 12em) auto;
+	grid-template-columns: 50% 50%;
+}
+
+figure.grid img {
+	object-fit: cover;
+	height: auto;
 }
 
 figure.grid img:nth-of-type(1) {
@@ -750,6 +773,11 @@ figcaption {
 	margin: 0;
 }
 
+.photos .posts-list .photo-post figure {
+	/* do not display: block as that overrides display:grid */
+	margin: 0;
+}
+
 @media screen and (min-width: 35em) {
 	.photos .posts-list {
 		display: grid;
@@ -757,13 +785,16 @@ figcaption {
 		grid-auto-rows: minmax(12em, auto);
 		grid-gap: 0.25em;
 		justify-content: space-between;
-		/* for some reason it needs this so doesn't have lower index than svg above */
-		position: relative;
-		z-index: 2;
+	}
+
+	.photos .posts-list figcaption, .photos .posts-list p {
+		display: none; /* TODO: unhide this tidily */
 	}
 
 	/* link act as crop for image */
 	.photos .posts-list .photo-post a {
+		display: block;
+		margin: 0;
 		height: 100%;
 		width: 100%;
 	}
@@ -772,25 +803,10 @@ figcaption {
 		object-fit: cover;
 		height: 100%;
 		max-height: none;
-		max-width: 100%;
 		width: 100%;
+		width: 100% !important; /* !important needed to override width in imgsrcset shortcode */
 	}
-}
 
-.latest-photos {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: flex-start;
-	align-content: stretch;
-}
-
-.latest-photos li a {
-	margin-right: 0.25em;
-}
-
-.latest-photos li:last-of-type a {
-	margin-right: 0;
 }
 
 /*  - - - - - - - - SVG TILE
