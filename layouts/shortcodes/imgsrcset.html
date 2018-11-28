@@ -62,7 +62,7 @@
 	{{ else if ge $original.Width "350" }}
 		style="width: 350px;"
 	{{ end }}
-	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes='100vw'{{ end }}
+	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 1060px) 1000px, calc(94.59vw + 1em)"{{ end }}
 	srcset='
 	{{ if ge $original.Width "350" }}
 		{{ with $tiny.RelPermalink }}{{.}} 350w{{ end }}
