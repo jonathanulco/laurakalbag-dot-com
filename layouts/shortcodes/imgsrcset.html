@@ -52,6 +52,7 @@
 {{ $medium := .Scratch.Get "medium" }}
 {{ $large := .Scratch.Get "large" }}
 
+{{ with .Get "link" }}<a class="image-link" href="{{.}}">{{ end }}
 <img 
 	{{ if ge $original.Width "1500" }}
 		style="width: 1500px;"
@@ -82,5 +83,7 @@
 	src="{{ $original.RelPermalink }}" 
 	{{ end }}
 	{{ with .Get "alt" }}alt='{{.}}'{{ end }}>
+
+{{ with .Get "link" }}</a>{{ end }}
 
 <p><small><a href="{{ $original.RelPermalink }}" class="imagelink" title="original image file">Original image full size</a></small></p>

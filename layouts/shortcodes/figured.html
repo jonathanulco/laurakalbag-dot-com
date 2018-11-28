@@ -1,23 +1,8 @@
 <!-- image -->
-<figure {{ with .Get "class" }}class="{{.}}"{{ end }}{{ with .Get "max-width" }}style="max-width:{{.}};"{{ end }}>
-	{{ with .Get "link"}}<a href="{{.}}">{{ end }}
-		<img src="{{ .Get "src" }}" {{ if .Get "alt" }}alt="{{ with .Get "alt"}}{{.}}{{ end }}"{{ end }}{{ with .Get "srcset" }}{{ printf "srcset=%q" . | safeHTMLAttr }}{{ end }}{{ with .Get "sizes" }}{{ printf "sizes=%q" . | safeHTMLAttr }}{{ end }} {{ if .Get "width" }}width="{{ with .Get "width"}}{{.}}{{ end }}"{{ end }}/>
-	{{ if .Get "src2"}}</a>
-		<img src="{{ .Get "src2" }}" {{ if .Get "alt2" }}alt="{{ with .Get "alt2"}}{{.}}{{ end }}"{{ end }}{{ with .Get "srcset2" }}{{ printf "srcset=%q" . | safeHTMLAttr }}{{ end }}{{ with .Get "sizes2" }}{{ printf "sizes=%q" . | safeHTMLAttr }}{{ end }} {{ if .Get "width2" }}width="{{ with .Get "width2"}}{{.}}{{ end }}"{{ end }}/>
-	{{ end }}
-	{{ if .Get "src3"}}</a>
-		<img src="{{ .Get "src3" }}" {{ if .Get "alt3" }}alt="{{ with .Get "alt3"}}{{.}}{{ end }}"{{ end }}{{ with .Get "srcset3" }}{{ printf "srcset=%q" . | safeHTMLAttr }}{{ end }}{{ with .Get "sizes3" }}{{ printf "sizes=%q" . | safeHTMLAttr }}{{ end }} {{ if .Get "width3" }}width="{{ with .Get "width3"}}{{.}}{{ end }}"{{ end }}/>
-	{{ end }}
-	{{ if .Get "link"}}</a>{{ end }}
-	{{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}
+<figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
+	{{.Inner}}
 	<figcaption>
-		{{ if or (.Get "caption") (.Get "attr")}}<p>
-		{{ .Get "caption" }}
-		{{ with .Get "attrlink"}}<a href="{{.}}"> {{ end }}
-			{{ .Get "attr" }}
-		{{ if .Get "attrlink"}}</a> {{ end }}
-		</p> {{ end }}
+		<p>{{ .Get "caption" }}</p>
 	</figcaption>
-	{{ end }}
 </figure>
 <!-- image -->
