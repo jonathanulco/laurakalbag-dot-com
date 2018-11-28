@@ -5,100 +5,68 @@
 {{ $command := .Get "command" }}
 
 {{/* set image sizes, these are hardcoded for now */}}
+{{/* if the original image is larger than specified size, set that image size */}}
+
 
 {{ $tinyw := default "350x" }}
+{{ $smallw := default "600x" }}
+{{ $mediumw := default "1000x" }}
+{{ $largew := default "1500x" }}
 
 {{ if eq $command "Fit"}}
 	{{/* resize the original image to fit the given sizes */}}
 	{{/* if the each image size exists, fit that image */}}
 
 	{{ .Scratch.Set "tiny" ($original.Fit $tinyw) }}
+	{{ .Scratch.Set "small" ($original.Fit $smallw) }}
+	{{ .Scratch.Set "medium" ($original.Fit $mediumw) }}
+	{{ .Scratch.Set "large" ($original.Fit $largew) }}
 
 {{ else if eq $command "Resize"}}
 	{{/* resize the original image to the given sizes */}}
 	{{/* if the each image size exists, resize that image */}}
 
 	{{ .Scratch.Set "tiny" ($original.Resize $tinyw) }}
+	{{ .Scratch.Set "small" ($original.Resize $smallw) }}
+	{{ .Scratch.Set "medium" ($original.Resize $mediumw) }}
+	{{ .Scratch.Set "large" ($original.Resize $largew) }}
 
 {{ else if eq $command "Fill"}}
 	{{/* resize the original image to fill the given sizes*/}}
 	{{/* if the each image size exists, fill that image */}}
 
 	{{ .Scratch.Set "tiny" ($original.Fill $tinyw) }}
+	{{ .Scratch.Set "small" ($original.Fill $smallw) }}
+	{{ .Scratch.Set "medium" ($original.Fill $mediumw) }}
+	{{ .Scratch.Set "large" ($original.Fill $largew) }}
 
 {{ else }}
-	{{ errorf "Invalid tiny image processing command: Must be one of Fit, Fill or Resize."}}
+	{{ errorf "Invalid image processing command: Must be one of Fit, Fill or Resize."}}
 {{ end }}
 
 {{/* add the processed images to the scratch */}}
 {{/* if that image exists, get that image from scratch */}}
+
 {{ $tiny := .Scratch.Get "tiny" }}
-
-{{/* small size*/}}
-
-{{ $smallw := default "600x" }}
-
-{{ if eq $command "Fit"}}
-	{{ .Scratch.Set "small" ($original.Fit $smallw) }}
-{{ else if eq $command "Resize"}}
-	{{ .Scratch.Set "small" ($original.Resize $smallw) }}
-{{ else if eq $command "Fill"}}
-	{{ .Scratch.Set "small" ($original.Fill $smallw) }}
-{{ else }}
-	{{ errorf "Invalid small image processing command: Must be one of Fit, Fill or Resize."}}
-{{ end }}
-
 {{ $small := .Scratch.Get "small" }}
-
-
-{{/* medium size */}}
-
-{{ $mediumw := default "1000x" }}
-
-{{ if eq $command "Fit"}}
-	{{ .Scratch.Set "medium" ($original.Fit $mediumw) }}
-{{ else if eq $command "Resize"}}
-	{{ .Scratch.Set "medium" ($original.Resize $mediumw) }}
-{{ else if eq $command "Fill"}}
-	{{ .Scratch.Set "medium" ($original.Fill $mediumw) }}
-{{ else }}
-	{{ errorf "Invalid medium image processing command: Must be one of Fit, Fill or Resize."}}
-{{ end }}
-
 {{ $medium := .Scratch.Get "medium" }}
-
-
-{{/* large size */}}
-
-{{ $largew := default "1500x" }}
-
-{{ if eq $command "Fit"}}
-	{{ .Scratch.Set "large" ($original.Fit $largew) }}
-{{ else if eq $command "Resize"}}
-	{{ .Scratch.Set "large" ($original.Resize $largew) }}
-{{ else if eq $command "Fill"}}
-	{{ .Scratch.Set "large" ($original.Fill $largew) }}
-{{ else }}
-	{{ errorf "Invalid large image processing command: Must be one of Fit, Fill or Resize."}}
-{{ end }}
-
 {{ $large := .Scratch.Get "large" }}
 
-	<img 
-		{{ with .Get "sizes"}}sizes="{{.}}"{{ end }}
-		srcset="
-		{{ with $tiny.RelPermalink }}{{.}} 350w{{ end }}
-		{{ with $small.RelPermalink }}, {{.}} 600w{{ end }}
-		{{ with $medium.RelPermalink }}, {{.}} 1000w{{ end }}
-		{{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}"
-		{{ if .Get $medium }}
-		src="{{ $medium.RelPermalink }}" 
-		{{ else }}
-		src="{{ $original.RelPermalink }}" 
-		{{ end }}
-		{{ with .Get "alt"}}alt="{{.}}"{{ end }}>
+<img 
+	{{ with .Get "sizes"}}sizes="{{.}}"{{ end }}
+	srcset="
+	{{ with $tiny.RelPermalink }}{{.}} 350w{{ end }}
+	{{ with $small.RelPermalink }}, {{.}} 600w{{ end }}
+	{{ with $medium.RelPermalink }}, {{.}} 1000w{{ end }}
+	{{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}"
+	{{ if .Get $medium }}
+	src="{{ $medium.RelPermalink }}" 
+	{{ else }}
+	src="{{ $original.RelPermalink }}" 
+	{{ end }}
+	{{ with .Get "alt"}}alt="{{.}}"{{ end }}>
 
-	<small><a href="{{ $original.RelPermalink }}" class="imagelink" title="original image file">Full size</a></small>
+<small><a href="{{ $original.RelPermalink }}" class="imagelink" title="original image file">Full size</a></small>
 
 {{ if ge $original.Width "350" }}
 	<p>It's ge 350</p>
