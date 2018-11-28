@@ -46,6 +46,7 @@
 
 {{/* add the processed images to the scratch */}}
 {{/* if that image exists, get that image from scratch */}}
+{{/* only get images from scratch if they are smaller than or equal to the original image size */}}
 
 {{ $tiny := .Scratch.Get "tiny" }}
 {{ $small := .Scratch.Get "small" }}
@@ -53,38 +54,26 @@
 {{ $large := .Scratch.Get "large" }}
 
 <img 
-	{{ with .Get "sizes"}}sizes="{{.}}"{{ end }}
-	srcset="
-	{{ with $tiny.RelPermalink }}{{.}} 350w{{ end }}
-	{{ with $small.RelPermalink }}, {{.}} 600w{{ end }}
-	{{ with $medium.RelPermalink }}, {{.}} 1000w{{ end }}
-	{{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}"
+	{{ with $original.Width }}style="max-width: {{.}}px;"{{ end }}
+	{{ with .Get "sizes" }}sizes='{{.}}'{{ end }}
+	srcset='
+	{{ if ge $original.Width "350" }}
+		{{ with $tiny.RelPermalink }}{{.}} 350w{{ end }}
+	{{ end }}
+	{{ if ge $original.Width "600" }}
+		{{ with $small.RelPermalink }}, {{.}} 600w{{ end }}
+	{{ end }}
+	{{ if ge $original.Width "1000" }}
+		{{ with $medium.RelPermalink }}, {{.}} 1000w{{ end }}
+	{{ end }}
+	{{ if ge $original.Width "1500" }}
+		{{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+	{{ end }}'
 	{{ if .Get $medium }}
 	src="{{ $medium.RelPermalink }}" 
 	{{ else }}
 	src="{{ $original.RelPermalink }}" 
 	{{ end }}
-	{{ with .Get "alt"}}alt="{{.}}"{{ end }}>
+	{{ with .Get "alt" }}alt='{{.}}'{{ end }}>
 
 <small><a href="{{ $original.RelPermalink }}" class="imagelink" title="original image file">Full size</a></small>
-
-{{ if ge $original.Width "350" }}
-	<p>It's ge 350</p>
-{{ end }}
-{{ if ge $original.Width "600" }}
-	<p>It's ge 600</p>
-{{ end }}
-{{ if ge $original.Width "1000" }}
-	<p>It's ge 1000</p>
-{{ end }}
-{{ if ge $original.Width "1500" }}
-	<p>It's ge 1500</p>
-{{ end }}
-
-<ul>
-	<li>original: {{ $original.Width }}w x {{ $original.Height }}h</li>
-	<li>tiny {{ $tiny.Width }}w x {{ $tiny.Height }}h</li>
-	<li>small {{ $small.Width }}w x {{ $small.Height }}h</li>
-	<li>medium {{ $medium.Width }}w x {{ $medium.Height }}h</li>
-	<li>large {{ $large.Width }}w x {{ $large.Height }}h</li>
-</ul>
