@@ -53,7 +53,15 @@
 {{ $large := .Scratch.Get "large" }}
 
 <img 
-	{{ with $original.Width }}style="max-width: {{.}}px;"{{ end }}
+	{{ if ge $original.Width "1500" }}
+		style="max-width: 1500px;"
+	{{ else if ge $original.Width "1000" }}
+		style="max-width: 1000px;"
+	{{ else if ge $original.Width "600" }}
+		style="max-width: 600px;"
+	{{ else if ge $original.Width "350" }}
+		style="max-width: 350px;"
+	{{ end }}
 	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes='100vw'{{ end }}
 	srcset='
 	{{ if ge $original.Width "350" }}
