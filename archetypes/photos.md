@@ -21,22 +21,10 @@ colours:
 twitterurl: ""
 mastodonurl: ""
 instagramurl: ""
-image: ""
-imageAlt: ""
-imageOrientation: "square/landscape/portrait"
-image2: ""
-imageAlt2: ""
-imageOrientation2: ""
-image3: ""
-imageAlt3: ""
-imageOrientation3: ""
-image4: ""
-imageAlt4: ""
-imageOrientation4: ""
-image5: ""
-imageAlt5: ""
-imageOrientation5: ""
-description: ""
 ---
 
-Text here will be rendered as ordinary text on the single page version of the photo.
+{{< figured caption="caption text" >}}
+
+    {{< imgsrcset original="filenameX" command="Resize" alt="alt text" >}}
+
+{{< /figured >}}
