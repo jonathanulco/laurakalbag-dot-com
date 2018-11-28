@@ -7,7 +7,6 @@
 {{/* set image sizes, these are hardcoded for now */}}
 {{/* if the original image is larger than specified size, set that image size */}}
 
-
 {{ $tinyw := default "350x" }}
 {{ $smallw := default "600x" }}
 {{ $mediumw := default "1000x" }}
@@ -76,4 +75,4 @@
 	{{ end }}
 	{{ with .Get "alt" }}alt='{{.}}'{{ end }}>
 
-<small><a href="{{ $original.RelPermalink }}" class="imagelink" title="original image file">Full size</a></small>
+<p><small><a href="{{ $original.RelPermalink }}" class="imagelink" title="original image file">Original image full size</a></small></p>
