@@ -93,7 +93,7 @@
 		{{ with $medium.RelPermalink }}, {{.}} 1000w{{ end }}
 		{{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}"
 		src="{{ $medium.RelPermalink }}" 
-		alt="{{ with .Get "alt"}}{{.}}{{ end }}">
+		{{ with .Get "alt"}}alt="{{.}}"{{ end }}>
 </a>
 
 {{ if ge $original.Width "350" }}
