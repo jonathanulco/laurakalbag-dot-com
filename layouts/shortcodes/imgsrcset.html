@@ -52,7 +52,6 @@
 {{ $medium := .Scratch.Get "medium" }}
 {{ $large := .Scratch.Get "large" }}
 
-<a class="image-link" {{ with .Get "link" }}href='{{.}}'{{ else }}href='{{ $original.RelPermalink }}' title='Original image file'{{ end }}>
 <img 
 	{{ if ge $original.Width "1500" }}
 		style="width: 1500px;"
@@ -83,5 +82,3 @@
 	src="{{ $original.RelPermalink }}" 
 	{{ end }}
 	{{ with .Get "alt" }}alt='{{.}}'{{ end }}>
-
-</a>
