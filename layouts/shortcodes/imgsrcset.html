@@ -84,7 +84,6 @@
 
 {{ $large := .Scratch.Get "large" }}
 
-<a href="{{ $original.RelPermalink }}" class="imagelink" title="original image file">
 	<img 
 		{{ with .Get "sizes"}}sizes="{{.}}"{{ end }}
 		srcset="
@@ -98,7 +97,8 @@
 		src="{{ $original.RelPermalink }}" 
 		{{ end }}
 		{{ with .Get "alt"}}alt="{{.}}"{{ end }}>
-</a>
+
+	<small><a href="{{ $original.RelPermalink }}" class="imagelink" title="original image file">Full size</a></small>
 
 {{ if ge $original.Width "350" }}
 	<p>It's ge 350</p>
