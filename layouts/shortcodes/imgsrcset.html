@@ -54,13 +54,13 @@
 
 <img 
 	{{ if ge $original.Width "1500" }}
-		style="max-width: 1500px;"
+		style="width: 1500px;"
 	{{ else if ge $original.Width "1000" }}
-		style="max-width: 1000px;"
+		style="width: 1000px;"
 	{{ else if ge $original.Width "600" }}
-		style="max-width: 600px;"
+		style="width: 600px;"
 	{{ else if ge $original.Width "350" }}
-		style="max-width: 350px;"
+		style="width: 350px;"
 	{{ end }}
 	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes='100vw'{{ end }}
 	srcset='
