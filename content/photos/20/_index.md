@@ -23,6 +23,8 @@ colours:
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100748427705939150"
 ---
 
-{{< imgsrcset original="woods-3" command="Resize" alt="Oskar the huskamute standing in the woods looking directly at the camera." >}}
+{{< figured caption="We ❤️ the woods" >}}
 
-We ❤️ the woods
+    {{< imgsrcset original="woods-3" command="Resize" alt="Oskar the huskamute standing in the woods looking directly at the camera." >}}
+
+{{< /figured >}}

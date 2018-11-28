@@ -23,6 +23,8 @@ colours:
 mastodonurl: "https://mastodon.laurakalbag.com/web/accounts/1114"
 ---
 
-{{< imgsrcset original="poser" command="Resize" alt="Oskar the huskamute lying on the top of some stone steps with his paws draped over the edge." >}}
+{{< figured caption="What a poser." >}}
 
-What a poser.
+    {{< imgsrcset original="poser" command="Resize" alt="Oskar the huskamute lying on the top of some stone steps with his paws draped over the edge." >}}
+
+{{< /figured >}}

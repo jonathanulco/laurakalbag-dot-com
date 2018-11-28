@@ -22,6 +22,8 @@ colours:
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 ---
 
-{{< imgsrcset original="osky-4" command="Resize" alt="Selfie of me and Oskar the huskamute where I look like I’m trying to be cool and he looks fed up with his ears back." >}}
+{{< figured caption="Slight blurry photo of me and an Oskar who is sick of my shit." >}}
 
-Slight blurry photo of me and an Oskar who is sick of my shit.
+    {{< imgsrcset original="osky-4" command="Resize" alt="Selfie of me and Oskar the huskamute where I look like I’m trying to be cool and he looks fed up with his ears back." >}}
+
+{{< /figured >}}

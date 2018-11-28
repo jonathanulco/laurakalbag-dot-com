@@ -24,6 +24,8 @@ twitterurl: "https://twitter.com/laurakalbag/status/1030440992921530368"
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100565725899701508"
 ---
 
-{{< imgsrcset original="home-cat" command="Resize" alt="Selfie with a small grey cat, she’s enjoying having her head stroked." >}}
+{{< figured caption="Back in the homeland with the home cat." >}}
 
-Back in the homeland with the home cat.
+    {{< imgsrcset original="home-cat" command="Resize" alt="Selfie with a small grey cat, she’s enjoying having her head stroked." >}}
+
+{{< /figured >}}

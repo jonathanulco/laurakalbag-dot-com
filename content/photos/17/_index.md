@@ -22,6 +22,8 @@ colours:
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 ---
 
-{{< imgsrcset original="rainforest" command="Resize" alt="Osky the huskamute walking in woods dripping and in lush green." >}}
+{{< figured caption="Walking in the woods in the mist makes it feel like how I imagine a rainforest must be." >}}
 
-Walking in the woods in the mist makes it feel like how I imagine a rainforest must be.
+    {{< imgsrcset original="rainforest" command="Resize" alt="Osky the huskamute walking in woods dripping and in lush green." >}}
+
+{{< /figured >}}

@@ -23,8 +23,10 @@ colours:
 twitterurl: "https://twitter.com/laurakalbag/status/1024627555863801856"
 ---
 
-{{< imgsrcset original="cute-socks" command="Resize" alt="A little wooden shelving unit made to look like a house, containing five pairs of rolled up socks with sleeping animal faces." >}}
+{{< figured caption="Bought some cute socks online, not realising they’d come in their own house." >}}
 
-Bought some cute socks online, not realising they’d come in their own house.
+    {{< imgsrcset original="cute-socks" command="Resize" alt="A little wooden shelving unit made to look like a house, containing five pairs of rolled up socks with sleeping animal faces." >}}
+
+{{< /figured >}}
 
 I am 31 years old.

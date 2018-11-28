@@ -22,6 +22,8 @@ colours:
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 ---
 
-{{< imgsrcset original="ix-years-old" command="Resize" alt="Portrait photo of me aged six, smiling with a long 90s fringe." >}}
+{{< figured caption="I’ve not changed much in twenty-six years." >}}
 
-I’ve not changed much in twenty-six years.
+    {{< imgsrcset original="six-years-old" command="Resize" alt="Portrait photo of me aged six, smiling with a long 90s fringe." >}}
+
+{{< /figured >}}

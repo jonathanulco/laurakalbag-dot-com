@@ -22,6 +22,8 @@ colours:
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 ---
 
-{{< imgsrcset original="woods-2" command="Resize" alt="Osky the huskamute walking through the woods, the sunlight is bright behind the trees." >}}
+{{< figured caption="Morning walk" >}}
 
-Morning walk
+    {{< imgsrcset original="woods-2" command="Resize" alt="Osky the huskamute walking through the woods, the sunlight is bright behind the trees." >}}
+
+{{< /figured >}}

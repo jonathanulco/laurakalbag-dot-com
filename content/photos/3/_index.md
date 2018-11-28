@@ -22,6 +22,8 @@ colours:
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 ---
 
-{{< imgsrcset original="aral" command="Resize" alt="Aral smiling across the table from me, we both have glasses of sangria adorned with fruit slices." >}}
+{{< figured caption="Cheeky Friday lunchtime sangria" >}}
 
-Cheeky Friday lunchtime sangria
+    {{< imgsrcset original="aral" command="Resize" alt="Aral smiling across the table from me, we both have glasses of sangria adorned with fruit slices." >}}
+
+{{< /figured >}}

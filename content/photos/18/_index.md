@@ -23,6 +23,8 @@ colours:
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100647279590947634"
 ---
 
-{{< imgsrcset original="monkey" command="Resize" alt="a knitted baby monkey with shiny button eyes." >}}
+{{< figured caption="Knitting has been great for occupying my fidgeting, and keeping me away from the social network scrolling." >}}
 
-Knitting has been great for occupying my fidgeting, and keeping me away from the social network scrolling.
+    {{< imgsrcset original="monkey" command="Resize" alt="a knitted baby monkey with shiny button eyes." >}}
+
+{{< /figured >}}

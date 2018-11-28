@@ -21,6 +21,8 @@ colours:
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 ---
 
-{{< imgsrcset original="family" command="Resize" alt="Photo of me and my cousins and their partners all in formal wear in the garden." >}}
+{{< figured caption="Back from a weekend in the UK with this beautiful family. We look pretty fancy when we try!" >}}
 
-Back from a weekend in the UK with this beautiful family. We look pretty fancy when we try!
+    {{< imgsrcset original="family" command="Resize" alt="Photo of me and my cousins and their partners all in formal wear in the garden." >}}
+
+{{< /figured >}}

@@ -22,6 +22,8 @@ colours:
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 ---
 
-{{< imgsrcset original="osky-3" command="Resize" alt="Oskar the huskamute lying flat on the patio fast asleep." >}}
+{{< figured caption="Sleepy pup" >}}
 
-Sleepy pup
+    {{< imgsrcset original="osky-3" command="Resize" alt="Oskar the huskamute lying flat on the patio fast asleep." >}}
+
+{{< /figured >}}

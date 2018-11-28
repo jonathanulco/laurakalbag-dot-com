@@ -21,7 +21,9 @@ colours:
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 ---
 
-{{< imgsrcset original="osky-1" command="Resize" alt="Selfie of me and Oskar the huskamute, he’s looking at me." >}}
-{{< imgsrcset original="osky-2" command="Resize" alt="Selfie of me and Oskar the huskamute, he’s licking my face." >}}
+{{< figured caption="Inevitable" >}}
 
-Inevitable
+    {{< imgsrcset original="osky-1" command="Resize" alt="Selfie of me and Oskar the huskamute, he’s looking at me." >}}
+    {{< imgsrcset original="osky-2" command="Resize" alt="Selfie of me and Oskar the huskamute, he’s licking my face." >}}
+
+{{< /figured >}}

@@ -23,6 +23,8 @@ colours:
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100567174692648743"
 ---
 
-{{< imgsrcset original="no-more-work" command="Resize" alt="Cat sitting on laptop keyboard staring angrily into the camera." >}}
+{{< figured caption="No more work for you." >}}
 
-No more work for you.
+    {{< imgsrcset original="no-more-work" command="Resize" alt="Cat sitting on laptop keyboard staring angrily into the camera." >}}
+
+{{< /figured >}}

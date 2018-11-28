@@ -22,6 +22,8 @@ colours:
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 ---
 
-{{< imgsrcset original="sunbeam-woods" command="Resize" alt="Woods lit with evening sunbeams, Oskar the huskamute in the distance looking back at me." >}}
+{{< figured caption="Like being in a painting" >}}
 
-Like being in a painting
+    {{< imgsrcset original="sunbeam-woods" command="Resize" alt="Woods lit with evening sunbeams, Oskar the huskamute in the distance looking back at me." >}}
+
+{{< /figured >}}

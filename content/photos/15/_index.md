@@ -24,6 +24,8 @@ twitterurl: "https://twitter.com/laurakalbag/status/1031572395608494080"
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100583402305039222"
 ---
 
-{{< imgsrcset original="post-mow" command="Resize" alt="Me lying on my back on the grass next to Osky the huskamute who is yawning." >}}
+{{< figured caption="Mowed the overgrown garden. Now we’re too tired to get up." >}}
 
-Mowed the overgrown garden. Now we’re too tired to get up.
+    {{< imgsrcset original="post-mow" command="Resize" alt="Me lying on my back on the grass next to Osky the huskamute who is yawning." >}}
+
+{{< /figured >}}

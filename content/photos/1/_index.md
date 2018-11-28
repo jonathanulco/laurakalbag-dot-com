@@ -23,6 +23,8 @@ twitterurl: https://twitter.com/gigapup/status/996736503173787649
 description: "Springtime!"
 ---
 
-{{< imgsrcset original="osky" command="Resize" alt="Oskar the huskamute standing in amongst bluebells in a wood." >}}
+{{< figured caption="Springtime!" >}}
 
-Springtime!
+    {{< imgsrcset original="osky" command="Resize" alt="Oskar the huskamute standing in amongst bluebells in a wood." >}}
+
+{{< /figured >}}
