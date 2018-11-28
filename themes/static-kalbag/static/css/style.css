@@ -678,6 +678,16 @@ main article .entry-meta {
 /*  - - - - - - - - MEDIA 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
+img {
+	margin: 1em 0;
+	height: auto; /* fill ratio-appropriate space compared to width */
+	max-width: 100%; /* don’t exceed width of viewport, flex to available space when viewport is resized */
+}
+	
+figure img {
+	margin-bottom: 0;
+}
+
 figure {
 	margin: 1em 0 1em;
 }
@@ -689,16 +699,37 @@ figure a {
 
 figure.grid.two {
 	display: grid;
-	grid-template-areas:
-		"image1 image2"
-		"figcaption figcaption";
+	grid-template-areas: 	"image1 	image2"
+							"figcaption	figcaption";
 }
 
 figure.grid.three {
 	display: grid;
-	grid-template-areas:
-		"image1 image2 image3"
-		"figcaption figcaption figcaption";
+	grid-template-areas: 	"image1 	image2 		image 3"
+							"figcaption	figcaption	figcaption";
+}
+
+figure.grid.four {
+	display: grid;
+	grid-template-areas: 	"image1		image2"
+							"image3		image4"
+							"figcaption	figcaption";
+}
+
+figure.grid img:nth-of-type(1) {
+	grid-area: image1;
+}
+
+figure.grid img:nth-of-type(2) {
+	grid-area: image2;
+}
+
+figure.grid img:nth-of-type(3) {
+	grid-area: image3;
+}
+
+figure.grid img:nth-of-type(4) {
+	grid-area: image4;
 }
 
 figure.grid figcaption {
@@ -708,22 +739,6 @@ figure.grid figcaption {
 figcaption {
 	display: block;
 	margin-top: 0.5em;
-}
-
-img {
-	margin: 1em 0;
-	height: auto; /* fill ratio-appropriate space compared to width */
-	max-width: 100%; /* don’t exceed width of viewport, flex to available space when viewport is resized */
-}
-
-@media (min-width: 1200px) {
-	img {
-		max-width: 1200px; /* images all have a max-width of 1200px, so don’t let them exceed this */
-	}
-} 
-	
-figure img {
-	margin-bottom: 0;
 }
 
 .photos .posts-list {
