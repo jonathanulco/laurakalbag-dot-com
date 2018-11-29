@@ -21,6 +21,7 @@ colours:
 image: ""
 imagealt: ""
 description: ""
+primaryimagealt: ""
 ---
 
 Post text<!--more-->
