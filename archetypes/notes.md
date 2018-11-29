@@ -28,4 +28,8 @@ description: ""
 
 Note text<!--more-->
 
-{{<figure class="note-image" src="office-dog.png" link="https://alink.com" alt="alt text" caption="caption text">}}
+{{< figured caption="caption text" >}}
+
+    {{< imgsrcset original="filenameX" command="Resize" alt="alt text" >}}
+
+{{< /figured >}}
