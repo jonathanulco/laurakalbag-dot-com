@@ -770,22 +770,6 @@ figcaption {
 		justify-content: space-between;
 	}
 
-	/* link act as crop for image */
-	.latest-photos .photo-post a {
-		display: block;
-		margin: 0;
-		height: 100%;
-		width: 100%;
-	}
-
-	.latest-photos .photo-post img {
-		object-fit: cover;
-		height: 100%;
-		max-height: none;
-		width: 100%;
-		width: 100% !important; /* !important needed to override width in imgsrcset shortcode */
-	}
-
 }
 
 /*  - - - - - - - - SVG TILE
