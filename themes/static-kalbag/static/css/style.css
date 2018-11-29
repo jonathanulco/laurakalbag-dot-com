@@ -683,6 +683,11 @@ img {
 	height: auto; /* fill ratio-appropriate space compared to width */
 	max-width: 100%; /* don’t exceed width of viewport, flex to available space when viewport is resized */
 }
+
+/* for single photo pages, make images max-height the same as the viewport */
+.kind-page.photos img {
+	max-height: 100vh;
+}
 	
 figure img {
 	margin-bottom: 0;

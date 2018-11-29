@@ -53,29 +53,12 @@
 {{ $large := .Scratch.Get "large" }}
 
 <img 
-	{{ if ge $original.Width "1500" }}
-		style="width: 1500px;"
-	{{ else if ge $original.Width "1000" }}
-		style="width: 1000px;"
-	{{ else if ge $original.Width "600" }}
-		style="width: 600px;"
-	{{ else if ge $original.Width "350" }}
-		style="width: 350px;"
-	{{ end }}
-	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 1060px) 1000px, calc(94.59vw + 1em)"{{ end }}
+	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 1200px) 1200px, 100vw"{{ end }}
 	srcset='
-	{{ if ge $original.Width "350" }}
 		{{ with $tiny.RelPermalink }}{{.}} 350w{{ end }}
-	{{ end }}
-	{{ if ge $original.Width "600" }}
 		{{ with $small.RelPermalink }}, {{.}} 600w{{ end }}
-	{{ end }}
-	{{ if ge $original.Width "1000" }}
 		{{ with $medium.RelPermalink }}, {{.}} 1000w{{ end }}
-	{{ end }}
-	{{ if ge $original.Width "1500" }}
-		{{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
-	{{ end }}'
+		{{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}'
 	{{ if .Get $medium }}
 	src="{{ $medium.RelPermalink }}" 
 	{{ else }}
