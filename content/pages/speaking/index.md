@@ -29,7 +29,11 @@ If you think I might be a good fit for speaking at your event, please [drop me a
 
 {{< figured caption="A photo of me speaking at 12 Devs of Winter in 2014, taken by the talented Alex Jegtnes" >}}
 
-{{< imgsrcset original="Me-speaking-at-12-Devs.jpg" command="Resize" alt="Me speaking at 12 Devs of Winter" link="http://www.flickr.com/photos/68110573@N02/12132726904/" >}}
+    {{< link href="http://www.flickr.com/photos/68110573@N02/12132726904/" >}}
+
+        {{< imgsrcset original="Me-speaking-at-12-Devs.jpg" command="Resize" alt="Me speaking at 12 Devs of Winter" >}}
+    
+    {{< /link >}}
 
 {{< /figured >}}
 
