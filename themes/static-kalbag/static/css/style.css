@@ -709,7 +709,7 @@ figure.grid.three {
 	display: grid;
 	grid-template-rows: 1fr auto;
 	grid-template-columns: 1fr 1fr 1fr;
-	grid-template-areas: 	"image1 	image2 		image 3"
+	grid-template-areas: 	"image1 	image2 		image3"
 							"figcaption	figcaption	figcaption";
 }
 
