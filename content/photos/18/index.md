@@ -21,6 +21,7 @@ colours:
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100647279590947634"
+primaryimagealt: "a knitted baby monkey with shiny button eyes."
 ---
 
 {{< figured caption="Knitting has been great for occupying my fidgeting, and keeping me away from the social network scrolling." >}}

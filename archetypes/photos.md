@@ -21,6 +21,7 @@ colours:
 twitterurl: ""
 mastodonurl: ""
 instagramurl: ""
+primaryimagealt: ""
 ---
 
 {{< figured caption="caption text" >}}

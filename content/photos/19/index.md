@@ -21,6 +21,7 @@ colours:
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 mastodonurl: "https://mastodon.laurakalbag.com/web/accounts/1114"
+primaryimagealt: "Oskar the huskamute lying on the top of some stone steps with his paws draped over the edge."
 ---
 
 {{< figured caption="What a poser." >}}

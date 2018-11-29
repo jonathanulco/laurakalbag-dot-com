@@ -20,6 +20,7 @@ colours:
     tab-four: "199,52%,67%" # hsl(199,52%,67%)
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
+primaryimagealt: "Portrait photo of me aged six, smiling with a long 90s fringe."
 ---
 
 {{< figured caption="I’ve not changed much in twenty-six years." >}}

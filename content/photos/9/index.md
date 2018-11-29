@@ -20,6 +20,7 @@ colours:
     tab-four: "199,52%,67%" # hsl(199,52%,67%)
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
+primaryimagealt: "Selfie of me and Oskar the huskamute where I look like I’m trying to be cool and he looks fed up with his ears back."
 ---
 
 {{< figured caption="Slight blurry photo of me and an Oskar who is sick of my shit." >}}

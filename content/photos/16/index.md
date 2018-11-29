@@ -21,6 +21,7 @@ colours:
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100644958218086712"
+primaryimagealt: "Oskar the huskamute crammed between two big plant pots in order to stay out of the sun."
 ---
 
 {{< figured caption="Finding shade wherever possible…" >}}

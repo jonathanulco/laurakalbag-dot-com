@@ -20,6 +20,7 @@ colours:
     tab-four: "199,52%,67%" # hsl(199,52%,67%)
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
+primaryimagealt: "Aral smiling across the table from me, we both have glasses of sangria adorned with fruit slices."
 ---
 
 {{< figured caption="Cheeky Friday lunchtime sangria" >}}

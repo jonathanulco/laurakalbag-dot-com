@@ -1,12 +1,14 @@
 <li class="post photo-post">
     <a href="{{.Permalink}}">
+        <img
         {{ with .Resources }}
             {{ with .GetMatch "{*.*,*.jpg,*.png,*.jpeg}" }}
                  {{ $photo := .Fill "600x600" }}
                  {{ with $photo }}
-                      <img src="{{ .Permalink }}"/>      
+                      src='{{ .Permalink }}'  
                  {{ end }}
             {{ end }}
         {{ end }}
+        alt="{{ .Params.firstimagealt }}"/>
     </a>
 </li>
