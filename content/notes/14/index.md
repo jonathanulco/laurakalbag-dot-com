@@ -48,7 +48,11 @@ I am grateful to the people who took thirty seconds out of their day to bolster 
 
 Sales are still going steadily, so I’m really happy. That’s a steady number of folks who care about accessibility. And with the [audiobook out this month](/accessibility-for-everyone-audiobook), I’m hoping that we’ve made the book itself more accessible too.
 
-{{<figure class="note-image" src="/images/2018/08/book.jpg" link="https://abookapart.com/products/accessibility-for-everyone" alt="Two Accessibility For Everyone paperback books stacked.">}}
+{{< link href="https://abookapart.com/products/accessibility-for-everyone" >}}
+
+    {{< imgsrcset original="book" command="Resize" alt="Two Accessibility For Everyone paperback books stacked." >}}
+
+{{< /link >}}
 
 ----
 

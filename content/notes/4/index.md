@@ -1,11 +1,11 @@
 ---
-title: 20 July 2018 21:28 IST
-date: 2018-07-20T21:28:23+01:00
-tags: ["oskar"]
-categories: []
+title: 14 June 2018 17:12 IST
+date: 2018-06-14T17:12:07+01:00
+tags: []
+categories: ["Oskar"]
 visibility: ["public"]
 aliases:
-    - /notes/2018/07/20/21/28/index.md
+    - /notes/2018/06/14/21/59.md
 body_classes: "notes latest"
 colours:
     primary-bg: "3,100%,92%" # hsl(3,100%,92%)
@@ -19,10 +19,13 @@ colours:
     tab-four: "199,52%,67%" # hsl(199,52%,67%)
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
-twitterurl: ""
-mastodonurl: ""
-instagramurl: ""
-image: "/notes/2018/07/20/21/28/osky-1.jpg"
+twitterurl: "https://twitter.com/gigapup/status/1007351729174786048"
 ---
 
-{{<figure class="note-image grid" src="/notes/images/osky-1.jpg" alt="Selfie of me and Oskar the huskamute, he’s looking at me." src2="/notes/images/osky-2.jpg" alt2="Selfie of me and Oskar the huskamute, he’s licking my face." caption="Inevitable">}}
+{{< figured class="grid two" caption="How could you say no to this face?" >}}
+
+    {{< imgsrcset original="osky1" command="Resize" alt="Oskar with his head on a cushion and begging eyes." >}}
+
+    {{< imgsrcset original="osky2" command="Resize" alt="Oskar with his head on a cushion and closed eyes." >}}
+
+{{< /figured >}}

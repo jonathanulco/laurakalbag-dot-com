@@ -1,11 +1,11 @@
 ---
-title: 17 March 2018 12:08 CET
-date: 2018-03-17T12:08:06+02:00
+title: 16 May 2018 14:57 IST
+date: 2018-05-16T14:57:23+01:00
 tags: []
 categories: []
 visibility: ["public"]
 aliases:
-    - /notes/2018/03/17/12/08.md
+    - /notes/2018/05/16/14/57.md
 body_classes: "notes latest"
 colours:
     primary-bg: "3,100%,92%" # hsl(3,100%,92%)
@@ -19,9 +19,13 @@ colours:
     tab-four: "199,52%,67%" # hsl(199,52%,67%)
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
-twitterurl: "https://twitter.com/laurakalbag/status/974965745066094593"
+twitterurl: https://twitter.com/gigapup/status/996736503173787649
 mastodonurl: ""
 instagramurl: ""
 ---
 
-{{<figure class="note-image grid" src="/notes/images/me.jpg" alt="Me wrapped in layers of scarf, hat and coat, with a cold scrunched face, all covered in fine icy snow." caption="Me vs my noble snow beast in the -11 bluster" src2="/notes/images/osky.jpg" alt2="Oskar the huskamute sitting proudly on the beach looking unphased by the snow.">}}
+{{< figured caption="Springtime!" >}}
+
+    {{< imgsrcset original="osky-3" command="Resize" alt="Oskar the huskamute standing in amongst bluebells in a wood." >}}
+
+{{< /figured >}}

@@ -1,11 +1,11 @@
 ---
-title: 16 May 2018 14:57 IST
-date: 2018-05-16T14:57:23+01:00
-tags: []
+title: 20 July 2018 21:28 IST
+date: 2018-07-20T21:28:23+01:00
+tags: ["oskar"]
 categories: []
 visibility: ["public"]
 aliases:
-    - /notes/2018/05/16/14/57.md
+    - /notes/2018/07/20/21/28/index.md
 body_classes: "notes latest"
 colours:
     primary-bg: "3,100%,92%" # hsl(3,100%,92%)
@@ -19,9 +19,16 @@ colours:
     tab-four: "199,52%,67%" # hsl(199,52%,67%)
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
-twitterurl: https://twitter.com/gigapup/status/996736503173787649
+twitterurl: ""
 mastodonurl: ""
 instagramurl: ""
+image: "/notes/2018/07/20/21/28/osky-1.jpg"
 ---
 
-{{<figure class="note-image" src="/notes/images/osky-3.jpg" alt="Oskar the huskamute standing in amongst bluebells in a wood." caption="Springtime!">}}
+{{< figured class="grid two" caption="Inevitable" >}}
+
+    {{< imgsrcset original="osky-1" command="Resize" alt="Selfie of me and Oskar the huskamute, he’s looking at me." >}}
+
+    {{< imgsrcset original="osky-2" command="Resize" alt="Selfie of me and Oskar the huskamute, he’s licking my face." >}}
+
+{{< /figured >}}

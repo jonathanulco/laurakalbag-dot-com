@@ -1,11 +1,11 @@
 ---
-title: 14 June 2018 17:12 IST
-date: 2018-06-14T17:12:07+01:00
+title: 17 March 2018 12:08 CET
+date: 2018-03-17T12:08:06+02:00
 tags: []
-categories: ["Oskar"]
+categories: []
 visibility: ["public"]
 aliases:
-    - /notes/2018/06/14/21/59.md
+    - /notes/2018/03/17/12/08.md
 body_classes: "notes latest"
 colours:
     primary-bg: "3,100%,92%" # hsl(3,100%,92%)
@@ -19,11 +19,14 @@ colours:
     tab-four: "199,52%,67%" # hsl(199,52%,67%)
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
-twitterurl: "https://twitter.com/gigapup/status/1007351729174786048"
+twitterurl: "https://twitter.com/laurakalbag/status/974965745066094593"
 mastodonurl: ""
 instagramurl: ""
 ---
 
-How could you say no to this face?
+{{< figured class="grid two" caption="Me vs my noble snow beast in the -11 bluster" >}}
 
-{{<figure class="note-image grid" src="/notes/images/osky1.jpg" alt="Oskar with his head on a cushion and begging eyes." src2="/notes/images/osky2.jpg" alt2="Oskar with his head on a cushion and closed eyes.">}}
+    {{< imgsrcset original="me" command="Resize" alt="Me wrapped in layers of scarf, hat and coat, with a cold scrunched face, all covered in fine icy snow." >}}
+    {{< imgsrcset original="osky" command="Resize" alt="Oskar the huskamute sitting proudly on the beach looking unphased by the snow." >}}
+
+{{< /figured >}}

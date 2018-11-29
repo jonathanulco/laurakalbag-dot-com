@@ -24,8 +24,14 @@ mastodonurl: ""
 instagramurl: ""
 ---
 
-Finally got Sam in the room to properly produce the Accessibility For Everyone audiobook in person. 
+{{< figured class="grid three" caption="Finally got Sam in the room to properly produce the Accessibility For Everyone audiobook in person. " >}}
+
+    {{< imgsrcset original="laura" command="Resize" alt="Selfie of me speaking into a pop shield in front of a microphone." >}}
+
+    {{< imgsrcset original="sam" command="Resize" alt="Half of Sam’s head and body, partly obscured by the microphone. It’s my view of him and the desk while we’re recording." >}}
+
+    {{< imgsrcset original="desk" command="Resize" alt="Our desk setup for recording featuring the microphone and pop shield, laptop, and Indie mug." >}}
+
+{{< /figured >}}
 
 Today we learned I use US English pronunciation for a few random words. As the book is in US English, and I’m very British, hopefully it won’t be too off-putting… 😬
-
-{{<figure class="note-image grid" src="/notes/images/laura.jpg" alt="Selfie of me speaking into a pop shield in front of a microphone." src2="/notes/images/sam.jpg" alt2="Half of Sam’s head and body, partly obscured by the microphone. It’s my view of him and the desk while we’re recording." src3="/notes/images/desk.jpg" alt3="Our desk setup for recording featuring the microphone and pop shield, laptop, and Indie mug.">}}
