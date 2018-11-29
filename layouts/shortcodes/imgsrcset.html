@@ -53,7 +53,7 @@
 {{ $large := .Scratch.Get "large" }}
 
 <img 
-	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 1200px) 1200px, 100vh"{{ end }}
+	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 35em) 100vh, 100vw"{{ end }}
 	srcset='
 	{{ if ge $original.Width "500" }}
 		{{ with $tiny.RelPermalink }}{{.}} 500w{{ end }}
