@@ -24,4 +24,8 @@ On Friday I was a guest on the [Unfinished Business podcast](http://unfinished.b
 
 The show is focused around the closure of Five Simple Steps, the great publishers of web-themed books, last week. I’ve never written a book, and have only recently started writing much, so I learned a lot from Andy and Rachel as seasoned writers (and ex-Five Simple Steps authors).
 
-<p style="text-align: center;">[{{< figure class="aligncenter size-full wp-image-4098" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." src="/images/2013/11/unfinishedbusiness.png" width="642" height="294" >}}](http://unfinished.bz/64)</p>
+<p style="text-align: center;">{{< figured >}}
+  {{< link href="http://unfinished.bz/64" >}}
+  	{{< imgsrcset alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." original="/images/2013/11/unfinishedbusiness.png" >}}
+  {{< /link >}}
+{{< /figured >}}</p>

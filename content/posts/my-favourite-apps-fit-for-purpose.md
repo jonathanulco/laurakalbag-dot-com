@@ -73,7 +73,9 @@ One thing I’ve been realising is that I shouldn’t want one app to do *everyt
 
 Sketch features a lot of tools designed around the graphics we create for the web. Even featuring good CSS generation for individual shape styles. The export tools are also very helpful, allowing you to create multiple artboards and ‘slices’ within a document and then allowing you to choose which layers are exported, even including an automated @2x option.
 
-{{< figure class="attachment_1207 wp-caption aligncenter size-full wp-image-1207" title="Sketch Export options" src="/images/2012/10/sketch-export.png" alt="Sketch Export options" width="215" height="448" caption="Sketch Export options" >}}
+{{< figured caption="Sketch Export options" >}}
+  	{{< imgsrcset command="Resize" class="attachment_1207  size-full wp-image-1207" title="Sketch Export options" original="/images/2012/10/sketch-export.png" alt="Sketch Export options" >}}
+{{< /figured >}}
 
 There are a few little bugs here and there in Sketch, but it is in constant rapid development. Whilst slightly crippled by the (slow) speed of Apple’s App Store update approval process, I use the Beta version of the app and am greeted by a huge changelog almost daily.
 
@@ -85,7 +87,9 @@ There are a few little bugs here and there in Sketch, but it is in constant rapi
 
 A few people asked about the other apps I used (for development etc.) so I thought I’d give a quick rundown of what’s in my dock (my most used apps):
 
-{{< figure class="attachment_1206 wp-caption aligncenter size-full wp-image-1206" title="screenshot of the apps in my Mac OSX dock" src="/images/2012/10/dock.png" alt="screenshot of the apps in my Mac OSX dock" width="1456" height="64" caption="screenshot of the apps in my Mac OSX dock" >}}
+{{< figured caption="screenshot of the apps in my Mac OSX dock" >}}
+  	{{< imgsrcset command="Resize" class="attachment_1206  size-full wp-image-1206" title="screenshot of the apps in my Mac OSX dock" original="/images/2012/10/dock.png" alt="screenshot of the apps in my Mac OSX dock" >}}
+{{< /figured >}}
 
 1. **Finder. **(*Mac OSX default*)
 * **Mail.app.** (*Mac OSX default*) I want my email available offline and on my iPhone. Mail does that. It may not be feature-filled, but at least Google isn’t snooping around in there…

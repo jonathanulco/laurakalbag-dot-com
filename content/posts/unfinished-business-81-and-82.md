@@ -28,4 +28,8 @@ I can’t speak for both Ashley and I, but I know that I was a bit scared of mes
 
 I’ll be back for a handover episode with Andy this week, so I’m not going anywhere!
 
-<p style="text-align: center;">[{{< figure class="aligncenter wp-image-4098 size-full" src="/images/2013/11/unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." width="642" height="294" >}}](http://unfinished.bz/82)</p>
+<p style="text-align: center;">{{< figured >}}
+  {{< link href="http://unfinished.bz/82" >}}
+  	{{< imgsrcset command="Resize" class="wp-image-4098 size-full" original="/images/2013/11/unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." >}}
+  {{< /link >}}
+{{< /figured >}}</p>

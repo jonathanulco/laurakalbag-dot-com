@@ -32,7 +32,9 @@ The problem was, that in doing this, I was really limiting myself. There’s a l
 
 [Seb Lee-Delisle](http://seb.ly) was putting on another couple of [workshops teaching CreativeJS](http://seb.ly/training/). Everyone I’d known that had been to one of Seb’s workshops had said it was incredibly worthwhile and good fun. I didn’t have an excuse to put off learning JavaScript. And whilst I go to a lot of conferences, I’d not been to a proper two day workshop before so I wasn’t really sure what to expect.
 
-{{< figure class="attachment_1194 wp-caption aligncenter size-full wp-image-1194" title="Seb at the CreativeJS for non-coders workshop" src="/images/2012/10/seb.jpg" alt="Seb at the CreativeJS for non-coders workshop" width="1024" height="660" caption="If you look really closely, you might be able to make out Seb’s twitter username projected on his jumper" >}}
+{{< figured caption="If you look really closely, you might be able to make out Seb’s twitter username projected on his jumper" >}}
+  	{{< imgsrcset command="Resize" class="attachment_1194  size-full wp-image-1194" title="Seb at the CreativeJS for non-coders workshop" original="/images/2012/10/seb.jpg" alt="Seb at the CreativeJS for non-coders workshop" >}}
+{{< /figured >}}
 
 ### CreativeJS
 

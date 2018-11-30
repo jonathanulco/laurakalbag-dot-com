@@ -28,6 +28,10 @@ I gave a five minute talk about Universal Design, and [the video and transcript]
 
 I would really recommend watching [all of the videos](https://ind.ie/summit/videos/), and please blog about your thoughts. It would be lovely to hear more people talking about ethical and sustainable business models in technology, and how we can make the industry a more diverse and accessible place.
 
-[{{< figure class="aligncenter size-full wp-image-4526" src="/images/2014/08/universal-design-talk.png" alt="Laura Kalbag on Universal Design" width="680" height="700" >}}](https://ind.ie/summit/videos/laura-kalbag/)
+{{< figured >}}
+  {{< link href="https://ind.ie/summit/videos/laura-kalbag/" >}}
+  	{{< imgsrcset command="Resize" original="/images/2014/08/universal-design-talk.png" alt="Laura Kalbag on Universal Design" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 	

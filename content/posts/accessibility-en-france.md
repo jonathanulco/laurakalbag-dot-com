@@ -25,17 +25,17 @@ Yesterday I gave a talk at [KiwiParty](http://kiwiparty.fr/) in Strasbourg. Kiwi
 
 My talk was about Designing for accessibility. I wouldn’t be setting a very good example if I was to give a talk about accessibility which was hard to understand for 99% of the audience. I talked to my friend, [Stéphanie Walter](http://www.inpixelitrust.fr/), one of the organisers of KiwiParty, about getting my slides translated into French. Stéphanie very generously offered to translate my slides, on top of all the other hard work she was doing with organising the conference and creating the lovely (and very accessible!) [website](http://kiwiparty.fr/ "KiwiParty website").
 
-[{{< figure class="aligncenter size-full wp-image-4498" src="/images/2014/06/Screen-Shot-2014-06-13-at-08.27.401.png" alt="Designing for accessibility/Designer pour l'accessibilité" width="960" height="540" >}}](/images/2014/06/Screen-Shot-2014-06-13-at-08.27.401.png)
+{{< imgsrcset command="Resize" original="/images/2014/06/Screen-Shot-2014-06-13-at-08.27.401.png" alt="Designing for accessibility/Designer pour l'accessibilité" >}}
 
 ## The slides
 
 My slides support the information in my talks. I present the main points that I’m trying to cover in text, and then talk about the context of those points as I show the slides. I didn’t get translations for the examples that I showed, as the detail I discuss the examples depends on the audience on the day, but overall I had 85% of my slides translated.
 
-[{{< figure class="aligncenter size-full wp-image-4502" src="/images/2014/06/Screen-Shot-2014-06-14-at-13.40.04.png" alt="Visual - make it easy to read. Visuel - Facilitez la lecture" width="884" height="496" >}}](/images/2014/06/Screen-Shot-2014-06-14-at-13.40.04.png)
+{{< imgsrcset command="Resize" original="/images/2014/06/Screen-Shot-2014-06-14-at-13.40.04.png" alt="Visual - make it easy to read. Visuel - Facilitez la lecture" >}}
 
 It was tricky to fit the translated text into the slide designs. Usually I have as little text as possible on a slide, and French can be a lot longer than the English equivalent, so it took a while to ensure the slides were all readable on a projected screen.
 
-[{{< figure class="aligncenter size-full wp-image-4497" src="/images/2014/06/Screen-Shot-2014-06-13-at-12.19.34.png" alt="Accessibility guidelines for content hierarchy" width="885" height="497" >}}](/images/2014/06/Screen-Shot-2014-06-13-at-12.19.34.png)
+{{< imgsrcset command="Resize" original="/images/2014/06/Screen-Shot-2014-06-13-at-12.19.34.png" alt="Accessibility guidelines for content hierarchy" >}}
 
 Now I had a talk which would be easy to understand for English speakers, and French speakers who would find it harder to follow my English, the slides provided the backup information.
 

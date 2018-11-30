@@ -24,6 +24,8 @@ colours:
 
 I’m also going to be on Unfinished Business more regularly. I always have fun chatting to Andy, and it’s a great excuse to pick his more experienced brains about business stuff.
 
-[{{< figure class="aligncenter size-full wp-image-4098" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." src="/images/2013/11/unfinishedbusiness.png" width="642" height="294" >}}](http://unfinished.bz/44)
-
-	
+{{< figured >}}
+  {{< link href="http://unfinished.bz/44" >}}
+  	{{< imgsrcset alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." original="/images/2013/11/unfinishedbusiness.png" >}}
+  {{< /link >}}
+{{< /figured >}}

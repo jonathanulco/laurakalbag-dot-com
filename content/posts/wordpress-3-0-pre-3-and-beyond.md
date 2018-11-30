@@ -54,11 +54,13 @@ First, you’ll need to enable featured images in your functions.php file. This 
 <pre>add_theme_support( 'post-thumbnails' );</pre>
 Then you can see the Featured Image box appear in your post and page editors.
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-121" title="Featured Image box in the Post editor" src="/images/2010/07/Screen-shot-2010-07-16-at-20.31.56.png" alt="Featured Image box in the WordPress Post editor" width="299" height="82" caption="Featured Image box in the Post editor">}}](/images/2010/07/Screen-shot-2010-07-16-at-20.31.56.png)
+{{< imgsrcset command="Resize" class="wp-image-121" title="Featured Image box in the Post editor" original="/images/2010/07/Screen-shot-2010-07-16-at-20.31.56.png" alt="Featured Image box in the WordPress Post editor" >}}
 
 The image selection process is identical to that of adding standard images into the post. You can choose to select from your computer, from a URL or from the Media Library. All you need to make sure is that, instead of hitting the ‘Insert into Post’ button, you select ‘Use as featured image’.
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-123" title="Ensure you select 'Use as featured image'" src="/images/2010/07/Screen-shot-2010-07-16-at-20.33.23.png" alt="When adding a featured image to a WordPress post, ensure you select 'Use as featured image' when selecting an image" width="645" height="256" caption="Ensure you select ‘Use as featured image’">}}](/images/2010/07/Screen-shot-2010-07-16-at-20.33.23.png)
+{{< figured caption="Ensure you select ‘Use as featured image’" >}}
+  {{< imgsrcset command="Resize" class="wp-image-123" title="Ensure you select 'Use as featured image'" original="/images/2010/07/Screen-shot-2010-07-16-at-20.33.23.png" alt="When adding a featured image to a WordPress post, ensure you select 'Use as featured image' when selecting an image" >}}
+{{< /figured >}}
 
 If you only want to allow Featured Images for posts in your theme, you can specify this through:
 

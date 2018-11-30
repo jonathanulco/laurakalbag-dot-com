@@ -23,6 +23,10 @@ Yesterday the [first episode](http://www.beyondink.co.uk/shows/01-laura-and-simo
 
 Rachel and I chatted about process, the type of work we like to do and inspiration, amongst other things. I think this will shape up to be a great podcast for insights into different designer’s working processes.
 
-[{{< figure class="aligncenter size-full wp-image-4103" alt="Beyond Ink podcast by Rachel Shillcock" src="/images/2013/12/beyond-ink.png" width="685" height="1010" >}}](http://www.beyondink.co.uk/shows/01-laura-and-simon)
+{{< figured >}}
+  {{< link href="http://www.beyondink.co.uk/shows/01-laura-and-simon" >}}
+  	{{< imgsrcset alt="Beyond Ink podcast by Rachel Shillcock" original="/images/2013/12/beyond-ink.png" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 	

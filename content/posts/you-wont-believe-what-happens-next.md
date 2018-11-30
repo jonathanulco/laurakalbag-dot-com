@@ -21,23 +21,25 @@ description: "Ads are not the problem, trackers are the problem."
 
 This is the talk I gave at DIBI Conference in Edinburgh in March 2017. Many people asked me for my slides, but I wanted to include them in context, with accessible links. This is roughly how it went:
 
-[{{< figure class="aligncenter size-large wp-image-4862" src="/images/2017/04/001-1024x576.jpg" alt="Digital Assistants, Facebook Quizzes, And Fake News! You Won’t Believe What Happens Next @laurakalbag @indie @betterbyindie https://ind.ie https://better.fyi" width="1024" height="576" >}}](/images/2017/04/001.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4862" original="/images/2017/04/001-1024x576.jpg" alt="Digital Assistants, Facebook Quizzes, And Fake News! You Won’t Believe What Happens Next @laurakalbag @indie @betterbyindie https://ind.ie https://better.fyi" >}}
 
 ## Performance!
 
 Nowadays performance seems to be the hot topic of the web industry. So let’s have a look at how we might improve the speed of a web page.
 
-[{{<figure class="wp-caption aligncenter size-large wp-image-4863" src="/images/2017/04/006-1024x576.jpg" alt="Screenshot of the Onion homepage" width="1024" height="576" caption="theonion.com">}}](/images/2017/04/006.jpg)
+{{< figured caption="theonion.com" >}}
+  {{< imgsrcset command="Resize" class="wp-image-4863" original="/images/2017/04/006-1024x576.jpg" alt="Screenshot of the Onion homepage" >}}
+{{< /figured >}}
 
 Looking at [the Onion homepage](http://www.theonion.com), you can see it’s loading lots of images and a few videos. It’s mostly images and text content. There’s a big sticky ad at the bottom of the viewport that takes a while to load.
 
-[{{< figure class="aligncenter size-large wp-image-4864" src="/images/2017/04/009-1024x576.jpg" alt="Safari Web Inspector for The Onion: 384 resources, 8MB, 15.24 seconds, 205 errors, 8 warnings" width="1024" height="576" >}}](/images/2017/04/009.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4864" original="/images/2017/04/009-1024x576.jpg" alt="Safari Web Inspector for The Onion: 384 resources, 8MB, 15.24 seconds, 205 errors, 8 warnings" >}}
 
 If you look at what’s loading behind the scenes, you can see a the layout being rendered, loading in all the content first, then more and more requests as new stuff is being loaded in. All in all, they’re loading 384 resources, coming in at 8MB, taking 15.24 seconds minimum to load. (There’s also 205 errors which may well be impacting that load time.)
 
 If we look at Safari’s Network Requests tab, we can see a little more of what’s being loaded in. If we look at the requests by size:
 
-[{{< figure class="aligncenter size-large wp-image-4865" src="/images/2017/04/011-1024x576.jpg" alt="Screenshot of Safari web inspector’s resources. Showing the files listed below" width="1024" height="576" >}}](/images/2017/04/011.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4865" original="/images/2017/04/011-1024x576.jpg" alt="Screenshot of Safari web inspector’s resources. Showing the files listed below" >}}
 
 * **.html** the primary HTML document is only the 19th largest file being loaded
 * The largest file is **.js**, a biggish javascript file, that’s fairly standard
@@ -66,53 +68,59 @@ I could go on for other 408 requests but I’d be here for a week. These are all
 
 What would happen if we just load the main page without any third party tracking scripts? Let’s look again at that timeline, but this time with those third party tracking scripts blocked:
 
-[{{< figure class="aligncenter size-large wp-image-4866" src="/images/2017/04/034-1024x576.jpg" alt="Safari Web Inspector for The Onion: 115 resources, 2.95MB, 2.27 seconds, 1 error, 9 warnings" width="1024" height="576" >}}](/images/2017/04/034.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4866" original="/images/2017/04/034-1024x576.jpg" alt="Safari Web Inspector for The Onion: 115 resources, 2.95MB, 2.27 seconds, 1 error, 9 warnings" >}}
 
 The Onion now has 115 requests, coming in at 2.95MB, loading in just 2.27 seconds.
 
 Comparing the before and after, that’s 269 requests, 5.11MB and 12.97 seconds caused by third party trackers.
 
-[{{< figure class="aligncenter size-large wp-image-4898" src="/images/2017/04/Digital-Assitants-etc.041-1024x576.jpeg" alt="Your web performance effort means nothing" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.041.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4898" original="/images/2017/04/Digital-Assitants-etc.041-1024x576.jpeg" alt="Your web performance effort means nothing" >}}
 
 You know what that means? Your web performance effort counts for little to nothing if your organisation’s business model requires a gazillion tracking scripts to make money.
 
 ## Facebook
 
-[{{<figure class="wp-caption aligncenter size-large wp-image-4867" src="/images/2017/04/044-1024x576.jpg" alt="Screenshot of my Facebook profile" width="1024" height="576" caption="Me on Facebook">}}](/images/2017/04/044.jpg)
+{{< figured caption="Me on Facebook" >}}
+  {{< imgsrcset command="Resize" class="wp-image-4867" original="/images/2017/04/044-1024x576.jpg" alt="Screenshot of my Facebook profile" >}}
+{{< /figured >}}
 
 Let’s look at this phenomenon from the perspective of the people browsing the web. We feel like we know Facebook’s game. They show us adverts, and we get to socialise for free. Simple as that?
 
 I don’t give Facebook much info, I get ads for the average 30 year old woman: washing liquid, shampoo, makeup, dresses, more dresses, and sometimes a wild card ad for pregnancy tests. But what happens when Facebook gets a bit more information?
 
-[{{< figure class="aligncenter size-large wp-image-4868" src="/images/2017/04/051-1024x576.jpg" alt="Ads I’ve seen on Facebook for washing liquid, shampoo, makeup, dresses, more dresses, and a pregnancy test" width="1024" height="576" >}}](/images/2017/04/051.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4868" original="/images/2017/04/051-1024x576.jpg" alt="Ads I’ve seen on Facebook for washing liquid, shampoo, makeup, dresses, more dresses, and a pregnancy test" >}}
 
 Nearly two years ago, my mother died. We didn’t want any of our friends and family finding out from a poorly thought-out tweet or Facebook post… so we didn’t post anything on social media. We rang people to let them know. And then Facebook suggested I might be interested in… Goodwill Family Funeral Directors.
 
-[{{< figure class="aligncenter size-large wp-image-4869" src="/images/2017/04/056-1024x576.jpg" alt="Facebook ad for Goodwill Family Funeral Directors" width="1024" height="576" >}}](/images/2017/04/056.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4869" original="/images/2017/04/056-1024x576.jpg" alt="Facebook ad for Goodwill Family Funeral Directors" >}}
 
 Surely just a coincidence?
 
 So I asked my sisters and brother if any of them had posted something on Facebook…
 
-[{{< figure class="aligncenter size-large wp-image-4929" src="/images/2017/04/Digital-Assitants-etc.058-1024x576.jpeg" alt="Me asking: Did any of you tell your friends on Facebook? Facebook has started showing me creepy funeral director ads…" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.058.jpeg) [{{< figure class="aligncenter wp-image-4930 size-large" src="/images/2017/04/Digital-Assitants-etc.060-1024x576.jpeg" alt="Jess replied: Not me! Might just be coincidence… Hmm" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.060.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4929" src="/images/2017/04/Digital-Assitants-etc.058-1024x576.jpeg" alt="Me asking: Did any of you tell your friends on Facebook? Facebook has started showing me creepy funeral director ads…" >}}](/images/2017/04/Digital-Assitants-etc.058.jpeg) [{{< imgsrcset command="Resize" class="wp-image-4930 size-large" original="/images/2017/04/Digital-Assitants-etc.060-1024x576.jpeg" alt="Jess replied: Not me! Might just be coincidence… Hmm" >}}
 
-[{{< figure class="aligncenter size-large wp-image-4931" src="/images/2017/04/Digital-Assitants-etc.061-1024x576.jpeg" alt="Nini says: “Sorry, that was me I think - I face booked Madds cos she's in Australia now xxx”" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.061.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4931" original="/images/2017/04/Digital-Assitants-etc.061-1024x576.jpeg" alt="Nini says: “Sorry, that was me I think - I face booked Madds cos she's in Australia now xxx”" >}}
 
 Well it might just be a strange coincidence, but maybe too close to be a coincidence. My sister *had* told her friend via private message. She’d used some key words in a Facebook message to her friend Maddy, Facebook may have made the connection that I’m her sister, figured out that I might want a Funeral Director and stuck that ad in my feed. It just goes to show how much Facebook knows, and how much complexity it can grasp, despite my not telling it anything.
 
-[{{< figure class="aligncenter size-large wp-image-4870" src="/images/2017/04/068-1024x576.jpg" alt="Diagram showing my sister talking to her friend on Facebook, Facebook knowing I’m her sister, and the funeral director ad I got in my Facebook feed" width="1024" height="576" >}}](/images/2017/04/068.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4870" original="/images/2017/04/068-1024x576.jpg" alt="Diagram showing my sister talking to her friend on Facebook, Facebook knowing I’m her sister, and the funeral director ad I got in my Facebook feed" >}}
 
 ### How do they know?
 
 But how else could Facebook have known?
 
-[{{< figure class="aligncenter size-large wp-image-4871" src="/images/2017/04/074-1024x576.jpg" alt="Screenshot of CBS news article on Facebook buttons violating privacy" width="1024" height="576" >}}](http://www.sbs.com.au/news/article/2016/03/10/facebook-button-violates-privacy)
+{{< figured >}}
+  {{< link href="http://www.sbs.com.au/news/article/2016/03/10/facebook-button-violates-privacy" >}}
+  	{{< imgsrcset command="Resize" class="wp-image-4871" original="/images/2017/04/074-1024x576.jpg" alt="Screenshot of CBS news article on Facebook buttons violating privacy" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 If I was browsing funeral-related sites, maybe Facebook would have that information if those sites had Facebook Share Buttons or Facebook login. As [this article in SBS News](http://www.sbs.com.au/news/article/2016/03/10/facebook-button-violates-privacy) points out, those Facebook buttons track you across the web, violating your privacy. (Also note the hypocrisy of this news site using multiple Facebook buttons on this article.)
 
 You can find out some of the things Facebook knows about you in your Ad Preferences.
 
-[{{< figure class="aligncenter size-large wp-image-4872" src="/images/2017/04/079-1024x576.jpg" alt="More of my Facebook ad preferences including Away from Family, Expat (UK), iPhone 7, Frequent International Travellers, All iOS Devices" width="1024" height="576" >}}](/images/2017/04/079-1024x576.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4872" original="/images/2017/04/079-1024x576.jpg" alt="More of my Facebook ad preferences including Away from Family, Expat (UK), iPhone 7, Frequent International Travellers, All iOS Devices" >}}
 
 But as ProPublica point out, Facebook doesn’t tell its users everything it really knows about them:
 
@@ -124,7 +132,7 @@ I’ll come back to data brokers later.
 
 If your first thought is “but isn’t that what we’re all trying to do”, you need to watch some sci-fi. The Nosedive episode from Black Mirror series 3 may seem far-fetched, but we are already participating in this ranking. It’s just not visible to us.
 
-[{{< figure class="aligncenter size-large wp-image-4873" src="/images/2017/04/082-1024x576.jpg" alt="Still from Black Mirror’s Nosedive episode showing the main character with her online rating" width="1024" height="576" >}}](/images/2017/04/082-1024x576.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4873" original="/images/2017/04/082-1024x576.jpg" alt="Still from Black Mirror’s Nosedive episode showing the main character with her online rating" >}}
 
 “But you don’t have to be on Facebook!” We hear this all the time from people who have never joined Facebook, have no intention of leaving Facebook, who don’t socialise, or who are generally pedantic and tedious. My answer is: NOPE.
 
@@ -134,7 +142,7 @@ You can’t just leave Facebook. First of all, you’d end up severing social ti
 
 If a friend or acquaintance has used the Find Friends functionality, or used Facebook Messenger on their phone, they gave Facebook access to their Contacts. Facebook uses those names, email addresses, and phone numbers to build their shadow profiles.
 
-[{{< figure class="aligncenter size-large wp-image-4875" src="/images/2017/04/088-1024x576.jpg" alt="Screenshot of all the different input forms for Facebook’s Find Friends, including email addresses and passwords" width="1024" height="576" >}}](/images/2017/04/088-1024x576.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4875" original="/images/2017/04/088-1024x576.jpg" alt="Screenshot of all the different input forms for Facebook’s Find Friends, including email addresses and passwords" >}}
 
 The following quote is nearly four years old:
 
@@ -146,7 +154,7 @@ The following quote is nearly four years old:
 
 Facebook isn’t the only place this happens. If I go to the Spotify website, just to download Spotify, using Firefox and their [Lightbeam extension](https://mozilla.org/lightbeam). (Lightbeam is a Firefox add-on. It shows you who is tracking you via third-party scripts.) Lightbeam shows me that Spotify sends my data to 25 sites.
 
-[{{< figure class="aligncenter size-large wp-image-4876" src="/images/2017/04/097-1024x576.jpg" alt="The Lightbeam interface on Firefox, showing 25 sites that Spotify passes my data on to" width="1024" height="576" >}}](/images/2017/04/097.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4876" original="/images/2017/04/097-1024x576.jpg" alt="The Lightbeam interface on Firefox, showing 25 sites that Spotify passes my data on to" >}}
 
 Let’s have a closer look at these sites… there are a few that are familiar to developers…
 
@@ -155,15 +163,15 @@ Let’s have a closer look at these sites… there are a few that are familiar t
 
 But that leaves 21 more mysterious scripts… Let’s have a close look at one of those sites…
 
-[{{< figure class="aligncenter size-large wp-image-4877" src="/images/2017/04/109-1024x576.jpg" alt="The Lightbeam interface highlighting adsrvr.org" width="1024" height="576" >}}](/images/2017/04/109.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4877" original="/images/2017/04/109-1024x576.jpg" alt="The Lightbeam interface highlighting adsrvr.org" >}}
 
 ## What is adsrvr.org?
 
-[{{< figure class="aligncenter size-large wp-image-4878" src="/images/2017/04/110-1024x576.jpg" alt="Screenshot of adsrvr.org" width="1024" height="576" >}}](/images/2017/04/110.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4878" original="/images/2017/04/110-1024x576.jpg" alt="Screenshot of adsrvr.org" >}}
 
 A quick search of adsrvr.org brings me to an opt-out page which shows me this site belongs to the The Trade Desk. The Trade Desk is apparently: “true buying power” and “omnichannel buying capabilities and industry –; leading tech” Whatever that means.
 
-[{{< figure class="aligncenter size-large wp-image-4879" src="/images/2017/04/111-1024x576.jpg" alt="Screenshot of The Trade Desk’s homepage saying they have “True Buying Power”" width="1024" height="576" >}}](/images/2017/04/111.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4879" original="/images/2017/04/111-1024x576.jpg" alt="Screenshot of The Trade Desk’s homepage saying they have “True Buying Power”" >}}
 
 At [Ind.ie](https://ind.ie), we’ve been doing a lot of research into trackers lately, and here’s a top tip: always check out the privacy policy. Most tracking companies are the clearest about their agendas in their privacy policies.
 
@@ -189,7 +197,7 @@ That’s a lot of your information going into the cloud. But did you notice the 
 
 Take my IP address where I work in Malmö… it can pinpoint me to exactly where I am 25% of the time. And then if you add in my age, gender and education (which is all easily available on Facebook, Linkedin, etc)… How many 30 year old women who studied in Somerset in the UK are working in that building in Malmö 800 miles away? It’s definitely this idiot.
 
-[{{< figure class="aligncenter size-large wp-image-4880" src="/images/2017/04/146-1024x576.jpg" alt="My IP address, age, gender and education overlayed on a map of Malmö, where I work" width="1024" height="576" >}}](/images/2017/04/146.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4880" original="/images/2017/04/146-1024x576.jpg" alt="My IP address, age, gender and education overlayed on a map of Malmö, where I work" >}}
 
 But they “don’t share it.” “It’s non-personally identifiable information.” But how true is that really? In [‘Why “Anonymous” Data Sometimes Isn’t’](http://archive.wired.com/politics/security/commentary/securitymatters/2007/12/securitymatters_1213), Bruce Schneier, a cryptographer, computer security and privacy expert says:
 
@@ -197,7 +205,7 @@ But they “don’t share it.” “It’s non-personally identifiable informati
 
 With more than one dataset, and the right algorithm, nearly any dataset can be de-anonymised. An example of these databases could be Sweden’s hitta.se, or the UK’s electoral roll. With these publicly-available databases, any or all of this data could be connected to me as a person.
 
-[{{< figure class="aligncenter wp-image-4899 size-large" src="/images/2017/04/Digital-Assitants-etc.156-1024x576.jpeg" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.156.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4899 size-large" original="/images/2017/04/Digital-Assitants-etc.156-1024x576.jpeg" >}}
 
 This means many of these third parties can work out a lot more about me and my habits, but surely they don’t know me as…a person?
 
@@ -209,7 +217,11 @@ Psychologists and a Computer Scientist from the Universities of Cambridge and St
 
 > “Inputting 70 ‘Likes’ allowed it to obtain a truer picture of someone’s character than a friend or room-mate, while 150 ‘Likes’ outperformed a parent, sibling or partners.”—[Sarah Knapton, Science Editor, Daily Telegraph. January 2015](http://www.telegraph.co.uk/news/science/science-news/11340166/Facebook-knows-you-better-than-your-members-of-your-own-family.html)
 
-[{{< figure class="aligncenter size-large wp-image-4881" src="/images/2017/04/161-1024x576.jpg" alt="Diagram showing the correlation between how many likes on Facebook and how well the algorithm knows you" width="1024" height="576" >}}](http://www.pnas.org/content/112/4/1036/F2.large.jpg)
+{{< figured >}}
+  {{< link href="http://www.pnas.org/content/112/4/1036/F2.large.jpg" >}}
+  	{{< imgsrcset command="Resize" class="wp-image-4881" original="/images/2017/04/161-1024x576.jpg" alt="Diagram showing the correlation between how many likes on Facebook and how well the algorithm knows you" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 > “It took 300 ‘Likes’ before the programme was able to judge character better than a spouse.”—[Sarah Knapton, Science Editor, Daily Telegraph. January 2015](http://www.telegraph.co.uk/news/science/science-news/11340166/Facebook-knows-you-better-than-your-members-of-your-own-family.html)
 
@@ -217,7 +229,7 @@ With the introduction of Facebook reactions, there’s even more Facebook can kn
 
 > “Belgian police now says that the site [Facebook] is using them as a way of collecting information about people and deciding how best to advertise to them. As such, it has warned people that they should avoid using the buttons if they want to preserve their privacy.”—[The Independent](http://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-reactions-%20belgian-police-warn-citizens-not-to-react-to-posts-on-social-media-a7027786.html)
 
-[{{< figure class="aligncenter size-large wp-image-4882" src="/images/2017/04/163-1024x576.jpg" alt="Facebook reactions: Like, Love, Haha, Wow, Sad, Angry" width="1024" height="576" >}}](/images/2017/04/163.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4882" original="/images/2017/04/163-1024x576.jpg" alt="Facebook reactions: Like, Love, Haha, Wow, Sad, Angry" >}}
 
 > “By limiting the number of icons to six, Facebook is counting on you to express your thoughts more easily so that the algorithms that run in the background are more effective,” the post continues. “By mouse clicks you can let them know what makes you happy.”—[The Independent](http://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-reactions-%20belgian-police-warn-citizens-not-to-react-to-posts-on-social-media-a7027786.html)
 
@@ -227,17 +239,17 @@ That is real information from the Belgian police. How many things have you liked
 
 And this is why data brokers exist. They are corporations whose business it is to collect and combine data sets:
 
-[{{< figure class="aligncenter size-large wp-image-4883" src="/images/2017/04/170-1024x576.jpg" alt="LexisNexis homepage" width="1024" height="576" >}}](/images/2017/04/170.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4883" original="/images/2017/04/170-1024x576.jpg" alt="LexisNexis homepage" >}}
 
 > “LexisNexis helps uncover the information that commercial organizations, government agencies and nonprofits need to get a complete picture of individuals, businesses and assets…”
 
-[{{< figure class="aligncenter size-large wp-image-4884" src="/images/2017/04/172-1024x576.jpg" alt="Acxiom homepage" width="1024" height="576" >}}](/images/2017/04/172.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4884" original="/images/2017/04/172-1024x576.jpg" alt="Acxiom homepage" >}}
 
 > “Only Acxiom connects people across channels, time and name change at scale by linking our vast repository of offline data to the online environment”
 
 It’s a big money business, and the different ways to monetise you are endless. For example, a couple of years ago, Facebook was granted a patent:
 
-[{{< figure class="aligncenter size-large wp-image-4885" src="/images/2017/04/176-1024x576.jpg" alt="Facebook’s patent" width="1024" height="576" >}}](/images/2017/04/176.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4885" original="/images/2017/04/176-1024x576.jpg" alt="Facebook’s patent" >}}
 
 > “When an individual applies for a loan, the lender ” examines the credit ratings of members of the individual’s social network who are connected to the individual through authorized nodes. If the average credit rating of these members is at least a minimum credit score, the lender continues to process the loan application. Otherwise, the loan application is rejected.”
 
@@ -245,7 +257,7 @@ Yes, that means what you think it does. It means they want to approve loans base
 
 ## Governments and corporations
 
-[{{< figure class="aligncenter size-large wp-image-4886" src="/images/2017/04/182-1024x576.jpg" alt="Donald Trump meeting with tech leaders from Silicon Valley" width="1024" height="576" >}}](/images/2017/04/182.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4886" original="/images/2017/04/182-1024x576.jpg" alt="Donald Trump meeting with tech leaders from Silicon Valley" >}}
 
 Privacy advocates have long worried about the data that is collected by corporations getting into the hands of unfriendly governments. With the political situation we find ourselves in now, those privacy advocates are unfortunately being proved right:
 
@@ -255,7 +267,7 @@ Privacy advocates have long worried about the data that is collected by corporat
 
 ## Data grabbing is the dominant business model of mainstream technology
 
-[{{< figure class="aligncenter size-large wp-image-4900" src="/images/2017/04/Digital-Assitants-etc.190-1024x576.jpeg" alt="Data grabbing is the dominant business model of mainstream technology" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.190.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4900" original="/images/2017/04/Digital-Assitants-etc.190-1024x576.jpeg" alt="Data grabbing is the dominant business model of mainstream technology" >}}
 
 I may be spending an unequal amount of time focusing on Facebook when, grabbing your data is really the dominant business model of mainstream technology. I thought I’d insert here a list of products and services that collect your information without really needing it, but I realised it’d be unending. Instead, I’ve made a list of products whose information on you would probably make you a little uncomfortable…
 
@@ -268,19 +280,19 @@ I may be spending an unequal amount of time focusing on Facebook when, grabbing 
 
 And have you ever wondered how many calories you’re burning during intercourse? How many thrusts? Speed of your thrusts? The duration of your sessions? Frequency? How many different positions you use in the period of a week, month or year? Then you want the [iCondom](http://britishcondoms.uk/i-con-smart-condom.html).
 
-[{{< figure class="aligncenter size-large wp-image-4887" src="/images/2017/04/211-1024x576.jpg" alt="iCondom packaging" width="1024" height="576" >}}](/images/2017/04/211.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4887" original="/images/2017/04/211-1024x576.jpg" alt="iCondom packaging" >}}
 
 That’s assuming you want all that information shared with advertisers, insurers, your government, and whoever else wants to buy it…
 
 Needless to say, beware the *Internet Of Things That Spy On You*.
 
-[{{< figure class="aligncenter size-large wp-image-4901" src="/images/2017/04/Digital-Assitants-etc.212-1024x576.jpeg" alt="Beware the Internet Of Things That Spy On You" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.212.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4901" original="/images/2017/04/Digital-Assitants-etc.212-1024x576.jpeg" alt="Beware the Internet Of Things That Spy On You" >}}
 
 ## Learning about yourself ≠ corporations learning about you
 
 Some of these products are really cool. I was an early adopter of fitness trackers. I love to know data about myself, and use that to encourage better habits. Learning about yourself does not have to mean that corporations learn about you too. None of these Internet Of Things products *need* to share your data back to their various clouds, or with any other parties, to be convenient to you. These are physical products. They have a clear option for a business model, they can be sold for money.
 
-[{{< figure class="aligncenter size-large wp-image-4903" src="/images/2017/04/Digital-Assitants-etc.213-1024x576.jpeg" alt="Learning about yourself is not equal to corporations learning about you" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.213.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4903" original="/images/2017/04/Digital-Assitants-etc.213-1024x576.jpeg" alt="Learning about yourself is not equal to corporations learning about you" >}}
 
 Not to mention, collecting information about people can be dangerous. Any organisation collecting data has to be able to keep it secure and safe from malicious parties. Glow, a pregnancy app, [was discovered to have vulnerabilities](http://www.consumerreports.org/mobile-security-software/glow-pregnancy-app-exposed-women-to-privacy-threats/) making it easy for stalkers, online bullies, or identity thieves to use the information they gathered to harm Glow’s users.
 
@@ -294,7 +306,7 @@ From the other side, products with information about you are far more able to ma
 
 ## Fake News!
 
-[{{< figure class="aligncenter size-large wp-image-4904" src="/images/2017/04/Digital-Assitants-etc.220-1024x576.jpeg" alt="Fake News!" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.220.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4904" original="/images/2017/04/Digital-Assitants-etc.220-1024x576.jpeg" alt="Fake News!" >}}
 
 I’ve got fake news in the title of this talk, but what does all of this have to do with fake news?
 
@@ -306,7 +318,7 @@ First of all we have to look at what constitutes fake news. Fake news is content
 
 ### Adtech!
 
-[{{< figure class="aligncenter size-large wp-image-4905" src="/images/2017/04/Digital-Assitants-etc.226-1024x576.jpeg" alt="Adtech!" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.226.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4905" original="/images/2017/04/Digital-Assitants-etc.226-1024x576.jpeg" alt="Adtech!" >}}
 
 We have to ask why have all of these forms of not-news dressed up as news become popular? The answer is adtech:
 
@@ -314,15 +326,15 @@ We have to ask why have all of these forms of not-news dressed up as news become
 
 The problem is that adtech powers the ads that show alongside everything. Adtech is behind the pay-per-click ads that show you things that are relevant to the article or to you.
 
-[{{< figure class="aligncenter size-large wp-image-4888" src="/images/2017/04/228-1024x576.jpg" alt="Facebook ad alongside Facebook feed" width="1024" height="576" >}}](/images/2017/04/228.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4888" original="/images/2017/04/228-1024x576.jpg" alt="Facebook ad alongside Facebook feed" >}}
 
 Adtech is the ads that follow you around the web.
 
-[{{< figure class="aligncenter size-large wp-image-4889" src="/images/2017/04/229-1024x576.jpg" alt="Amazon ads for things you’ve browsed following you around the web" width="1024" height="576" >}}](/images/2017/04/229.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4889" original="/images/2017/04/229-1024x576.jpg" alt="Amazon ads for things you’ve browsed following you around the web" >}}
 
 Adtech is the clickbait of intriguing stories that are sometimes dressed up as “Other articles you might like”, “Promoted links,” or “Sponsored content.”
 
-[{{< figure class="aligncenter size-large wp-image-4890" src="/images/2017/04/230-1024x576.jpg" alt="Outbrain “promoted links from around the web” on The Guardian" width="1024" height="576" >}}](/images/2017/04/230.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4890" original="/images/2017/04/230-1024x576.jpg" alt="Outbrain “promoted links from around the web” on The Guardian" >}}
 
 > 1. “1. It’s adtech that spies on people and violates their privacy.
 > 2. It’s adtech that’s full of fraud and a vector for malware.
@@ -373,7 +385,7 @@ Cookies themselves aren’t inherently problematic. First-party cookies can be u
 
 This is what Shoshana Zuboff coined as “Surveillance capitalism.” Also know as “corporate surveillance” or more simply, “people farming.”
 
-[{{< figure class="aligncenter size-large wp-image-4891" src="/images/2017/04/260-1024x576.jpg" alt="Horrible clickbait on LifeBuzz such as “Mirror cakes are the new food porn and they WILL excite you”" width="1024" height="576" >}}](/images/2017/04/260.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4891" original="/images/2017/04/260-1024x576.jpg" alt="Horrible clickbait on LifeBuzz such as “Mirror cakes are the new food porn and they WILL excite you”" >}}
 
 Some people recognising this problem have started using ad blockers to block ads and third party scripts. As consumers of the web, we often use ad blockers, but as web builders, they can inconvenience us if they block what we’ve created.
 
@@ -393,11 +405,11 @@ The anti-annoying-ad argument is distracting us from the real problems. Ad netwo
 
 ### Can we still have behavioural ads?
 
-[{{< figure class="aligncenter size-large wp-image-4906" src="/images/2017/04/Digital-Assitants-etc.281-1024x576.jpeg" alt="Advertising does not need to phone home to the cloud" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.281.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4906" original="/images/2017/04/Digital-Assitants-etc.281-1024x576.jpeg" alt="Advertising does not need to phone home to the cloud" >}}
 
 The benefit of The Deck was that it showed static ads to a niche audience, but what about behavioural ads? We could still show relevant ads based on behaviour. Advertising does not need to phone home to the cloud. You could still have behavioural advertising that keeps your information private by doing all the behavioural analysis and decision-making on the device itself. So it could work in theory, but who is going to use these systems when your personal information is so lucrative?
 
-[{{< figure class="aligncenter size-large wp-image-4892" src="/images/2017/04/275-1024x576.jpg" alt="The Deck’s privacy policy which said “We’re fine with knowing nothing”" width="1024" height="576" >}}](/images/2017/04/275.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4892" original="/images/2017/04/275-1024x576.jpg" alt="The Deck’s privacy policy which said “We’re fine with knowing nothing”" >}}
 
 ### Analytics
 
@@ -411,13 +423,13 @@ All of these issues I’ve discussed fall under the bracket of ethics. Ethics ar
 
 ### We build the new everyday things
 
-[{{< figure class="aligncenter size-large wp-image-4907" src="/images/2017/04/Digital-Assitants-etc.290-1024x576.jpeg" alt="We build the new everyday things" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.290.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4907" original="/images/2017/04/Digital-Assitants-etc.290-1024x576.jpeg" alt="We build the new everyday things" >}}
 
 Us people building the web are building the new everyday things. We’re building the new infrastructure that powers our society. Much like other systems we use every day that we might pay taxes for: roads, clean water, waste removal, police, fire and rescue services.
 
 How much time do you spend using a road every day? On the average day, I’ll cycle to the office, walk to the supermarket, that’s around 90 minutes using roads and paths. When [the average person spends 2 hours 51 minutes of time per day on the internet](https://www.iabuk.net/about/press/archive/definitive-time-people-spend-online-2hrs-51-mins-a-day), it becomes clear how much impact our work can have. And that’s why we need to take responsibility.
 
-[{{< figure class="aligncenter size-large wp-image-4908" src="/images/2017/04/Digital-Assitants-etc.295-1024x576.jpeg" alt="We need to take responsibility" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.295.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4908" original="/images/2017/04/Digital-Assitants-etc.295-1024x576.jpeg" alt="We need to take responsibility" >}}
 
 We need to take care of people using the new infrastructure we’re building. Having responsibility isn’t usually fun, but it is necessary. And this is why we need ethics, a kind of code of conduct for the people in our position of power of building the web. Mike Monteiro points out how hypocritical we can be…
 
@@ -429,11 +441,11 @@ We need to take care of people using the new infrastructure we’re building. Ha
 
 We need designers and developers to use their powers for good.
 
-[{{< figure class="aligncenter size-large wp-image-4909" src="/images/2017/04/Digital-Assitants-etc.298-1024x576.jpeg" alt="Use your powers for good" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.298.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4909" original="/images/2017/04/Digital-Assitants-etc.298-1024x576.jpeg" alt="Use your powers for good" >}}
 
 This come with the understanding that code is not neutral, that whatever we build comes with our biases. We all have biases. And that code is political. I’m not saying that your code is politically aligned to a particular party, you do not need to have the same political affiliations as me to believe that your world outlook has an impact on the things you create.
 
-[{{< figure class="aligncenter size-large wp-image-4911" src="/images/2017/04/Digital-Assitants-etc.302-1024x576.jpeg" alt="Your world outlook has an impact on the things you create" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.302.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4911" original="/images/2017/04/Digital-Assitants-etc.302-1024x576.jpeg" alt="Your world outlook has an impact on the things you create" >}}
 
 What happens when [someone only tests their algorithms on the other white people around them](http://www.theverge.com/2015/7/1/8880363/google-apologizes-photos-app-tags-two-%20black-people-gorillas)? Or [when a programmer makes a security system that assumes there are no women doctors](http://www.cambridge-news.co.uk/cambridge-paediatrician-8217-s-outrage-pure-gym/%20story-26188693-detail/story.html)?
 
@@ -443,7 +455,7 @@ We’re not just building cool stuff for fun, we’re building things that affec
 
 At Ind.ie, we decided we need an [Ethical Design Manifesto](https://ind.ie/ethical-design) for the things we use every day:
 
-[{{< figure class="aligncenter size-large wp-image-4913" src="/images/2017/04/Digital-Assitants-etc.371-1024x576.jpeg" alt="The 3 Rs of Ethical Design" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.371.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4913" original="/images/2017/04/Digital-Assitants-etc.371-1024x576.jpeg" alt="The 3 Rs of Ethical Design" >}}
 
 We need to build products that are decentralised, private, open, interoperable, accessible, secure and sustainable. Because that means a product will respect human rights.
 
@@ -451,7 +463,7 @@ We need to build products that are decentralised, private, open, interoperable, 
 
 Decentralisation is something we talk about as developers as being a good thing because we don’t like to rely on centralised systems. It’s why we don’t hotlink all our images and scripts from other sites, and why nobody gets any work done when Github is down. We understand that if it’s not on our computers or servers, it’s not under our control. But for some reason we’re happy to give *corporations* control over all of our data.
 
-[{{< figure class="aligncenter size-large wp-image-4894" src="/images/2017/04/317-1024x576.jpg" alt="GitHub’s timeout status page" width="1024" height="576" >}}](/images/2017/04/317.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4894" original="/images/2017/04/317-1024x576.jpg" alt="GitHub’s timeout status page" >}}
 
 With control over data comes power. After the Snowden revelations, people were rightly outraged by how much access our governments had to our browsing information, but not so many people were angry with the corporations who were collecting that information, and handing it right over to the governments. As Bruce Schneier said:
 
@@ -498,7 +510,9 @@ Once our product respects human rights and human effort, we can layer the deligh
 
 Delightful isn’t just making products fun and fluffy. It’s about creating a genuinely great experience, which is reinforced because it’s built upon the strong foundation of respecting your effort and rights. Basecamp is a good example of this, where they have little touches of delight.
 
-[{{<figure class="wp-caption aligncenter size-large wp-image-4912" src="/images/2017/04/Digital-Assitants-etc.368-1024x576.jpeg" alt="Screenshot of Basecamp schedule with a cute pen drawing of a Basecamp icon toasting marshmallows over a campfire" width="1024" height="576" caption="The Basecamp schedule when you haven’t had any past events yet">}}](/images/2017/04/Digital-Assitants-etc.368.jpeg)
+{{< figured caption="The Basecamp schedule when you haven’t had any past events yet" >}}
+  {{< imgsrcset command="Resize" class="wp-image-4912" original="/images/2017/04/Digital-Assitants-etc.368-1024x576.jpeg" alt="Screenshot of Basecamp schedule with a cute pen drawing of a Basecamp icon toasting marshmallows over a campfire" >}}
+{{< /figured >}}
 
 Basecamp can only get away with whimsical details because they already respect your human rights and effort. As [Sara Wachter-Boettcher wrote in a fabulous article](https://medium.com/@sara_ann_marie/dear-tech-you-suck-at-delight-86382d101575) last year:
 
@@ -508,47 +522,47 @@ Layering cuteness on top it is not a solution to a badly-built product, it’s j
 
 At Ind.ie, we call Respecting human rights, Respecting human effort, and Respecting human experience the 3 Rs of Ethical Design.
 
-[{{< figure class="aligncenter size-large wp-image-4913" src="/images/2017/04/Digital-Assitants-etc.371-1024x576.jpeg" alt="The 3 Rs of Ethical Design" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.371.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4913" original="/images/2017/04/Digital-Assitants-etc.371-1024x576.jpeg" alt="The 3 Rs of Ethical Design" >}}
 
 Many modern products don’t respect our human rights. Instead they’re built on the backs of the humans that use them. These (often-Silicon Valley) products may respect human experience and human effort, but they take advantage of their users. They don’t give them privacy or security, interoperability or open technologies. Very rarely are their products accessible or sustainable.
 
 But as an industry, we hail these products. We call them the “disruptors.” In the dictionary, “to disrupt” means “to interrupt (an event, activity, or process) by causing a disturbance or problem.” People making these products call themselves disruptors because they “disrupt” a market. They take down existing sustainable businesses and kill them off. They monopolise and they dump. We need to disrupt the disruptors. We need to disrupt their disruption.
 
-[{{< figure class="aligncenter size-large wp-image-4895" src="/images/2017/04/375-1024x576.jpg" alt="Silicon Valley landscape" width="1024" height="576" >}}](/images/2017/04/375.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4895" original="/images/2017/04/375-1024x576.jpg" alt="Silicon Valley landscape" >}}
 
 ## We need to ask ourselves these questions
 
 We need to ask ourselves these questions about what we build. Because we are the gatekeepers of what we create. We don’t have to add tracking to everything, it’s already gotten out of our control.
 
-[{{< figure class="aligncenter size-large wp-image-4914" src="/images/2017/04/Digital-Assitants-etc.379-1024x576.jpeg" alt="We are the gatekeepers of what we create" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.379.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4914" original="/images/2017/04/Digital-Assitants-etc.379-1024x576.jpeg" alt="We are the gatekeepers of what we create" >}}
 
 The business model of the organisations we work for is our business. If what we are building is harming people, we can’t blame someone else for that. We can’t defer responsibility for the products we build, that’s how bad things happen.
 
-[{{< figure class="aligncenter size-large wp-image-4915" src="/images/2017/04/Digital-Assitants-etc.381-1024x576.jpeg" alt="We can’t defer responsibility" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.381.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4915" original="/images/2017/04/Digital-Assitants-etc.381-1024x576.jpeg" alt="We can’t defer responsibility" >}}
 
 Some people say to me “but if I don’t like what Google/Facebook/Other Corporations are doing, *surely* *I* don’t have to use their services…?”
 
 Nope. As I said before, social networks are part of society now. Email, booking services, ecommerce are our new everyday things. If I stopped using every site that is sharing my data with Google, I’d be using less than 25% of the web. And I couldn’t use email. We deserve to be able to take part in society, and use everyday things without our privacy being compromised.
 
-[{{< figure class="aligncenter size-large wp-image-4916" src="/images/2017/04/Digital-Assitants-etc.386-1024x576.jpeg" alt="We deserve to be able to take part in society, and use everyday things, without our privacy being compromised" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.386.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4916" original="/images/2017/04/Digital-Assitants-etc.386-1024x576.jpeg" alt="We deserve to be able to take part in society, and use everyday things, without our privacy being compromised" >}}
 
 Another thing I often hear is “what if *I* trust Google/Facebook/Other Corporation with my data?” Seriously people, Google isn’t your lover, you shouldn’t *have* to trust them. Why are we so loyal to faceless corporations?
 
-[{{< figure class="aligncenter size-large wp-image-4917" src="/images/2017/04/Digital-Assitants-etc.390-1024x576.jpeg" alt="We need to design and build systems that don’t need to be trusted" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.390.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4917" original="/images/2017/04/Digital-Assitants-etc.390-1024x576.jpeg" alt="We need to design and build systems that don’t need to be trusted" >}}
 
 We need to design and build systems that don’t need to be trusted. If it fits with the Ethical Design Manifesto, you don’t need to trust it, you own your own data, and you can easily go elsewhere if you’re no longer satisfied.
 
-[{{< figure class="aligncenter size-large wp-image-4918" src="/images/2017/04/Digital-Assitants-etc.393-1024x576.jpeg" alt="Not worrying about your data is privilege" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.393.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4918" original="/images/2017/04/Digital-Assitants-etc.393-1024x576.jpeg" alt="Not worrying about your data is privilege" >}}
 
 It’s important to realise that not worrying about your data is privilege. If you don’t worry about corporations (and by extension, governments) having access to your data, you are privileged. And quite possibly just foolish. What if you lived in a country where your sexual preference is illegal? What if you lived in a country that wants to deport people with your ethnic background? What if you lived in a country where your religious beliefs can get you killed? What if you needed a loan and your friends were considered too poor? What if you needed medical treatment but your medical insurance considered your habits made you too high risk?
 
 Look at the world around us, any of these things could happen tomorrow. If you want to think about it in terms of how trackers affect you, you need to fear for your future self.
 
-[{{< figure class="aligncenter size-large wp-image-4919" src="/images/2017/04/Digital-Assitants-etc.396-1024x576.jpeg" alt="You’re not just making these decisions for yourself" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.396.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4919" original="/images/2017/04/Digital-Assitants-etc.396-1024x576.jpeg" alt="You’re not just making these decisions for yourself" >}}
 
 You also need to bear in mind that you’re not making these decisions for yourself. If you use Gmail, you are swapping free email for the data of everyone you exchange emails with. If you support your business with tracking, you are making that decision for your visitors. It’s invisible, and it’s opt-in by default. Is that fair?
 
-[{{< figure class="aligncenter size-large wp-image-4920" src="/images/2017/04/Digital-Assitants-etc.397-1024x576.jpeg" alt="If you support your business with tracking, you are making that decision for your visitors" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.397.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4920" original="/images/2017/04/Digital-Assitants-etc.397-1024x576.jpeg" alt="If you support your business with tracking, you are making that decision for your visitors" >}}
 
 As creators we need to make wise decisions on behalf of our visitors. We can be the gatekeepers of harmful decisions. If making these decisions becomes a battle you have to fight with the top of your organisation, there might just be something wrong with the business model. An organisation that makes its money by tracking people, whether they’re doing it themselves, or getting something in exchange for adding scripts to their site, is not going to want to change. They may even find it impossible to change.
 
@@ -562,7 +576,11 @@ And remember [when Google’s Allo was heralded for its privacy features?](http:
 
 You can learn about the value of metadata by watching the fantastic documentary, [A Good American](http://agoodamerican.org). In this film, Bill Binney, working on surveillance for the US, says that meta information is the most valuable information that the <abbr title="National Security Agency of the US">NSA</abbr> can collect. Without meta data, surveilling people is like looking for a needle in a haystack. (I also recommend the recent Oliver Stone [Snowden](https://snowdenfilm.com) film for learning about how corporate surveillance and government surveillance come together.)
 
-[{{< figure class="aligncenter wp-image-4921 size-large" src="/images/2017/04/Digital-Assitants-etc.418-1024x576.jpeg" alt="Screenshot of the Better.fyi spotlight" width="1024" height="576" >}}](https://better.fyi/spotlight/)
+{{< figured >}}
+  {{< link href="https://better.fyi/spotlight/" >}}
+  	{{< imgsrcset command="Resize" class="wp-image-4921 size-large" original="/images/2017/04/Digital-Assitants-etc.418-1024x576.jpeg" alt="Screenshot of the Better.fyi spotlight" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 As we become more aware of the problems, the people behind the trackers are getting defensive. Massive German publisher [Axel Springer says their “core business is delivering ads to its visitors. Journalistic content is just a vehicle to get readers to view the ads”](https://better.fyi/spotlight). According to Lindsay Rowntree, who writes for a marketing and advertising blog…
 
@@ -572,35 +590,35 @@ As we become more aware of the problems, the people behind the trackers are gett
 
 Again. No. This is just not true. Ads are the most common business model, but not the only one. Do you want to get all your news from people who just want your eyeballs? And remember, ads are still not the problem. Trackers are the problem.
 
-[{{< figure class="aligncenter size-large wp-image-4922" src="/images/2017/04/Digital-Assitants-etc.424-1024x576.jpeg" alt="Corporations need to stop treating us like we’re greedy lab rats" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.424.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4922" original="/images/2017/04/Digital-Assitants-etc.424-1024x576.jpeg" alt="Corporations need to stop treating us like we’re greedy lab rats" >}}
 
 Corporations need to stop treating us like we’re greedy lab rats, making outrageous demands just by asking “please don’t experiment on us.”
 
 We must question and challenge these unethical practices. And we need to learn to see past the <abbr title="Public Relations">PR</abbr>. We certainly shouldn’t engage in this PR ourselves. We need to make real things that have meaning, rather than the illusion of having meaning. Don’t be the person shaving a few kilobytes off an image file when someone else is adding 5MB of trackers.
 
-[{{< figure class="aligncenter size-large wp-image-4923" src="/images/2017/04/Digital-Assitants-etc.428-1024x576.jpeg" alt="Save our jobs" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.428.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4923" original="/images/2017/04/Digital-Assitants-etc.428-1024x576.jpeg" alt="Save our jobs" >}}
 
 We should also be selfish. Building ethical alternatives to centralised technologies will save our jobs. [The average Facebook user spends 50 minutes on Facebook a day](http://www.nytimes.com/2016/05/06/business/facebook-bends-the-rules-of-audience-engagement-to-its-advantage.html). Facebook’s functionality has replaced status updates, photo sharing, company sites, news, and chat, to name just a few.
 
-[{{< figure class="aligncenter size-large wp-image-4896" src="/images/2017/04/435-1024x576.jpg" alt="Status updates, Instagram, Facebook Messenger, Facebook Pages" width="1024" height="576" >}}](/images/2017/04/435.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4896" original="/images/2017/04/435-1024x576.jpg" alt="Status updates, Instagram, Facebook Messenger, Facebook Pages" >}}
 
 When it comes to our business use, what Facebook hasn’t got covered, Google has a product for you. If we want jobs that aren’t at Facebook or Google, we’re going to need to make sure the rest of the web actually exists.
 
-[{{< figure class="aligncenter size-large wp-image-4897" src="/images/2017/04/436-1024x576.jpg" alt="All the Google products" width="1024" height="576" >}}](/images/2017/04/436.jpg)
+{{< imgsrcset command="Resize" class="wp-image-4897" original="/images/2017/04/436-1024x576.jpg" alt="All the Google products" >}}
 
 ## Build and support alternatives
 
 We need to build alternatives, giving ourselves the choice to choose a different way, as both the consumers and the builders of the web. And when we find alternatives, we must support them.
 
-[{{< figure class="aligncenter size-large wp-image-4924" src="/images/2017/04/Digital-Assitants-etc.438-1024x576.jpeg" alt="Build and support alternatives" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.438.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4924" original="/images/2017/04/Digital-Assitants-etc.438-1024x576.jpeg" alt="Build and support alternatives" >}}
 
 When you’re looking for replacements for Facebook and Google products, don’t just look for another behemoth. You can’t replace Google in its entirety, but you can use individual products/services to replace different parts of its functionality. Perhaps DuckDuckGo for search, OpenStreetMap for maps, WordPress for blogging, Fastmail for email. The benefit of using individual products is that no one organisation has all your information.
 
-[{{< figure class="aligncenter size-large wp-image-4925" src="/images/2017/04/Digital-Assitants-etc.441-1024x576.jpeg" alt="Look for traditional business models" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.441.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4925" original="/images/2017/04/Digital-Assitants-etc.441-1024x576.jpeg" alt="Look for traditional business models" >}}
 
 It’s also worth looking for organisations that have traditional business models. Business models where you pay for a product or service in small one-off or recurring fees. With larger organisations, that’s no guarantee that they won’t track you, but small-to-medium businesses are less likely to take your money and track you too.
 
-[{{< figure class="aligncenter size-large wp-image-4926" src="/images/2017/04/Digital-Assitants-etc.442-1024x576.jpeg" alt="Call out bad behaviour" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.442.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4926" original="/images/2017/04/Digital-Assitants-etc.442-1024x576.jpeg" alt="Call out bad behaviour" >}}
 
 It’s also vitally important that we call out bad behaviour and make tracking socially unacceptable. Call out businesses you see tracking you, *especially* if you also pay them.
 
@@ -608,11 +626,11 @@ It’s also vitally important that we call out bad behaviour and make tracking s
 
 We can’t all just quit our jobs to go work somewhere more ethical, but maybe next time you’re looking for work, do your research on their business models. Help make a difference by putting your valuable knowledge and skills into building the alternatives, and help us build these bridges from the mainstream technology to the future we want to see.
 
-[{{< figure class="aligncenter size-large wp-image-4927" src="/images/2017/04/Digital-Assitants-etc.445-1024x576.jpeg" alt="Build the world you want to live in" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.445.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4927" original="/images/2017/04/Digital-Assitants-etc.445-1024x576.jpeg" alt="Build the world you want to live in" >}}
 
 Build the world you want to live in.
 
-[{{< figure class="aligncenter size-large wp-image-4928" src="/images/2017/04/Digital-Assitants-etc.446-1024x576.jpeg" alt="Thanks for reading!" width="1024" height="576" >}}](/images/2017/04/Digital-Assitants-etc.446.jpeg)
+{{< imgsrcset command="Resize" class="wp-image-4928" original="/images/2017/04/Digital-Assitants-etc.446-1024x576.jpeg" alt="Thanks for reading!" >}}
 
 ## 3 comments
 

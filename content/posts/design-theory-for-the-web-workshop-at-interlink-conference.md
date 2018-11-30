@@ -23,7 +23,11 @@ colours:
 <hr/>
 I’m running my [‘Design theory for the web’ workshop at Interlink conference](http://interlinkconference.com/workshops/#design-theory-web) in Canada on the 18th of June.
 
-[{{< figure class="aligncenter size-full wp-image-4261" alt="Design theory for web workshop at Interlink conference" src="/images/2014/03/interlink-workshop.png" width="800" height="660" >}}](http://interlinkconference.com/workshops/#design-theory-web)
+{{< figured >}}
+  {{< link href="http://interlinkconference.com/workshops/#design-theory-web" >}}
+  	{{< imgsrcset alt="Design theory for web workshop at Interlink conference" original="/images/2014/03/interlink-workshop.png" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 It’s a one day workshop and I’ve written a mega description below for anyone wanting to know more:
 

@@ -28,6 +28,6 @@ As [I said last night on Twitter](https://twitter.com/laurakalbag/status/2988626
 
 And if you don’t already [subscribe to The East Wing podcast](https://itunes.apple.com/gb/podcast/the-east-wing/id503801143?mt=2), do it! It’s full of great, and inspiring, insight on the people behind the work in the web industry.
 
-{{< figure class="aligncenter size-full wp-image-2085" alt="The East Wing podcast" src="/images/2013/02/east-wing.png" width="220" height="215" >}}
+{{< imgsrcset command="Resize" alt="The East Wing podcast" original="/images/2013/02/east-wing.png" >}}
 
 	

@@ -26,7 +26,11 @@ Then I realised that I actually had an idea for a talk that could work for this 
 
 The talk has a slightly cheesy name, “My secret is honesty” but I promise you, the content is real. I’ve already tested it on a lovely group of people in Porto, Portugal, and hope to have a shortened version ready in September. It’s a very different topic for me, I usually talk about web design and development, but I think it’s the right place for an open talk about openness.
 
-[{{< figure class="aligncenter size-full wp-image-3849" alt="Dare conference 2013" src="/images/2013/07/dare-conf.jpg" width="600" height="530" >}}](http://2013.dareconf.com/)
+{{< figured >}}
+  {{< link href="http://2013.dareconf.com/" >}}
+  	{{< imgsrcset alt="Dare conference 2013" original="/images/2013/07/dare-conf.jpg" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 ## One comment
 

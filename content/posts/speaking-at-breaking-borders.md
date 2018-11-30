@@ -26,6 +26,10 @@ The inaugural Breaking Borders event will have the lovely Steve Workman speaking
 
 If you’re in the area, I really recommend you join us. If Ben’s events are anything like his front-end development skills, it’s going to be great!
 
-[{{< figure class="aligncenter size-full wp-image-2653" alt="Breaking Borders" src="/images/2013/03/breaking-borders1.png" width="720" height="405" >}}](http://breakingborde.rs/)
+{{< figured >}}
+  {{< link href="http://breakingborde.rs/" >}}
+  	{{< imgsrcset alt="Breaking Borders" original="/images/2013/03/breaking-borders1.png" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 	

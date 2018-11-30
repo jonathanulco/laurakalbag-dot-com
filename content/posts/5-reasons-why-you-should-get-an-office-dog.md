@@ -22,7 +22,11 @@ Last week I wrote my Pastry Box thought on 5 reasons why you should get an offic
 
 And if you do happen to like dog photos, you might want to follow [@gigapup on Twitter](https://twitter.com/gigapup) or [app.net](https://alpha.app.net/gigapup). They’re just auto-posted photos of Oskar.
 
-[{{< figure class="aligncenter size-full wp-image-4549" src="/images/2014/09/office-dog.png" alt="Thursday 11th September 2014 - 5 reasons why you should get an office dog" width="619" height="920" >}}](https://the-pastry-box-project.net/laura-kalbag/2014-september-11)
+{{< figured >}}
+  {{< link href="https://the-pastry-box-project.net/laura-kalbag/2014-september-11" >}}
+  	{{< imgsrcset command="Resize" class="wp-image-4549" original="/images/2014/09/office-dog.png" alt="Thursday 11th September 2014 - 5 reasons why you should get an office dog" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 ## One comment
 

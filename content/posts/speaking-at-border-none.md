@@ -24,6 +24,10 @@ Next month I’m speaking and running a “creator unit” at border:none in Nur
 
 It’s also an all-new topic for me to share with other people, so I can’t wait! [Tickets for the whole 2-day event](https://border-none.net/2014/tickets) are just 199 euros, and they have a really clever way of matching participants up with the topics they’re interested in, using [an “aurora” of interests](https://border-none.net/2014/tickets#c67). You really should come along.
 
-[{{< figure class="aligncenter size-full wp-image-4545" src="/images/2014/09/border-none.png" alt="border:none. Creator Conference for The Rising Web 2014. October 17th - 18th Nuremberg, Germany" width="598" height="628" >}}](https://border-none.net/2014)
+{{< figured >}}
+  {{< link href="https://border-none.net/2014" >}}
+  	{{< imgsrcset command="Resize" original="/images/2014/09/border-none.png" alt="border:none. Creator Conference for The Rising Web 2014. October 17th - 18th Nuremberg, Germany" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 	

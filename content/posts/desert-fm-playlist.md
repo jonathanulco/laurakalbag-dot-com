@@ -28,6 +28,10 @@ My desert.fm playlist is semi-chronological and describes the context of the mus
 
 I also created a [Spotify playlist of these tracks](http://open.spotify.com/user/laurakalbag/playlist/0cPri8LcgM6XgoNcILuDO2) if you want to just get down to listening.
 
-[{{< figure class="aligncenter size-full wp-image-4517" src="/images/2014/08/desert.fm_.png" alt="Desert.fm presents Laura Kalbag" width="735" height="490" >}}](http://www.desert.fm/laura-kalbag.html)
+{{< figured >}}
+  {{< link href="http://www.desert.fm/laura-kalbag.html" >}}
+  	{{< imgsrcset command="Resize" original="/images/2014/08/desert.fm_.png" alt="Desert.fm presents Laura Kalbag" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 	

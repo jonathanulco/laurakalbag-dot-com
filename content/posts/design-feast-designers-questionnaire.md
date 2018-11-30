@@ -28,6 +28,6 @@ Scroll past the scarily large photo of me quickly… their questions prompted me
 
 > However, too much ego and we’d never iterate past our first draft of any design work, we’d never pay attention to client requirements, and we’d never allow anyone to tell us if we’re wrong. In my experience, my best work has been done when I’ve set my ego aside and worked collaboratively with clients and others.
 
-[{{< figure class="aligncenter size-full wp-image-2261" alt="screenshot of the Design Feast website" src="/images/2013/02/design-feast.png" width="675" height="315" >}}](/images/2013/02/design-feast.png)
+{{< imgsrcset command="Resize" alt="screenshot of the Design Feast website" original="/images/2013/02/design-feast.png" >}}
 
 	

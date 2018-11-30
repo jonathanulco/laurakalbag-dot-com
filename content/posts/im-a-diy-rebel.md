@@ -28,6 +28,8 @@ There’s a nice little paragraph where I sum up the why of it all…
 
 > “I got into the web because I liked the democracy of it,” says Kalbag, who has just published a book titled Accessibility for Everyone, about innovating in a way that includes those who technology too often ignores – not least people with disabilities. “I want to be able to be in a society where I have control over my information, and other people do as well. Being a woman in technology, you can see how hideously unequal things are and how people building these systems don’t care about anyone other than themselves. I think we have to have technology that serves everybody – not just rich, straight, white guys.”
 
-[{{<figure src="/images/2018/02/screenshot.jpg" alt="Screenshot of the top of the Guardian article ‘‘The punk rock internet – how DIY ​​rebels ​are working to ​replace the tech giants’" width="800" height="600" >}}](/images/2018/02/screenshot.jpg")
+{{< imgsrcset src="/images/2018/02/screenshot.jpg" alt="Screenshot of the top of the Guardian article ‘‘The punk rock internet – how DIY ​​rebels ​are working to ​replace the tech giants’" >}}
 
-[{{<figure src="/images/2018/02/screenshot-2.jpg" alt="Screenshot of the beginning of the Guardian article featuring a photo of me, Aral and Oskar our dog in our office. Oskar is on the left looking into the distance. Aral and I are not posing." width="800" height="600" caption="Of course, Oskar had to be in the photos. Our faces was because I was really trying to get him to look at the photographer!">}}](/images/2018/02/screenshot-2.jpg")
+{{< figured caption="Of course, Oskar had to be in the photos. Our faces was because I was really trying to get him to look at the photographer!" >}}
+  {{< imgsrcset src="/images/2018/02/screenshot-2.jpg" alt="Screenshot of the beginning of the Guardian article featuring a photo of me, Aral and Oskar our dog in our office. Oskar is on the left looking into the distance. Aral and I are not posing." >}}
+{{< /figured >}}

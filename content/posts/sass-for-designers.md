@@ -118,7 +118,9 @@ Mixins are reusable collections of rules. These are perfect for design patterns 
 
 For example, you might have particular divider style that you use all over your site. You use it below all sorts of elements; `&lt;article&gt;`s, `&lt;header&gt;`s and even the odd `&lt;p&gt;`. It’s got a certain amount of padding between the border line and the content above, and a certain margin below. It’s just a grey border but it has a fancy shadow on it.
 
-{{< figure class="attachment_1353 wp-caption aligncenter size-full wp-image-1353" alt="a grey border line with a subtle grey box-shadow" src="/images/2012/12/divider.jpg" width="280" height="50" caption="an example of what your divider with a subtle border might look like" >}}
+{{< figured caption="an example of what your divider with a subtle border might look like" >}}
+  	{{< imgsrcset command="Resize" class="attachment_1353  size-full wp-image-1353" alt="a grey border line with a subtle grey box-shadow" original="/images/2012/12/divider.jpg" >}}
+{{< /figured >}}
 
 Then you might apply the following CSS class of `.shadow-border` to any HTML element you want to have the divider. It’s not very semantic, but it does the job:
 

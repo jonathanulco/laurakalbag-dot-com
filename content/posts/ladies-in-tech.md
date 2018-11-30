@@ -26,7 +26,11 @@ This was the first time I’ve ever had anybody edit my writing. I’ve had othe
 
 [My post on ladiesintech.com](http://ladiesintech.com/asking-for-help/) is about asking for help, and how I stopped making excuses and found the confidence to get into speaking with the help of other people.
 
-[{{< figure class="aligncenter size-full wp-image-2629" alt="Ladies in Tech - Celebrating and supporting female speakers in technology" src="/images/2013/03/ladiesintech.png" width="485" height="155" >}}](http://ladiesintech.com/)
+{{< figured >}}
+  {{< link href="http://ladiesintech.com/" >}}
+  	{{< imgsrcset alt="Ladies in Tech - Celebrating and supporting female speakers in technology" original="/images/2013/03/ladiesintech.png" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 ## One comment
 

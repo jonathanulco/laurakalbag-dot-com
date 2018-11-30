@@ -22,7 +22,7 @@ colours:
 
 After [winning the .net award two weeks ago](/netmag-awards-2013/ ".net awards 2013"), I really wasn’t expecting to win another award. Last night at a fun black tie, storybook-themed ubelly Critters awards, I won Next Big Thing.
 
-[{{< figure class="aligncenter size-full wp-image-3657" alt="Critters 2013 Next Big Thing award" src="/images/2013/06/next-big-thing.jpg" width="800" height="580" >}}](/images/2013/06/next-big-thing.jpg)
+{{< imgsrcset command="Resize" alt="Critters 2013 Next Big Thing award" original="/images/2013/06/next-big-thing.jpg" >}}
 
 Like before, I really wasn’t expecting it and made another bad speech, swore a little (I’m sorry!) and almost walked off without having my photo taken. I think you can tell I’m not used to this kind of thing…
 

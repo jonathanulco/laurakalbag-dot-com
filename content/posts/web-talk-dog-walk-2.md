@@ -28,7 +28,11 @@ I was originally planning on making them fortnightly but have already failed as 
 
 Meeting at the same spot on the [corner of Wilson Avenue and Roedean Road](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.816724,-0.102396&amp;spn=0.00281,0.006968) planning to walk for an hour or so (maybe slightly longer if I continue navigating badly) in [East Brighton Park/Sheepcote valley](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.816724,-0.102396&amp;spn=0.00281,0.006968). I drew some routes on the map below, but I’m a terrible navigator so I can’t promise we’ll stick to them. Some lovely people have been clearing the paths in Sheepcote Valley so it shouldn’t be too much of a jungle exploration!
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-3525 " alt="Brighton and the walking route around East Brighton Park/Sheepcote valley" src="/images/2013/06/brighton-map.png" width="600" height="330"  caption="The routes (zoomed out) on Google Maps. Select the map to see [the full map.](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.821011,-0.095851&amp;spn=0.010316,0.027874)">}}](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.821011,-0.095851&amp;spn=0.010316,0.027874)
+{{< figured >}}
+  {{< link href="https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.821011,-0.095851&amp;spn=0.010316,0.027874" >}}
+  	{{< imgsrcset alt="Brighton and the walking route around East Brighton Park/Sheepcote valley" original="/images/2013/06/brighton-map.png" caption="The routes (zoomed out) on Google Maps. Select the map to see [the full map.](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.821011,-0.095851&amp;spn=0.010316,0.027874)" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 ## Anyone can join us
 
@@ -41,6 +45,6 @@ Meeting at the same spot on the [corner of Wilson Avenue and Roedean Road](htt
 * Wear sensible walking shoes. Trainers should do. It’s a fairly mud-free route, but it can be rough terrain and a bit hilly
 * Do I need to recommend you wear a jacket if the weather’s grey? Does it ever rain in Britain?
 
-[{{< figure class="aligncenter size-full wp-image-3745" alt="Oskar in Sheepcote Valley" src="/images/2013/06/8750314026_322d4d4124_c.jpg" width="800" height="600" >}}](/images/2013/06/8750314026_322d4d4124_c.jpg)
+{{< imgsrcset command="Resize" alt="Oskar in Sheepcote Valley" original="/images/2013/06/8750314026_322d4d4124_c.jpg" >}}
 
 	

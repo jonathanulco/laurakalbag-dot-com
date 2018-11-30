@@ -30,6 +30,10 @@ In the run-up to my publishing date on The Pastry Box (it’ll likely be the 11t
 
 Please let me know what you think, this means a lot to me.
 
-[{{< figure class="aligncenter size-full wp-image-4195" alt="screenshot of my post on The Pastry Box" src="/images/2014/01/the-pastry-box.png" width="715" height="425" >}}](https://the-pastry-box-project.net/laura-kalbag/2014-january-11)
+{{< figured >}}
+  {{< link href="https://the-pastry-box-project.net/laura-kalbag/2014-january-11" >}}
+  	{{< imgsrcset alt="screenshot of my post on The Pastry Box" original="/images/2014/01/the-pastry-box.png" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 	

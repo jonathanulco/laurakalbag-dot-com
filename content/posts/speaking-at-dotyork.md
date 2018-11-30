@@ -24,7 +24,11 @@ I’m speaking at [DotYork conference](http://dotyork.com) in York on the 1st of
 
 It’ll be my first time in York, so I’m looking forward to seeing the sights and feeling incredibly Southern. You should join me! Early bird tickets are coming out soon, so why not [go over to the DotYork website](http://dotyork.com) and sign up to be the first to hear when tickets are available.
 
-[{{< figure class="aligncenter size-full wp-image-4208" alt="dot_york" src="/images/2014/01/dot_york.png" width="700" height="405" >}}](http://dotyork.com)
+{{< figured >}}
+  {{< link href="http://dotyork.com" >}}
+  	{{< imgsrcset alt="dot_york" original="/images/2014/01/dot_york.png" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 ## One comment
 

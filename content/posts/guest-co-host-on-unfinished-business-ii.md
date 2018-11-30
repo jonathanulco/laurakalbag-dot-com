@@ -22,10 +22,18 @@ Last Friday I was a [guest co-host on Unfinished Business](http://unfinished.bz/
 
 I’m a massive fan of Unfinished Business and listen to every episode so it was a real treat to go back again. Thank you for inviting me, Andy!
 
-[{{< figure class="aligncenter size-full wp-image-2345" alt="Andy &amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." src="/images/2013/02/unfinished-bz.png" width="700" height="270" >}}](http://unfinished.bz/19)
+{{< figured >}}
+  {{< link href="http://unfinished.bz/19" >}}
+  	{{< imgsrcset alt="Andy &amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." original="/images/2013/02/unfinished-bz.png" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 ## Oh, and one more thing: Slide + Stage
 
 One of the sponsors this week was [Slide + Stage](http://thelink.is/unfinishedbusiness), a full-day intensive masterclass with [Aral Balkan](http://aralbalkan.com). It’s going to be brilliant and I’m going to be there. I’ve already [written a post about how much I’ve learnt from Aral](/learning-to-speak/ "Learning to speak"), and if you want to speak at events, or even just become better at presenting your work to clients, I really recommend you come along.
 
-<p style="text-align: center;">[{{< figure class="aligncenter  wp-image-3297" alt="Slide + Stage" src="/images/2013/05/slideandstage.png" width="138" height="138" >}}](http://thelink.is/unfinishedbusiness)</p>
+<p style="text-align: center;">{{< figured >}}
+  {{< link href="http://thelink.is/unfinishedbusiness" >}}
+  	{{< imgsrcset command="Resize" class="wp-image-3297" alt="Slide + Stage" original="/images/2013/05/slideandstage.png" >}}
+  {{< /link >}}
+{{< /figured >}}</p>

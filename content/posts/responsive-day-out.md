@@ -46,7 +46,9 @@ Many of the speakers at Responsive Day Out spoke about how we need to break away
 
 > “Device detection isn’t futureproof. Avoid.” Anna Debenham on designing for devices
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-2737" alt="Anna Debenham—Device detection isn't future proof. Avoid." src="/images/2013/04/devicedetection.jpg" width="800" height="463" caption="Anna Debenham—Device detection isn’t future proof. Avoid.">}}](/images/2013/04/devicedetection.jpg)
+{{< figured caption="Anna Debenham—Device detection isn’t future proof. Avoid." >}}
+  {{< imgsrcset command="Resize" class="wp-image-2737" alt="Anna Debenham—Device detection isn't future proof. Avoid." original="/images/2013/04/devicedetection.jpg" >}}
+{{< /figured >}}
 
 As Tom Maslen pointed out, we’re foolish focusing on devices. Before responsive design, did we ever talk about whether a website worked on a particular Dell PC or a MacBook? We didn’t, we thought in terms of browsers and whether our sites worked in Internet Explorer 8 or the most recent version of Firefox. This makes it much easier to test and gives us a much narrower set of requirements that our sites need to fulfil.
 
@@ -86,7 +88,9 @@ Tom pointed out that using this technique would mean no time wasted on polyfilli
 
 This approach is far easier to manage than the BBC’s previous strategy of supporting a specific table of browsers, using graceful degradation to give a similar experience to all users. This was all easy enough when all browsers were free, uncomplicated and easy to test; where you could test most browsers on either a PC or Mac, but now you need to invest in an enormous array of devices to test on every browser.
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-2729" alt="Tom Maslen demonstrating the BBC's previous strategy of supporting a specific table of browsers" src="/images/2013/04/browsercompatibility.jpg" width="800" height="468" caption="Tom Maslen demonstrating the BBC’s previous strategy of supporting a specific table of browsers">}}](/images/2013/04/browsercompatibility.jpg)
+{{< figured caption="Tom Maslen demonstrating the BBC’s previous strategy of supporting a specific table of browsers" >}}
+  {{< imgsrcset command="Resize" class="wp-image-2729" alt="Tom Maslen demonstrating the BBC's previous strategy of supporting a specific table of browsers" original="/images/2013/04/browsercompatibility.jpg" >}}
+{{< /figured >}}
 
 # More markup and code
 
@@ -121,7 +125,7 @@ These could be used to replace the functionality of something like [Modernizr, w
 
 ### Flexbox
 
-[{{< figure class="aligncenter size-full wp-image-2741" alt="Bruce Lawson talking about flexbox" src="/images/2013/04/flexbox.jpg" width="800" height="866" >}}](/images/2013/04/flexbox.jpg) [Flexbox](http://dev.opera.com/articles/view/flexbox-basics/), as shown by Bruce, is so full of exciting potential for CSS layouts. The rules associated with flexbox gives layout superpowers:
+{{< imgsrcset command="Resize" alt="Bruce Lawson talking about flexbox" original="/images/2013/04/flexbox.jpg" >}}, as shown by Bruce, is so full of exciting potential for CSS layouts. The rules associated with flexbox gives layout superpowers:
 
 * reorder content on the page without changing the hierarchy of the HTML
 * make content redistribute across any given space
@@ -146,13 +150,17 @@ Performance was a key word of the day. Many speakers mentioned how we’ve been 
 * Content
 * Decorative
 
-[{{<figure class="wp-caption aligncenter" src="/images/2013/04/types-of-images.png" alt="Paul Robert Lloyd&#039;s slide on types of images" width="632" height="406" class="size-full wp-image-2793" caption="Paul Robert Lloyd’s slide on types of images">}}](https://speakerdeck.com/paulrobertlloyd/the-edge-of-the-web?slide=22)
+{{< figured >}}
+  {{< link href="https://speakerdeck.com/paulrobertlloyd/the-edge-of-the-web?slide=22" >}}
+  	{{< imgsrcset command="Resize" class="" original="/images/2013/04/types-of-images.png" alt="Paul Robert Lloyd&#039;s slide on types of images"     class="size-full wp-image-2793" caption="Paul Robert Lloyd’s slide on types of images" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 ### Asset fonts
 
 Where images meet fonts, Josh Emerson spoke about using asset fonts for one-colour graphic elements. Much like the [Webdings icons font](https://www.microsoft.com/typography/web/fonts/webdings/default.htm), Josh explained that asset fonts could be created as your own set of scaling icons. The glyphs are much easier to manage than [hacky image sprites](http://alistapart.com/article/sprites), they’re supported by [any browser that supports web fonts](http://caniuse.com/#feat=fontface)&nbsp;and provide resolution-independent sharp graphics that work on **any-DPI** display, not just retina displays.
 
-[{{< figure class="aligncenter size-full wp-image-2725" alt="Josh Emerson on asset fonts" src="/images/2013/04/assetfonts.jpg" width="800" height="522" >}}](/images/2013/04/assetfonts.jpg)
+{{< imgsrcset command="Resize" alt="Josh Emerson on asset fonts" original="/images/2013/04/assetfonts.jpg" >}}
 
 Josh pointed out that, whilst asset fonts are a fantastic solution for vector-style graphics, images that require more than one colour are better served by [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics).
 
@@ -170,7 +178,9 @@ In my talk, I spoke about how text makes up so much of web design that typograph
 
 Richard Rutter spoke about how we could improve the experience of web fonts. Richard pointed out the problems that occur when there’s no visible text until the weighty-but-beautiful web font loads. Richard saw it as us having four options:
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-2757" alt="Richard Rutters potential solutions for web font loading wait-time" src="/images/2013/04/webfontoptions.jpg" width="800" height="660" caption="Richard Rutters potential solutions for web font loading wait-time">}}](/images/2013/04/webfontoptions.jpg)
+{{< figured caption="Richard Rutters potential solutions for web font loading wait-time" >}}
+  {{< imgsrcset command="Resize" class="wp-image-2757" alt="Richard Rutters potential solutions for web font loading wait-time" original="/images/2013/04/webfontoptions.jpg" >}}
+{{< /figured >}}
 
 1. Default: text appears as each web font loads
 2. Don’t send web fonts to small screens
@@ -195,7 +205,7 @@ Owen Gregory spoke about how we can’t base web design layouts on print geometr
 
 Owen agreed with Mark in that we can’t use frames as false constraints, we must acknowledge that we can’t possibly guess what size these frames are going to be, but Owen also pointed out that the ratios between the height and width of many devices are roughly the same, so we could potentially use these values in our designs.
 
-[{{< figure class="aligncenter size-full wp-image-2733" alt="Mark Boulton on Control" src="/images/2013/04/control.jpg" width="800" height="724" >}}](/images/2013/04/control.jpg)
+{{< imgsrcset command="Resize" alt="Mark Boulton on Control" original="/images/2013/04/control.jpg" >}}
 
 On reflection, this was an exciting revelation to many of us (the similarity between the ratios) but I still disagree with this as something to design around. There may well be similarities between the proportions **now**, but the point of embracing the responsiveness of the web and not focusing on specific devices is that we don’t know what those proportions will be in the near or distant future. For now, this may be the most aesthetically pleasing ratio, but our tastes could well change.
 
@@ -209,7 +219,9 @@ As a general rule, David suggested we should aim for as few menu items as possib
 
 It’s also important to bear in mind that it’s not just the mouse or keyboard that we’re trying to accommodate, we must make navigation work with any form of input. Still, any interaction made with any of these forms of input is, in essence, the equivalent of one click-event and so still requires effort from the user and potentially slowing the user down with more page loads.
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-2753" alt="David Bushell on types of input" src="/images/2013/04/typesofinput.jpg" width="800" height="476"  caption="David Bushell on types of input">}}](/images/2013/04/typesofinput.jpg)
+{{< figured caption="David Bushell on types of input" >}}
+  {{< imgsrcset command="Resize" class="wp-image-2753" alt="David Bushell on types of input" original="/images/2013/04/typesofinput.jpg" >}}
+{{< /figured >}}
 
 A few of the different types of navigation David talked about were:
 

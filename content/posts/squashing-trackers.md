@@ -25,7 +25,9 @@ description: ""
 
 Post text<!--more-->
 
-{{<figure class="note-image" src="office-dog.png" link="https://alink.com" alt="alt text" caption="caption text">}}
+{{< figured caption="caption text" >}}
+  {{< imgsrcset command="Resize" class="note-image" original="office-dog.png" link="https://alink.com" alt="alt text" >}}
+{{< /figured >}}
 
 Log
 

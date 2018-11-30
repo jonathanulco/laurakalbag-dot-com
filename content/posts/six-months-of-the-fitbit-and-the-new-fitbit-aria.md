@@ -51,13 +51,17 @@ Ok, so here’s where the [Fitbit](http://www.shareasale.com/r.cfm?b=286239&amp;
 
 The Fitbit is a small plastic pedometer that you wear on your person. I favour the waistband or pocket, as I tend to mostly wear trousers, though I have occasionally worn it on my underwear when wearing dresses or trying to stop it spoiling the line of my clothes (that’s a rather girly power-user tip right there.)
 
-{{< figure class="attachment_559 wp-caption aligncenter size-full wp-image-559" title="My Fitbit on my waistband" src="/images/2012/06/fitbit-on-waistband.jpg" alt="My Fitbit on my waistband" width="600" height="463" caption="My Fitbit on my waistband" >}}
+{{< figured caption="My Fitbit on my waistband" >}}
+  	{{< imgsrcset command="Resize" class="attachment_559  size-full wp-image-559" title="My Fitbit on my waistband" original="/images/2012/06/fitbit-on-waistband.jpg" alt="My Fitbit on my waistband" >}}
+{{< /figured >}}
 
 The amount of stuff it records is pretty cool. It will record your steps, distance travelled, floors climbed (with the help of an altimeter,) calories burned and activity score. The activity score is a rating of how active you’ve been throughout the day, which gives you a nice goal to aim towards if you don’t want to obsess over steps, floors or calories.
 
 It is a thing of beauty. It has a seamless display which shows you your pedometer statistics in clear blue text, which you can cycle through using the single button. You can also hold the button down to start/stop recording an activity session which allows you to record periods of sleep or specific periods of activity (it records all activity by default, but activity records can be handy if you want to know how far you travelled when you walked to the shops or similar.)
 
-{{< figure class="attachment_560 wp-caption aligncenter size-full wp-image-560" title="Fitbit gives me encouraging messages and greetings too" src="/images/2012/06/encouraging.jpg" alt="Fitbit gives me encouraging messages and greetings too" width="600" height="275" caption="Fitbit gives me encouraging messages and greetings too" >}}
+{{< figured caption="Fitbit gives me encouraging messages and greetings too" >}}
+  	{{< imgsrcset command="Resize" class="attachment_560  size-full wp-image-560" title="Fitbit gives me encouraging messages and greetings too" original="/images/2012/06/encouraging.jpg" alt="Fitbit gives me encouraging messages and greetings too" >}}
+{{< /figured >}}
 
 The Fitbit syncs wirelessly to a small dock which works with OS software to sync its stats to the web app. The dock also acts as a charger, which you rarely have to use as the Fitbit seems to have weeks of battery life at a time and charges up to full battery within an hour or so.
 
@@ -65,7 +69,9 @@ The Fitbit syncs wirelessly to a small dock which works with OS software to sync
 
 The sleep recording functionality is pretty cool. Usually you’d move a lot less during your sleep, so you need to wear your Fitbit around your wrist. I found the provided wristband a little bit uncomfortable, the band itself is soft but the velcro fastening is a little bit abrasive round the edges. I made my own Fitbit wristband out of a tennis sweatband. I cut a hole in the sweatband, and stitched a Fitbit shape into it to stop it from getting stuck inside the band. This is much more comfortable and works just as well as the admittedly-slightly-slicker provided wristband.
 
-{{< figure class="attachment_561 wp-caption aligncenter size-full wp-image-561" title="Fitbit wristband (left) and my homemade wristband (right)" src="/images/2012/06/wristbands.jpg" alt="Fitbit wristband (left) and my homemade wristband (right)" width="600" height="245" caption="Fitbit wristband (left) and my homemade wristband (right)" >}}
+{{< figured caption="Fitbit wristband (left) and my homemade wristband (right)" >}}
+  	{{< imgsrcset command="Resize" class="attachment_561  size-full wp-image-561" title="Fitbit wristband (left) and my homemade wristband (right)" original="/images/2012/06/wristbands.jpg" alt="Fitbit wristband (left) and my homemade wristband (right)" >}}
+{{< /figured >}}
 
 You start the sleep function by holding down the button. The Fitbit is smart enough to know that you’re sleeping by the amount of movement you’re (not) making.
 
@@ -73,55 +79,77 @@ You start the sleep function by holding down the button. The Fitbit is smart eno
 
 Now by itself, you could argue that the Fitbit is just a rather fancy, slightly expensive sleep-recording pedometer. Really, it’s the addition of the web app that makes it so incredibly valuable.
 
-{{< figure class="attachment_562 wp-caption aligncenter size-large wp-image-562" title="The Fitbit dashboard" src="/images/2012/06/fitbit-dashboard-960x709.jpg" alt="The Fitbit dashboard" width="584" height="431" caption="The Fitbit dashboard" >}}
+{{< figured caption="The Fitbit dashboard" >}}
+  	{{< imgsrcset command="Resize" class="attachment_562  size-large wp-image-562" title="The Fitbit dashboard" original="/images/2012/06/fitbit-dashboard-960x709.jpg" alt="The Fitbit dashboard" >}}
+{{< /figured >}}
 
 ### Sleep log
 
 Starting with the sleep log, the Fitbit will tell you how long you slept for, how often you woke up and use that to judge your quality of sleep. This is pretty handy if you want to improve your sleep quality, especially as you can see your sleep history, comparing each night.
 
-{{< figure class="attachment_563 wp-caption aligncenter size-full wp-image-563" title="one night's sleep with the Fitbit" src="/images/2012/06/sleep-log.jpg" alt="one night's sleep with the Fitbit" width="600" height="333" caption="one night’s sleep with the Fitbit" >}}
+{{< figured caption="one night’s sleep with the Fitbit" >}}
+  	{{< imgsrcset command="Resize" class="attachment_563  size-full wp-image-563" title="one night's sleep with the Fitbit" original="/images/2012/06/sleep-log.jpg" alt="one night's sleep with the Fitbit" >}}
+{{< /figured >}}
 
-{{< figure class="attachment_564 wp-caption aligncenter size-full wp-image-564" title="My sleep history" src="/images/2012/06/sleep-stats.jpg" alt="My sleep history" width="326" height="706" caption="My sleep history" >}}
+{{< figured caption="My sleep history" >}}
+  	{{< imgsrcset command="Resize" class="attachment_564  size-full wp-image-564" title="My sleep history" original="/images/2012/06/sleep-stats.jpg" alt="My sleep history" >}}
+{{< /figured >}}
 
 ### Activity Log
 
 This is my favourite part. There is no better way to motivate yourself than seeing how much exercise you’ve been doing in statistic form. And if you’re competitive? You can also share your information with friends (this allows you to lock down or make public as much or as little info as you’d like) to compete and motivate yourself to beat the other people in your group with daily, weekly or lifetime scores.
 
-{{< figure class="attachment_565 wp-caption aligncenter size-full wp-image-565" title="Friends' leaderboard" src="/images/2012/06/leaderboard.jpg" alt="Friends' leaderboard" width="959" height="405" caption="Friends’ leaderboard" >}}
+{{< figured caption="Friends’ leaderboard" >}}
+  	{{< imgsrcset command="Resize" class="attachment_565  size-full wp-image-565" title="Friends' leaderboard" original="/images/2012/06/leaderboard.jpg" alt="Friends' leaderboard" >}}
+{{< /figured >}}
 
 And, as with all good apps, you can earn badges for your achievements (I love badges!) I’m doing fairly well with mine. It’s actually really lovely when you get a little notification email telling you you’ve earned a new badge. The achievements seem to be infrequent enough that they actually feel meaningful (you don’t get a badge for just **anything**) but not so rare that they feel like hard work.
 
-{{< figure class="attachment_566 wp-caption aligncenter size-full wp-image-566" title="My Fitbit badges" src="/images/2012/06/fitbit-badges.jpg" alt="My Fitbit badges" width="596" height="742" caption="My Fitbit badges" >}}
+{{< figured caption="My Fitbit badges" >}}
+  	{{< imgsrcset command="Resize" class="attachment_566  size-full wp-image-566" title="My Fitbit badges" original="/images/2012/06/fitbit-badges.jpg" alt="My Fitbit badges" >}}
+{{< /figured >}}
 
-{{< figure class="aligncenter size-full wp-image-567" title="A Fitbit badge notification email" src="/images/2012/06/fitbit-badge-notification.jpg" alt="A Fitbit badge notification email" width="600" height="642" >}}
+{{< imgsrcset command="Resize" title="A Fitbit badge notification email" original="/images/2012/06/fitbit-badge-notification.jpg" alt="A Fitbit badge notification email" >}}
 
 I’d say that the Fitbit is really best if you’re a walker or a runner, as it really is just a pedometer. You can easily record other types of exercise through their Activity Log but these are just basing a lot of the values on averages, rather than the actual calories you are likely to have burnt, actual steps taken etc. This doesn’t mean that the Fitbit is useless though. The majority of exercise I do (asides from walking) isn’t something that the Fitbit records itself, activities like biking or lifting weights. It will pick up that you’re doing some kind of activity, but won’t necessarily reflect the intensity. I actually find this just pushes me harder to do more exercise that the Fitbit **does** record.
 
-{{< figure class="aligncenter size-full wp-image-568" title="Fitbit activity log" src="/images/2012/06/activity-log.jpg" alt="Fitbit activity log" width="603" height="249" >}}
+{{< imgsrcset command="Resize" title="Fitbit activity log" original="/images/2012/06/activity-log.jpg" alt="Fitbit activity log" >}}
 
-{{< figure class="attachment_569 wp-caption aligncenter size-full wp-image-569" title="a graph of my calories burnt so far today" src="/images/2012/06/calories-burnt-graph.jpg" alt="a graph of my calories burnt so far today" width="676" height="259" caption="a graph of my calories burnt so far today" >}}
+{{< figured caption="a graph of my calories burnt so far today" >}}
+  	{{< imgsrcset command="Resize" class="attachment_569  size-full wp-image-569" title="a graph of my calories burnt so far today" original="/images/2012/06/calories-burnt-graph.jpg" alt="a graph of my calories burnt so far today" >}}
+{{< /figured >}}
 
 ### Food Log
 
 I truly believe that the best way to lose weight is to keep a food and drink diary. It really makes you realise what you’re putting into your body. The Fitbit food log helps with this as you can quickly enter in your foods from its extensive database, in whatever quantities suit you best. Like other food databases, it tends to mostly feature food from the US, but you can easily add new foods yourself, and they’ve got a much better database of raw ingredients (fruit, veg etc.) than any other web app I’ve used.
 
-{{< figure class="attachment_570 wp-caption aligncenter size-full wp-image-570" title="Fitbit food log" src="/images/2012/06/food-log.jpg" alt="Fitbit food log" width="601" height="336" caption="Fitbit food log" >}}
+{{< figured caption="Fitbit food log" >}}
+  	{{< imgsrcset command="Resize" class="attachment_570  size-full wp-image-570" title="Fitbit food log" original="/images/2012/06/food-log.jpg" alt="Fitbit food log" >}}
+{{< /figured >}}
 
 My main criticism of the Fitbit web app is the focus on calories in the food log. Their food plans allow you to set reasonable goals based around calorie consumption, but this isn’t necessarily the healthiest way to lose weight. Whilst you do get an indication of how much Fat, Carbs and Protein you’re consuming, the emphasis is still on losing calories when an emphasis on less fat and carbs would probably be more beneficial to people looking for a healthy diet. Apps like [Daily Burn](http://dailyburn.com/) do this better.
 
-{{< figure class="attachment_571 wp-caption aligncenter size-full wp-image-571" title="Fitbit food goals" src="/images/2012/06/food-goals.jpg" alt="Fitbit food goals" width="594" height="470" caption="Fitbit food goals" >}}
+{{< figured caption="Fitbit food goals" >}}
+  	{{< imgsrcset command="Resize" class="attachment_571  size-full wp-image-571" title="Fitbit food goals" original="/images/2012/06/food-goals.jpg" alt="Fitbit food goals" >}}
+{{< /figured >}}
 
 ### Weight Log
 
 The weight log is handy and has become even more so since I got the Fitbit Aria scales two weeks ago (prior to that you had to enter your weight and body fat statistics directly into the app yourself.) These beautiful scales look lovely in the bathroom and sync wirelessly to the Fitbit web app via WiFi. This means there’s no tricking the scales by rounding up or down when you enter your values into the app, it’s all completely automatic, and that really adds to the motivation to lose weight!
 
-{{< figure class="attachment_572 wp-caption aligncenter size-full wp-image-572" title="Fitbit Aria scales" src="/images/2012/06/aria.jpg" alt="Fitbit Aria scales" width="600" height="600" caption="Fitbit Aria scales" >}}
+{{< figured caption="Fitbit Aria scales" >}}
+  	{{< imgsrcset command="Resize" class="attachment_572  size-full wp-image-572" title="Fitbit Aria scales" original="/images/2012/06/aria.jpg" alt="Fitbit Aria scales" >}}
+{{< /figured >}}
 
 You can also manually input your body measurements, which is great because it helps defeat that myth that appearance and body shape is all about weight, and you’re presented with some lovely graphs and charts of your body data to help you see how you’re doing and where you want to be.
 
-{{< figure class="attachment_573 wp-caption aligncenter size-full wp-image-573" title="My weight as recorded by the Aria scales" src="/images/2012/06/weight.jpg" alt="My weight as recorded by the Aria scales" width="548" height="245" caption="My weight as recorded by the Aria scales" >}}
+{{< figured caption="My weight as recorded by the Aria scales" >}}
+  	{{< imgsrcset command="Resize" class="attachment_573  size-full wp-image-573" title="My weight as recorded by the Aria scales" original="/images/2012/06/weight.jpg" alt="My weight as recorded by the Aria scales" >}}
+{{< /figured >}}
 
-{{< figure class="attachment_574 wp-caption aligncenter size-full wp-image-574" title="A lovely lean vs fat graph" src="/images/2012/06/weight-graph.jpg" alt="A lovely lean vs fat graph" width="999" height="428" caption="A lovely lean vs fat graph" >}}
+{{< figured caption="A lovely lean vs fat graph" >}}
+  	{{< imgsrcset command="Resize" class="attachment_574  size-full wp-image-574" title="A lovely lean vs fat graph" original="/images/2012/06/weight-graph.jpg" alt="A lovely lean vs fat graph" >}}
+{{< /figured >}}
 
 ### Other logs
 
@@ -129,19 +157,25 @@ There’s also a whole host of other logs that you can use to keep an eye on you
 
 I make use of the Mood log a fair bit. I think it’s healthy to assess your mood from time to time, understand yourself better and try to get to the root of what’s making you feel happy or sad.
 
-{{< figure class="attachment_575 wp-caption aligncenter size-full wp-image-575" title="Mood history" src="/images/2012/06/mood-log.jpg" alt="Mood history" width="308" height="145" caption="Mood history" >}}
+{{< figured caption="Mood history" >}}
+  	{{< imgsrcset command="Resize" class="attachment_575  size-full wp-image-575" title="Mood history" original="/images/2012/06/mood-log.jpg" alt="Mood history" >}}
+{{< /figured >}}
 
 #### Custom trackers
 
 I’ve also made use of the one custom tracker you’re allowed on the free plan (unlimited on Premium) to record how many fruits and vegetables I eat in a day. This is a great motivation for me to eat more!
 
-{{< figure class="attachment_576 wp-caption aligncenter size-large wp-image-576" title="my custom fruit and veg tracker" src="/images/2012/06/fruit-and-veg-960x425.jpg" alt="my custom fruit and veg tracker" width="584" height="258" caption="my custom fruit and veg tracker" >}}
+{{< figured caption="my custom fruit and veg tracker" >}}
+  	{{< imgsrcset command="Resize" class="attachment_576  size-large wp-image-576" title="my custom fruit and veg tracker" original="/images/2012/06/fruit-and-veg-960x425.jpg" alt="my custom fruit and veg tracker" >}}
+{{< /figured >}}
 
 ### Email Motivations
 
 A lovely little addition to the Fitbit web app is the weekly stats you get sent via email. A nice little reminder of how you’re doing compared to last week, and a kick up the bum if you’ve been lazy.
 
-{{< figure class="attachment_577 wp-caption aligncenter size-full wp-image-577" title="Weekly stats email" src="/images/2012/06/weekly-stats.jpg" alt="Weekly stats email" width="647" height="906" caption="Weekly stats email" >}}
+{{< figured caption="Weekly stats email" >}}
+  	{{< imgsrcset command="Resize" class="attachment_577  size-full wp-image-577" title="Weekly stats email" original="/images/2012/06/weekly-stats.jpg" alt="Weekly stats email" >}}
+{{< /figured >}}
 
 ### Extensibility
 

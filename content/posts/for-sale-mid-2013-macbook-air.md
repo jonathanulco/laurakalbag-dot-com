@@ -32,8 +32,8 @@ If you’re interested, send me an email to me@laurakalbag.com, or tweet me @lau
 
 Photos below:
 
-[{{< figure class="aligncenter size-full wp-image-4598" src="/images/2015/02/air-open.jpg" alt="Mid 2013 MacBook Air from front" width="1000" height="750" >}}](/images/2015/02/air-open.jpg)
+{{< imgsrcset command="Resize" original="/images/2015/02/air-open.jpg" alt="Mid 2013 MacBook Air from front" >}}
 
-[{{< figure class="aligncenter size-full wp-image-4597" src="/images/2015/02/air-closed.jpg" alt="Mid 2013 MacBook Air with closed lid" width="1000" height="750" >}}](/images/2015/02/air-closed.jpg)
+{{< imgsrcset command="Resize" original="/images/2015/02/air-closed.jpg" alt="Mid 2013 MacBook Air with closed lid" >}}
 
 	

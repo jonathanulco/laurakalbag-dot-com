@@ -22,6 +22,10 @@ colours:
 
 [The Learning People have posted an interview they did with me](http://www.learningpeople.co.uk/blog/blog-posts/finding-your-inspiration-an-interview-with-web-designer-laura-kalbag) about women in the technology sector, working for myself, and what inspires me.
 
-[{{< figure class="aligncenter size-large wp-image-4093" alt="Screenshot of The Learning People: Finding your inspiration, an interview with web designer Laura Kalbag" src="/images/2013/10/thelearningpeople-734x1024.png" width="734" height="1024" >}}](http://www.learningpeople.co.uk/blog/blog-posts/finding-your-inspiration-an-interview-with-web-designer-laura-kalbag)
+{{< figured >}}
+  {{< link href="http://www.learningpeople.co.uk/blog/blog-posts/finding-your-inspiration-an-interview-with-web-designer-laura-kalbag" >}}
+  	{{< imgsrcset command="Resize" class="wp-image-4093" alt="Screenshot of The Learning People: Finding your inspiration, an interview with web designer Laura Kalbag" original="/images/2013/10/thelearningpeople-734x1024.png" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 	

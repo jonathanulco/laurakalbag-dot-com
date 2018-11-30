@@ -20,5 +20,9 @@ colours:
 
 Lots of good quotes and a book recommendation in [this week’s Ind.ie roundup](https://ind.ie/blog/the-social-web-a-glorious-dystopia/).
 
-[{{< figure class="aligncenter size-large wp-image-4785" src="/images/2015/07/Ind.ie-Blog-%E2%80%94-The-Social-Web-A-Glorious-Dystopia-Friday-Roundup-24th-July-2015-898x1024.png" alt="Screenshot of Ind.ie Roundup: The Social Web: A Glorious Dystopia - Friday Roundup - 24th July 2015" width="898" height="1024" >}}](https://ind.ie/blog/the-social-web-a-glorious-dystopia/)
+{{< figured >}}
+  {{< link href="https://ind.ie/blog/the-social-web-a-glorious-dystopia/" >}}
+  	{{< imgsrcset command="Resize" class="wp-image-4785" original="/images/2015/07/Ind.ie-Blog-%E2%80%94-The-Social-Web-A-Glorious-Dystopia-Friday-Roundup-24th-July-2015-898x1024.png" alt="Screenshot of Ind.ie Roundup: The Social Web: A Glorious Dystopia - Friday Roundup - 24th July 2015" >}}
+  {{< /link >}}
+{{< /figured >}}
 

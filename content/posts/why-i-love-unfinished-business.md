@@ -38,7 +38,11 @@ This is what struck me today, and the reason why Unfinished Business resonates s
 
 These are good people. And [you should listen to their podcast](http://unfinished.bz/).
 
-[{{< figure class="aligncenter size-full wp-image-2345" alt="Andy &amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." src="/images/2013/02/unfinished-bz.png" width="700" height="270" >}}](http://unfinished.bz/)
+{{< figured >}}
+  {{< link href="http://unfinished.bz/" >}}
+  	{{< imgsrcset alt="Andy &amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." original="/images/2013/02/unfinished-bz.png" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 ## 9 comments
 

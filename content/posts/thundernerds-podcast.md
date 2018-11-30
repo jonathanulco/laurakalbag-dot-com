@@ -28,4 +28,6 @@ After seeing their [impressive previous guest list](https://www.thundernerds.io)
 
 I’ll definitely be listening to their back catalogue, and keeping an ear out for their new guests in the future.
 
-{{<figure src="/images/2018/10/thundernerds.jpg" link="https://www.thundernerds.io/2018/10/surveillance-capitalism-accessibility-w-laura-kalbag/" alt="Screenshot of the video showing me in my spare room talking into a microphone with the three hosts’ video feeds visible in the corner." caption="If you watch the whole video, you can see me slowly descend into darkness as the sun sets…">}}
+{{< figured caption="If you watch the whole video, you can see me slowly descend into darkness as the sun sets…" >}}
+  {{< imgsrcset command="Resize" original="/images/2018/10/thundernerds.jpg" link="https://www.thundernerds.io/2018/10/surveillance-capitalism-accessibility-w-laura-kalbag/" alt="Screenshot of the video showing me in my spare room talking into a microphone with the three hosts’ video feeds visible in the corner." >}}
+{{< /figured >}}

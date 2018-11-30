@@ -22,19 +22,35 @@ A couple of months ago, Ian from logogeek.co.uk, asked if I’d share some of my
 
 Last week, Ian added some pages from my sketchbook to [his post, “A look inside a designers sketchbook”](http://learnlogodesign.com/logo-design-process/a-look-inside-a-designers-sketchbook). He included some of my sketches from the [Indie Phone](/project/indiephone-logo/ "IndiePhone logo") and [Turbine](/project/turbine-logo/ "Turbine logo") projects. As he didn’t include all of them, I thought I’d share them all below.
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-4470" src="/images/2014/05/Logo-designers-sketchbook.png" alt="Screenshot of the logo designer's sketchbook post" width="650" height="520" caption="Ian’s post">}}](http://learnlogodesign.com/logo-design-process/a-look-inside-a-designers-sketchbook)
+{{< figured >}}
+  {{< link href="http://learnlogodesign.com/logo-design-process/a-look-inside-a-designers-sketchbook" >}}
+  	{{< imgsrcset command="Resize" class="wp-image-4470" original="/images/2014/05/Logo-designers-sketchbook.png" alt="Screenshot of the logo designer's sketchbook post" caption="Ian’s post" >}}
+  {{< /link >}}
+{{< /figured >}}
 
-[{{<figure class="wp-caption aligncenter size-large wp-image-4471" src="/images/2014/05/Indie-Phone-01-760x1024.jpg" alt="Rocket sketches from Indie Phone" width="760" height="1024" caption="Rocket sketches from Indie Phone">}}](/images/2014/05/Indie-Phone-01.jpg)
+{{< figured caption="Rocket sketches from Indie Phone" >}}
+  {{< imgsrcset command="Resize" class="wp-image-4471" original="/images/2014/05/Indie-Phone-01-760x1024.jpg" alt="Rocket sketches from Indie Phone" >}}
+{{< /figured >}}
 
-[{{<figure class="wp-caption aligncenter size-large wp-image-4472" src="/images/2014/05/Indie-Phone-02-763x1024.jpg" alt="Rocket sketches from Indie Phone" width="763" height="1024" caption="More rocket sketches from Indie Phone">}}](/images/2014/05/Indie-Phone-02.jpg)
+{{< figured caption="More rocket sketches from Indie Phone" >}}
+  {{< imgsrcset command="Resize" class="wp-image-4472" original="/images/2014/05/Indie-Phone-02-763x1024.jpg" alt="Rocket sketches from Indie Phone" >}}
+{{< /figured >}}
 
-[{{<figure class="wp-caption aligncenter size-large wp-image-4473" src="/images/2014/05/Indie-Phone-03-700x1024.jpg" alt="Rocket sketches from Indie Phone" width="700" height="1024" caption="Even more rocket sketches from Indie Phone (and these aren’t even all of them!)">}}](/images/2014/05/Indie-Phone-03.jpg)
+{{< figured caption="Even more rocket sketches from Indie Phone (and these aren’t even all of them!)" >}}
+  {{< imgsrcset command="Resize" class="wp-image-4473" original="/images/2014/05/Indie-Phone-03-700x1024.jpg" alt="Rocket sketches from Indie Phone" >}}
+{{< /figured >}}
 
-[{{<figure class="wp-caption aligncenter size-large wp-image-4474" src="/images/2014/05/Turbine-01-816x1024.jpg" alt="Turbine shape sketches" width="816" height="1024" caption="More Turbine shape sketches">}}](/images/2014/05/Turbine-01.jpg)
+{{< figured caption="More Turbine shape sketches" >}}
+  {{< imgsrcset command="Resize" class="wp-image-4474" original="/images/2014/05/Turbine-01-816x1024.jpg" alt="Turbine shape sketches" >}}
+{{< /figured >}}
 
-[{{<figure class="wp-caption aligncenter size-large wp-image-4475" src="/images/2014/05/Turbine-02-707x1024.jpg" alt="Turbine shape sketches" width="707" height="1024" caption="Turbine shape sketches">}}](/images/2014/05/Turbine-02.jpg)
+{{< figured caption="Turbine shape sketches" >}}
+  {{< imgsrcset command="Resize" class="wp-image-4475" original="/images/2014/05/Turbine-02-707x1024.jpg" alt="Turbine shape sketches" >}}
+{{< /figured >}}
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-4476" src="/images/2014/05/Turbine-03.jpg" alt="Turbine letter sketches" width="1000" height="719" caption="Turbine letter sketches">}}](/images/2014/05/Turbine-03.jpg)
+{{< figured caption="Turbine letter sketches" >}}
+  {{< imgsrcset command="Resize" class="wp-image-4476" original="/images/2014/05/Turbine-03.jpg" alt="Turbine letter sketches" >}}
+{{< /figured >}}
 
 
 

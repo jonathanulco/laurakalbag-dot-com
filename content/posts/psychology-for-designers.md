@@ -22,7 +22,7 @@ colours:
 
 This week I went all out and bought all the currently-released [Five Simple Steps](http://www.fivesimplesteps.com) [Pocket Guide digital books](http://www.fivesimplesteps.com/products/pocket-guides-collection-one). I say “went all out”, they’re an absolute bargain at £6 for a collection of four, or £2 per book. Reading this book thoroughly, following the links in the text, took me about an hour. I’m a fairly fast reader but can be slow to digest new ideas.
 
-[{{< figure class="aligncenter size-full wp-image-3185" alt="Psychology for designers by Joe Leech" src="/images/2013/04/psychology-for-designers-cover.png" width="600" height="395" >}}](/images/2013/04/psychology-for-designers-cover.png)
+{{< imgsrcset command="Resize" alt="Psychology for designers by Joe Leech" original="/images/2013/04/psychology-for-designers-cover.png" >}}
 
 I started reading with [Psychology for designers by Joe Leech](http://www.fivesimplesteps.com/products/psychology-for-designers) first. It appeared to be one of the least specific of the books, and so looked slightly different. Having downloaded six books, it was very hard to choose! Funnily enough, this was exactly the example topic dealt with by Joe in the book: making choices easier for users when faced with a (navigation) menu.
 
@@ -34,7 +34,9 @@ When I look at the list of upcoming Pocket Guide books, it makes me quite giddy.
 
 *Side note: I read this whole book on my phone! I didn’t need to, I had my laptop and iPad right next to me, but the PDF in landscape seemed to be the ideal easy reading environment for me. Although I did struggle reading some of the linked sites which weren’t so well-optimised.*
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-3181" alt="Reading Psychology for designers on my phone" src="/images/2013/04/handheld.jpg" width="610" height="345"  caption="Reading Psychology for designers on my phone">}}](/images/2013/04/handheld.jpg)
+{{< figured caption="Reading Psychology for designers on my phone" >}}
+  {{< imgsrcset command="Resize" class="wp-image-3181" alt="Reading Psychology for designers on my phone" original="/images/2013/04/handheld.jpg" >}}
+{{< /figured >}}
 
 
 

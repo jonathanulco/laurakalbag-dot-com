@@ -22,7 +22,11 @@ I’m slightly behind on my posts, but I wanted to share my contribution in the 
 
 You can [buy a copy, or get a subscription to Offscreen by visiting their website](http://www.offscreenmag.com/buy/).
 
-[{{< figure class="aligncenter size-full wp-image-4646" src="/images/2015/04/Offscreen.jpg" alt="Photo of my 130 words in print" width="2000" height="1500" >}}](/images/2015/04/Offscreen.jpg)
+{{< imgsrcset command="Resize" original="/images/2015/04/Offscreen.jpg" alt="Photo of my 130 words in print" >}}
 
-[{{< figure class="aligncenter wp-image-4649 size-full" src="/images/2015/04/Offscreen-cover.jpg" alt="the cover of Offscreen magazine issue 10" width="1000" height="1320" >}}](http://www.offscreenmag.com)
+{{< figured >}}
+  {{< link href="http://www.offscreenmag.com" >}}
+  	{{< imgsrcset command="Resize" class="wp-image-4649 size-full" original="/images/2015/04/Offscreen-cover.jpg" alt="the cover of Offscreen magazine issue 10" >}}
+  {{< /link >}}
+{{< /figured >}}
 

@@ -33,10 +33,16 @@ Vincent Connare was the first speaker of the conference. As the creator of Comic
 Comic Sans was created for Microsoft Home software, when computers were starting to become used in the home. Its fun, casual, comic-book style was based on comics like Watchmen and Batman Returns and was successfully used in speech bubbles and children’s software. It’s the prolific abuse of Comic Sans in inappropriate signage, documents, and many other places that has made it so well-known and unpopular (*or inappropriately popular!*) As Jason Santa Maria said when talking about choosing an appropriate typeface:
 
 > No type is born evil, it’s the context that dictates if it works.
-[{{<figure class="wp-caption aligncenter size-full wp-image-466" title="Comic Sans on an Antiques shop sign" src="/images/2011/06/comicsans.jpg" alt="Comic Sans on an Antiques shop sign" width="500" height="375" caption="Comic Sans on an Antiques shop sign (credit xxv, Flickr)">}}](http://www.flickr.com/photos/xxv/5446317470/)&nbsp;
+{{< figured >}}
+  {{< link href="http://www.flickr.com/photos/xxv/5446317470/" >}}
+  	{{< imgsrcset command="Resize" class="wp-image-466" title="Comic Sans on an Antiques shop sign" original="/images/2011/06/comicsans.jpg" alt="Comic Sans on an Antiques shop sign" caption="Comic Sans on an Antiques shop sign (credit xxv, Flickr)" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 Jon Tan and Jonathan Hoefler both spoke about Bell Centennial, a font designed by Matthew Carter for phone books. The considerations in creating this font included environmental awareness, such as how the font is used and where it’s used. Matthew Carter made Bell Centennial easy to skim-read at 6pt and used ink traps for where the ink was likely to bleed on the texture of the phone book paper making the small text even harder to read.
-[{{<figure class="wp-caption aligncenter size-full wp-image-465" title="a sample of Bell Centennial" src="/images/2011/06/BellCentennial_sample.gif" alt="a sample of Bell Centennial" width="396" height="468" caption="a sample of Bell Centennial">}}](/images/2011/06/BellCentennial_sample.gif)#### Content first
+{{< figured caption="a sample of Bell Centennial" >}}
+  {{< imgsrcset command="Resize" class="wp-image-465" title="a sample of Bell Centennial" original="/images/2011/06/BellCentennial_sample.gif" alt="a sample of Bell Centennial" >}}
+{{< /figured >}}#### Content first
 
 Tim Brown and Jason Santa Maria both spoke about how the context of the content gives them meaning when choosing a suitable font and how vital it is to compose your design with accountability. Some points they focused on for selecting a suitable typeface were:
 
@@ -63,7 +69,11 @@ Tim went on to describe how using a *modular* scale, rather than arbitrary numbe
 
 * golden ration 1 : 1.618
 * musical fifth 1 : 1.5
-[{{<figure class="wp-caption aligncenter size-full wp-image-467" title="A modular scale created using Tim's website modularscale.com" src="/images/2011/06/Screen-shot-2011-06-22-at-09.15.55.png" alt="A modular scale created using Tim's website modularscale.com" width="279" height="663" caption="A golden ratio modular scale created using Tim’s website modularscale.com">}}](http://modularscale.com)&nbsp;
+{{< figured >}}
+  {{< link href="http://modularscale.com" >}}
+  	{{< imgsrcset command="Resize" class="wp-image-467" title="A modular scale created using Tim's website modularscale.com" original="/images/2011/06/Screen-shot-2011-06-22-at-09.15.55.png" alt="A modular scale created using Tim's website modularscale.com" caption="A golden ratio modular scale created using Tim’s website modularscale.com" >}}
+  {{< /link >}}
+{{< /figured >}}&nbsp;
 
 Different ratios traditionally have meaning or significance to different types of people, so these contexts can even be used to choose an *appropriate *scale. This also gives designers a reason and justification to backup our design decisions.
 
@@ -84,7 +94,9 @@ This is controlled by a part of our brain called the amygdala which can evoke em
 Vincent Connare made an interesting point when speaking about the design of Tahoma as a replacement for MS Sans. Tahoma was designed by Matthew Carter who is a real type designer and he created a technically superior font compared to MS Sans which was created by an engineer. Still, many users complained that they preferred MS Sans. As people get an emotional attachment and loyalty to that which they know, MS Sans was generally considered the ‘better’ font even though it was technically inferior.
 
 <p style="text-align: center;">
-[{{<figure class="wp-caption aligncenter size-full wp-image-468 " title="MS Sans and Tahoma samples" src="/images/2011/06/tahoma-ms-sans.gif" alt="MS Sans and Tahoma samples" width="554" height="328" caption="MS Sans (left) and Tahoma (right) samples">}}](/images/2011/06/tahoma-ms-sans.gif)&nbsp;
+{{< figured caption="MS Sans (left) and Tahoma (right) samples" >}}
+  {{< imgsrcset command="Resize" title="MS Sans and Tahoma samples" original="/images/2011/06/tahoma-ms-sans.gif" alt="MS Sans and Tahoma samples" >}}
+{{< /figured >}}&nbsp;
 
 ### Typography is hard
 
@@ -126,7 +138,11 @@ David Berlow harked back to working in font engineering when fonts were first ne
 Rendering is a big issue, mentioned by most of the speakers. Jonathan Hoefler spoke about how the type designers at Hoefler and Frere-Jones are creating insane amounts of newly hinted glyphs in order to make their web fonts work as well as they possibly can across the web. Many web fonts are just bad translations of fonts created for print and consequently barely work on the web. A few speakers discussed the difficulties in the differences in fonts across Windows and OSX, with some users preferring Windows’ ‘*crispness*‘ and others preferring Apple’s ‘*soft detail*‘.
 
 <p style="text-align: center;">
-[{{<figure class="wp-caption aligncenter size-full wp-image-469 " title="Museo Slab as seen in Safari on OSX and Internet Explorer on Windows" src="/images/2011/06/museo-slab.gif" alt="Museo Slab as seen in Safari on OSX and Internet Explorer on Windows" width="584" height="192" caption="Museo Slab as seen in Safari on OSX and Internet Explorer on Windows (samples from Typekit)">}}](http://typekit.com/fonts/museo-slab)&nbsp;
+{{< figured >}}
+  {{< link href="http://typekit.com/fonts/museo-slab" >}}
+  	{{< imgsrcset command="Resize" title="Museo Slab as seen in Safari on OSX and Internet Explorer on Windows" original="/images/2011/06/museo-slab.gif" alt="Museo Slab as seen in Safari on OSX and Internet Explorer on Windows" caption="Museo Slab as seen in Safari on OSX and Internet Explorer on Windows (samples from Typekit)" >}}
+  {{< /link >}}
+{{< /figured >}}&nbsp;
 
 Tim Brown emphasised how important it is to check your web font choices live, and repeating these checks across the different environments that will use those fonts.
 

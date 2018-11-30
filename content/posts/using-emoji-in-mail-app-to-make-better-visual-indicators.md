@@ -34,7 +34,9 @@ The benefit of using the red flag for ‘Needs Attention’ as a way of noting e
 
 However, I have a terrible memory for shortcut keys. I couldn’t remember which colours related to which mailboxes, and so couldn’t remember the relevant keyboard shortcuts (as these used the first letter of the name of the colour).
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-2217" alt="Mail.app smart mailboxes in the Favourites bar" src="/images/2013/02/Screen-Shot-2013-02-10-at-15.10.31.png" width="661" height="376"  caption="Mail.app smart mailboxes in the Favourites bar">}}](/images/2013/02/Screen-Shot-2013-02-10-at-15.10.31.png)
+{{< figured caption="Mail.app smart mailboxes in the Favourites bar" >}}
+  {{< imgsrcset command="Resize" class="wp-image-2217" alt="Mail.app smart mailboxes in the Favourites bar" original="/images/2013/02/Screen-Shot-2013-02-10-at-15.10.31.png" >}}
+{{< /figured >}}
 
 ## The solution
 
@@ -44,7 +46,9 @@ I knew Mail.app wasn’t hugely customisable, but I thought I could try using [e
 
 After some quick web searches, I couldn’t find any sites or apps that allowed me to grab the emoji I wanted. So I just wrote myself an iMessage with the emoji characters I thought might worked and send it to myself. With iMessage’s unreliability, I didn’t get it for ages, so in the meantime I copied and pasted the emoji into an email and sent it to myself.
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-2221" alt="Emailing myself emoji characters" src="/images/2013/02/Screen-Shot-2013-02-10-at-15.16.35.png" width="771" height="173"  caption="Emailing myself emoji characters">}}](/images/2013/02/Screen-Shot-2013-02-10-at-15.16.35.png)
+{{< figured caption="Emailing myself emoji characters" >}}
+  {{< imgsrcset command="Resize" class="wp-image-2221" alt="Emailing myself emoji characters" original="/images/2013/02/Screen-Shot-2013-02-10-at-15.16.35.png" >}}
+{{< /figured >}}
 
 As you can see, a few of the characters didn’t quite work as they’re mapped to other characters in OSX.
 
@@ -52,11 +56,15 @@ As you can see, a few of the characters didn’t quite work as they’re mapped 
 
 I then just copied and pasted the characters into the smart mailbox names.
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-2225" alt="Pasting emoji into smart mailbox names" src="/images/2013/02/Screen-Shot-2013-02-10-at-15.17.16.png" width="237" height="129" caption="Pasting emoji into smart mailbox names">}}](/images/2013/02/Screen-Shot-2013-02-10-at-15.17.16.png)
+{{< figured caption="Pasting emoji into smart mailbox names" >}}
+  {{< imgsrcset command="Resize" class="wp-image-2225" alt="Pasting emoji into smart mailbox names" original="/images/2013/02/Screen-Shot-2013-02-10-at-15.17.16.png" >}}
+{{< /figured >}}
 
 It worked exactly as I wanted. I now have little coloured visual indicators that show me which shortcuts I need to use to send mail into those mailboxes.
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-2229" alt="Mail.app Favourites bar with emoji smart mailbox names" src="/images/2013/02/Screen-Shot-2013-02-10-at-15.17.58.png" width="714" height="224"  caption="Mail.app Favourites bar with emoji smart mailbox names">}}](/images/2013/02/Screen-Shot-2013-02-10-at-15.17.58.png)&nbsp;
+{{< figured caption="Mail.app Favourites bar with emoji smart mailbox names" >}}
+  {{< imgsrcset command="Resize" class="wp-image-2229" alt="Mail.app Favourites bar with emoji smart mailbox names" original="/images/2013/02/Screen-Shot-2013-02-10-at-15.17.58.png" >}}
+{{< /figured >}}&nbsp;
 
 ## 2 comments
 

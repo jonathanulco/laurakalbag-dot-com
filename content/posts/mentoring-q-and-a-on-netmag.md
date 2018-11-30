@@ -24,6 +24,6 @@ After [finishing the mentoring project last week](/mentoring-the-evaluation/ "Me
 
 It’s a good summary of the mentoring project and has extracts from a couple of testimonials by Sibylle and Phil.
 
-[{{< figure class="aligncenter size-full wp-image-3765" alt="Screen shot of http://www.netmagazine.com/news/laura-kalbag-web-designers-should-mentor-newcomers-132847" src="/images/2013/07/Screen-Shot-2013-07-01-at-21.14.32.png" width="640" height="490" >}}](/images/2013/07/Screen-Shot-2013-07-01-at-21.14.32.png)
+{{< imgsrcset command="Resize" alt="Screen shot of http://www.netmagazine.com/news/laura-kalbag-web-designers-should-mentor-newcomers-132847" original="/images/2013/07/Screen-Shot-2013-07-01-at-21.14.32.png" >}}
 
 	

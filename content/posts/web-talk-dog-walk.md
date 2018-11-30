@@ -26,7 +26,11 @@ I walk my dog Oskar every day, no matter what the weather. And usually it’s ju
 
 The best place to walk in the area (and conveniently [near to where we live is East Brighton Park/Sheepcote valley](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.816724,-0.102396&amp;spn=0.00281,0.006968). Asides from at the very start of the route, it’s a long way to any roads so it’s safe to let the dogs off the lead. The easiest place to meet is on the [corner of Wilson Avenue and Roedean Road](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.816724,-0.102396&amp;spn=0.00281,0.006968). I’ve planned out three of my favourite walks on the map to give you a rough idea of how far we tend to walk. Oskar is a big dog and I walk fairly quickly but we’re happy to do shorter slower walks depending on the company and the weather(!)
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-3525 " alt="Brighton and the walking route around East Brighton Park/Sheepcote valley" src="/images/2013/06/brighton-map.png" width="600" height="330" caption="The routes (zoomed out) on Google Maps. Select the map to see the full map.">}}](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.821011,-0.095851&amp;spn=0.010316,0.027874)
+{{< figured >}}
+  {{< link href="https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.821011,-0.095851&amp;spn=0.010316,0.027874" >}}
+  	{{< imgsrcset alt="Brighton and the walking route around East Brighton Park/Sheepcote valley" original="/images/2013/06/brighton-map.png" caption="The routes (zoomed out) on Google Maps. Select the map to see the full map." >}}
+  {{< /link >}}
+{{< /figured >}}
 
 ## Anyone can join us
 
@@ -41,5 +45,7 @@ The best place to walk in the area (and conveniently [near to where we live is E
 
 And now I wait and see if anyone can come along. If this day/time is inconvenient, then I’m happy to reschedule next time!
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-3501" alt="Oskar the husky/malamute cross in Sheepcote Valley" src="/images/2013/06/osky.jpg" width="800" height="600" caption="Oskar in Sheepcote Valley">}}](/images/2013/06/osky.jpg)
+{{< figured caption="Oskar in Sheepcote Valley" >}}
+  {{< imgsrcset command="Resize" class="wp-image-3501" alt="Oskar the husky/malamute cross in Sheepcote Valley" original="/images/2013/06/osky.jpg" >}}
+{{< /figured >}}
 

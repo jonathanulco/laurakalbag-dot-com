@@ -22,6 +22,10 @@ This week the [first post was published on my A List Apart column](http://alist
 
 It’s good fun and a proper challenge having an editor working with me. I’ve already learned a lot, and I hope to be slightly less hopeless at writing clearly as the months go by…
 
-[{{< figure class="alignnone size-full wp-image-4064" alt="Good Designers, Good Clients, my post on A List Apart" src="/images/2013/09/good-designers-good-clients.png" width="645" height="480" >}}](http://alistapart.com/column/good-designers-good-clients)
+{{< figured >}}
+  {{< link href="http://alistapart.com/column/good-designers-good-clients" >}}
+  	{{< imgsrcset command="Resize" class=" size-full wp-image-4064" alt="Good Designers, Good Clients, my post on A List Apart" original="/images/2013/09/good-designers-good-clients.png" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 	

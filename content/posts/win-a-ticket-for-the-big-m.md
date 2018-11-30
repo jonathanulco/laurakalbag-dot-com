@@ -22,7 +22,11 @@ colours:
 
 I don’t know if you know, but I made the website for the upcoming super exciting mobile conference, [The Big M](http://thebigm.mobi "The Big M website").
 
-[{{< figure class="aligncenter size-medium wp-image-326" title="The Big M website" src="/images/2011/03/full-site-589square-320x320.jpg" alt="The Big M website" width="320" height="320" >}}](http://thebigm.mobi)
+{{< figured >}}
+  {{< link href="http://thebigm.mobi" >}}
+  	{{< imgsrcset command="Resize" class=" size-medium wp-image-326" title="The Big M website" original="/images/2011/03/full-site-589square-320x320.jpg" alt="The Big M website" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 As a result, I have 3 conference tickets worth £233.83 to give away to lovely people who want to learn more about mobile (covering topics such as innovation, usability, development, apps and mobile web.)
 

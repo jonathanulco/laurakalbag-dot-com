@@ -22,7 +22,7 @@ colours:
 
 Continuing on with my chapter-a-day, last week I finished reading the brilliant [Mobile First](http://www.abookapart.com/products/mobile-first "Mobile First on A Book Apart") by Luke Wroblewski.
 
-<p style="text-align: center;">{{< figure class="aligncenter size-full wp-image-513" title="Mobile First by Luke Wroblewski" src="/images/2011/12/mobile-first.jpg" alt="Mobile First by Luke Wroblewski" width="480" height="642" >}}</p>
+<p style="text-align: center;">{{< imgsrcset command="Resize" title="Mobile First by Luke Wroblewski" original="/images/2011/12/mobile-first.jpg" alt="Mobile First by Luke Wroblewski" >}}</p>
 Mobile design and development has gained momentum over the last few years; with responsive design and designers regularly going giddy over iPhone app UIs, it’s surprising how little the industry discusses the *design* issues. We seem to prefer to get caught up in the more technical and development-based conversations (or the infuriatingly dull native vs web, but I’ll get back to that!)
 
 Luke Wroblewski’s Mobile First makes for a refreshing change. Luke talks about *designing* for mobile experiences. He shares case studies and ideas behind UI design, including loads of concepts that had never even crossed my (admittedly slightly limited) mind. (*Should the navigation be moved to the bottom of the page on mobile screens so it doesn’t get in the way of the main page content?!*)

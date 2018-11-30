@@ -28,39 +28,43 @@ Of course, all of this can be done with the command line and other terrifying to
 
 [Codekit](http://incident57.com/codekit/) does all the processing for you. It takes your Sass and spits it out into fully-working CSS. It does loads of other clever things too, but I mostly just use it for Sass. [Go download it](http://incident57.com/codekit/) and give it a go. I think you’ll find it’s definitely worth paying for.
 
-[{{< figure class="aligncenter size-full wp-image-1417" alt="screenshot of the Codekit website" src="/images/2012/12/codekit.png" width="921" height="658" >}}](http://incident57.com/codekit/)
+{{< figured >}}
+  {{< link href="http://incident57.com/codekit/" >}}
+  	{{< imgsrcset alt="screenshot of the Codekit website" original="/images/2012/12/codekit.png" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 In order to get started with Codekit and Sass, you’ll need a /sass folder in your project where you keep all your Sass files. Sass files can contain plain old CSS or Sass-style CSS but they must have the extension .scss.
 
-[{{< figure class="aligncenter size-full wp-image-1425" alt="screenshot showing .scss file in the /sass folder" src="/images/2012/12/sass-folder.png" width="850" height="385" >}}](/images/2012/12/sass-folder.png)
+{{< imgsrcset command="Resize" alt="screenshot showing .scss file in the /sass folder" original="/images/2012/12/sass-folder.png" >}}
 
 Next you open Codekit and add your project folder in the Files section.
 
-[{{< figure class="aligncenter size-full wp-image-1433" alt="screenshot of adding a new project to the Files pane in Codekit" src="/images/2012/12/codekit-new1.png" width="500" height="635" >}}](/images/2012/12/codekit-new1.png)
+{{< imgsrcset command="Resize" alt="screenshot of adding a new project to the Files pane in Codekit" original="/images/2012/12/codekit-new1.png" >}}
 
 After you’ve added your project folder, Codekit will automatically find the Sass file inside your project.
 
-[{{< figure class="aligncenter size-full wp-image-1437" alt="screenshot of a project in Codekit" src="/images/2012/12/project-in-codekit.png" width="900" height="605" >}}](/images/2012/12/project-in-codekit.png)
+{{< imgsrcset command="Resize" alt="screenshot of a project in Codekit" original="/images/2012/12/project-in-codekit.png" >}}
 
 If you then go into your .scss file and add some Sass, as soon as you save that file, Codekit will compile it into CSS for you.
 
-[{{< figure class="aligncenter size-full wp-image-1441" alt="screenshot of basic Sass being written into a .scss file" src="/images/2012/12/new-sass.png" width="510" height="360" >}}](/images/2012/12/new-sass.png)
+{{< imgsrcset command="Resize" alt="screenshot of basic Sass being written into a .scss file" original="/images/2012/12/new-sass.png" >}}
 
 If you go to the Log tab in Codekit, you can see that your Sass was successfully compiled into CSS.
 
-[{{< figure class="aligncenter size-full wp-image-1449" alt="screenshot of the Log in Codekit showing a file successfully compiled" src="/images/2012/12/codekit-log1.png" width="900" height="245" >}}](/images/2012/12/codekit-log1.png)
+{{< imgsrcset command="Resize" alt="screenshot of the Log in Codekit showing a file successfully compiled" original="/images/2012/12/codekit-log1.png" >}}
 
 If you then go back to look in your project folder, you can see where Codekit has compiled your CSS into a /css folder containing a .css file. It’s this file that you will reference in your HTML, not the .scss file.
 
-[{{< figure class="aligncenter size-full wp-image-1453" alt="screenshot showing the /css folder created by Codekit" src="/images/2012/12/css-folder.png" width="530" height="350" >}}](/images/2012/12/css-folder.png)
+{{< imgsrcset command="Resize" alt="screenshot showing the /css folder created by Codekit" original="/images/2012/12/css-folder.png" >}}
 
 Codekit is very smart. If you write invalid Sass, it will give you an error. This can be really helpful if you’re new to writing Sass. For example, here I’ve used a `#` hash symbol instead of a `$` dollar sign when creating a variable.
 
-[{{< figure class="aligncenter size-full wp-image-1457" alt="screenshot of invalid Sass using # instead of $" src="/images/2012/12/bad-sass.png" width="530" height="370" >}}](/images/2012/12/bad-sass.png)
+{{< imgsrcset command="Resize" alt="screenshot of invalid Sass using # instead of $" original="/images/2012/12/bad-sass.png" >}}
 
 As with all validators, it’s not always easy to understand what the validation error message means (!) but it can be helpful to be pointed towards the line where the error occurs.
 
-[{{< figure class="aligncenter size-full wp-image-1461" alt="screenshot of Codekit showing an error in the Sass" src="/images/2012/12/codekit-error.png" width="900" height="310" >}}](/images/2012/12/codekit-error.png)
+{{< imgsrcset command="Resize" alt="screenshot of Codekit showing an error in the Sass" original="/images/2012/12/codekit-error.png" >}}
 
 ## And you’re done
 

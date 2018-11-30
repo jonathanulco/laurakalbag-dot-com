@@ -24,6 +24,10 @@ The lovely people at [Dare conference](http://2013.dareconf.com) have released [
 
 I’m not going to embed it here, because I want you to go to the website to watch it. The reason is that [there’s loads of great talks on there](http://2013.dareconf.com/videos "Dare conference videos"), and in order to help support Dare conference for next year, they’re taking donations. If you enjoy any of the videos, [please donate](http://2013.dareconf.com/videos#donate "Donate to Dare conference"). Dare didn’t make any money this this, but it was a phenomenal, heartwarming and groundbreaking event. I can’t wait for next year’s!
 
-[{{< figure class="aligncenter size-full wp-image-4087" alt="My Secret Is Honesty - Video of Laura Kalbag at Dare conference" src="/images/2013/10/dare-conf-video.png" width="676" height="658" >}}](http://2013.dareconf.com/videos/kalbag)
+{{< figured >}}
+  {{< link href="http://2013.dareconf.com/videos/kalbag" >}}
+  	{{< imgsrcset alt="My Secret Is Honesty - Video of Laura Kalbag at Dare conference" original="/images/2013/10/dare-conf-video.png" >}}
+  {{< /link >}}
+{{< /figured >}}
 
 	

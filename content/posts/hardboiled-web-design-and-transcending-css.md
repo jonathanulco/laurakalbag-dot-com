@@ -40,7 +40,9 @@ The book is predictably well-written. It’s not too formal, not overly-instruct
 
 The book is themed around detective stories. I found the detective novel references a bit much at times, but that’s because I’ve never read any (not that I wouldn’t, I just haven’t!) It started to feel a bit like an in-joke I wasn’t a part of, but did make for lovely illustrations and content examples.
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-297" title="Beautiful front cover illustration" src="/images/2011/01/web-2.jpg" alt="Beautiful front cover illustration" width="600" height="448" caption="Beautiful front cover illustration">}}](/images/2011/01/web-2.jpg)
+{{< figured caption="Beautiful front cover illustration" >}}
+  {{< imgsrcset command="Resize" class="wp-image-297" title="Beautiful front cover illustration" original="/images/2011/01/web-2.jpg" alt="Beautiful front cover illustration" >}}
+{{< /figured >}}
 
 ### Worth it for the inspiration alone
 
@@ -58,7 +60,9 @@ I bought [the bundle package from Five Simple Steps](http://fivesimplesteps.com/
 
 I liked the idea of having the PDF for reading using [iBooks](http://www.apple.com/ipad/features/ibooks.html "Apple's iBooks") on my iPhone and iPad. This was a bit of an issue, as the PDF has the same layout as the book itself, including very wide margins. This made for easy reading at full size on my mac, slightly eye-straining use on my iPad and a right nightmare on the iPhone. To read the text on iPhone, you have to zoom about a lot. Alongside constant scrolling to read the full width in the page, it’s not the most comfortable reading experience.
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-295 " title="reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4" src="/images/2011/01/web.png" alt="reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4" width="384" height="576" caption="reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4">}}](/images/2011/01/web.png)
+{{< figured caption="reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4" >}}
+  {{< imgsrcset command="Resize" title="reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4" original="/images/2011/01/web.png" alt="reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4" >}}
+{{< /figured >}}
 
 I don’t necessarily think it should have been designed for these small devices! I’m just saying that I wouldn’t buy the PDF if iPhone usage (or even iPad, really) was what you had in mind.
 
@@ -66,7 +70,9 @@ I don’t necessarily think it should have been designed for these small devices
 
 Again, the biggest issue for me was the absence of an index. With a book so full of useful examples, I’m constantly flicking through trying to find the example I remembered from the first read. Having the PDF is useful, as you can use a search function to find what you’re looking for, but fiddling about opening PDF files isn’t really for me when I could just grab the book from next to my desk. So, I’ve gone back to the old-school and have started sticking postits in as bookmarks. I like the idea that it looks like a much-loved textbook!
 
-[{{<figure class="wp-caption aligncenter size-medium wp-image-296" title="old-school postit bookmarks" src="/images/2011/01/web-320x238.jpg" alt="old-school postit bookmarks" width="320" height="238" caption="old-school postit bookmarks">}}](/images/2011/01/web.jpg)
+{{< figured caption="old-school postit bookmarks" >}}
+  {{< imgsrcset command="Resize" class=" size-medium wp-image-296" title="old-school postit bookmarks" original="/images/2011/01/web-320x238.jpg" alt="old-school postit bookmarks" >}}
+{{< /figured >}}
 
 ## Should you buy Hardboiled Web Design?
 
@@ -76,7 +82,9 @@ Alongside [HTML5 For Web Designers](/html5-for-web-designers/ "Review of HTML5 F
 
 Not only do you get the low-down on how to use it, you get the most important arguments of **why** and **when** that seem to be holding so many designers back.
 
-[{{<figure class="wp-caption aligncenter size-full wp-image-298" title="Hardboiled Web Design by Andy Clarke" src="/images/2011/01/web-3.jpg" alt="Hardboiled Web Design by Andy Clarke" width="483" height="600" caption="Hardboiled Web Design by Andy Clarke">}}](/images/2011/01/web-3.jpg)
+{{< figured caption="Hardboiled Web Design by Andy Clarke" >}}
+  {{< imgsrcset command="Resize" class="wp-image-298" title="Hardboiled Web Design by Andy Clarke" original="/images/2011/01/web-3.jpg" alt="Hardboiled Web Design by Andy Clarke" >}}
+{{< /figured >}}
 
 
 
