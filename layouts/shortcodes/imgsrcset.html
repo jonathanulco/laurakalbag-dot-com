@@ -1,5 +1,5 @@
 {{/* get file that matches the filename as specified as original="" in shortcode */}}
-{{ $original := .Page.Resources.GetMatch (printf "*%s*.{png,jpg}" (.Get "original")) }}
+{{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get "original")) }}
 
 {{/* set image sizes, these are hardcoded for now */}}
 
