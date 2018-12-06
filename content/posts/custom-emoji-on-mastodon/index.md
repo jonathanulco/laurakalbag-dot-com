@@ -17,7 +17,7 @@ colours:
     tab-four: "219,50%,74%" # hsl(219,50%,74%)
     tab-five: "213,56%,66%" # hsl(213,56%,66%)
     tab-six: "211,61%,60%" # hsl(211,61%,60%)
-image: "/images/2018/09/toot-on-dark.png"
+image: "toot-on-dark.png"
 imagealt: "a toot in the dark Mastodon theme with a little Indie heart emoji."
 description: ""
 ---
@@ -25,11 +25,12 @@ description: ""
 This morning I made an `:indieHeart:` custom emoji for Mastodon. Here are some things I learned.<!--more-->
 
 {{< figured caption="One of the many cool features of Mastodon is that you can create custom emoji for your instances which can be duplicated and adopted by other instances." >}}
-  {{< imgsrcset command="Resize" original="/images/2018/09/local-emoji.png" max-width="800px" alt="screenshot of the Mastodon admin showing my local instance’s custom emoji including two Indie heart emojis." >}}
+  {{< imgsrcset original="local-emoji.png" command="Resize" alt="screenshot of the Mastodon admin showing my local instance’s custom emoji including two Indie heart emojis." >}}
 {{< /figured >}}
 
-{{< figured caption="The :indieHeart: shortcode in action" >}}
-  {{< imgsrcset command="Resize" class="grid two" max-width="1000px" original="/images/2018/09/toot-on-dark.png" link="https://mastodon.ind.ie/web/statuses/100661113916027342" alt="a toot in the dark Mastodon theme with a little Indie heart emoji." src2="/images/2018/09/toot-on-light.png" alt2="the same toot in the light Mastodon theme with a little Indie heart emoji." >}}
+{{< figured class="grid two" caption="The :indieHeart: shortcode in action" >}}
+  {{< imgsrcset command="Resize" max-width="1000px" original="toot-on-dark.png" link="https://mastodon.ind.ie/web/statuses/100661113916027342" alt="a toot in the dark Mastodon theme with a little Indie heart emoji." >}}
+  {{ imgsrcset command="Resize" original="toot-on-light.png" alt="the same toot in the light Mastodon theme with a little Indie heart emoji." >}}
 {{< /figured >}}
 
 - Firstly, you need to have admin access to your instance to add custom emoji. ([Another reason to get your own instance!](/what-is-mastodon-and-why-should-i-use-it/#why-set-up-an-instance-of-one)) If you don’t have admin access, you could probably politely ask your instance’s admin to add your emoji to the instance’s list.
