@@ -27,8 +27,8 @@ image: "/notes/2018/07/20/21/28/osky-1.jpg"
 
 {{< figured class="grid two" caption="Inevitable" >}}
 
-    {{< imgsrcset original="osky-1" command="Resize" alt="Selfie of me and Oskar the huskamute, he’s looking at me." >}}
+    {{< imgsrcset original="osky-1" alt="Selfie of me and Oskar the huskamute, he’s looking at me." >}}
 
-    {{< imgsrcset original="osky-2" command="Resize" alt="Selfie of me and Oskar the huskamute, he’s licking my face." >}}
+    {{< imgsrcset original="osky-2" alt="Selfie of me and Oskar the huskamute, he’s licking my face." >}}
 
 {{< /figured >}}

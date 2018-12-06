@@ -68,7 +68,7 @@ Nerd are cool because they really care about something. It’s great to be a ner
 
 I’ve tried to capture some of the ideas from my notes in this mind map thing, in addition/support to the summaries. If you can read my writing, you might find it interesting. I just did it to help cement the ideas in my head as I’m one of those people who has to write something down a million times to get it to stick.
 
-<p style="text-align: center;">{{< imgsrcset command="Resize" class="wp-image-211" title="dConstruct 2010 ideas mindmap" original="/images/2010/09/finished-mindmap-960x676.gif" alt="dConstruct 2010 ideas mindmap" >}}</p>
+<p style="text-align: center;">{{< imgsrcset class="wp-image-211" title="dConstruct 2010 ideas mindmap" original="/images/2010/09/finished-mindmap-960x676.gif" alt="dConstruct 2010 ideas mindmap" >}}</p>
 ## Overall conference thoughts
 
 The more people I know, the better conferences always are. It can be pretty hard to get chatting to somebody you don’t know in a room full of people who are stereotypically shy (especially when you’re in a minority of girls and so stick out like a sore thumb!)

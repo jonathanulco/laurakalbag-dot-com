@@ -26,7 +26,7 @@ primaryimagealt: "A little wooden shelving unit made to look like a house, conta
 
 {{< figured caption="Bought some cute socks online, not realising they’d come in their own house." >}}
 
-    {{< imgsrcset original="cute-socks" command="Resize" alt="A little wooden shelving unit made to look like a house, containing five pairs of rolled up socks with sleeping animal faces." >}}
+    {{< imgsrcset original="cute-socks" alt="A little wooden shelving unit made to look like a house, containing five pairs of rolled up socks with sleeping animal faces." >}}
 
 {{< /figured >}}
 

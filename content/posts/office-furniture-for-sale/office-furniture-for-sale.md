@@ -36,7 +36,7 @@ What’s left is the things that we really would’ve kept, but can’t. Fancy 
 * <del>73 – 120 cm height range (sit-stand)</del>
 
 {{< figured caption="Biurko desk. It’s bigger than it looks. This is at full height. Legs come out wider when desk is lowered." >}}
-  	{{< imgsrcset command="Resize" class="attachment_4812  wp-image-4812 size-large" original="/images/2016/02/Screen-Shot-2016-02-02-at-15.49.09-1024x834.png" alt="Biurko desk at full height." >}}
+  	{{< imgsrcset class="attachment_4812  wp-image-4812 size-large" original="/images/2016/02/Screen-Shot-2016-02-02-at-15.49.09-1024x834.png" alt="Biurko desk at full height." >}}
 {{< /figured >}}
 
 <del>They’re already packaged with special wrapping to protect the tops from damage in transit. They weigh a lot, and are very big, so you will need a large van and more than one person!</del>
@@ -47,7 +47,7 @@ What’s left is the things that we really would’ve kept, but can’t. Fancy 
 Big Apple Thunderbolt displays in mint condition and their original packaging. Requires a Thunderbolt port to connect to a Mac.
 
 {{< figured caption="Apple Display as seen on a messy desk. Ridiculous dog not included." >}}
-  	{{< imgsrcset command="Resize" class="attachment_4810  size-large wp-image-4810" original="/images/2016/02/my-desk-1200-1024x674.jpeg" alt="A messy desk with Apple Display, iPad, MacBook Pro, and dog" >}}
+  	{{< imgsrcset class="attachment_4810  size-large wp-image-4810" original="/images/2016/02/my-desk-1200-1024x674.jpeg" alt="A messy desk with Apple Display, iPad, MacBook Pro, and dog" >}}
 {{< /figured >}}
 
 The older display has a defect since purchase that it cannot act as a power supply for the Mac (the power lead doesn’t work) but it’s otherwise in perfect working order. This defect won’t affect you if you already have a charging power supply for your Mac.
@@ -60,7 +60,7 @@ Depending on how old your Mac is, you may need one of the tiny magnetic adapters
 <del>The iconic office chair. Dark grey, size B (medium sized) with lumbar support. Bought refurbished 18 months ago. Costs ~£900 new.</del>
 
 {{< figured caption="Aeron chair" >}}
-  	{{< imgsrcset command="Resize" class="attachment_4808  size-large wp-image-4808" original="/images/2016/02/front-772x1024.jpg" alt="Aeron chair" >}}
+  	{{< imgsrcset class="attachment_4808  size-large wp-image-4808" original="/images/2016/02/front-772x1024.jpg" alt="Aeron chair" >}}
 {{< /figured >}}
 
 <h2 id="whiteboard">1x Nobo Double-sided 1200 x 900mm mobile whiteboard</h2>
@@ -68,7 +68,7 @@ Depending on how old your Mac is, you may need one of the tiny magnetic adapters
 
 Bought less than a year ago. Great whiteboard for wheeling around the office, and double the planning space as you can flip the board over. It has brakes. RRP £500, on Amazon for £330. We’ll throw in a load of whiteboard pens and an eraser to get you started.
 
-{{< imgsrcset command="Resize" original="/images/2016/02/31GOSYy3JLL.jpeg" alt="Nobo whiteboard" >}}
+{{< imgsrcset original="/images/2016/02/31GOSYy3JLL.jpeg" alt="Nobo whiteboard" >}}
 
 It’s large and heavy (great for writing on, harder to lift.) It’s currently in two pieces: board and stand. It can be dismantled into smaller parts, but the board itself is 1200x900mm, and the wheelbase is probably no shorter than 1250mm in one piece, so you’ll need a vehicle that fits it all in.
 
@@ -78,7 +78,7 @@ It’s large and heavy (great for writing on, harder to lift.) It’s currently 
 Great condition, stays in tune. With soft case and guitar stand included. Goes for ~£300 online.
 
 {{< figured caption="The guitar is on the left side. Only photo I could find with it in! Dog not included." >}}
-  	{{< imgsrcset command="Resize" class="attachment_4811  size-large wp-image-4811" original="/images/2016/02/15516043930_93144778c6_k-1024x768.jpg" alt="living room showing guitar and prominent dog" >}}
+  	{{< imgsrcset class="attachment_4811  size-large wp-image-4811" original="/images/2016/02/15516043930_93144778c6_k-1024x768.jpg" alt="living room showing guitar and prominent dog" >}}
 {{< /figured >}}
 
 <h2 id="long-board">Long board (Loaded Tan Tien complete)</h2>

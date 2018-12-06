@@ -24,8 +24,8 @@ twitterurl: "https://twitter.com/gigapup/status/1007351729174786048"
 
 {{< figured class="grid two" caption="How could you say no to this face?" >}}
 
-    {{< imgsrcset original="osky1" command="Resize" alt="Oskar with his head on a cushion and begging eyes." >}}
+    {{< imgsrcset original="osky1" alt="Oskar with his head on a cushion and begging eyes." >}}
 
-    {{< imgsrcset original="osky2" command="Resize" alt="Oskar with his head on a cushion and closed eyes." >}}
+    {{< imgsrcset original="osky2" alt="Oskar with his head on a cushion and closed eyes." >}}
 
 {{< /figured >}}

@@ -26,6 +26,6 @@ primaryimagealt: "Oskar the huskamute crammed between two big plant pots in orde
 
 {{< figured caption="Finding shade wherever possible…" >}}
 
-    {{< imgsrcset original="between-pots" command="Resize" alt="Oskar the huskamute crammed between two big plant pots in order to stay out of the sun." >}}
+    {{< imgsrcset original="between-pots" alt="Oskar the huskamute crammed between two big plant pots in order to stay out of the sun." >}}
 
 {{< /figured >}}

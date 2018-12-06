@@ -23,12 +23,12 @@ colours:
 Our most recent exercise was to take a long exposure shot.
 
 {{< figured caption="**Seafront traffic.** I wandered around for a while, trying to find a good angle from a height, but the traffic was too quiet! The main sea front road was much better, though it was pretty windy last night, so it’s slightly blurrier that I’d like on the static objects." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4687" original="/images/2015/05/DSCF4517-small.jpg" alt="Streaks of light on a road caused by traffic  during a long exposure." >}}
+  {{< imgsrcset class="wp-image-4687" original="/images/2015/05/DSCF4517-small.jpg" alt="Streaks of light on a road caused by traffic  during a long exposure." >}}
 {{< /figured >}}
 
 Before that, Ashley gave us a great tutorial on using natural light.
 
 {{< figured caption="**Jess.** After reading Ashley’s email on light, I stalked my family around windows. I lightened Jess’s face up a bit, and removed the distracting toasted on the window sill. It’s a bit of an odd crop, but I didn’t want any of the junk in the background." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4688" original="/images/2015/05/DSCF4365-small.jpg" alt="My sister, Jess, sitting in front of a window looking down." >}}
+  {{< imgsrcset class="wp-image-4688" original="/images/2015/05/DSCF4365-small.jpg" alt="My sister, Jess, sitting in front of a window looking down." >}}
 {{< /figured >}}
 

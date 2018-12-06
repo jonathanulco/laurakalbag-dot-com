@@ -27,7 +27,7 @@ The last week has been meeting new friends, relocation admin, and arranging a fe
 ## Oskar status
 
 {{< figured caption="Loving the beach!" >}}
-  {{< imgsrcset command="Resize" class="wp-image-4823" original="/images/2016/03/2016-03-26.jpg" alt="Oskar the dog on the sandy beach in Malmö" >}}
+  {{< imgsrcset class="wp-image-4823" original="/images/2016/03/2016-03-26.jpg" alt="Oskar the dog on the sandy beach in Malmö" >}}
 {{< /figured >}}
 
 Originally posted on the [Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-tuesday-1st-march-2016/1099](https://forum.ind.ie/t/laura-s-diary-tuesday-1st-march-2016/1099)

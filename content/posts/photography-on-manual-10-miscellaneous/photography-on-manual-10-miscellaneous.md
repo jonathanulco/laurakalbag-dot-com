@@ -23,16 +23,16 @@ colours:
 The last few days have brought a very miscellaneous collection of photos.
 
 {{< figured caption="**Rama on the beach.** I was out trying to get the sea and the pier, but the weather was grim, and I found this little figure instead. I think it might be Rama, but I might be wrong…" >}}
-  {{< imgsrcset command="Resize" class="wp-image-4737" original="/images/2015/05/DSCF4833-small.jpg" alt="A Rama figurine, standing in pebbles on Brighton beach" >}}
+  {{< imgsrcset class="wp-image-4737" original="/images/2015/05/DSCF4833-small.jpg" alt="A Rama figurine, standing in pebbles on Brighton beach" >}}
 {{< /figured >}}
 
 The next photo is part of our overlaying exercise set by Ashley. I did it in post-processing, before I discovered that my camera has a multiple exposure setting. It’s pretty cheesy, but an okay first try.
 
 {{< figured caption="**Overlay.** Aral and the sky. Looks a bit film poster…" >}}
-  {{< imgsrcset command="Resize" class="wp-image-4738" original="/images/2015/05/DSCF4869-small.jpg" alt="Profile of Aral, overlaid on purple and blue clouds in the sky" >}}
+  {{< imgsrcset class="wp-image-4738" original="/images/2015/05/DSCF4869-small.jpg" alt="Profile of Aral, overlaid on purple and blue clouds in the sky" >}}
 {{< /figured >}}
 
 {{< figured caption="**Grove.** The tree outside the back of our house looks like it’s glowing at night." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4739" original="/images/2015/05/DSCF4894-small.jpg" alt="A tree with leaves glowing in the streetlight against a background of garages and the backs of buildings" >}}
+  {{< imgsrcset class="wp-image-4739" original="/images/2015/05/DSCF4894-small.jpg" alt="A tree with leaves glowing in the streetlight against a background of garages and the backs of buildings" >}}
 {{< /figured >}}
 

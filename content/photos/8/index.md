@@ -25,6 +25,6 @@ primaryimagealt: "Osky the huskamute walking through the woods, the sunlight is 
 
 {{< figured caption="Morning walk" >}}
 
-    {{< imgsrcset original="woods-2" command="Resize" alt="Osky the huskamute walking through the woods, the sunlight is bright behind the trees." >}}
+    {{< imgsrcset original="woods-2" alt="Osky the huskamute walking through the woods, the sunlight is bright behind the trees." >}}
 
 {{< /figured >}}

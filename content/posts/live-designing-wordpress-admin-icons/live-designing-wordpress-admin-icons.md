@@ -23,7 +23,7 @@ colours:
 A while ago I wrote[ a post about how I was going to do a talk at WordPress London where I would try to design a WordPress admin icon live](/speaking-at-the-wordpress-london-january-meetup/ "Speaking at the WordPress London January meetup"). Well, I did it, and it didn’t go too badly. In fact, I was very lucky as the first suggestion for what I should design was a calendar icon. That’s mostly squares, so not too tricky!
 
 {{< figured caption="The final calendar icons (as designed quickly in 30 minutes or so)" >}}
-  	{{< imgsrcset command="Resize" class="attachment_1989  size-full wp-image-1989" alt="small and large calendar icons" original="/images/2013/02/final-icons.png" >}}
+  	{{< imgsrcset class="attachment_1989  size-full wp-image-1989" alt="small and large calendar icons" original="/images/2013/02/final-icons.png" >}}
 {{< /figured >}}
 
 The WordPress London guys kindly filmed my talk and I’ve included it below. The audio quality isn’t great, and the screen is quite hard to see, particularly during the live demo. (This is mostly a problem with the un-dimmable room lighting rather than the distance and angle of the camera).

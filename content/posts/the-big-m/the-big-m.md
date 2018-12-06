@@ -20,7 +20,7 @@ colours:
   tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
-{{< imgsrcset command="Resize" class="size-medium wp-image-338 alignright" title="Big M badge" original="/images/2011/03/badge-242x320.jpg" alt="Big M badge" >}}
+{{< imgsrcset class="size-medium wp-image-338 alignright" title="Big M badge" original="/images/2011/03/badge-242x320.jpg" alt="Big M badge" >}}
 
 First off, let me declare my complete bias. I’ve been involved with the Big M conference from pretty early on, I was lucky enough to do all the design work and the organisers are lovely guys who I’m proud to call my friends. I’m still on a high from how much I enjoyed myself (and just about recovered from the surreal feeling of being in a place with my own design work *everywhere*) so this is really going to be the most biased event review you’ve ever read!</p>
 ## The Attendees
@@ -41,7 +41,7 @@ Here’s a brief rundown of some of the main points (and some of my terrible iPh
 
 ### Raam Thakrar –; App distribution and monetisation –; the only things more important than lines of code
 
-{{< imgsrcset command="Resize" class="size-medium wp-image-341 alignright" title="Raam Thakrar" original="/images/2011/03/IMG_0537-238x320.jpg" alt="Raam Thakrar" >}}
+{{< imgsrcset class="size-medium wp-image-341 alignright" title="Raam Thakrar" original="/images/2011/03/IMG_0537-238x320.jpg" alt="Raam Thakrar" >}}
 
 > Thakrar: We need to think about why a consumer buys a phone, what part we play in the decision &amp; how can we monetise this [From @bigmconf](http://twitter.com/bigmconf/status/49767361464647680)
 
@@ -51,7 +51,7 @@ Here’s a brief rundown of some of the main points (and some of my terrible iPh
 
 ### Aral Balkan –; Beyond Usability on Mobile
 
-{{< imgsrcset command="Resize" class="size-medium wp-image-342 alignright" title="Aral Balkan" original="/images/2011/03/IMG_0540-239x320.jpg" alt="Aral Balkan" >}}
+{{< imgsrcset class="size-medium wp-image-342 alignright" title="Aral Balkan" original="/images/2011/03/IMG_0540-239x320.jpg" alt="Aral Balkan" >}}
 
 > The differentiating factor that allows Apple to charge more for phones, tablets, mp3 players and PCs is user experience
 
@@ -61,7 +61,7 @@ Here’s a brief rundown of some of the main points (and some of my terrible iPh
 
 ### Panel: led by Dan Appelquist –; Openness: Open Standards/Source/Data in Mobile
 
-{{< imgsrcset command="Resize" class="size-full wp-image-339 alignright" title="Panel session" original="/images/2011/03/IMG_0546.jpg" alt="Panel session" >}}
+{{< imgsrcset class="size-full wp-image-339 alignright" title="Panel session" original="/images/2011/03/IMG_0546.jpg" alt="Panel session" >}}
 
 > Openness is about giving developers choice so they can come to one platform and create content they can use on other platforms [From @bigmconf](http://twitter.com/bigmconf/status/49810212210737153)
 
@@ -71,7 +71,7 @@ Here’s a brief rundown of some of the main points (and some of my terrible iPh
 
 ### Bruce Lawson –; Breaking out of the “Walled Garden”: HTML5 and open technology for mobile development
 
-{{< imgsrcset command="Resize" class="size-medium wp-image-340 alignright" title="Bruce Lawson" original="/images/2011/03/IMG_0544-320x239.jpg" alt="Bruce Lawson" >}}
+{{< imgsrcset class="size-medium wp-image-340 alignright" title="Bruce Lawson" original="/images/2011/03/IMG_0544-320x239.jpg" alt="Bruce Lawson" >}}
 
 > When using new web technologies, make use of them, but don’t rely on them. Always use progressive enhancement
 
@@ -81,7 +81,7 @@ Here’s a brief rundown of some of the main points (and some of my terrible iPh
 
 ### Ewan MacLeod –; State of the Union –; Mobile Address
 
-{{< imgsrcset command="Resize" class="size-medium wp-image-343 alignright" title="Ewan MacLeod" original="/images/2011/03/IMG_0547-239x320.jpg" alt="Ewan MacLeod" >}}
+{{< imgsrcset class="size-medium wp-image-343 alignright" title="Ewan MacLeod" original="/images/2011/03/IMG_0547-239x320.jpg" alt="Ewan MacLeod" >}}
 
 > Apps being separate from the handsets and operators are barriers to the most *useful* mobile experiences. It needs to be seamless
 
@@ -91,7 +91,7 @@ Here’s a brief rundown of some of the main points (and some of my terrible iPh
 
 ### Paul Golding –; Future Innovations In Mobile
 
-{{< imgsrcset command="Resize" class="size-medium wp-image-344 alignright" title="Paul Golding" original="/images/2011/03/IMG_0549-239x320.jpg" alt="Paul Golding" >}}
+{{< imgsrcset class="size-medium wp-image-344 alignright" title="Paul Golding" original="/images/2011/03/IMG_0549-239x320.jpg" alt="Paul Golding" >}}
 
 > Golding: There is a myth that being first is really important. You want to be the first to win not the first to market [From @bigmconf](http://twitter.com/bigmconf/status/49872937783799808)
 

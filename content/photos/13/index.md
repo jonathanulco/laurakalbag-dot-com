@@ -26,6 +26,6 @@ primaryimagealt: "Cat sitting on laptop keyboard staring angrily into the camera
 
 {{< figured caption="No more work for you." >}}
 
-    {{< imgsrcset original="no-more-work" command="Resize" alt="Cat sitting on laptop keyboard staring angrily into the camera." >}}
+    {{< imgsrcset original="no-more-work" alt="Cat sitting on laptop keyboard staring angrily into the camera." >}}
 
 {{< /figured >}}

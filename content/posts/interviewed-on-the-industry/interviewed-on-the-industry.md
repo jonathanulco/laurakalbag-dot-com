@@ -22,5 +22,5 @@ colours:
 
 Last week I had a chat with the lovely Conor O’Driscoll and last night he [published the interview on The Industry](http://theindustry.cc/2013/03/13/an-interview-with-laura-kalbag/). We talking about design work, education and what I define as success, among other things.
 
-{{< imgsrcset command="Resize" alt="The Industry" original="/images/2013/03/the-industry.png" >}}
+{{< imgsrcset alt="The Industry" original="/images/2013/03/the-industry.png" >}}
 

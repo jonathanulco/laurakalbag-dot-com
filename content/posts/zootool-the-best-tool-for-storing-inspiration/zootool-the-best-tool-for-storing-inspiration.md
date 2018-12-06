@@ -30,7 +30,7 @@ Zootool captured me from the beginning with the mac-like, slick and incredibly u
 
 {{< figured >}}
   {{< link href="/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24.png" >}}
-  	{{< imgsrcset command="Resize" class="wp-image-19" title="my Zootool Zoo" original="/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24-960x567.png" alt="my Zootool Zoo" >}}
+  	{{< imgsrcset class="wp-image-19" title="my Zootool Zoo" original="/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24-960x567.png" alt="my Zootool Zoo" >}}
   {{< /link >}}
 {{< /figured >}}
 
@@ -40,7 +40,7 @@ It’s not really restricted to scrapbook-style use either. I was surprised to f
 
 {{< figured >}}
   {{< link href="/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24.png" >}}
-  	{{< imgsrcset command="Resize" class="wp-image-19" title="my Zootool Zoo" original="/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24-960x567.png" alt="my Zootool Zoo" >}}
+  	{{< imgsrcset class="wp-image-19" title="my Zootool Zoo" original="/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-20.46.24-960x567.png" alt="my Zootool Zoo" >}}
   {{< /link >}}
 {{< /figured >}}
 
@@ -50,7 +50,7 @@ Zootool also has special versions for iPhone and iPad (though for some reason I 
 
 {{< figured >}}
   {{< link href="/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-21.08.18.png" >}}
-  	{{< imgsrcset command="Resize" class="wp-image-20" title="my Zootool Zoo in Fluid app with the MobileMe Olive theme" original="/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-21.08.18-960x584.png" alt="my Zootool Zoo in Fluid app with the MobileMe Olive theme" >}}
+  	{{< imgsrcset class="wp-image-20" title="my Zootool Zoo in Fluid app with the MobileMe Olive theme" original="/wp-content/uploads/2010/06/Screen-shot-2010-06-10-at-21.08.18-960x584.png" alt="my Zootool Zoo in Fluid app with the MobileMe Olive theme" >}}
   {{< /link >}}
 {{< /figured >}}These are just a few of the numerous tools available that you can use with Zootool, and all for free. In case you couldn’t guess by the gushingness of this post, I really *really* thoroughly recommend it to anybody wanting to keep a collection of inspirational images.
 

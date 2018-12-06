@@ -27,27 +27,27 @@ Over the next month, I’m going to try to blog some of my photos taken during A
 The first task was to switch my camera to manual…
 
 {{< figured caption="**First photo on manual**. Fallen at the first hurdle, I turned my settings on to manual and fiddled with the shutter speed and aperture but couldn’t seem to get any exposure at all." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4656" original="/images/2015/05/DSCF3427-small.jpg" alt="All-black dark shot" >}}
+  {{< imgsrcset class="wp-image-4656" original="/images/2015/05/DSCF3427-small.jpg" alt="All-black dark shot" >}}
 {{< /figured >}}
 
 {{< figured caption="**Narrow depth of field**. Following the examples in Ashley’s email, I tried to get a narrow depth of field on Oskar. The shadow in the room made it a bit awkward, as your eyes are drawn to his leg rather than his head, but at least the background is blurry!" >}}
-  {{< imgsrcset command="Resize" class="wp-image-4657" original="/images/2015/05/DSCF3442-small.jpg" alt="Photo of Oskar the dog curled up on the sofa, with a blurry background" >}}
+  {{< imgsrcset class="wp-image-4657" original="/images/2015/05/DSCF3442-small.jpg" alt="Photo of Oskar the dog curled up on the sofa, with a blurry background" >}}
 {{< /figured >}}
 
 {{< figured caption="**Narrow aperture**. To mimic the landscape shot, I was a bit lazy and looked out of our back window. The built-up buildings round here are pretty maze-like." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4658" original="/images/2015/05/DSCF3446-small.jpg" alt="Photo of back of tall higgledy-piggledy regency buildings" >}}
+  {{< imgsrcset class="wp-image-4658" original="/images/2015/05/DSCF3446-small.jpg" alt="Photo of back of tall higgledy-piggledy regency buildings" >}}
 {{< /figured >}}
 
 {{< figured caption="**Shutter speed 1**. These next few shots were playing with the shutter speed to see what would be blurry, and what would be sharp. I couldn’t seem to get any of them very sharp!" >}}
-  {{< imgsrcset command="Resize" class="wp-image-4659" original="/images/2015/05/DSCF3450-small.jpg" alt="Mostly blurry photo of Oskar the dog scratching" >}}
+  {{< imgsrcset class="wp-image-4659" original="/images/2015/05/DSCF3450-small.jpg" alt="Mostly blurry photo of Oskar the dog scratching" >}}
 {{< /figured >}}
 
 {{< figured caption="**Shutter speed 2**. The sharpest of the Osky shots." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4660" original="/images/2015/05/DSCF3456-small.jpg" alt="Quite blurry photo of Oskar the dog scratching" >}}
+  {{< imgsrcset class="wp-image-4660" original="/images/2015/05/DSCF3456-small.jpg" alt="Quite blurry photo of Oskar the dog scratching" >}}
 {{< /figured >}}
 
 {{< figured caption="**Shutter speed 3**. The blurriest of the Osky shots." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4661" original="/images/2015/05/DSCF3468-small.jpg" alt="Blurry photo of Oskar the dog scratching" >}}
+  {{< imgsrcset class="wp-image-4661" original="/images/2015/05/DSCF3468-small.jpg" alt="Blurry photo of Oskar the dog scratching" >}}
 {{< /figured >}}
 
 I’m also going to try to take more than just dog photos!

@@ -23,22 +23,22 @@ colours:
 This week, the Ind.ie team are at re:publica in Berlin, so I’m getting lots of opportunities to take photos that aren’t just of the dog!
 
 {{< figured caption="re:publica in Berlin" >}}
-  {{< imgsrcset command="Resize" class="wp-image-4668" original="/images/2015/05/DSCF3596-small.jpg" alt="Sign for re:publica event, stage one" >}}
+  {{< imgsrcset class="wp-image-4668" original="/images/2015/05/DSCF3596-small.jpg" alt="Sign for re:publica event, stage one" >}}
 {{< /figured >}}
 
 {{< figured caption="**Projection.** A very abstract photo." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4672" original="/images/2015/05/DSCF3538-small.jpg" alt="A projected luminous anti-gun symbol on a floor" >}}
+  {{< imgsrcset class="wp-image-4672" original="/images/2015/05/DSCF3538-small.jpg" alt="A projected luminous anti-gun symbol on a floor" >}}
 {{< /figured >}}
 
 {{< figured caption="**STG-1 (Stage 1) at re:publica.** A fairly dark location, lit very strongly at one end. I managed to get a blurry walking man against it all." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4669" original="/images/2015/05/DSCF3603-small.jpg" alt="Big hallway with lots of seats and a stage at one end. A few people in the distance." >}}
+  {{< imgsrcset class="wp-image-4669" original="/images/2015/05/DSCF3603-small.jpg" alt="Big hallway with lots of seats and a stage at one end. A few people in the distance." >}}
 {{< /figured >}}
 
 {{< figured caption="**Close up Aral.** Chopped the top of his head off, and he’s a bit coloured by the red light. I’m pleased I managed to get his face in focus, though it’s stronger around his mouth, whereas I guess the eyes is where we should be aiming for sharpness?" >}}
-  {{< imgsrcset command="Resize" class="wp-image-4670" original="/images/2015/05/DSCF3612-small.jpg" alt="Close up photo of Aral Balkan" >}}
+  {{< imgsrcset class="wp-image-4670" original="/images/2015/05/DSCF3612-small.jpg" alt="Close up photo of Aral Balkan" >}}
 {{< /figured >}}
 
 {{< figured caption="**Between heads.** It’s not the most interesting shot, but I was pleased to get an in-focus photo between the heads in front of me." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4671" original="/images/2015/05/DSCF3679-small.jpg" alt="Photo of two women speaking on stage from behind the heads of two audience members" >}}
+  {{< imgsrcset class="wp-image-4671" original="/images/2015/05/DSCF3679-small.jpg" alt="Photo of two women speaking on stage from behind the heads of two audience members" >}}
 {{< /figured >}}
 

@@ -25,6 +25,6 @@ primaryimagealt: "Aral smiling across the table from me, we both have glasses of
 
 {{< figured caption="Cheeky Friday lunchtime sangria" >}}
 
-    {{< imgsrcset original="aral" command="Resize" alt="Aral smiling across the table from me, we both have glasses of sangria adorned with fruit slices." >}}
+    {{< imgsrcset original="aral" alt="Aral smiling across the table from me, we both have glasses of sangria adorned with fruit slices." >}}
 
 {{< /figured >}}

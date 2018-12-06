@@ -36,7 +36,7 @@ Post text
 Let’s start with the most mortifying…
 
 {{< figured caption="Thumbs up? Despite the design looking table-like, the whole design is done with floats and painstaking pixels. Pain is probably what you feel when you look at the combined colours and textures of the background. Textures were very trendy." src2="/images/2018/08/v-2010-about.png" alt2="Screenshot of the About page from 2010, which is similar to the Home page but features a boring list of my so-called skills at the time." src3="/images/2018/08/v-2010-contact.png" alt3="Screenshot of the Contact page from 2010, which sports a similar design to the other two pages, but also a very formal-looking contact form." >}}
-  {{< imgsrcset command="Resize" class="grid" original="/images/2018/08/v-2010-home.png" alt="Screenshot of an obnoxious early redesign that has a grid aesthetic with a very brightly coloured background pattern." >}}
+  {{< imgsrcset class="grid" original="/images/2018/08/v-2010-home.png" alt="Screenshot of an obnoxious early redesign that has a grid aesthetic with a very brightly coloured background pattern." >}}
 {{< /figured >}}
 
 ## 2012
@@ -44,7 +44,7 @@ Let’s start with the most mortifying…
 You can’t tell from the screenshot, but this was my first responsive incarnation of my personal site.
 
 {{< figured caption="2012 was when I first toyed with using different colour themes on different pages. I’ve always loved colour and still think this is a fun way to use it. The swatch panel features more colours than were used in the CSS itself. The background was hand-drawn and scanned in. It was an unnecessarily large file." src2="/images/2018/08/v-2012-about.png" alt2="Screenshot of the About page from 2012, which is similar to the Home page but has a green colour theme, and a different pen drawing featuring a little solar system." src3="/images/2018/08/v-2012-contact.png" alt3="Screenshot of the Contact page from 2012, which is similar to the other two pages but with a teal colour theme and another different white pen illustration." >}}
-  {{< imgsrcset command="Resize" class="grid" original="/images/2018/08/v-2012-home.png" alt="Screenshot of the 2012 homepage which has a brightly-coloured purple ackground with a swatch palette of colours below the navigation, and a background illustration in white pen." >}}
+  {{< imgsrcset class="grid" original="/images/2018/08/v-2012-home.png" alt="Screenshot of the 2012 homepage which has a brightly-coloured purple ackground with a swatch palette of colours below the navigation, and a background illustration in white pen." >}}
 {{< /figured >}}
 
 The pen illustrations were only featured on the main site pages, I didn’t want to overcrowd the portfolio pages. Somehow overcrowding the main pages was fine.
@@ -54,11 +54,11 @@ The pen illustrations were only featured on the main site pages, I didn’t want
 Going corporate? I know this was slightly more sophisticated design, but looking at it against the previous versions, it looks a bit boring.
 
 {{< figured caption="CAPTION" src2="/images/2018/08/v-2015-about.png" alt2="Screenshot of the About page from 2018, which is similar to the Home page." src3="/images/2018/08/v-2015-contact.png" alt3="Screenshot of the Contact page from 2018, which ." >}}
-  {{< imgsrcset command="Resize" class="grid" original="/images/2018/08/v-2015-home.png" alt="Screenshot of the 2018 homepage ." >}}
+  {{< imgsrcset class="grid" original="/images/2018/08/v-2015-home.png" alt="Screenshot of the 2018 homepage ." >}}
 {{< /figured >}}
 
 ## November 2017
 
 {{< figured caption="CAPTION" src2="/images/2018/08/v-2018-about.png" alt2="Screenshot of the About page from 2018, which is similar to the Home page." src3="/images/2018/08/v-2018-contact.png" alt3="Screenshot of the Contact page from 2018, which ." >}}
-  {{< imgsrcset command="Resize" class="grid" original="/images/2018/08/v-2018-home.png" alt="Screenshot of the 2018 homepage ." >}}
+  {{< imgsrcset class="grid" original="/images/2018/08/v-2018-home.png" alt="Screenshot of the 2018 homepage ." >}}
 {{< /figured >}}

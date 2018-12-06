@@ -27,6 +27,6 @@ primaryimagealt: "Selfie with a small grey cat, she’s enjoying having her head
 
 {{< figured caption="Back in the homeland with the home cat." >}}
 
-    {{< imgsrcset original="home-cat" command="Resize" alt="Selfie with a small grey cat, she’s enjoying having her head stroked." >}}
+    {{< imgsrcset original="home-cat" alt="Selfie with a small grey cat, she’s enjoying having her head stroked." >}}
 
 {{< /figured >}}

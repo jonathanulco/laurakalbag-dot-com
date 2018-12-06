@@ -30,6 +30,6 @@ Note text<!--more-->
 
 {{< figured caption="caption text" >}}
 
-    {{< imgsrcset original="filenameX" command="Resize" alt="alt text" >}}
+    {{< imgsrcset original="filenameX" alt="alt text" >}}
 
 {{< /figured >}}

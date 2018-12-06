@@ -24,7 +24,7 @@ I’ve also finally updated that terrible avatar to something much better. I loo
 
 {{< figured >}}
   {{< link href="http://alistapart.com/column/breaking-stuff" >}}
-  	{{< imgsrcset command="Resize" original="/images/2014/10/Breaking-Stuff.png" alt="Breaking Stuff column on A List Apart" >}}
+  	{{< imgsrcset original="/images/2014/10/Breaking-Stuff.png" alt="Breaking Stuff column on A List Apart" >}}
   {{< /link >}}
 {{< /figured >}}
 

@@ -25,6 +25,6 @@ primaryimagealt: "Woods lit with evening sunbeams, Oskar the huskamute in the di
 
 {{< figured caption="Like being in a painting" >}}
 
-    {{< imgsrcset original="sunbeam-woods" command="Resize" alt="Woods lit with evening sunbeams, Oskar the huskamute in the distance looking back at me." >}}
+    {{< imgsrcset original="sunbeam-woods" alt="Woods lit with evening sunbeams, Oskar the huskamute in the distance looking back at me." >}}
 
 {{< /figured >}}

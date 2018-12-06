@@ -40,7 +40,7 @@ Whilst you should never bear the responsibility of my admiration, please be awar
 Laura x
 
 {{< figured caption="" >}}
-  	{{< imgsrcset command="Resize" class="wp-image-1805" style="margin: 0px auto; max-width:17px; border: none;" alt="heart" original="/images/2013/01/29-heart@2x.png" >}}
+  	{{< imgsrcset class="wp-image-1805" style="margin: 0px auto; max-width:17px; border: none;" alt="heart" original="/images/2013/01/29-heart@2x.png" >}}
 {{< /figured >}}
 
 ## 10 comments

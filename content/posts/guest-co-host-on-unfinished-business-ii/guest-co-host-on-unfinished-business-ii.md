@@ -34,6 +34,6 @@ One of the sponsors this week was [Slide + Stage](http://thelink.is/unfinishedbu
 
 <p style="text-align: center;">{{< figured >}}
   {{< link href="http://thelink.is/unfinishedbusiness" >}}
-  	{{< imgsrcset command="Resize" class="wp-image-3297" alt="Slide + Stage" original="/images/2013/05/slideandstage.png" >}}
+  	{{< imgsrcset class="wp-image-3297" alt="Slide + Stage" original="/images/2013/05/slideandstage.png" >}}
   {{< /link >}}
 {{< /figured >}}</p>

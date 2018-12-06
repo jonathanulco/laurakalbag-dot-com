@@ -28,7 +28,7 @@ I wrote a book! It’s called *Accessibility For Everyone*, and you can [buy it 
 
 {{< figured caption="Photos taken by folks on Twitter" >}}
 
-    {{< imgsrcset original="book-collage" command="Resize" alt="Collage of photos of the Accessibility For Everyone paperback posted on people’s desks, tables and outside." >}}
+    {{< imgsrcset original="book-collage" alt="Collage of photos of the Accessibility For Everyone paperback posted on people’s desks, tables and outside." >}}
 
 {{< /figured >}}
 
@@ -75,6 +75,6 @@ A Book Apart also sells [mugs printed with each of their book covers](https://ab
 
 {{< figured caption="Osky and me trying the mug out!" >}}
 
-    {{< imgsrcset original="book-mug" command="Resize" alt="Two photos. One showing Laura drinking from a green mug with the Accessibility For Everyone book cover printed on it. The other showing Oskar the husky-malamute dog looking at the same mug and licking his nose." >}}
+    {{< imgsrcset original="book-mug" alt="Two photos. One showing Laura drinking from a green mug with the Accessibility For Everyone book cover printed on it. The other showing Oskar the husky-malamute dog looking at the same mug and licking his nose." >}}
 
 {{< /figured >}}

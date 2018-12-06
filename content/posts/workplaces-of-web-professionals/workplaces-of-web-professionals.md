@@ -26,7 +26,7 @@ The featured photo of my workplace (in our ind.ie home office) shows the fairly 
 
 {{< figured >}}
   {{< link href="http://martinwolf.org/2014/08/14/workplaces-of-web-professionals-part-1/" >}}
-  	{{< imgsrcset command="Resize" original="/images/2014/08/workplaces-of-web-professionals.png" alt="a photo of my desk, complete with a lot of junk and a dog in shot" >}}
+  	{{< imgsrcset original="/images/2014/08/workplaces-of-web-professionals.png" alt="a photo of my desk, complete with a lot of junk and a dog in shot" >}}
   {{< /link >}}
 {{< /figured >}}
 

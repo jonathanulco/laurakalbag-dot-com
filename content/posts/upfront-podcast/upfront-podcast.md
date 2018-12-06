@@ -22,6 +22,6 @@ colours:
 
 I was a guest on [the Upfront podcast with the lovely Jack Franklin and Ben Howdle](http://upfrontpodcast.com/2013/02/15/episode4.html). They got me on to talk about accessibility, but we ended up chatting about the mentoring project too! You can [listen on their website](http://upfrontpodcast.com/2013/02/15/episode4.html), or [listen and subscribe on iTunes](https://itunes.apple.com/gb/podcast/upfront-podcast/id598389212?mt=2).
 
-{{< imgsrcset command="Resize" alt="upfront" original="/images/2013/02/upfront1.png" >}}
+{{< imgsrcset alt="upfront" original="/images/2013/02/upfront1.png" >}}
 
 	

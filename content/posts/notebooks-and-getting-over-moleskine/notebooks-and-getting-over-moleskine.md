@@ -36,7 +36,7 @@ You don’t have to worry about hierarchy as you would on note taking software (
 
 <p style="text-align: center;">
 {{< figured caption="Random notes, post-its mixed in, who cares?!" >}}
-  	{{< imgsrcset command="Resize" class="attachment_357  size-large wp-image-357 " title="Random notes, post-its mixed in, who cares?!" original="/images/2011/03/IMG_0587-960x717.jpg" alt="Random notes, post-its mixed in, who cares?!" >}}
+  	{{< imgsrcset class="attachment_357  size-large wp-image-357 " title="Random notes, post-its mixed in, who cares?!" original="/images/2011/03/IMG_0587-960x717.jpg" alt="Random notes, post-its mixed in, who cares?!" >}}
 {{< /figured >}}
 ## It’s not about making it neat
 
@@ -51,7 +51,7 @@ It’s not about making it tidy, it’s about trying to get ideas out as quickly
 
 <p style="text-align: center;">
 {{< figured caption="Probably rubbish ideas, straight lines not available&#8230;" >}}
-  	{{< imgsrcset command="Resize" class="attachment_358  size-large wp-image-358 " title="Probably rubbish ideas, straight lines not available..." original="/images/2011/03/IMG_0585-960x717.jpg" alt="Probably rubbish ideas, straight lines not available..." >}}
+  	{{< imgsrcset class="attachment_358  size-large wp-image-358 " title="Probably rubbish ideas, straight lines not available..." original="/images/2011/03/IMG_0585-960x717.jpg" alt="Probably rubbish ideas, straight lines not available..." >}}
 {{< /figured >}}
 ## What’s the perfect notebook?
 
@@ -68,13 +68,13 @@ Recently I decided I wanted to go for something different. I saw the [Leuchtturm
 So I bought myself a [lime green large squared notebook](http://www.thepaperie.co.uk/notebooks/leuchtturm1917-notebooks/leuchtturm1917-large-lime-notebook-squared.html "Leuchtturm1917 Large Lime Notebook, squared at The Paperie"). Along with a little pen holder, as I could get it in a matching colour. This notebook is lovely.
 
 {{< figured caption="My Leuchtturm1917 Lime Notebook" >}}
-  	{{< imgsrcset command="Resize" class="attachment_353  size-medium wp-image-353" title="Leuchtturm1917 Lime Notebook" original="/images/2011/03/IMG_0580-239x320.jpg" alt="Leuchtturm1917 Lime Notebook" >}}
+  	{{< imgsrcset class="attachment_353  size-medium wp-image-353" title="Leuchtturm1917 Lime Notebook" original="/images/2011/03/IMG_0580-239x320.jpg" alt="Leuchtturm1917 Lime Notebook" >}}
 {{< /figured >}}
 
 The squares aren’t all the way up to the edges, like the Moleskine, it has margins at the top and bottom of each page and a space for the date. It has contents pages for you to fill in and comes with labels so you can index your notebooks. It isn’t quite as big as a XLarge Moleskine, but is a more manageable size than the larger Leuchtturm1917 notebooks and, being hardback, it makes it easier to handle.
 
 {{< figured caption="Contents page in my Leuchtturm1917 notebook" >}}
-  	{{< imgsrcset command="Resize" class="attachment_354  size-large wp-image-354" title="Contents page in my Leuchtturm1917 notebook" original="/images/2011/03/IMG_0581-960x717.jpg" alt="Contents page in my Leuchtturm1917 notebook" >}}
+  	{{< imgsrcset class="attachment_354  size-large wp-image-354" title="Contents page in my Leuchtturm1917 notebook" original="/images/2011/03/IMG_0581-960x717.jpg" alt="Contents page in my Leuchtturm1917 notebook" >}}
 {{< /figured >}}
 
 <p style="text-align: center;">
@@ -82,12 +82,12 @@ Probably most importantly, the squares are more subtle. Moleskine squares are bo
 
 <p style="text-align: center;">
 {{< figured caption="Subtle squares in my Leuchtturm1917 notebook" >}}
-  	{{< imgsrcset command="Resize" class="attachment_355  size-large wp-image-355 " title="Subtle squares in my Leuchtturm1917 notebook" original="/images/2011/03/IMG_0582-960x717.jpg" alt="Subtle squares in my Leuchtturm1917 notebook" >}}
+  	{{< imgsrcset class="attachment_355  size-large wp-image-355 " title="Subtle squares in my Leuchtturm1917 notebook" original="/images/2011/03/IMG_0582-960x717.jpg" alt="Subtle squares in my Leuchtturm1917 notebook" >}}
 {{< /figured >}}
 
 <p style="text-align: center;">
 {{< figured caption="Noisy squares in the Moleskine squared notebook" >}}
-  	{{< imgsrcset command="Resize" class="attachment_356  size-large wp-image-356 " title="Noisy squares in the Moleskine squared notebook" original="/images/2011/03/IMG_0586-960x717.jpg" alt="Noisy squares in the Moleskine squared notebook" >}}
+  	{{< imgsrcset class="attachment_356  size-large wp-image-356 " title="Noisy squares in the Moleskine squared notebook" original="/images/2011/03/IMG_0586-960x717.jpg" alt="Noisy squares in the Moleskine squared notebook" >}}
 {{< /figured >}}
 &nbsp;
 

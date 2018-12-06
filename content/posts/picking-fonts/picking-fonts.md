@@ -30,7 +30,7 @@ I don’t think this is totally fair, but I’m sure some people might get confu
 
 Easily said, I know, but some fonts are clearly more suitable for particular designs than others. For example, you wouldn’t use a font that looks like it’s dripping blood on a corporate site, and you’d not use a handwriting-style font on a site about computer programming.
 
-{{< imgsrcset command="Resize" title="Firey font isn't really suitable for Daisy's Darling Cake shop" original="/images/2010/07/Screen-shot-2010-07-05-at-18.39.37.png" alt="Firey font isn't really suitable for Daisy's Darling Cake shop" >}}
+{{< imgsrcset title="Firey font isn't really suitable for Daisy's Darling Cake shop" original="/images/2010/07/Screen-shot-2010-07-05-at-18.39.37.png" alt="Firey font isn't really suitable for Daisy's Darling Cake shop" >}}
 
 <p>If you’re aiming for clean and modern, go sans-serif. If you’re looking for a slightly more traditional feel, go serif.
  
@@ -38,15 +38,15 @@ Easily said, I know, but some fonts are clearly more suitable for particular des
 
 With all these cool fonts around, it’s easy to go over-the-top and try out loads at once. Unless you’re going for a Victorian poster style, I’d steer clear of the multi-font look.
 
-{{< imgsrcset command="Resize" class=" size-medium wp-image-97" title="Old Victorian circus poster, lots and lots of fonts" original="/images/2010/07/Circus_Montreal_9_March_1812-253x320.jpg" alt="Old Victorian circus poster, lots and lots of fonts" >}}
+{{< imgsrcset class=" size-medium wp-image-97" title="Old Victorian circus poster, lots and lots of fonts" original="/images/2010/07/Circus_Montreal_9_March_1812-253x320.jpg" alt="Old Victorian circus poster, lots and lots of fonts" >}}
 
 It’s difficult to find two fonts that match each other well. You want to look for as similar shapes as possible, round fonts with other circle-based fonts, condensed fonts with other tall, thin fonts.
 
-{{< imgsrcset command="Resize" class="wp-image-93" title="Kaffeesatz as a header font with Droid Sans as the body font" original="/images/2010/07/Screen-shot-2010-07-05-at-18.48.50.png" alt="Kaffeesatz as a header font with Droid Sans as the body font" >}}
+{{< imgsrcset class="wp-image-93" title="Kaffeesatz as a header font with Droid Sans as the body font" original="/images/2010/07/Screen-shot-2010-07-05-at-18.48.50.png" alt="Kaffeesatz as a header font with Droid Sans as the body font" >}}
 
 If you’re really struggling to combine two, just use a different weight or style for the heading, like bold or all uppercase.
 
-{{< imgsrcset command="Resize" class="wp-image-94" title="Georgia as header and body font" original="/images/2010/07/Screen-shot-2010-07-05-at-18.51.45.png" alt="Georgia as header and body font" >}}
+{{< imgsrcset class="wp-image-94" title="Georgia as header and body font" original="/images/2010/07/Screen-shot-2010-07-05-at-18.51.45.png" alt="Georgia as header and body font" >}}
 
 <p>Mark Boulton covers these kinds of combinations in his fantastic book, A Practical Guide to Designing For The Web.
 
@@ -54,13 +54,13 @@ If you’re really struggling to combine two, just use a different weight or sty
 
 The easiest way to find two fonts that suit each other is to take two from the same family. These are always designed around the same shapes so you know they’ll look good next to each other. This is particularly useful if you want to mix serif and sans-serif fonts. For example, the Museo family. Museo Sans, Museo Serif and Museo Slab all look great used in any combination.
 
-{{< imgsrcset command="Resize" class="size-full wp-image-95 aligncenter" title="The Museo Family" original="/images/2010/07/Screen-shot-2010-07-05-at-18.55.53.png" alt="The Museo Family" >}}
+{{< imgsrcset class="size-full wp-image-95 aligncenter" title="The Museo Family" original="/images/2010/07/Screen-shot-2010-07-05-at-18.55.53.png" alt="The Museo Family" >}}
 
 ### Use simple fonts for body text
 
 Whatever you do, leave the fancy fonts for the headings. With body text (paragraph text,) you’re aiming for readability above all else. Using any kind of fancy, looping, scrawly, drippy, firey font here will make it hard to read and really distract the reader.
 
-{{< imgsrcset command="Resize" class="size-full wp-image-96 aligncenter" title="A paragraph in Papyrus" original="/images/2010/07/Screen-shot-2010-07-05-at-18.59.14.png" alt="A paragraph in Papyrus" >}}
+{{< imgsrcset class="size-full wp-image-96 aligncenter" title="A paragraph in Papyrus" original="/images/2010/07/Screen-shot-2010-07-05-at-18.59.14.png" alt="A paragraph in Papyrus" >}}
 
 ### Use lovely long font stacks
 
@@ -83,7 +83,7 @@ Not much effort, maximum kindness to the user.
 Whichever fonts you choose, you want to make sure it looks good in as many browsers as possible. For us lucky mac users, the fonts tend to normally look smooth and light and lovely. Unfortunately many Windows users aren’t so lucky. Craggy, pixelly and oddly squashed-looking fonts are very common.
 
 {{< figured caption="Typodermic’s Bouffant font in Mac’s Safari (top) and Windows’ Internet Explorer 6 (bottom)" >}}
-  {{< imgsrcset command="Resize" class="wp-image-98" title="Typodermic's Bouffant font in Mac's Safari (top) and Windows' Internet Explorer 6 (bottom) " original="/images/2010/07/Screen-shot-2010-07-05-at-19.14.52.jpg" alt="Typodermic's Bouffant font in Mac's Safari (top) and Windows' Internet Explorer 6 (bottom) " >}}
+  {{< imgsrcset class="wp-image-98" title="Typodermic's Bouffant font in Mac's Safari (top) and Windows' Internet Explorer 6 (bottom) " original="/images/2010/07/Screen-shot-2010-07-05-at-19.14.52.jpg" alt="Typodermic's Bouffant font in Mac's Safari (top) and Windows' Internet Explorer 6 (bottom) " >}}
 {{< /figured >}}
 
 Many Windows people aren’t as fussy as me, or just don’t notice, but it’s really worth checking that what the Windows’ users see is actually *legible*.

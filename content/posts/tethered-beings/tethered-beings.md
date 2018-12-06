@@ -22,7 +22,7 @@ This week the Ind.ie roundup returns with a big one. Great news on the UK survei
 
 {{< figured >}}
   {{< link href="https://ind.ie/blog/tethered-beings/" >}}
-  	{{< imgsrcset command="Resize" class="wp-image-4782" original="/images/2015/07/Screen-Shot-2015-07-17-at-18.49.31-1024x980.png" alt="Screenshot of Ind.ie roundup" >}}
+  	{{< imgsrcset class="wp-image-4782" original="/images/2015/07/Screen-Shot-2015-07-17-at-18.49.31-1024x980.png" alt="Screenshot of Ind.ie roundup" >}}
   {{< /link >}}
 {{< /figured >}}
 

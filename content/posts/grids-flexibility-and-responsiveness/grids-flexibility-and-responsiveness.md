@@ -23,7 +23,7 @@ colours:
 The first step in my grid design was to choose an appropriate typeface. I knew this would be everything on such a text-heavy site, and I really struggled because, as with all the elements on my personal site, I wanted it to reflect “me”. I wanted a typeface that felt friendly and not too formal whilst still appearing clean, readable and professional. I sunk money on a few lesser-known typefaces (everybody wants to be different and original, right?!) before completely falling for Avenir. [Avenir was only available (with the delivery method I preferred) as a web font from fonts.com](http://www.fonts.com/font/linotype/avenir?QueryFontType=Web "Avenir web font on fonts.com") so that made choosing the font service much easier.
 
 {{< figured caption="Avenir typeface sample" >}}
-  	{{< imgsrcset command="Resize" class="attachment_1171  size-full wp-image-1171" title="Avenir typeface sample" original="/images/2012/10/72.png" alt="Avenir typeface sample" >}}
+  	{{< imgsrcset class="attachment_1171  size-full wp-image-1171" title="Avenir typeface sample" original="/images/2012/10/72.png" alt="Avenir typeface sample" >}}
 {{< /figured >}}
 
 ### Basic setting of the typeface
@@ -31,7 +31,7 @@ The first step in my grid design was to choose an appropriate typeface. I knew t
 Playing with Avenir in [Typecast](http://beta.typecastapp.com/) gave me an idea of the size I wanted to use it. Making it pretty big allowed its character to show whilst maximising readability. I’m also keen on a bigger line height on rounded sans serif type faces as their spacious counters can make their lines harder to distinguish if the leading is tighter.
 
 {{< figured caption="Playing with content set in Avenir in Typecast" >}}
-  	{{< imgsrcset command="Resize" class="attachment_1172  size-full wp-image-1172" title="Playing with content set in Avenir in Typecast" original="/images/2012/10/Screen-Shot-2012-10-12-at-19.58.47.png" alt="Playing with content set in Avenir in Typecast" >}}
+  	{{< imgsrcset class="attachment_1172  size-full wp-image-1172" title="Playing with content set in Avenir in Typecast" original="/images/2012/10/Screen-Shot-2012-10-12-at-19.58.47.png" alt="Playing with content set in Avenir in Typecast" >}}
 {{< /figured >}}
 
 ## Base units and vertical rhythm
@@ -45,11 +45,11 @@ When I was creating the grid design for this site I was dying to play more with 
 Having this flexibility in my content meant the fancy grids in Gridset were mine to try out. I chose grid A as my primary grid to stick to for as many of the layouts as suited the content, and B as my secondary grid when the content better fitted to points between the grid A’s columns. Using the grids overlaid in this way gave me consistency whilst still maintaining a level of flexibility.
 
 {{< figured caption="Grid A and Grid B overlaid on my base unit grid" >}}
-  	{{< imgsrcset command="Resize" class="attachment_1173  size-full wp-image-1173" title="Grid A and Grid B overlaid on my base unit grid" original="/images/2012/10/grid-a-and-grid-b.png" alt="Grid A and Grid B overlaid on my base unit grid" >}}
+  	{{< imgsrcset class="attachment_1173  size-full wp-image-1173" title="Grid A and Grid B overlaid on my base unit grid" original="/images/2012/10/grid-a-and-grid-b.png" alt="Grid A and Grid B overlaid on my base unit grid" >}}
 {{< /figured >}}
 
 {{< figured caption="Grids A and B overlaid" >}}
-  	{{< imgsrcset command="Resize" class="attachment_1174  size-full wp-image-1174" title="Grids A and B overlaid" original="/images/2012/10/grids-a-and-b-overlaid.png" alt="Grids A and B overlaid" >}}
+  	{{< imgsrcset class="attachment_1174  size-full wp-image-1174" title="Grids A and B overlaid" original="/images/2012/10/grids-a-and-b-overlaid.png" alt="Grids A and B overlaid" >}}
 {{< /figured >}}
 
 ### Flexible grids
@@ -59,27 +59,27 @@ Now I don’t really believe in creating a fully (often based entirely on percen
 Instead, as my viewport reduces in width, I remove the columns from the right end of the grid and re-distribute the content where relevant in order to achieve readable content and consistent, structured feel. So this might be me as designer ‘not letting go’ of fixed constraints or embracing fluidity as much as I possibly can, but I believe that it’s this structure that allows us to maintain a level of control over the measure (line length) necessary for pleasurable reading experience. If you’re going to create breakpoints at arbitrary positions in order to keep your text readable, why not fit it around a balanced grid layout instead?
 
 {{< figured caption="Wide About page, utilising the full grid" >}}
-  	{{< imgsrcset command="Resize" class="attachment_1175  size-full wp-image-1175" title="Wide About page" original="/images/2012/10/about-large.png" alt="Wide About page" >}}
+  	{{< imgsrcset class="attachment_1175  size-full wp-image-1175" title="Wide About page" original="/images/2012/10/about-large.png" alt="Wide About page" >}}
 {{< /figured >}}
 
 {{< figured caption="Wide Blog page, utilising the full grid" >}}
-  	{{< imgsrcset command="Resize" class="attachment_1179  size-full wp-image-1179" title="Wide Blog page" original="/images/2012/10/blog-large.png" alt="Wide Blog page" >}}
+  	{{< imgsrcset class="attachment_1179  size-full wp-image-1179" title="Wide Blog page" original="/images/2012/10/blog-large.png" alt="Wide Blog page" >}}
 {{< /figured >}}
 
 {{< figured caption="Medium-width About page, moved one column to the left" >}}
-  	{{< imgsrcset command="Resize" class="attachment_1176  size-full wp-image-1176" title="Medium-width About page" original="/images/2012/10/about-medium.png" alt="Medium-width About page" >}}
+  	{{< imgsrcset class="attachment_1176  size-full wp-image-1176" title="Medium-width About page" original="/images/2012/10/about-medium.png" alt="Medium-width About page" >}}
 {{< /figured >}}
 
 {{< figured caption="Medium-width blog page, with meta content shown below the main content rather than in left column" >}}
-  	{{< imgsrcset command="Resize" class="attachment_1180  size-full wp-image-1180" title="Medium-width blog page" original="/images/2012/10/blog-medium.png" alt="Medium-width blog page" >}}
+  	{{< imgsrcset class="attachment_1180  size-full wp-image-1180" title="Medium-width blog page" original="/images/2012/10/blog-medium.png" alt="Medium-width blog page" >}}
 {{< /figured >}}
 
 {{< figured caption="Smaller-width About page, not using the grid structure but using padding based on the base unit size" >}}
-  	{{< imgsrcset command="Resize" class="attachment_1177  size-full wp-image-1177" title="Smaller-width About page" original="/images/2012/10/about-small.png" alt="Smaller-width About page" >}}
+  	{{< imgsrcset class="attachment_1177  size-full wp-image-1177" title="Smaller-width About page" original="/images/2012/10/about-small.png" alt="Smaller-width About page" >}}
 {{< /figured >}}
 
 {{< figured caption="Smaller-width Blog page, not using the grid structure but using padding based on the base unit size" >}}
-  	{{< imgsrcset command="Resize" class="attachment_1181  size-full wp-image-1181" title="Smaller-width Blog page " original="/images/2012/10/blog-small.png" alt="Smaller-width Blog page" >}}
+  	{{< imgsrcset class="attachment_1181  size-full wp-image-1181" title="Smaller-width Blog page " original="/images/2012/10/blog-small.png" alt="Smaller-width Blog page" >}}
 {{< /figured >}}
 
 ### Paddings and margins
@@ -91,7 +91,7 @@ Just like in my vertical rhythm my column padding, and with any horizontal margi
 There were points at which I broke from my grid structure in order to better serve my content: project archive pages. These are more optimised for the viewport width to keep the images big enough to identify their subject but small enough that they’re not creating excessive page length (or indeed weight.) But these image/column widths are still multiples of the base unit grid, so subtly remain consistent and true to my grid design.
 
 {{< figured caption="Past projects page breaks the grid by having a more content-appropriate layout" >}}
-  	{{< imgsrcset command="Resize" class="attachment_1182  size-full wp-image-1182" title="Past projects page" original="/images/2012/10/past-projects.png" alt="Past projects page" >}}
+  	{{< imgsrcset class="attachment_1182  size-full wp-image-1182" title="Past projects page" original="/images/2012/10/past-projects.png" alt="Past projects page" >}}
 {{< /figured >}}
 
 ### Left-aligning the grid
@@ -101,7 +101,7 @@ For a long time, I had centred my page layouts in the browser window, believing 
 Often the whitespace resulting from a left-aligned page layout would could feel gaping, so I decided (on pages that didn’t otherwise have much imagery) I would use that space for a background illustration that I hoped would be better use of otherwise redundant space.
 
 {{< figured caption="Very wide About page showing the background illustration" >}}
-  	{{< imgsrcset command="Resize" class="attachment_1178  size-full wp-image-1178" title="Very wide About page" original="/images/2012/10/about-wide.png" alt="Very wide About page" >}}
+  	{{< imgsrcset class="attachment_1178  size-full wp-image-1178" title="Very wide About page" original="/images/2012/10/about-wide.png" alt="Very wide About page" >}}
 {{< /figured >}}
 
 ## Tweaks

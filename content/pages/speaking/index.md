@@ -31,7 +31,7 @@ If you think I might be a good fit for speaking at your event, please [drop me a
 
     {{< link href="http://www.flickr.com/photos/68110573@N02/12132726904/" >}}
 
-        {{< imgsrcset original="Me-speaking-at-12-Devs.jpg" command="Resize" alt="Me speaking at 12 Devs of Winter" >}}
+        {{< imgsrcset original="Me-speaking-at-12-Devs.jpg" alt="Me speaking at 12 Devs of Winter" >}}
     
     {{< /link >}}
 

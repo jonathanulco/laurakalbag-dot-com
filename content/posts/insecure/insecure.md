@@ -74,7 +74,7 @@ So I’m going to experiment with posting my detritus. Finding the edges of what
 Here comes my first scrap:
 
 {{< figured caption="How I feel at the end of this blog post. I’m trying." src="/images/2018/07/weary-laura.jpg" >}}
-  	{{< imgsrcset command="Resize" alt="Photo of me looking wearily at the camera." >}}
+  	{{< imgsrcset alt="Photo of me looking wearily at the camera." >}}
 {{< /figured >}}
 
 Oh and hey! If you’re doing something similar, please let me know. Yes, even if you’re a white man… 😉

@@ -26,7 +26,7 @@ If you’re local, you should get your ticket now. They’re free!
 
 {{< figured >}}
   {{< link href="http://418conf.co.uk" >}}
-  	{{< imgsrcset command="Resize" original="/images/2015/04/418conf.png" alt="Screenshot of the 418conf homepage" >}}
+  	{{< imgsrcset original="/images/2015/04/418conf.png" alt="Screenshot of the 418conf homepage" >}}
   {{< /link >}}
 {{< /figured >}}
 

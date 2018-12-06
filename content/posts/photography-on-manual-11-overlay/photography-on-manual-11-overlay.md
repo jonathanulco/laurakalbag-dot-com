@@ -23,6 +23,6 @@ colours:
 A weird experiment that almost works…
 
 {{< figured caption="**Sleeping in Spring.** Mucking about with overlaying a couple of photos. It’s a bit more editing than multiple exposures, but a similar style. I was just flicking through the layer blending modes and found something that looked a bit different. Here I’ve layered a couple of blending modes and erased some areas to bring Oskar’s face out" >}}
-  {{< imgsrcset command="Resize" class="wp-image-4741" original="/images/2015/05/DSCF4954-small.jpg" alt="Dog lying on sofa overlaid with yellow tree blossom" >}}
+  {{< imgsrcset class="wp-image-4741" original="/images/2015/05/DSCF4954-small.jpg" alt="Dog lying on sofa overlaid with yellow tree blossom" >}}
 {{< /figured >}}
 

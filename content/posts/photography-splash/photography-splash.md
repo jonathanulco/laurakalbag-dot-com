@@ -23,18 +23,18 @@ colours:
 The first exercise we’ve been given is to capture a splash in a cup…
 
 {{< figured caption="**First splash.** My kitchen is in a basement, so it’s a little bit dark. Even with the ISO jacked all the way up, this was the lightest I could get with the fastest possible shutter speed." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4663" original="/images/2015/05/DSCF3495-small.jpg" alt="Tea splashing out of a mug on the kitchen floor" >}}
+  {{< imgsrcset class="wp-image-4663" original="/images/2015/05/DSCF3495-small.jpg" alt="Tea splashing out of a mug on the kitchen floor" >}}
 {{< /figured >}}
 
 {{< figured caption="**Second splash.** So I went outside! Unfortunately my burst caught the splash a bit late." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4664" original="/images/2015/05/DSCF3521-small.jpg" alt="Tea splashing out of a mug, outdoors on a patio" >}}
+  {{< imgsrcset class="wp-image-4664" original="/images/2015/05/DSCF3521-small.jpg" alt="Tea splashing out of a mug, outdoors on a patio" >}}
 {{< /figured >}}
 
 {{< figured caption="**Best splash.** Finally got the hang of it. Though I wonder if the plant pot on the left spoils the composition." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4665" original="/images/2015/05/DSCF3527-small.jpg" alt="Tea splashing out of a mug, outdoors on a patio. Plant pot on the left." >}}
+  {{< imgsrcset class="wp-image-4665" original="/images/2015/05/DSCF3527-small.jpg" alt="Tea splashing out of a mug, outdoors on a patio. Plant pot on the left." >}}
 {{< /figured >}}
 
 {{< figured caption="**Best splash, cropped.** If I crop the pot out, but keep it landscape, I cut too much of the splash out. I’m not sure if square works either." >}}
-  {{< imgsrcset command="Resize" class="wp-image-4666" original="/images/2015/05/DSCF3527-square-small.jpg" alt="Tea splashing out of a mug, outdoors on a patio. Square crop." >}}
+  {{< imgsrcset class="wp-image-4666" original="/images/2015/05/DSCF3527-square-small.jpg" alt="Tea splashing out of a mug, outdoors on a patio. Square crop." >}}
 {{< /figured >}}
 

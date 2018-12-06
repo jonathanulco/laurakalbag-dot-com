@@ -22,7 +22,7 @@ Another fab and in-depth article from Craig Grannell on Digital Arts, this time 
 
 {{< figured >}}
   {{< link href="http://www.digitalartsonline.co.uk/features/interactive-design/web-fonts-what-designers-need-to-know-in-2015/" >}}
-  	{{< imgsrcset command="Resize" class="wp-image-4621" original="/images/2015/02/Digital-Arts-Web-fonts-2015-1024x707.png" alt="Digital Arts - Web fonts 2015" >}}
+  	{{< imgsrcset class="wp-image-4621" original="/images/2015/02/Digital-Arts-Web-fonts-2015-1024x707.png" alt="Digital Arts - Web fonts 2015" >}}
   {{< /link >}}
 {{< /figured >}}
 

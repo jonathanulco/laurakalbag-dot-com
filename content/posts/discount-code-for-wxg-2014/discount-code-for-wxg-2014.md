@@ -24,7 +24,7 @@ There’s some great speakers in the lineup, and it’s sure to be a fun day!
 
 {{< figured >}}
   {{< link href="http://wxg.co.uk" >}}
-  	{{< imgsrcset command="Resize" original="/images/2014/03/wxg-2014.png" alt="WXG 2014, a one-day web conference — Friday 26 September, Guildford, UK." >}}
+  	{{< imgsrcset original="/images/2014/03/wxg-2014.png" alt="WXG 2014, a one-day web conference — Friday 26 September, Guildford, UK." >}}
   {{< /link >}}
 {{< /figured >}}
 

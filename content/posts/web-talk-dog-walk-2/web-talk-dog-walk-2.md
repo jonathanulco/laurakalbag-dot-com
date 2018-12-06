@@ -45,6 +45,6 @@ Meeting at the same spot on the [corner of Wilson Avenue and Roedean Road](htt
 * Wear sensible walking shoes. Trainers should do. It’s a fairly mud-free route, but it can be rough terrain and a bit hilly
 * Do I need to recommend you wear a jacket if the weather’s grey? Does it ever rain in Britain?
 
-{{< imgsrcset command="Resize" alt="Oskar in Sheepcote Valley" original="/images/2013/06/8750314026_322d4d4124_c.jpg" >}}
+{{< imgsrcset alt="Oskar in Sheepcote Valley" original="/images/2013/06/8750314026_322d4d4124_c.jpg" >}}
 
 	
