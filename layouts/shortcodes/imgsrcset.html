@@ -1,56 +1,28 @@
 {{/* get file that matches the filename as specified as original="" in shortcode */}}
 {{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get "original")) }}
 
-{{/* get command (Fit, Resize or Fill) as specified as command="" in shortcode  */}}
-{{ $command := .Get "command" }}
-
 {{/* set image sizes, these are hardcoded for now */}}
-{{/* if the original image is larger than specified size, set that image size */}}
 
 {{ $tinyw := default "500x" }}
 {{ $smallw := default "800x" }}
 {{ $mediumw := default "1200x" }}
 {{ $largew := default "1500x" }}
 
-{{ if eq $command "Fit"}}
-	{{/* resize the original image to fit the given sizes */}}
-	{{/* if the each image size exists, fit that image */}}
+{{/* resize the original image to the given sizes */}}
 
-	{{ .Scratch.Set "tiny" ($original.Fit $tinyw) }}
-	{{ .Scratch.Set "small" ($original.Fit $smallw) }}
-	{{ .Scratch.Set "medium" ($original.Fit $mediumw) }}
-	{{ .Scratch.Set "large" ($original.Fit $largew) }}
-
-{{ else if eq $command "Resize"}}
-	{{/* resize the original image to the given sizes */}}
-	{{/* if the each image size exists, resize that image */}}
-
-	{{ .Scratch.Set "tiny" ($original.Resize $tinyw) }}
-	{{ .Scratch.Set "small" ($original.Resize $smallw) }}
-	{{ .Scratch.Set "medium" ($original.Resize $mediumw) }}
-	{{ .Scratch.Set "large" ($original.Resize $largew) }}
-
-{{ else if eq $command "Fill"}}
-	{{/* resize the original image to fill the given sizes*/}}
-	{{/* if the each image size exists, fill that image */}}
-
-	{{ .Scratch.Set "tiny" ($original.Fill $tinyw) }}
-	{{ .Scratch.Set "small" ($original.Fill $smallw) }}
-	{{ .Scratch.Set "medium" ($original.Fill $mediumw) }}
-	{{ .Scratch.Set "large" ($original.Fill $largew) }}
-
-{{ else }}
-	{{ errorf "Invalid image processing command: Must be one of Fit, Fill or Resize."}}
-{{ end }}
+{{ .Scratch.Set "tiny" ($original.Resize $tinyw) }}
+{{ .Scratch.Set "small" ($original.Resize $smallw) }}
+{{ .Scratch.Set "medium" ($original.Resize $mediumw) }}
+{{ .Scratch.Set "large" ($original.Resize $largew) }}
 
 {{/* add the processed images to the scratch */}}
-{{/* if that image exists, get that image from scratch */}}
-{{/* only get images from scratch if they are smaller than or equal to the original image size */}}
 
 {{ $tiny := .Scratch.Get "tiny" }}
 {{ $small := .Scratch.Get "small" }}
 {{ $medium := .Scratch.Get "medium" }}
 {{ $large := .Scratch.Get "large" }}
+
+{{/* only use images smaller than or equal to the original image size */}}
 
 <img 
 	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 35em) 100vh, 100vw"{{ end }}
