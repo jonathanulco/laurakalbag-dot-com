@@ -486,9 +486,8 @@ Another example of where we don’t have interoperability is in “walled garden
 
 ### Accessible
 
-<p>We need to build products that are accessible. Accessibility is making something available to as many people as possible. To make our products more accessible we need to consider diversity, cost, and
+We need to build products that are accessible. Accessibility is making something available to as many people as possible. To make our products more accessible we need to consider diversity, cost, and catering to a variety of needs that aren’t necessarily the same as our own. We must never stop looking for ways to make our work more accessible.
 
-catering to a variety of needs that aren’t necessarily the same as our own. We must never stop looking for ways to make our work more accessible.</p>
 ### Secure
 
 We need to build products that are secure. In the age of https on everything, we’re more clued up about security. However, security is also confused and conflated with privacy. For example, Google encrypted email and said “yay! all your stuff is now safe and private from hackers!” But that email is not encrypted and private *from Google*, it just protects your information in transit between you and Google.
