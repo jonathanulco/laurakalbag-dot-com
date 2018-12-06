@@ -16,7 +16,7 @@ colours:
   tab-four: "17,46%,73%" # hsl(17,46%,73%)
   tab-five: "21,47%,65%" # hsl(21,47%,65%)
   tab-six: "24,46%,56%" # hsl(24,46%,56%)
-image: "/images/2018/07/weary-laura.jpg"
+image: "weary-laura.jpg"
 imageAlt: "Photo of me looking wearily at the camera."
 description: "The state of sharing on the web is broken."
 ---
@@ -73,7 +73,7 @@ So I’m going to experiment with posting my detritus. Finding the edges of what
 
 Here comes my first scrap:
 
-{{< figured caption="How I feel at the end of this blog post. I’m trying." src="/images/2018/07/weary-laura.jpg" >}}
+{{< figured caption="How I feel at the end of this blog post. I’m trying." src="weary-laura.jpg" >}}
   	{{< imgsrcset alt="Photo of me looking wearily at the camera." >}}
 {{< /figured >}}
 

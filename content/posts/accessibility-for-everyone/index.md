@@ -20,7 +20,7 @@ colours:
 
 After three years of work, I can finally tell you that I’ve written a book for [A Book Apart](https://abookapart.com) about web accessibility called [Accessibility For Everyone](https://abookapart.com/products/accessibility-for-everyone).
 
-{{< imgsrcset class="wp-image-4947" original="/images/2017/08/aba-cover-23_300x@2x-2.png" alt="Book cover for Accessibility For Everyone by Laura Kalbag. Book 23 from A Book Apart. Foreword by Heydon Pickering" >}}
+{{< imgsrcset class="wp-image-4947" original="aba-cover.png" alt="Book cover for Accessibility For Everyone by Laura Kalbag. Book 23 from A Book Apart. Foreword by Heydon Pickering" >}}
 
 In case you’ve not heard of web accessibility (you wouldn’t be the first!), web accessibility is the degree to which a website is usable by as many people as possible. A lot of material around accessibility focus on making websites usable by people with different types of disabilities and impairments, but designing inclusively for a wide range of needs will generally make websites more usable for *everyone*.
 
