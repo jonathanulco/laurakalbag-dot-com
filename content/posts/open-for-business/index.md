@@ -24,7 +24,7 @@ colours:
 
 {{< figured >}}
   {{< link href="http://alistapart.com/column/open-for-business" >}}
-  	{{< imgsrcset alt="Open for Business post on A List Apart" original="/images/2013/10/open-for-business.png" >}}
+  	{{< imgsrcset alt="Open for Business post on A List Apart" original="open-for-business.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

@@ -24,7 +24,7 @@ Last week I had a lovely chat with El for her [Nothing To Display podcast](http:
 
 {{< figured >}}
   {{< link href="http://nothingtodisplay.co.uk/" >}}
-  	{{< imgsrcset alt="Nothing To Display podcast" original="/images/2013/03/nothing-to-display.png" >}}
+  	{{< imgsrcset alt="Nothing To Display podcast" original="nothing-to-display.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

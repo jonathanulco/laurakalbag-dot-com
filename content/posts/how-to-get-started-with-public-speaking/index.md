@@ -24,7 +24,7 @@ By the way, if you want business insurance, you really should get a quote from [
 
 {{< figured >}}
   {{< link href="http://insurancebyjack.co.uk/business-and-marketing/2014/05/20/how-to-get-started-with-public-speaking.html" >}}
-  	{{< imgsrcset original="/images/2014/05/Insurance-By-Jack-public-speaking.png" alt="How To Get Started With Public Speaking on Insurance By Jack" >}}
+  	{{< imgsrcset original="Insurance-By-Jack-public-speaking.png" alt="How To Get Started With Public Speaking on Insurance By Jack" >}}
   {{< /link >}}
 {{< /figured >}}
 

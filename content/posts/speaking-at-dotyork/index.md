@@ -26,7 +26,7 @@ It’ll be my first time in York, so I’m looking forward to seeing the sights 
 
 {{< figured >}}
   {{< link href="http://dotyork.com" >}}
-  	{{< imgsrcset alt="dot_york" original="/images/2014/01/dot_york.png" >}}
+  	{{< imgsrcset alt="dot_york" original="dot_york.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

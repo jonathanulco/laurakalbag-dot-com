@@ -24,7 +24,7 @@ I’m speaking at [Web Day at Bath Digital Festival](http://2014.bathdigitalfest
 
 {{< figured >}}
   {{< link href="http://2014.bathdigitalfestival.com/event/web-day/" >}}
-  	{{< imgsrcset original="/images/2014/09/web-day.png" alt="Web Day at Bath Digital Festival" >}}
+  	{{< imgsrcset original="web-day.png" alt="Web Day at Bath Digital Festival" >}}
   {{< /link >}}
 {{< /figured >}}
 

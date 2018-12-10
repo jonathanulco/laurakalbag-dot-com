@@ -22,7 +22,7 @@ Yesterday the [fourth episode of the Backendy podcast](http://backendy.com/2014/
 
 {{< figured >}}
   {{< link href="http://backendy.com" >}}
-  	{{< imgsrcset alt="A Bit More Backendy - A podcast for web developers and designers with more of a focus on backend technologies. Based in the UK." original="/images/2014/03/backendy.png" >}}
+  	{{< imgsrcset alt="A Bit More Backendy - A podcast for web developers and designers with more of a focus on backend technologies. Based in the UK." original="backendy.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

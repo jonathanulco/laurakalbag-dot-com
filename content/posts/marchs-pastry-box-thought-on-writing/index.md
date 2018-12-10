@@ -24,6 +24,6 @@ I was slow to post about[ my April Pastry Box post](https://the-pastry-box-proje
 
 <p style="text-align: center;">{{< figured >}}
   {{< link href="https://the-pastry-box-project.net/laura-kalbag/2014-april-19" >}}
-  	{{< imgsrcset alt="Laura Kalbag on The Pastry Box, Saturday 19th April 2014" original="/images/2014/05/pastry-box-april.png" >}}
+  	{{< imgsrcset alt="Laura Kalbag on The Pastry Box, Saturday 19th April 2014" original="pastry-box-april.png" >}}
   {{< /link >}}
 {{< /figured >}}</p>

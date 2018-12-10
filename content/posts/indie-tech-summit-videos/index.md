@@ -30,7 +30,7 @@ I would really recommend watching [all of the videos](https://ind.ie/summit/vide
 
 {{< figured >}}
   {{< link href="https://ind.ie/summit/videos/laura-kalbag/" >}}
-  	{{< imgsrcset original="/images/2014/08/universal-design-talk.png" alt="Laura Kalbag on Universal Design" >}}
+  	{{< imgsrcset original="universal-design-talk.png" alt="Laura Kalbag on Universal Design" >}}
   {{< /link >}}
 {{< /figured >}}
 

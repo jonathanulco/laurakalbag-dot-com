@@ -25,95 +25,95 @@ colours:
 I started writing a long post detailing each month and realised I have too many highlights and I’d be here all night. However this year was the year I started taking lots of photos. So I thought I’d share the few that mean the most to me.
 
 {{< figured caption="Bringing a baby Osky home in January" >}}
-  	{{< imgsrcset class="attachment_1621  size-full wp-image-1621" alt="Bringing a baby Osky home in January" original="/images/2012/12/baby-osky.jpg" >}}
+  	{{< imgsrcset alt="Bringing a baby Osky home in January" original="baby-osky.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="The little Osky who prevented me from working most of February whilst I was trying to keep him out of trouble" >}}
-  	{{< imgsrcset class="attachment_1657  size-full wp-image-1657" alt="The little Osky who prevented me from working most of February whilst I was trying to keep him out of trouble" original="/images/2012/12/little-osky.jpg" >}}
+  	{{< imgsrcset alt="The little Osky who prevented me from working most of February whilst I was trying to keep him out of trouble" original="little-osky.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="Oskar at four months old during the few weeks we lived with my parents" >}}
-  	{{< imgsrcset class="attachment_1669  size-full wp-image-1669" alt="Oskar at four months old during the few weeks we lived with my parents" original="/images/2012/12/osky-at-parents.jpg" >}}
+  	{{< imgsrcset alt="Oskar at four months old during the few weeks we lived with my parents" original="osky-at-parents.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="My new home and new independence, the only place I have lived alone." >}}
-  	{{< imgsrcset class="attachment_1613  size-full wp-image-1613" alt="My new home and new independence, the only place I have lived alone." original="/images/2012/12/31E.jpg" >}}
+  	{{< imgsrcset alt="My new home and new independence, the only place I have lived alone." original="31E.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="I began an obsession with vegetable boxes, buying a pot luck box every couple of weeks and trying to cook as many new healthy dishes as possible." >}}
-  	{{< imgsrcset class="attachment_1701  size-full wp-image-1701" alt="I began an obsession with vegetable boxes, buying a pot luck box every couple of weeks and trying to cook as many new healthy dishes as possible." original="/images/2012/12/veg-obsession.jpg" >}}
+  	{{< imgsrcset alt="I began an obsession with vegetable boxes, buying a pot luck box every couple of weeks and trying to cook as many new healthy dishes as possible." original="veg-obsession.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="One of a few sunrises I experienced whilst extremely jetlagged at Future Insights Live in Vegas" >}}
-  	{{< imgsrcset class="attachment_1697  size-full wp-image-1697" alt="One of a few sunrises I experienced whilst extremely jetlagged at Future Insights Live in Vegas" original="/images/2012/12/sunrise-in-vegas.jpg" >}}
+  	{{< imgsrcset alt="One of a few sunrises I experienced whilst extremely jetlagged at Future Insights Live in Vegas" original="sunrise-in-vegas.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="Oskar enduring a week of hell after his operation at six months" >}}
-  	{{< imgsrcset class="attachment_1629  size-full wp-image-1629" alt="Oskar enduring a week of hell after his operation at six months" original="/images/2012/12/cone-of-shame.jpg" >}}
+  	{{< imgsrcset alt="Oskar enduring a week of hell after his operation at six months" original="cone-of-shame.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="The photo booth at the Critters, a very silly night" >}}
-  	{{< imgsrcset class="attachment_1633  size-full wp-image-1633" alt="The photo booth at the Critters, a very silly night" original="/images/2012/12/critters.jpg" >}}
+  	{{< imgsrcset alt="The photo booth at the Critters, a very silly night" original="critters.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="Some of the lovely friends and family keeping my house warm this year" >}}
-  	{{< imgsrcset class="attachment_1649  size-full wp-image-1649" alt="Some of the lovely friends and family keeping my house warm this year" original="/images/2012/12/housewarming.jpg" >}}
+  	{{< imgsrcset class="attachment-1649" alt="Some of the lovely friends and family keeping my house warm this year" original="housewarming.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="The Spartan Race where I did 5k and obstacles in the burning sun and lots of mud" >}}
-  	{{< imgsrcset class="attachment_1689  size-full wp-image-1689" alt="The Spartan Race where I did 5k and obstacles in the burning sun and lots of mud" original="/images/2012/12/spartan.jpg" >}}
+  	{{< imgsrcset alt="The Spartan Race where I did 5k and obstacles in the burning sun and lots of mud" original="spartan.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="One of the many lovely views of Istanbul" >}}
-  	{{< imgsrcset class="attachment_1653  size-full wp-image-1653" alt="One of the many lovely views of Istanbul" original="/images/2012/12/istanbul.jpg" >}}
+  	{{< imgsrcset alt="One of the many lovely views of Istanbul" original="istanbul.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="My frequent view in Istanbul after I ask the native-speaking Aral to pick something good off the menu for me." >}}
-  	{{< imgsrcset class="attachment_1641  size-full wp-image-1641" alt="My frequent view in Istanbul after I ask the native-speaking Aral to pick something good off the menu for me." original="/images/2012/12/food-in-istanbul.jpg" >}}
+  	{{< imgsrcset alt="My frequent view in Istanbul after I ask the native-speaking Aral to pick something good off the menu for me." original="food-in-istanbul.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="One of the many times I came back to a living room destroyed by Oskar" >}}
-  	{{< imgsrcset class="attachment_1673  size-full wp-image-1673" alt="One of the many times I came back to a living room destroyed by Oskar" original="/images/2012/12/osky-mess.jpg" >}}
+  	{{< imgsrcset alt="One of the many times I came back to a living room destroyed by Oskar" original="osky-mess.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="Nutella ice cream whilst on holiday in Madeira" >}}
-  	{{< imgsrcset class="attachment_1665  size-full wp-image-1665" alt="Nutella ice cream whilst on holiday in Madeira" original="/images/2012/12/nutella-icecream.jpg" >}}
+  	{{< imgsrcset alt="Nutella ice cream whilst on holiday in Madeira" original="nutella-icecream.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="When I realised Osky had really gotten *that big*" >}}
-  	{{< imgsrcset class="attachment_1645  size-full wp-image-1645" alt="When I realised Osky had really gotten *that big*" original="/images/2012/12/giant-osky.jpg" >}}
+  	{{< imgsrcset alt="When I realised Osky had really gotten *that big*" original="giant-osky.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="My wonderful family who have been further apart but so much closer in the last year" >}}
-  	{{< imgsrcset class="attachment_1637   wp-image-1637  " alt="My wonderful family who have been further apart but so much closer in the last year" original="/images/2012/12/family.jpg" >}}
+  	{{< imgsrcset alt="My wonderful family who have been further apart but so much closer in the last year" original="family.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="My first ever workshop with seasoned workshop veteran, Aral. In the beautiful Bologna." >}}
-  	{{< imgsrcset class="attachment_1705  size-full wp-image-1705" alt="My first ever workshop with seasoned workshop veteran, Aral." original="/images/2012/12/workshop.jpg" >}}
+  	{{< imgsrcset alt="My first ever workshop with seasoned workshop veteran, Aral." original="workshop.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="Seven puddings at an amazing restaurant with lovely people in Bologna" >}}
-  	{{< imgsrcset class="attachment_1685  size-full wp-image-1685" alt="Seven puddings at an amazing restaurant with lovely people in Bologna" original="/images/2012/12/seven-puddings.jpg" >}}
+  	{{< imgsrcset alt="Seven puddings at an amazing restaurant with lovely people in Bologna" original="seven-puddings.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="Rooftops of Bologna" >}}
-  	{{< imgsrcset class="attachment_1625  size-full wp-image-1625" alt="Rooftops of Bologna" original="/images/2012/12/bologna.jpg" >}}
+  	{{< imgsrcset alt="Rooftops of Bologna" original="bologna.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="Seb Lee-Delisle’s amazing digital fireworks display at Brighton Digital Festival." >}}
-  	{{< imgsrcset class="attachment_1681  size-full wp-image-1681" alt="Seb Lee-Delisle's amazing digital fireworks display at Brighton Digital Festival." original="/images/2012/12/sebs-fireworks.jpg" >}}
+  	{{< imgsrcset alt="Seb Lee-Delisle's amazing digital fireworks display at Brighton Digital Festival." original="sebs-fireworks.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="Tongue tattoos in Brighton, one of many visits" >}}
-  	{{< imgsrcset class="attachment_1617  size-full wp-image-1617" alt="Tongue tattoos in Brighton, one of many visits" original="/images/2012/12/ampersand-tongue-stamp.jpg" >}}
+  	{{< imgsrcset alt="Tongue tattoos in Brighton, one of many visits" original="ampersand-tongue-stamp.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="My sprained ankle which made November very difficult" >}}
-  	{{< imgsrcset class="attachment_1693  size-full wp-image-1693" alt="My sprained ankle which made November very difficult" original="/images/2012/12/sprained-ankle.jpg" >}}
+  	{{< imgsrcset alt="My sprained ankle which made November very difficult" original="sprained-ankle.jpg" >}}
 {{< /figured >}}
 
 {{< figured caption="A very big Oskar under the tree at Christmas" >}}
-  	{{< imgsrcset class="attachment_1677  size-full wp-image-1677" alt="A very big Oskar under the tree at Christmas" original="/images/2012/12/osky-under-the-tree.jpg" >}}
+  	{{< imgsrcset alt="A very big Oskar under the tree at Christmas" original="osky-under-the-tree.jpg" >}}
 {{< /figured >}}
 
 ## Goals for 2013

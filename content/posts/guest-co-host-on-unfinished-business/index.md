@@ -24,7 +24,7 @@ We talked about smoking chimps, mentoring and how we can try to help newcomers i
 
 {{< figured >}}
   {{< link href="http://unfinished.bz/12" >}}
-  	{{< imgsrcset alt="Andy &amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." original="/images/2013/02/unfinished-bz.png" >}}
+  	{{< imgsrcset alt="Andy &amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." original="unfinished-bz.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

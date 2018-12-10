@@ -48,7 +48,7 @@ A lot of people ask my advice on speaking, and honestly, I just pass on what Ara
 
 {{< figured >}}
   {{< link href="http://slideandstage.com/" >}}
-  	{{< imgsrcset alt="Slide and Stage: a one day workshop on presenting by Aral Balkan." original="/images/2013/04/slide-and-stage.png" >}}
+  	{{< imgsrcset alt="Slide and Stage: a one day workshop on presenting by Aral Balkan." original="slide-and-stage.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

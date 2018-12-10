@@ -78,7 +78,7 @@ It’s large and heavy (great for writing on, harder to lift.) It’s currently 
 Great condition, stays in tune. With soft case and guitar stand included. Goes for ~£300 online.
 
 {{< figured caption="The guitar is on the left side. Only photo I could find with it in! Dog not included." >}}
-  	{{< imgsrcset original="15516043930_93144778c6_k-1024x768.jpg" alt="living room showing guitar and prominent dog" >}}
+  	{{< imgsrcset original="15516043930_93144778c6_k.jpg" alt="living room showing guitar and prominent dog" >}}
 {{< /figured >}}
 
 <h2 id="long-board">Long board (Loaded Tan Tien complete)</h2>

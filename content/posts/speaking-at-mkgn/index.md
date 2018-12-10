@@ -24,7 +24,7 @@ colours:
 
 I’m going to talk about self-discipline, it’s a new talk and so that makes me even more nervous than usual!{{< figured >}}
   {{< link href="http://mkgeeknight.co.uk" >}}
-  	{{< imgsrcset alt="MKGN 7 - December 5th, 2013" original="/images/2013/12/mkgn.png" >}}
+  	{{< imgsrcset alt="MKGN 7 - December 5th, 2013" original="mkgn.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

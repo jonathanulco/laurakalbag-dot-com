@@ -24,7 +24,7 @@ Last week my column on Inspiration was published on A List Apart. It follows rou
 
 {{< figured >}}
   {{< link href="http://alistapart.com/column/inspiration" >}}
-  	{{< imgsrcset alt="Column on Inspiration on A List Apart" original="/images/2014/03/inspiration.png" >}}
+  	{{< imgsrcset alt="Column on Inspiration on A List Apart" original="inspiration.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

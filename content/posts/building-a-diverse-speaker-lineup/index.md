@@ -36,7 +36,7 @@ In response to a few organisers complaining about being bullied for their eventâ
 
 {{< figured >}}
   {{< link href="http://juliepagano.com/blog/2014/08/26/building-a-diverse-speaker-lineup/" >}}
-  	{{< imgsrcset original="/images/2014/09/Screen-Shot-2014-09-02-at-09.16.19.png" alt="Julie Pagano: Building a Diverse Speaker Lineup" >}}
+  	{{< imgsrcset original="Screen-Shot-2014-09-02-at-09.16.19.png" alt="Julie Pagano: Building a Diverse Speaker Lineup" >}}
   {{< /link >}}
 {{< /figured >}}
 

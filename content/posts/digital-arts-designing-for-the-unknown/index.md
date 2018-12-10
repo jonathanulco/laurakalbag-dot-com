@@ -24,7 +24,7 @@ The title image is from my writeup of the [Default Perch Theme project](/project
 
 {{< figured >}}
   {{< link href="http://www.digitalartsonline.co.uk/features/graphic-design/designing-for-unknown-how-design-templates-frameworks/" >}}
-  	{{< imgsrcset original="/images/2014/08/digital-arts-designing-for-the-unknown.png" alt="Digital Arts: Designing for the unknown" >}}
+  	{{< imgsrcset original="digital-arts-designing-for-the-unknown.png" alt="Digital Arts: Designing for the unknown" >}}
   {{< /link >}}
 {{< /figured >}}
 

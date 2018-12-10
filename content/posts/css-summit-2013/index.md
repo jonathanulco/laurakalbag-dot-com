@@ -28,7 +28,7 @@ If this sounds like your kind of conference, then you’ll want this discount co
 
 {{< figured >}}
   {{< link href="http://environmentsforhumans.com/2013/css-summit/" >}}
-  	{{< imgsrcset alt="CSS Summit 2013. The 5th Annual 2-day online, live CSS conference. Environments for Humans brings together some of the Web's most notable experts in CSS and SASS for an all-new, three-day online conference, the CSS Summit 2013! Bring the experts to your desktop July 23-July 25, 2013 from 9AM to 4PM (CT)" original="/images/2013/05/css-summit.png" >}}
+  	{{< imgsrcset alt="CSS Summit 2013. The 5th Annual 2-day online, live CSS conference. Environments for Humans brings together some of the Web's most notable experts in CSS and SASS for an all-new, three-day online conference, the CSS Summit 2013! Bring the experts to your desktop July 23-July 25, 2013 from 9AM to 4PM (CT)" original="css-summit.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

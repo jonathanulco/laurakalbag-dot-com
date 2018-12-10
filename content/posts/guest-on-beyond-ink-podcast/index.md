@@ -25,7 +25,7 @@ Rachel and I chatted about process, the type of work we like to do and inspirati
 
 {{< figured >}}
   {{< link href="http://www.beyondink.co.uk/shows/01-laura-and-simon" >}}
-  	{{< imgsrcset alt="Beyond Ink podcast by Rachel Shillcock" original="/images/2013/12/beyond-ink.png" >}}
+  	{{< imgsrcset alt="Beyond Ink podcast by Rachel Shillcock" original="beyond-ink.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

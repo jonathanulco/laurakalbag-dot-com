@@ -24,7 +24,7 @@ In April, I spoke to Neil Bennett about [the future of web design](http://www.di
 
 {{< figured >}}
   {{< link href="http://www.digitalartsonline.co.uk/features/interactive-design/whats-future-of-web-design/" >}}
-  	{{< imgsrcset original="/images/2014/08/Digital-Arts-future-of-web-design.png" alt="Digital Arts - The future of web design: leading creatives discuss what's coming next" >}}
+  	{{< imgsrcset original="Digital-Arts-future-of-web-design.png" alt="Digital Arts - The future of web design: leading creatives discuss what's coming next" >}}
   {{< /link >}}
 {{< /figured >}}
 

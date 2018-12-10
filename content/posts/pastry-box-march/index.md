@@ -26,7 +26,7 @@ I’ve started formulating a draft of my “purpose” for this site, but it’s
 
 {{< figured >}}
   {{< link href="https://the-pastry-box-project.net/laura-kalbag/2014-march-11" >}}
-  	{{< imgsrcset alt="Laura Kalbag on The Pastry Box, Tuesday, 11 March 2014" original="/images/2014/03/pastry-box-march.png" >}}
+  	{{< imgsrcset alt="Laura Kalbag on The Pastry Box, Tuesday, 11 March 2014" original="pastry-box-march.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

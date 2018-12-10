@@ -26,7 +26,7 @@ It’s also an all-new topic for me to share with other people, so I can’t wai
 
 {{< figured >}}
   {{< link href="https://border-none.net/2014" >}}
-  	{{< imgsrcset original="/images/2014/09/border-none.png" alt="border:none. Creator Conference for The Rising Web 2014. October 17th - 18th Nuremberg, Germany" >}}
+  	{{< imgsrcset original="border-none.png" alt="border:none. Creator Conference for The Rising Web 2014. October 17th - 18th Nuremberg, Germany" >}}
   {{< /link >}}
 {{< /figured >}}
 

@@ -26,6 +26,6 @@ The show is focused around the closure of Five Simple Steps, the great publisher
 
 <p style="text-align: center;">{{< figured >}}
   {{< link href="http://unfinished.bz/64" >}}
-  	{{< imgsrcset alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." original="/images/2013/11/unfinishedbusiness.png" >}}
+  	{{< imgsrcset alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." original="unfinishedbusiness.png" >}}
   {{< /link >}}
 {{< /figured >}}</p>

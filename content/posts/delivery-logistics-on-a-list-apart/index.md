@@ -22,7 +22,7 @@ There’s nothing wrong with sending a client a rough sketch if that’s all tha
 
 {{< figured >}}
   {{< link href="http://alistapart.com/column/delivery-logistics" >}}
-  	{{< imgsrcset alt="Delivery Logistics on A List Apart" original="/images/2014/02/Delivery-Logistics.png" >}}
+  	{{< imgsrcset alt="Delivery Logistics on A List Apart" original="Delivery-Logistics.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

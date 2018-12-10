@@ -26,7 +26,7 @@ I also have a stinking cold so I’m going to be taking industrial quantities of
 
 {{< figured >}}
   {{< link href="http://www.meetup.com/Untangling-the-Web-London/events/119203762/" >}}
-  	{{< imgsrcset alt="Untangle the Web: June Meetup - Monday, June 10, 2013 6:30 PM to 8:30 PM  3rd Floor Space, Google Campus, 4-5 Bonhill Street, London, EC2A 4BX, London - Laura Kalbag on Design Theory for the Web  Not every developer wants their site to look like Bootstrap! With primers in typography, grids and colour, I'll give you some simple rules for using visual design language to communicate with your users, making your sites more usable and much prettier." original="/images/2013/06/untangle-the-web.png" >}}
+  	{{< imgsrcset alt="Untangle the Web: June Meetup - Monday, June 10, 2013 6:30 PM to 8:30 PM  3rd Floor Space, Google Campus, 4-5 Bonhill Street, London, EC2A 4BX, London - Laura Kalbag on Design Theory for the Web  Not every developer wants their site to look like Bootstrap! With primers in typography, grids and colour, I'll give you some simple rules for using visual design language to communicate with your users, making your sites more usable and much prettier." original="untangle-the-web.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

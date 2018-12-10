@@ -24,11 +24,6 @@ colours:
 
 {{< figured >}}
   {{< link href="http://24ways.org/2013/why-bother-with-accessibility/" >}}
-  	{{< imgsrcset alt="Why Bother With Accessibility? on 24ways" original="/images/2013/12/24ways-2013.png" >}}
+  	{{< imgsrcset alt="Why Bother With Accessibility? on 24ways" original="24ways-2013.png" >}}
   {{< /link >}}
 {{< /figured >}}
-
-## 3 comments
-
-<ol class="commentlist">
-			</ol>

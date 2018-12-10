@@ -24,7 +24,7 @@ Last week, [my column on The Illusion Of Free](http://alistapart.com/column/the-
 
 {{< figured >}}
   {{< link href="http://alistapart.com/column/the-illusion-of-free" >}}
-  	{{< imgsrcset original="/images/2015/04/Illusion-of-Free.png" alt="Screenshot of column on The Illusion of Free" >}}
+  	{{< imgsrcset original="Illusion-of-Free.png" alt="Screenshot of column on The Illusion of Free" >}}
   {{< /link >}}
 {{< /figured >}}
 

@@ -26,7 +26,7 @@ A very big thank you to [my friend Jo](http://twitter.com/Jo_annaP) who let me t
 
 {{< figured >}}
   {{< link href="http://unfinished.bz/54" >}}
-  	{{< imgsrcset alt="Unfinished Business episode #54" original="/images/2014/01/unfinished-business-54.png" >}}
+  	{{< imgsrcset alt="Unfinished Business episode #54" original="unfinished-business-54.png" >}}
   {{< /link >}}
 {{< /figured >}}
 

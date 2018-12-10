@@ -30,7 +30,7 @@ I also created a [Spotify playlist of these tracks](http://open.spotify.com/user
 
 {{< figured >}}
   {{< link href="http://www.desert.fm/laura-kalbag.html" >}}
-  	{{< imgsrcset original="/images/2014/08/desert.fm_.png" alt="Desert.fm presents Laura Kalbag" >}}
+  	{{< imgsrcset original="desert.fm_.png" alt="Desert.fm presents Laura Kalbag" >}}
   {{< /link >}}
 {{< /figured >}}
 

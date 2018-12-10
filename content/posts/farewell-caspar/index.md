@@ -22,7 +22,7 @@ We didn’t have an Ind.ie roundup the previous week because we were moving, th
 
 {{< figured >}}
   {{< link href="https://ind.ie/blog/farewell-caspar/" >}}
-  	{{< imgsrcset src="/images/2015/07/Screen-Shot-2015-07-13-at-11.41.11.png" alt="Screenshot of Farewell Caspar Ind.ie blog post" >}}
+  	{{< imgsrcset src="Screen-Shot-2015-07-13-at-11.41.11.png" alt="Screenshot of Farewell Caspar Ind.ie blog post" >}}
   {{< /link >}}
 {{< /figured >}}
 
