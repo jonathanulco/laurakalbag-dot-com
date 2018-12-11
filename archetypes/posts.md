@@ -26,8 +26,8 @@ primaryimagealt: ""
 
 Post text<!--more-->
 
-{{< figure caption="caption text" >}}
+{{< figure figcaption="caption text" >}}
 
-    {{< imgsrcset src="filenameX" alt="alt text" >}}
+    {{< img src="filenameX" alt="alt text" >}}
 
 {{< /figure >}}
