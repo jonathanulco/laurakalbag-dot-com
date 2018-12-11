@@ -1,7 +1,7 @@
 {{/* get file that matches the filename as specified as src="" in shortcode */}}
 {{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
 
-{{/* set image sizes, these are hardcoded for now */}}
+{{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
 
 {{ $tinyw := default "500x" }}
 {{ $smallw := default "800x" }}
@@ -22,7 +22,8 @@
 {{ $medium := .Scratch.Get "medium" }}
 {{ $large := .Scratch.Get "large" }}
 
-{{/* only use images smaller than or equal to the src image size */}}
+{{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+{{/* set the sizes attribute to (min-width: 35em) 100vh, 100vw unless overridden in shortcode */}}
 
 <img 
 	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 35em) 100vh, 100vw"{{ end }}
