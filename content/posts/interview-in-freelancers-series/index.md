@@ -22,7 +22,7 @@ colours:
 
 Last week Allan McAvoy posted up [the interview he did with me](http://allanmcavoy.co.uk/blog/freelancers/an-interview-with-laura-kalbag "An interview with Laura Kalbag") as part of his [Freelancers series](http://allanmcavoy.co.uk/blog/category/freelancers). Some of the questions are fairly standard, but there’s also some unusual ones like “favourite colour for design” and “typical day in the life…”
 
-{{< imgsrcset alt="Screenshot of http://allanmcavoy.co.uk/blog/freelancers/an-interview-with-laura-kalbag" src="Screen-Shot-2013-07-01-at-21.19.29.png" >}}
+{{< img alt="Screenshot of http://allanmcavoy.co.uk/blog/freelancers/an-interview-with-laura-kalbag" src="Screen-Shot-2013-07-01-at-21.19.29.png" >}}
 
 	## One comment
 

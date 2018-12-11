@@ -26,7 +26,7 @@ I’m not going to embed it here, because I want you to go to the website to wat
 
 {{< figure >}}
   {{< link href="http://2013.dareconf.com/videos/kalbag" >}}
-  	{{< imgsrcset alt="My Secret Is Honesty - Video of Laura Kalbag at Dare conference" src="dare-conf-video.png" >}}
+  	{{< img alt="My Secret Is Honesty - Video of Laura Kalbag at Dare conference" src="dare-conf-video.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

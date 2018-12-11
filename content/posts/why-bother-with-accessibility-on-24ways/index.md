@@ -24,6 +24,6 @@ colours:
 
 {{< figure >}}
   {{< link href="http://24ways.org/2013/why-bother-with-accessibility/" >}}
-  	{{< imgsrcset alt="Why Bother With Accessibility? on 24ways" src="24ways-2013.png" >}}
+  	{{< img alt="Why Bother With Accessibility? on 24ways" src="24ways-2013.png" >}}
   {{< /link >}}
 {{< /figure >}}

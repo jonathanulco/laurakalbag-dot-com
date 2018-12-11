@@ -24,7 +24,7 @@ colours:
 
 {{< figure >}}
   {{< link href="http://www.learningpeople.co.uk/blog/blog-posts/finding-your-inspiration-an-interview-with-web-designer-laura-kalbag" >}}
-  	{{< imgsrcset class="wp-image-4093" alt="Screenshot of The Learning People: Finding your inspiration, an interview with web designer Laura Kalbag" src="thelearningpeople.png" >}}
+  	{{< img class="wp-image-4093" alt="Screenshot of The Learning People: Finding your inspiration, an interview with web designer Laura Kalbag" src="thelearningpeople.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

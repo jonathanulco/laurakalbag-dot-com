@@ -26,6 +26,6 @@ primaryimagealt: "small grey cat sitting on Aral’s lap looking chilled out."
 
 {{< figure caption="Such a happy cat. Loves Aral’s lap." >}}
 
-    {{< imgsrcset src="happy-cat" alt="small grey cat sitting on Aral’s lap looking chilled out." >}}
+    {{< img src="happy-cat" alt="small grey cat sitting on Aral’s lap looking chilled out." >}}
 
 {{< /figure >}}

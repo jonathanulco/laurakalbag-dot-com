@@ -22,7 +22,7 @@ colours:
 
 {{< figure >}}
   {{< link href="https://ind.ie/blog/the-sticky-pocked-underbelly-of-the-web/" >}}
-  	{{< imgsrcset src="Screen-Shot-2015-08-07-at-20.33.08.png" alt="Screenshot of the Ind.ie blog roundup The Sticky, Pocked Underbelly Of The Web" >}}
+  	{{< img src="Screen-Shot-2015-08-07-at-20.33.08.png" alt="Screenshot of the Ind.ie blog roundup The Sticky, Pocked Underbelly Of The Web" >}}
   {{< /link >}}
 {{< /figure >}}
 

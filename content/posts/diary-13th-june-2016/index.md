@@ -31,7 +31,7 @@ Hopefully I’ll be back to give you another update soon!
 ## Oskar status
 
 {{< figure caption="Making friends!" >}}
-  {{< imgsrcset src="2016-06-13.jpg" alt="Oskar and another malamute sitting side-by-side in the park" >}}
+  {{< img src="2016-06-13.jpg" alt="Oskar and another malamute sitting side-by-side in the park" >}}
 {{< /figure >}}
 
 This diary entry was originally posted [on the Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-monday-13th-june-2016](https://forum.ind.ie/t/laura-s-diary-monday-13th-june-2016)

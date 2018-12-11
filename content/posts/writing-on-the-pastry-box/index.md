@@ -32,7 +32,7 @@ Please let me know what you think, this means a lot to me.
 
 {{< figure >}}
   {{< link href="https://the-pastry-box-project.net/laura-kalbag/2014-january-11" >}}
-  	{{< imgsrcset alt="screenshot of my post on The Pastry Box" src="the-pastry-box.png" >}}
+  	{{< img alt="screenshot of my post on The Pastry Box" src="the-pastry-box.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

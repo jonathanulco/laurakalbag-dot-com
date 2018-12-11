@@ -23,6 +23,6 @@ colours:
 My parents’ cat, called Milly. Who I call “Small Cat” because she’s so small.
 
 {{< figure caption="**Small Cat.** I edited out the wonky lamp in the background because it was distracting. I also muted the grass and plants so her scary green eyes would be more noticeable." >}}
-  {{< imgsrcset  src="DSCF4326-small.jpg" alt="Small grey and brown tabby/tortoiseshell cat lying on grass in the garden" >}}
+  {{< img  src="DSCF4326-small.jpg" alt="Small grey and brown tabby/tortoiseshell cat lying on grass in the garden" >}}
 {{< /figure >}}
 

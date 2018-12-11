@@ -22,7 +22,7 @@ colours:
 
 I’ve written [a post over on The Branch](http://thebran.ch/articles/the-sharers).
 
-{{< imgsrcset alt="Screenshot from The Branch website: The Sharers - Laura Kalbag shares how a sense of community helped her to grow into a career she loves." src="the-sharers.png" >}}
+{{< img alt="Screenshot from The Branch website: The Sharers - Laura Kalbag shares how a sense of community helped her to grow into a career she loves." src="the-sharers.png" >}}
 
 James Dinsdale emailed me about a new project he was starting out, called The Branch, a site collecting posts about what inspires people. I love these kinds of posts, so I was really keen to be involved.
 

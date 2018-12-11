@@ -28,7 +28,7 @@ The talk has a slightly cheesy name, “My secret is honesty” but I promise yo
 
 {{< figure >}}
   {{< link href="http://2013.dareconf.com/" >}}
-  	{{< imgsrcset alt="Dare conference 2013" src="dare-conf.jpg" >}}
+  	{{< img alt="Dare conference 2013" src="dare-conf.jpg" >}}
   {{< /link >}}
 {{< /figure >}}
 

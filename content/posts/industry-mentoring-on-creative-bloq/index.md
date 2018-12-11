@@ -26,7 +26,7 @@ It’s well-worth a read if you want to mentor somebody, or would like to find a
 
 {{< figure >}}
   {{< link href="http://www.creativebloq.com/netmag/why-industry-mentoring-utterly-invaluable-11410363" >}}
-  	{{< imgsrcset alt="Why industry mentoring is utterly invaluable on Creative Bloq" src="creative-bloq-mentoring.png" >}}
+  	{{< img alt="Why industry mentoring is utterly invaluable on Creative Bloq" src="creative-bloq-mentoring.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

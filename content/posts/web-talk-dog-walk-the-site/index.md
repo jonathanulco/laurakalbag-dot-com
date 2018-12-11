@@ -26,7 +26,7 @@ It also makes use of [Perch, that wonderful little content management system](ht
 
 {{< figure >}}
   {{< link href="http://webtalkdogwalk.in/brighton/" >}}
-  	{{< imgsrcset alt="Web talk dog walk" src="Screen-Shot-2013-07-25-at-17.51.08.png" >}}
+  	{{< img alt="Web talk dog walk" src="Screen-Shot-2013-07-25-at-17.51.08.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

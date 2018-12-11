@@ -22,7 +22,7 @@ Lots of good quotes and a book recommendation in [this week’s Ind.ie roundup](
 
 {{< figure >}}
   {{< link href="https://ind.ie/blog/the-social-web-a-glorious-dystopia/" >}}
-  	{{< imgsrcset  src="The-Social-Web-A-Glorious-Dystopia-Friday-Roundup-24th-July-2015.png" alt="Screenshot of Ind.ie Roundup: The Social Web: A Glorious Dystopia - Friday Roundup - 24th July 2015" >}}
+  	{{< img  src="The-Social-Web-A-Glorious-Dystopia-Friday-Roundup-24th-July-2015.png" alt="Screenshot of Ind.ie Roundup: The Social Web: A Glorious Dystopia - Friday Roundup - 24th July 2015" >}}
   {{< /link >}}
 {{< /figure >}}
 

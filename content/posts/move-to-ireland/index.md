@@ -40,4 +40,4 @@ Also British citizens have additional rights that exist outside of the EU. So wh
 
 It feels good here. We’re settling in well, and are becoming more productive as a result. We’re continuing to work on [Indienet](https://indienet.info), and [Better Blocker](https://better.fyi). I just recorded the audiobook for [Accessibility For Everyone](/accessibility-for-everyone). We want to take root here, become more involved locally, and properly integrate. So if you’re based in Co. Cork, let us know!
 
-{{< imgsrcset src="osky-in-the-woods.jpg" alt="Oskar in the lush Irish woods." >}}
+{{< img src="osky-in-the-woods.jpg" alt="Oskar in the lush Irish woods." >}}

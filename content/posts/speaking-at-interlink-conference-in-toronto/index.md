@@ -27,7 +27,7 @@ This is very very exciting. In June, I’m going to speak at [Interlink conferen
 
 {{< figure >}}
   {{< link href="http://interlinkconference.com" >}}
-  	{{< imgsrcset alt="Interlink conference June 18th-20th, 2014" src="interlink.png" >}}
+  	{{< img alt="Interlink conference June 18th-20th, 2014" src="interlink.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

@@ -28,7 +28,7 @@ This was the first time I’ve ever had anybody edit my writing. I’ve had othe
 
 {{< figure >}}
   {{< link href="http://ladiesintech.com/" >}}
-  	{{< imgsrcset alt="Ladies in Tech - Celebrating and supporting female speakers in technology" src="ladiesintech.png" >}}
+  	{{< img alt="Ladies in Tech - Celebrating and supporting female speakers in technology" src="ladiesintech.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

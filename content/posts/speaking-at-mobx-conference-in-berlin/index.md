@@ -24,7 +24,7 @@ Next Friday I’m speaking at MobX Conference in Berlin about designing for acce
 
 {{< figure >}}
   {{< link href="http://2013.mobxcon.com/" >}}
-  	{{< imgsrcset alt="MobX - Friday, September 13, 2013 in Berlin MobX Conference. Mobile Experience Design &amp; Usability - Meet the Experts!" src="mobx.png" >}}
+  	{{< img alt="MobX - Friday, September 13, 2013 in Berlin MobX Conference. Mobile Experience Design &amp; Usability - Meet the Experts!" src="mobx.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

@@ -20,7 +20,7 @@ colours:
 
 Even though the specification for HTML5 isn’t yet complete, those of us who are a bit eager to get into it now have the perfect book to get us started.
 
-{{< imgsrcset src="Screen-shot-2010-07-12-at-15.47.10.jpg" alt="my copy of HTML5 For Web Designers" >}}
+{{< img src="Screen-shot-2010-07-12-at-15.47.10.jpg" alt="my copy of HTML5 For Web Designers" >}}
 
 [HTML5 For Web Designers](http://books.alistapart.com/product/html5-for-web-designers) by [Jeremy Keith](http://adactio.com/) is the first offering from [A Book Apart](http://books.alistapart.com/). It’s a very easy read, not an endless reference, which took me a couple of hours to fully digest whilst I was enjoying the sun. They’ve been some of the first people to produce a book about HTML5 and they prove it isn’t too early to start discussing the new specification and its impact on the web.
 

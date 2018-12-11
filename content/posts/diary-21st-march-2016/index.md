@@ -27,7 +27,7 @@ Last week we launched a refresh of the Ethical Design Manifesto, along with a vi
 It took a while to get my head around how to use the interface, but I found using the audio track from the video very useful, as I could sync the subtitles to the wave forms.
 
 {{< figure caption="Jubler in action" >}}
-  {{< imgsrcset src="Screen-Shot-2016-03-21-at-17.05.01.png" alt="Screenshot of Jubler with highlighted wave forms for subtitle editing" >}}
+  {{< img src="Screen-Shot-2016-03-21-at-17.05.01.png" alt="Screenshot of Jubler with highlighted wave forms for subtitle editing" >}}
 {{< /figure >}}
 
 ## Creative Mornings Malmö
@@ -35,7 +35,7 @@ It took a while to get my head around how to use the interface, but I found usin
 On Friday I also gave my first ever talk in Malmö/Sweden. It was at Creative Mornings Malmö which had a lovely venue at Djäkne. The topic was “Change” and I spoke about Ethical Design, and why we need it. Aral took lots of bad photos of me, and one of them is below.
 
 {{< figure caption="Me doing my impression of a crow" >}}
-  {{< imgsrcset src="Screen-Shot-2016-03-21.png" alt="Me talking with a slide of the Ethical Design Manifesto (The 3 Rs of Ethical Design) in a fluffy black cardigan" >}}
+  {{< img src="Screen-Shot-2016-03-21.png" alt="Me talking with a slide of the Ethical Design Manifesto (The 3 Rs of Ethical Design) in a fluffy black cardigan" >}}
 {{< /figure >}}
 
 We’re settling into a good routine here in Malmö. We’re working from the office all week, 8:30-5ish, and doing a better job of taking time off during the evenings and weekends. It’s still tiring though! I underestimated the sheer cognitive load of dealing with an unfamiliar language and culture. Of course, everybody speaks English and is very kind and friendly. But just going to the supermarket, finding our way around, and learning how things work, takes a little more time and a little more effort. It’s a great adventure! But makes us well worn out at the end of every day.
@@ -43,7 +43,7 @@ We’re settling into a good routine here in Malmö. We’re working from the of
 ## Oskar status
 
 {{< figure caption="Enjoying the beach life!" >}}
-  {{< imgsrcset  src="Screen-Shot-2016-03-21-at-17.17.54.png" alt="Oskar paddling in the sea in front of the Turning Torso in Malmö" >}}
+  {{< img  src="Screen-Shot-2016-03-21-at-17.17.54.png" alt="Oskar paddling in the sea in front of the Turning Torso in Malmö" >}}
 {{< /figure >}}
 
 Originally [posted on the Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-monday-21st-march-2016](https://forum.ind.ie/t/laura-s-diary-monday-21st-march-2016)

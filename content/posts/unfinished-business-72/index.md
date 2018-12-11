@@ -26,6 +26,6 @@ I sent Sue some questions, which she answered and sent back to me, without Andy 
 
 <p style="text-align: center;">{{< figure >}}
   {{< link href="http://unfinished.bz/72" >}}
-  	{{< imgsrcset src="unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." >}}
+  	{{< img src="unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." >}}
   {{< /link >}}
 {{< /figure >}}</p>

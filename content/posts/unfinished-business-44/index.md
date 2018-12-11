@@ -26,6 +26,6 @@ I’m also going to be on Unfinished Business more regularly. I always have fun 
 
 {{< figure >}}
   {{< link href="http://unfinished.bz/44" >}}
-  	{{< imgsrcset alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." src="unfinishedbusiness.png" >}}
+  	{{< img alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." src="unfinishedbusiness.png" >}}
   {{< /link >}}
 {{< /figure >}}

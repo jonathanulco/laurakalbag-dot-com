@@ -28,7 +28,7 @@ I’m going to talk about how we design the web. These days, “web designer”
 
 {{< figure >}}
   {{< link href="http://wxg.co.uk" >}}
-  	{{< imgsrcset alt="WXG 2014, a one-day web conference — Friday 26 September, Guildford, UK." src="wxg-2014.png" >}}
+  	{{< img alt="WXG 2014, a one-day web conference — Friday 26 September, Guildford, UK." src="wxg-2014.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

@@ -26,7 +26,7 @@ It was lovely chatting to Jonathan, and his [podcast also has a proper transcrip
 
 {{< figure >}}
   {{< link href="http://lucidplot.com/2013/08/05/kalbag-podcast/" >}}
-  	{{< imgsrcset alt="lucid plot - Jonathan Kahn's blog about changing culture through digital work" src="lucid-plot-podcast.png" >}}
+  	{{< img alt="lucid plot - Jonathan Kahn's blog about changing culture through digital work" src="lucid-plot-podcast.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

@@ -26,7 +26,7 @@ Follow us on [@indie](http://twitter.com/indie "ind.ie on Twitter") for the late
 
 {{< figure >}}
   {{< link href="https://ind.ie" >}}
-  	{{< imgsrcset src="indie-stratosphere1.png" alt="ind.ie balloon leaving stratosphere" >}}
+  	{{< img src="indie-stratosphere1.png" alt="ind.ie balloon leaving stratosphere" >}}
   {{< /link >}}
 {{< /figure >}}
 

@@ -20,7 +20,7 @@ colours:
 
 On Thursday morning I gave a talk online for [Inclusive Design 24](http://www.inclusivedesign24.org), a free 24-hour event celebrating Global Accessibility Awareness Day (#GAAD.) I wanted to share my talk in a more readable way, so here it is:
 
-{{< imgsrcset src="Accessibility-By-Design.001.jpg" alt="Accessibility By Design. Laura Kalbag @laurakalbag. Ind.ie @indie" >}}
+{{< img src="Accessibility-By-Design.001.jpg" alt="Accessibility By Design. Laura Kalbag @laurakalbag. Ind.ie @indie" >}}
 
 In the last two years, I’ve given eleven accessibility-related talks, almost entirely on an introductory level. I want to go into a group of people who work with the web, and convince them to make their sites more accessible, no matter what their role or position. If they’ve not heard of accessibility before, then it’s not usually a hard sell. It’s hopeful, positive and appeals to peoples’ good sides. But if they have heard of accessibility it’s a much harder sell.
 
@@ -32,11 +32,11 @@ As web professionals, we come up with so many reasons to avoid accessibility. It
 
 I’ve [addressed these reasons before](http://24ways.org/2013/why-bother-with-accessibility/), so I won’t cover them here, but it’s important for us to understand why we think this way. We think along a decision-making scale that goes from easy things to impossible things. The reasons I mentioned before aren’t really excuses, but are mapped to different locations on the scale based on how a person perceives the difficulty of accessibility in relation to their job and its associated tasks.
 
-{{< imgsrcset src="Accessibility-By-Design.006.jpg" alt="Scale with easy and one end, and hard at the other" >}}
+{{< img src="Accessibility-By-Design.006.jpg" alt="Scale with easy and one end, and hard at the other" >}}
 
 One developer might see learning Angular as a challenge, but another developer might already know Angular and so see it as an easy decision. One content strategist might have worked with lots of video, but another might be more experienced working with text. One designer might create prototypes in HTML and CSS, but another might work exclusively in Photoshop.
 
-{{< imgsrcset src="Accessibility-By-Design.010.jpg" alt="Easy to hard scale with Angular in different locations depending on the developer" >}}
+{{< img src="Accessibility-By-Design.010.jpg" alt="Easy to hard scale with Angular in different locations depending on the developer" >}}
 
 When we’re working on a project, we have to balance all the factors and features on our difficulty scale. There are easy wins we can incorporate into projects without thinking about it: this could be the decision to use text to communicate on our sites. You might think: “Using text on a web page? It goes without saying!” But somebody has to write that text, so it’s not really a given. Instead it’s an easy win.
 
@@ -44,11 +44,11 @@ There are impossibilities that we’ll (probably) never try on our projects: thi
 
 And all other decisions are somewhere between text on a web page and Z axis hologram scrolling. We’ll decide an approach or a feature’s worth based on its position on this scale, and based on how many other things are on the scale. Do we have a lot of easy wins on the scale? Well, maybe we can do one difficult thing. Do we have a lot of moderately tricky tasks on the scale? Then maybe one of them has to go, based on our budget or how much time we have.
 
-{{< imgsrcset src="Accessibility-By-Design.009.jpg" alt="Scale of difficulty with text content at easy and z-axis scrolling at hard" >}}
+{{< img src="Accessibility-By-Design.009.jpg" alt="Scale of difficulty with text content at easy and z-axis scrolling at hard" >}}
 
 As people trying to promote accessibility, we need to help pull accessibility up from the “difficult” end of the scale, towards the “easy” end of the scale. How we approach making accessibility easier depends on who we’re trying to encourage. Give a copy writer an alt attribute and they’ll have a more accessible image. Teach a copy writer how write alt attributes, and they’ll have accessible images for a lifetime.
 
-{{< imgsrcset src="Accessibility-By-Design.014.jpg" alt="Pulling accessibility up from the hard end of the scale to the easy end" >}}
+{{< img src="Accessibility-By-Design.014.jpg" alt="Pulling accessibility up from the hard end of the scale to the easy end" >}}
 
 I’ve mostly found developers and content creators fairly easy to convince about accessibility. The most trouble I seem to get is from designers. Which is strange because *I’m* a designer. So why are designers a sticking point? When our content is fabulous, our markup and code is well-structured and thoughtful, even our interactive behaviour is well planned, but the visual side lets us down. Aesthetics are often even the *enemy* of accessibility, how can we change that?
 
@@ -76,37 +76,37 @@ It’s easy to find design that fails in these goals. There’s a lot of stuff o
 
 It’s a deliberately inflammatory title… I had a look at what the gallery websites reckon were the trends of the last four years. A disclaimer comes here as I don’t think anyone using these trends sets out to make their sites inaccessible. The examples following may well be incredibly accessible. These examples are just to show how these trends could compromise usability in favour of looking sexy and fashionable.
 
-{{< imgsrcset src="Accessibility-By-Design.035.jpg" alt="2012" >}}
+{{< img src="Accessibility-By-Design.035.jpg" alt="2012" >}}
 
 #### 2012 was the year of the grid system
 
 With responsive design becoming the rage, grid systems were abound in 2012. Frameworks popped up everywhere. Some frameworks, used responsibly, were great, making responsive layouts and prototyping very easy. However, most frameworks resulted in `&lt;div&gt;` and `&lt;span&gt;` soup when developers used them without any customisation or care for accessibility. There wasn’t a meaningful HTML element in sight…
 
-{{< imgsrcset src="Accessibility-By-Design.037.jpg" alt="Screenshots of lots of grid frameworks" >}}
+{{< img src="Accessibility-By-Design.037.jpg" alt="Screenshots of lots of grid frameworks" >}}
 
 2012 also heralded image carousels, back then still referred to as “sliders.” Designers could now cram extra content on to the page through the wonder of jQuery and other scripts. Unfortunately, the accessibility of the content, and the controls that helped you stop, advance, and rewind the content whizzing before your eyes, was not usually a priority.
 
-{{< imgsrcset src="Accessibility-By-Design.040.jpg" alt="2013" >}}
+{{< img src="Accessibility-By-Design.040.jpg" alt="2013" >}}
 
 #### 2013 was the Year of Parallax
 
 Scrolling with combined static and moving layers was the done thing. Rich content and storytelling made for compelling experiences, but also image-heavy pages that hijacked input conventions.
 
-{{< imgsrcset src="Accessibility-By-Design.042.jpg" alt="Screenshots of websites that use parallax scrolling" >}}
+{{< img src="Accessibility-By-Design.042.jpg" alt="Screenshots of websites that use parallax scrolling" >}}
 
 &nbsp;
 
 2013 was also the year flat design started becoming “a thing.” Textures and images lost favour as responsive design meant the elements on our pages needed to be flexible. ‘Flat Design’ with its solid blocks of colour could be created easily with CSS, load quickly, and expand and collapse to fit the viewport size with no loss of quality. This meant it was also the year designers learned how to spell new words as they endlessly argued the merits of flat design vs **skeuomorphism**.
 
-{{< imgsrcset src="Accessibility-By-Design.044.jpg" alt="Screenshot examples of flat design" >}}
+{{< img src="Accessibility-By-Design.044.jpg" alt="Screenshot examples of flat design" >}}
 
-{{< imgsrcset src="Accessibility-By-Design.045.jpg" alt="2014" >}}
+{{< img src="Accessibility-By-Design.045.jpg" alt="2014" >}}
 
 #### 2014, Year of the Video Background
 
 Video backgrounds became big in 2014. I’m not even sure why, as these videos probably only ran smoothly on the large desktop screens of the designers working at mega corporations with extra speedy fibre-optic internet connections. The rest of us have to put up with slow, choppy and pixelated videos making the layouts distracting, and making it hard to read the text overlaid on top.
 
-{{< imgsrcset src="Accessibility-By-Design.047.jpg" alt="Screenshots of web pages with video backgrounds" >}}
+{{< img src="Accessibility-By-Design.047.jpg" alt="Screenshots of web pages with video backgrounds" >}}
 
 Looking around at sites that predict and analyse the trends so far for 2015, there’s not much that’s new out there. A few sites have mentioned simplicity becoming a trend, and as long as that doesn’t just mean hiding stuff, that may be a good thing. It might mean that web design is finally growing up.
 
@@ -116,7 +116,7 @@ You can see from the trends how much designers crave constraint. Fashion is a c
 
 > “Design depends largely on constraints.”
 
-{{< imgsrcset src="Accessibility-By-Design.050.jpg" alt="Design depends largely on constraints - Charles Eames" >}}
+{{< img src="Accessibility-By-Design.050.jpg" alt="Design depends largely on constraints - Charles Eames" >}}
 
 As a designer working in furniture, architecture, film, art, graphic and industrial design, Charles Eames understood that constraints affect design no matter the discipline. A designer’s work is to respond to requirements or aims set by others or ourselves.
 
@@ -172,11 +172,11 @@ When we look at web typography from an aesthetic point of view, we have two majo
 The technical part of web typography is considering how a font might look applied straight to text without any interference/fancy CSS typesetting, or any control over it whatsoever. Because this is what we work with on a basic level without JavaScript or the CSS that only works on a few platforms. We also need to consider how it renders cross-browser. Looking at fonts through progressive enhancement and cross-browser consistency is definitely an accessible approach to typography.
 
 {{< figure caption="Text with a web font applied, but no other styling." >}}
-  {{< imgsrcset src="Accessibility-By-Design.066.jpg" alt="Text in ordinary black text with blue underlined links." >}}
+  {{< img src="Accessibility-By-Design.066.jpg" alt="Text in ordinary black text with blue underlined links." >}}
 {{< /figure >}}
 
 {{< figure caption="Checking cross-browser rendering using Typekit" >}}
-  {{< imgsrcset src="Accessibility-By-Design.067.jpg" alt="Screenshots of Typekit’s interface for cross-browser rendering" >}}
+  {{< img src="Accessibility-By-Design.067.jpg" alt="Screenshots of Typekit’s interface for cross-browser rendering" >}}
 {{< /figure >}}
 
 ### Practical typography
@@ -186,18 +186,18 @@ It’s slightly less obvious when it comes to the practical part of web typograp
 We need to remember that typography exists to represent content, and so it’s always worthwhile to read the text before we design it. Our aim is to invite the reader in, and make the text appear easy to read, not an intimidating mass. Typography should also reveal the meaning of the text. Comic Sans isn’t appropriate for a formal restaurant site, and a swirling script typeface isn’t appropriate for the website of a party clown.
 
 {{< figure caption="Blackoak Std makes for chunky intimidating body text, Heinemann makes for a more inviting paragraph." >}}
-  {{< imgsrcset src="Accessibility-By-Design.070.jpg" alt="A paragraph set in Blackoak Std, and a paragraph set in Heinemann" >}}
+  {{< img src="Accessibility-By-Design.070.jpg" alt="A paragraph set in Blackoak Std, and a paragraph set in Heinemann" >}}
 {{< /figure >}}
 
 When we read through the text, we can understand where it needs special treatment: where does the structure and order need to be made clear? The connections and differences between elements should be shown. The visual relationships between the text and other elements should reflect their real relationship. A heading is more important than a paragraph, and its importance should be revealed through size differences at the very least. All of these factors can be combined together to induce an ideal state for reading.
 
 {{< figure caption="Clear headings, links, and typographic hierarchy." >}}
-  {{< imgsrcset src="Accessibility-By-Design.073.jpg" alt="A paragraph with larger and smaller headings" >}}
+  {{< img src="Accessibility-By-Design.073.jpg" alt="A paragraph with larger and smaller headings" >}}
 {{< /figure >}}
 
 The easiest win in accessible typography is just getting the text at a readable size. The most readable typeface is unreadable at a small size, yet so many sizes squeeze tiny text so they can fit more into a layout. Responsive design should have made it more obvious that scrolling is perfectly acceptable. The smaller the x-height (the height of a lowercase x), the bigger your text will need to be in order to be readable.
 
-{{< imgsrcset src="Accessibility-By-Design.071.jpg" alt="Different sized paragraphs at 10px, 12px, 18px and 24px" >}}
+{{< img src="Accessibility-By-Design.071.jpg" alt="Different sized paragraphs at 10px, 12px, 18px and 24px" >}}
 
 ### Readability
 
@@ -206,32 +206,32 @@ Whilst good structure and a strong differentiation between elements will help a 
 Uniform texture is more important than the shapes of the individual characters in a typeface. Typography isn’t the same as logo design. When we look at the relationship between the letters, an even texture helps our eyes flow over the text, not getting caught up on unexpected spaces and distracting shapes.
 
 {{< figure caption="If you squint at the top paragraph, it has an even texture. If you squint at the lower paragraph, it’s a much more blobby, uneven texture." >}}
-  {{< imgsrcset src="Accessibility-By-Design.077.jpg" alt="Paragraphs of uniform and uneven texture" >}}
+  {{< img src="Accessibility-By-Design.077.jpg" alt="Paragraphs of uniform and uneven texture" >}}
 {{< /figure >}}
 
 Since high resolution displays became the designers’ favourite, thin text is all the rage. Apple did it, and now everybody else does too. But so often thin text is just too thin, making the text appear very light against the background, making it harder to read. Heavy text also doesn’t provide enough contrast between the text and the background, as its chunkiness makes it hard to distinguish letterforms. You want to choose the Goldilocks of typeface weights: not too heavy, not too light. A high contrast of crisp letterforms with enough space around and between the shapes will make text much easier to read.
 
-{{< imgsrcset src="Accessibility-By-Design.078.jpg" alt="Light and heavy paragraphs of text" >}}
+{{< img src="Accessibility-By-Design.078.jpg" alt="Light and heavy paragraphs of text" >}}
 
 The lines of each letterform also need attention. Serif fonts, in particular, often contrast thick and thin lines within one letter. Your eyes are naturally drawn to the thick lines, and less to the thin, which creates an uneven and distracting texture, making it harder to read.
 
 {{< figure caption="High-contrast serif" >}}
-  {{< imgsrcset src="Accessibility-By-Design.079.jpg" alt="High-contrast serif" >}}
+  {{< img src="Accessibility-By-Design.079.jpg" alt="High-contrast serif" >}}
 {{< /figure >}}
 
 We also want to avoid complex details in the letterforms. The loops in Giddyup Std are cute, but overcrowd body text too much. You can see how our reading would be disrupted and tripped up by a loop or a curl in an unusual place.
 
-{{< imgsrcset src="Accessibility-By-Design.080.jpg" alt="A paragraph set in the curly loopy GiddyUp Std" >}}
+{{< img src="Accessibility-By-Design.080.jpg" alt="A paragraph set in the curly loopy GiddyUp Std" >}}
 
 Another feature of letterforms that affects the readability of a typeface is the counters. These are the spaces inside the letters. Sometimes they’re open, like Cs, and sometimes they’re closed, like Os. We need a clear distinction between the open and closed counters, so you can easily tell them apart. Otherwise a phrase like Rococo Cocoon could easily be misread as Rooooo Ooooon.
 
-{{< imgsrcset src="Accessibility-By-Design.081.jpg" alt="Embrionic has very closed counters, Museo Sans has more open counters" >}}
+{{< img src="Accessibility-By-Design.081.jpg" alt="Embrionic has very closed counters, Museo Sans has more open counters" >}}
 
 Some typefaces are specifically designed to be easier for people with cognitive difficulties. Heinemann is a beautiful typeface designed in-house at Heinemann educational publishing for young readers. The ascenders and descenders (the parts of the letters that ascend above the lowercase letters, and the parts that descend below the lowercase letters) are emphasised to make it easier for readers to distinguish between letters. The letterforms such as lowercase a and g are drawn in the same shape as we learn to write by hand, to make them more recognisable.
 
 {{< figure >}}
   {{< link href="http://www.myfonts.com/fonts/fw-heinemann/heinemann/gallery.html" >}}
-  	{{< imgsrcset src="Accessibility-By-Design.083.jpg" alt="Heinemann type family" >}}
+  	{{< img src="Accessibility-By-Design.083.jpg" alt="Heinemann type family" >}}
   {{< /link >}}
 {{< /figure >}}
 
@@ -239,7 +239,7 @@ While many designers look down on Comic Sans, it shares those same early-learner
 
 {{< figure >}}
   {{< link href="http://www.myfonts.com/fonts/ascender/comic-sans/" >}}
-  	{{< imgsrcset src="Accessibility-By-Design.084.jpg" alt="Comic Sans typeface" >}}
+  	{{< img src="Accessibility-By-Design.084.jpg" alt="Comic Sans typeface" >}}
   {{< /link >}}
 {{< /figure >}}
 
@@ -247,13 +247,13 @@ Read Regular, Dyslexie and Open Dyslexic are both fonts designed with dyslexic r
 
 {{< figure >}}
   {{< link href="http://www.readregular.com/english/typography.html" >}}
-  	{{< imgsrcset src="Accessibility-By-Design.085.jpg" alt="Read Regular typeface" >}}
+  	{{< img src="Accessibility-By-Design.085.jpg" alt="Read Regular typeface" >}}
   {{< /link >}}
 {{< /figure >}}
 
 {{< figure >}}
   {{< link href="http://opendyslexic.org" >}}
-  	{{< imgsrcset src="Accessibility-By-Design.086.jpg" alt="Dyslexie and Open Dyslexic typefaces" >}}
+  	{{< img src="Accessibility-By-Design.086.jpg" alt="Dyslexie and Open Dyslexic typefaces" >}}
   {{< /link >}}
 {{< /figure >}}
 
@@ -264,13 +264,13 @@ Read Regular, Dyslexie and Open Dyslexic are both fonts designed with dyslexic r
 When we’re designing for the web, we tend interact with colour via colour pickers.
 
 {{< figure caption="Colour wheel (left) is a more classic layout, with blended hues in a ring. The colour spectrum on the right is more recognisable as it takes the blends you see in the colour wheel, and adds white and black to give you varying shades. The bars in the middle are usually sliders, and allow you to slide between different hues, saturation and brightness for your chosen colour." >}}
-  {{< imgsrcset src="Accessibility-By-Design.088.jpg" alt="Colour pickers" >}}
+  {{< img src="Accessibility-By-Design.088.jpg" alt="Colour pickers" >}}
 {{< /figure >}}
 
 The benefit of using hues visualised on a colour wheel is that you’re more likely to find colours that work well in a palette. You can pick from side-by-side colours for an analogous blend, or from colours opposite each other on the wheel for a more striking colour contrast.
 
 {{< figure caption="Colour picking from opposite sides of the colour wheel" >}}
-  {{< imgsrcset src="Accessibility-By-Design.096.jpg" alt="Colour picking with droppers on opposite sides of the colour wheel" >}}
+  {{< img src="Accessibility-By-Design.096.jpg" alt="Colour picking with droppers on opposite sides of the colour wheel" >}}
 {{< /figure >}}
 
 But the accessibility of colour is more than just picking two different colours. In order to make our foreground text readable against our background colour, we need **contrast**.
@@ -278,31 +278,31 @@ But the accessibility of colour is more than just picking two different colours.
 When we’re trying to find a good contrast, the colour wheel isn’t much help. The key is the sliders for brightness and saturation. A high contrast is caused by a greater difference the foreground and background brightness, and the foreground and background saturation.
 
 {{< figure caption="Varying the brightness for colour contrast" >}}
-  {{< imgsrcset src="Accessibility-By-Design.105.jpg" alt="Varying the brightness for colour contrast" >}}
+  {{< img src="Accessibility-By-Design.105.jpg" alt="Varying the brightness for colour contrast" >}}
 {{< /figure >}}
 
 For example, a blue background with blue text of a similar lightness will be hard to read, whereas a lighter blue against a darker blue is much easier, making a more accessible foreground-background contrast.
 
 {{< figure caption="Varying the saturation for colour contrast" >}}
-  {{< imgsrcset src="Accessibility-By-Design.106.jpg" alt="Different strengths of saturation, with greater difference comes higher contrast" >}}
+  {{< img src="Accessibility-By-Design.106.jpg" alt="Different strengths of saturation, with greater difference comes higher contrast" >}}
 {{< /figure >}}
 
 The same applies to saturation. Deeply saturated yellow text will have a low contrast against a similarly deeply saturated yellow. However, using a desaturated yellow in the background makes for a more accessible foreground-background contrast.
 
 {{< figure caption="Using the different colour pairs with the same brightness and saturation as before" >}}
-  {{< imgsrcset src="Accessibility-By-Design.107.jpg" alt="High contrast with different colours, but the same contrast between brightness and saturation as before" >}}
+  {{< img src="Accessibility-By-Design.107.jpg" alt="High contrast with different colours, but the same contrast between brightness and saturation as before" >}}
 {{< /figure >}}
 
 The same rules apply even when you’re using different colours for the foreground and background.
 
 Very high contrast foreground and background combinations can also suffer from accessibility problems. Issues with high contrast aren’t talked about as often, but can hurt your eyes, and be particularly problematic for people with dyslexia.
 
-{{< imgsrcset src="Accessibility-By-Design.108.jpg" alt="Extreme high contrast between bright green background and black text, and white text on a black background" >}}
+{{< img src="Accessibility-By-Design.108.jpg" alt="Extreme high contrast between bright green background and black text, and white text on a black background" >}}
 
 To avoid screaming high contrast, I would recommend softening the difference between the foreground and background values slightly, bringing one value slightly closer to the other. By tweaking these contrasts slightly, they’re much easier on the eyes.
 
 {{< figure caption="Softening the high contrast values" >}}
-  {{< imgsrcset src="Accessibility-By-Design.109.jpg" alt="A slightly less saturated green and a slightly brighter grey" >}}
+  {{< img src="Accessibility-By-Design.109.jpg" alt="A slightly less saturated green and a slightly brighter grey" >}}
 {{< /figure >}}
 
 ## Accessibility and Branding
@@ -312,19 +312,19 @@ If we considered accessibility at a brand level, what would that be like?
 What if we designed our logos and associated colour palettes with an accessible colour contrast in mind? I’ve been doing this for years, not really thinking much of it. As a designer who usually created a logo and would then go on to design and develop a site around it, it just made sense to me.
 
 {{< figure caption="Some of my old logo designs" >}}
-  {{< imgsrcset src="Accessibility-By-Design.111.jpg" alt="Logo designs with accessible text colours" >}}
+  {{< img src="Accessibility-By-Design.111.jpg" alt="Logo designs with accessible text colours" >}}
 {{< /figure >}}
 
 If we make the colours accessible, then the colours we use on the site can be consistently on-brand later on; we won’t suddenly need to use a darker colour for our body text because our brand’s colour palette produces unreadable results.
 
 {{< figure caption="Some early designs for logos, with accessible, web-compatible typography" >}}
-  {{< imgsrcset src="Accessibility-By-Design.113.jpg" alt="Early typography-based logo designs" >}}
+  {{< img src="Accessibility-By-Design.113.jpg" alt="Early typography-based logo designs" >}}
 {{< /figure >}}
 
 What if we choose our logo and brand typefaces with readability and web typography in mind, not just which typeface has three letters that look good for our logo? Maybe if our logo is a swirling script face, we should consider a complementary body text early on, when we’re designing the rest of our brand. This could prevent us getting caught out when our site designer or developer has to pick a completely off-brand typeface because our brand typography is so hard to read as body text.
 
 {{< figure caption="A beautiful script logo and beautiful web typography, but the brand doesn’t quite match up." >}}
-  {{< imgsrcset src="Accessibility-By-Design.114.jpg" alt="A script based logo with an upright sans serif body text. They don’t quite work together." >}}
+  {{< img src="Accessibility-By-Design.114.jpg" alt="A script based logo with an upright sans serif body text. They don’t quite work together." >}}
 {{< /figure >}}
 
 The earlier we, as designers, learn to consider accessibility, the less likely we’ll have our designs diluted and confused further down the line.
@@ -360,7 +360,7 @@ In the talk I gave this morning, I then went on to talk about the 3 Rs of Ethica
 
 If we want to make accessibility more accessible to different roles in our organisations, we need to learn how to better incorporate it into our existing processes. Acknowledging accessibility as a constraint from the outset ensures we have it as a point of reference at every step in the process. This also deliberately avoids looking at accessibility as some kind of checklist. Designers need to understand that accessibility can no more be ticked off a list than user experience can. These aren’t checklist tasks, but are our goals, our focuses, and our approaches.
 
-{{< imgsrcset src="Accessibility-By-Design.132.jpg" alt="Laura Kalbag. laurakalbag.wpengine.com. @laurakalbag. ind.ie. @indie" >}}
+{{< img src="Accessibility-By-Design.132.jpg" alt="Laura Kalbag. laurakalbag.wpengine.com. @laurakalbag. ind.ie. @indie" >}}
 
 So that was my talk. Some of these thoughts are more developed than others. If you have any comments or want to discuss these things further, I’d love to hear what you think!
 

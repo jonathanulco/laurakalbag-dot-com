@@ -62,173 +62,173 @@ Sorry, these are already gone:
 ### The 8 Faces Bundle I
 
 {{< figure caption="**RESERVED** 8 Faces Issues #1, #2, #3, #4 (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="8-Faces-Part-I.jpg" alt="8 Faces Issues #1, #2, #3, #4" >}}
+  {{< img src="8-Faces-Part-I.jpg" alt="8 Faces Issues #1, #2, #3, #4" >}}
 {{< /figure >}}
 
 ### The 8 Faces Bundle II
 
 {{< figure caption="**RESERVED** 8 Faces Issues #5, #6, #7, #8 (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="8-Faces-Part-II.jpg" alt="8 Faces Issues #5, #6, #7, #8" >}}
+  {{< img src="8-Faces-Part-II.jpg" alt="8 Faces Issues #5, #6, #7, #8" >}}
 {{< /figure >}}
 
 ### The Accessibility Bundle
 
 {{< figure caption="**RESERVED** *Design Meets Disability* by Graham Pullin, *Universal Design for Web Applications* by Wendy Chisholm and Matt May, *Just Ask: Integrating Accessibility Throughout Design* by Shawn Lawton Henry (Above 1kg) **£8**" >}}
-  {{< imgsrcset src="Accessibility.jpg" alt="Design Meets Disability by Graham Pullin, Universal Design for Web Applications by Wendy Chisholm and Matt May, Just Ask: Integrating Accessibility Throughout Design by Shawn Lawton Henry" >}}
+  {{< img src="Accessibility.jpg" alt="Design Meets Disability by Graham Pullin, Universal Design for Web Applications by Wendy Chisholm and Matt May, Just Ask: Integrating Accessibility Throughout Design by Shawn Lawton Henry" >}}
 {{< /figure >}}
 
 ### The Colour Theory Bundle
 
 {{< figure caption="**RESERVED** *Color Harmony Workbook* by Lesa Sawahata, *Colour: A workshop for artists and designers* by David Hornung (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="Colour-Theory.jpg" alt="Color Harmony Workbook by Lesa Sawahata, Colour: A workshop for artists and designers by David Hornung" >}}
+  {{< img src="Colour-Theory.jpg" alt="Color Harmony Workbook by Lesa Sawahata, Colour: A workshop for artists and designers by David Hornung" >}}
 {{< /figure >}}
 
 ### The Communicating Design Bundle
 
 {{< figure caption="**RESERVED** *Visual Literacy: A Conceptual Approach to Graphic Problem Solving* by Judith Wilde and Richard Wilde, *Communicating Design* by Dan M Brown (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="Communication-Design.jpg" alt="Visual Literacy: A Conceptual Approach to Graphic Problem Solving by Judith Wilde and Richard Wilde, Communicating Design by Dan M Brown" >}}
+  {{< img src="Communication-Design.jpg" alt="Visual Literacy: A Conceptual Approach to Graphic Problem Solving by Judith Wilde and Richard Wilde, Communicating Design by Dan M Brown" >}}
 {{< /figure >}}
 
 ### The CSS Bundle
 
 {{< figure caption="**RESERVED** *Sass For Web Designs* by Dan Cederholm, *CSS3 For Web Designers* by Dan Cederholm, *SMACSS* by Jonathan Snook (Below 1kg) **£8**" >}}
-  {{< imgsrcset src="CSS.jpg" alt="Sass For Web Designs by Dan Cederholm, CSS3 For Web Designers by Dan Cederholm, SMACSS by Jonathan Snook" >}}
+  {{< img src="CSS.jpg" alt="Sass For Web Designs by Dan Cederholm, CSS3 For Web Designers by Dan Cederholm, SMACSS by Jonathan Snook" >}}
 {{< /figure >}}
 
 ### The Design Approaches Bundle
 
 {{< figure caption="**RESERVED** *Design as Art* by Bruno Munari, *The Language Of Things* by Deyan Sudjic, *The Hacker Ethic and the Spirit of the Information Age* by Pekka Himanen, *The Shape of Design* by Frank Chimero (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="Design-Philosophies.jpg" alt="Design as Art by Bruno Munari, The Language Of Things by Deyan Sudjic, The Hacker Ethic and the Spirit of the Information Age by Pekka Himanen, The Shape of Design by Frank Chimero" >}}
+  {{< img src="Design-Philosophies.jpg" alt="Design as Art by Bruno Munari, The Language Of Things by Deyan Sudjic, The Hacker Ethic and the Spirit of the Information Age by Pekka Himanen, The Shape of Design by Frank Chimero" >}}
 {{< /figure >}}
 
 ### The Design Theory Bundle
 
 {{< figure caption="**RESERVED** *Principles of Form and Design* by Wucius Wong, *Universal Principles of Design* by William Lidwell, Kritina Holden, and Jill Butler (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="Design-Theory.jpg" alt="Principles of Form and Design by Wucius Wong, Universal Principles of Design by William Lidwell, Kritina Holden, and Jill Butler" >}}
+  {{< img src="Design-Theory.jpg" alt="Principles of Form and Design by Wucius Wong, Universal Principles of Design by William Lidwell, Kritina Holden, and Jill Butler" >}}
 {{< /figure >}}
 
 ### The Grids and Visualisation Bundle
 
 {{< figure caption="**RESERVED** *A Practical Guide to Designing with Data** ** *by Brian Suda, *Ordering Disorder: Grid Principles for Web Design* by Khoi Vinh, *Making and Breaking the Grid* by Timothy Samara, *This Is A Print Handbook *(slim, no spine!) (Above 1kg) **£12**" >}}
-  {{< imgsrcset src="Grids-and-Visualisation.jpg" alt="A Practical Guide to Designing with Data by Brian Suda, Ordering Disorder: Grid Principles for Web Design by Khoi Vinh, Making and Breaking the Grid by Timothy Samara, This Is A Print Handbook" >}}
+  {{< img src="Grids-and-Visualisation.jpg" alt="A Practical Guide to Designing with Data by Brian Suda, Ordering Disorder: Grid Principles for Web Design by Khoi Vinh, Making and Breaking the Grid by Timothy Samara, This Is A Print Handbook" >}}
 {{< /figure >}}
 
 ### The Holistic Design Bundle
 
 {{< figure caption="**RESERVED** *Designing For Emotion* by Aarron Walter, *A Practical Guide to Designing the Invisible* by Robert Mills (Below 1kg) **£5**" >}}
-  {{< imgsrcset src="Holistic-Design.jpg" alt="Designing For Emotion by Aarron Walter, A Practical Guide to Designing the Invisible by Robert Mills" >}}
+  {{< img src="Holistic-Design.jpg" alt="Designing For Emotion by Aarron Walter, A Practical Guide to Designing the Invisible by Robert Mills" >}}
 {{< /figure >}}
 
 ### The JavaScript and jQuery Bundle
 
 {{< figure caption="**RESERVED** *jQuery in Action* by Bear Bibeault and Yehuda Katz, *JavaScript: The Good Parts* by Douglas Crockford, *Simply JavaScript* By Kevin Yank and Cameron Adams (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="JavaScript.jpg" alt="jQuery in Action by Bear Bibeault and Yehuda Katz, JavaScript: The Good Parts by Douglas Crockford, Simply JavaScript By Kevin Yank and Cameron Adams" >}}
+  {{< img src="JavaScript.jpg" alt="jQuery in Action by Bear Bibeault and Yehuda Katz, JavaScript: The Good Parts by Douglas Crockford, Simply JavaScript By Kevin Yank and Cameron Adams" >}}
 {{< /figure >}}
 
 ### The Mobile Web Bundle
 
 {{< figure caption="**RESERVED** *Mobile First* by Luke Wroblewski, *Content Strategy For Mobile* by Karen McGrane, *Mobile Web Design* by Cameron Moll, *The Mobile Book* by Smashing Magazine (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="Mobile-Web.jpg" alt="Mobile First by Luke Wroblewski, Content Strategy For Mobile by Karen McGrane, Mobile Web Design by Cameron Moll, The Mobile Book by Smashing Magazine " >}}
+  {{< img src="Mobile-Web.jpg" alt="Mobile First by Luke Wroblewski, Content Strategy For Mobile by Karen McGrane, Mobile Web Design by Cameron Moll, The Mobile Book by Smashing Magazine " >}}
 {{< /figure >}}
 
 ### The User Experience Bundle
 
 {{< figure caption="**RESERVED** *Undercover User Experience Design* by Cennydd Bowles and James Box, *Neuro Web Design* by Susan M Weinschenk, *Don’t Make Me Think!* By Steve Krug, *The Elements Of User Experience* by Jesse James Garrett (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="User-Experience.jpg" alt="Undercover User Experience Design by Cennydd Bowles and James Box, Neuro Web Design by Susan M Weinschenk, Don’t Make Me Think! By Steve Krug, The Elements Of User Experience by Jesse James Garrett" >}}
+  {{< img src="User-Experience.jpg" alt="Undercover User Experience Design by Cennydd Bowles and James Box, Neuro Web Design by Susan M Weinschenk, Don’t Make Me Think! By Steve Krug, The Elements Of User Experience by Jesse James Garrett" >}}
 {{< /figure >}}
 
 ### The Web Design Bundle
 
 {{< figure caption="**RESERVED** *A Practical Guide to Designing for the Web* By Mark Boulton, *Just Enough Research* by Erika Hall (Above £1kg) **£5**" >}}
-  {{< imgsrcset src="Web-Design.jpg" alt="A Practical Guide to Designing for the Web By Mark Boulton, Just Enough Research by Erika Hall" >}}
+  {{< img src="Web-Design.jpg" alt="A Practical Guide to Designing for the Web By Mark Boulton, Just Enough Research by Erika Hall" >}}
 {{< /figure >}}
 
 ### The Writing More Good Bundle
 
 {{< figure caption="**RESERVED** *The Complete Plain Words *by Penguin, *Chambers Writing for The Web * (Below 1kg) **£5**" >}}
-  {{< imgsrcset src="Writing-More-Good.jpg" alt="The Complete Plain Words by Penguin, Chambers Writing for The Web" >}}
+  {{< img src="Writing-More-Good.jpg" alt="The Complete Plain Words by Penguin, Chambers Writing for The Web" >}}
 {{< /figure >}}
 
 ### The Tech and Design Business Bundle
 
 {{< figure caption="**RESERVED** *It’s Not How Good You Are, It’s How Good You Want To Be* by Paul Arden, *Rework* by Jason Fried and David Heinemeier Hansson, *Insites: The Book* by Keir Whitaker and Eliot Jay Stocks, *Crush It!* by Gary Vaynerchuk. (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="IMG_1335.jpg" alt="It’s Not How Good You Are, It’s How Good You Want To Be by Paul Arden, Rework by Jason Fried and David Heinemeier Hansson, Insites: The Book by Keir Whitaker and Eliot Jay Stocks, Crush It! by Gary Vaynerchuk" >}}
+  {{< img src="IMG_1335.jpg" alt="It’s Not How Good You Are, It’s How Good You Want To Be by Paul Arden, Rework by Jason Fried and David Heinemeier Hansson, Insites: The Book by Keir Whitaker and Eliot Jay Stocks, Crush It! by Gary Vaynerchuk" >}}
 {{< /figure >}}
 
 ### The T-Shaped Designer Bundle
 
 {{< figure caption="**RESERVED ** *Interviewing For Research* by Andrew Travers, *Design Is A Job* by Mike Monteiro, * Mobile First* by Luke Wroblewski,* Undercover User Experience Design* by Cennydd Bowles and James Box. (Below 1kg) **£10**" >}}
-  {{< imgsrcset src="IMG_1334.jpg" alt="Interviewing For Research by Andrew Travers, Design Is A Job by Mike Monteiro,  Mobile First by Luke Wroblewski, Undercover User Experience Design by Cennydd Bowles and James Box" >}}
+  {{< img src="IMG_1334.jpg" alt="Interviewing For Research by Andrew Travers, Design Is A Job by Mike Monteiro,  Mobile First by Luke Wroblewski, Undercover User Experience Design by Cennydd Bowles and James Box" >}}
 {{< /figure >}}
 
 ### The Talk The Talk Design Bundle
 
 {{< figure caption="**RESERVED** *The Designer’s Lexicon* by Alastair Campbell, *The Universal Methods Of Design* by Bella Martin and Bruce Hanington. (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="IMG_1333.jpg" alt="The Designer’s Lexicon by Alastair Campbell, The Universal Methods Of Design by Bella Martin and Bruce Hanington" >}}
+  {{< img src="IMG_1333.jpg" alt="The Designer’s Lexicon by Alastair Campbell, The Universal Methods Of Design by Bella Martin and Bruce Hanington" >}}
 {{< /figure >}}
 
 ### The Timeless Usability Bundle
 
 {{< figure caption="**RESERVED** *Defensive Design for the Web* by 37signals, *Usability Engineering* by Xristine Faulkner. (Below 1kg) **£10**" >}}
-  {{< imgsrcset src="IMG_1331.jpg" alt="Defensive Design for the Web by 37signals, Usability Engineering by Xristine Faulkner" >}}
+  {{< img src="IMG_1331.jpg" alt="Defensive Design for the Web by 37signals, Usability Engineering by Xristine Faulkner" >}}
 {{< /figure >}}
 
 ### The Graphic Design Bundle
 
 {{< figure caption="**RESERVED** *The Designer Says *compiled by Sara Bader, *Logo Design Love* by Jon Hicks, *The Icon Handbook* by Jon Hicks. (Above 1kg) **£12**" >}}
-  {{< imgsrcset src="IMG_1330.jpg" alt="The Designer Says compiled by Sara Bader, Logo Design Love by Jon Hicks, The Icon Handbook by Jon Hicks" >}}
+  {{< img src="IMG_1330.jpg" alt="The Designer Says compiled by Sara Bader, Logo Design Love by Jon Hicks, The Icon Handbook by Jon Hicks" >}}
 {{< /figure >}}
 
 ### The Ellen Lupton Typography Bundle
 
 {{< figure caption="**RESERVED** *Type on Screen* by Ellen Lupton, *Thinking With Type* by Ellen Lupton. (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="IMG_1326.jpg" alt="Type on Screen by Ellen Lupton, Thinking With Type by Ellen Lupton" >}}
+  {{< img src="IMG_1326.jpg" alt="Type on Screen by Ellen Lupton, Thinking With Type by Ellen Lupton" >}}
 {{< /figure >}}
 
 ### The ActionScript 3.0 Bundle
 
 {{< figure caption="** *ActionScript 3.0 Cookbook** *by Joey Lott, Darron Schall &amp; Keith Peters, *Learning ActionScript 3.0* by Rich Shupe with Zevan Rosser. (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="IMG_1322.jpg" alt="ActionScript 3.0 Cookbook by Joey Lott, Darron Schall &amp; Keith Peters, Learning ActionScript 3.0 by Rich Shupe with Zevan Rosser" >}}
+  {{< img src="IMG_1322.jpg" alt="ActionScript 3.0 Cookbook by Joey Lott, Darron Schall &amp; Keith Peters, Learning ActionScript 3.0 by Rich Shupe with Zevan Rosser" >}}
 {{< /figure >}}
 
 ### The Typography Bundle
 
 {{< figure caption="*8Faces #5*, *Detail In Typography* by Jost Hochuli, *A Typography Workbook* by Kate Clair. (Above 1kg) **£10**" >}}
-  {{< imgsrcset src="IMG_1325.jpg" alt="8Faces #5, Detail In Typography by Jost Hochuli, A Typography Workbook by Kate Clair" >}}
+  {{< img src="IMG_1325.jpg" alt="8Faces #5, Detail In Typography by Jost Hochuli, A Typography Workbook by Kate Clair" >}}
 {{< /figure >}}
 
 ### The Extreme Programming Bundle
 
 {{< figure caption="*The Mythical Man-Month* by Frederick P. Brooks Jr, *Testing Extreme Programming* by Lisa Crispin and Tip House, *Extreme Programming* by Martin Lippert, Stefan Roock and Henning Wolf. (Above 1kg) **£12**" >}}
-  {{< imgsrcset src="IMG_1324.jpg" alt="The Mythical Man-Month by Frederick P. Brooks Jr, Testing Extreme Programming by Lisa Crispin and Tip House, Extreme Programming by Martin Lippert, Stefan Roock and Henning Wolf" >}}
+  {{< img src="IMG_1324.jpg" alt="The Mythical Man-Month by Frederick P. Brooks Jr, Testing Extreme Programming by Lisa Crispin and Tip House, Extreme Programming by Martin Lippert, Stefan Roock and Henning Wolf" >}}
 {{< /figure >}}
 
 ### The Being An Artist Bundle
 
 {{< figure caption="*Art &amp; Fear** ** *by David Bayles and Ted Orland, *This Is Not A Book* by Keri Smith, *Letters To A Young Artist* by Julia Cameron. (Below 1kg) **£8**" >}}
-  {{< imgsrcset src="Being-An-Artist.jpg" alt="Art &amp; Fear by David Bayles and Ted Orland, This Is Not A Book by Keri Smith, Letters To A Young Artist by Julia Cameron" >}}
+  {{< img src="Being-An-Artist.jpg" alt="Art &amp; Fear by David Bayles and Ted Orland, This Is Not A Book by Keri Smith, Letters To A Young Artist by Julia Cameron" >}}
 {{< /figure >}}
 
 ### The HTML5 Bundle
 
 {{< figure caption="*HTML5 For Web Designers* by Jeremy Keith, *HTML5 Cookbook* by Christopher Schmitt &amp; Kyle Simpson, *Introducing HTML5* by Bruce Lawson and Remy Sharp (Above 1kg) **£8**" >}}
-  {{< imgsrcset src="HTML5.jpg" alt="HTML5 For Web Designers by Jeremy Keith, HTML5 Cookbook by Christopher Schmitt &amp; Kyle Simpson, Introducing HTML5 by Bruce Lawson and Remy Sharp" >}}
+  {{< img src="HTML5.jpg" alt="HTML5 For Web Designers by Jeremy Keith, HTML5 Cookbook by Christopher Schmitt &amp; Kyle Simpson, Introducing HTML5 by Bruce Lawson and Remy Sharp" >}}
 {{< /figure >}}
 
 ### The Introductory Philosophy Bundle
 
 {{< figure caption="*Penguin Dictionary of Philosophy*, *The Story Of Philosophy* by Bryan Magee (Above 1kg) **£5**" >}}
-  {{< imgsrcset src="Introductory-Philosophy.jpg" alt="Penguin Dictionary of Philosophy, The Story Of Philosophy by Bryan Magee" >}}
+  {{< img src="Introductory-Philosophy.jpg" alt="Penguin Dictionary of Philosophy, The Story Of Philosophy by Bryan Magee" >}}
 {{< /figure >}}
 
 ### The Beginnings Bundle
 
 {{< figure caption="*The Autobiography of Charles Darwin*, *Origin Of Species* by Charles Darwin, *Big Bang* by Simon Singh. (Above 1kg) **£8**" >}}
-  {{< imgsrcset src="The-Beginnings.jpg" alt="The Autobiography of Charles Darwin, Origin Of Species by Charles Darwin, Big Bang by Simon Singh" >}}
+  {{< img src="The-Beginnings.jpg" alt="The Autobiography of Charles Darwin, Origin Of Species by Charles Darwin, Big Bang by Simon Singh" >}}
 {{< /figure >}}
 
 ### The Ologies Bundle
 
 {{< figure caption="*Mythologies* by Roland Barthes, *The Decisive Moment* by Jonah Lehrer, *Here Comes Everybody* by Clay Shirky (Below 1kg) **£8**" >}}
-  {{< imgsrcset src="The-Ologies.jpg" alt="Mythologies by Roland Barthes, The Decisive Moment by Jonah Lehrer, Here Comes Everybody by Clay Shirky" >}}
+  {{< img src="The-Ologies.jpg" alt="Mythologies by Roland Barthes, The Decisive Moment by Jonah Lehrer, Here Comes Everybody by Clay Shirky" >}}
 {{< /figure >}}

@@ -22,7 +22,7 @@ colours:
 
 Continuing on with my chapter-a-day, last week I finished reading the brilliant [Mobile First](http://www.abookapart.com/products/mobile-first "Mobile First on A Book Apart") by Luke Wroblewski.
 
-{{< imgsrcset src="mobile-first.jpg" alt="Mobile First by Luke Wroblewski" >}}
+{{< img src="mobile-first.jpg" alt="Mobile First by Luke Wroblewski" >}}
 
 Mobile design and development has gained momentum over the last few years; with responsive design and designers regularly going giddy over iPhone app UIs, it’s surprising how little the industry discusses the *design* issues. We seem to prefer to get caught up in the more technical and development-based conversations (or the infuriatingly dull native vs web, but I’ll get back to that!)
 

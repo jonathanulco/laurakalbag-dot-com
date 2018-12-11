@@ -28,7 +28,7 @@ If you’re in the area, I really recommend you join us. If Ben’s events are a
 
 {{< figure >}}
   {{< link href="http://breakingborde.rs/" >}}
-  	{{< imgsrcset alt="Breaking Borders" src="breaking-borders1.png" >}}
+  	{{< img alt="Breaking Borders" src="breaking-borders1.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

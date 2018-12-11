@@ -24,7 +24,7 @@ It’s good fun and a proper challenge having an editor working with me. I’ve 
 
 {{< figure >}}
   {{< link href="http://alistapart.com/column/good-designers-good-clients" >}}
-  	{{< imgsrcset alt="Good Designers, Good Clients, my post on A List Apart" src="good-designers-good-clients.png" >}}
+  	{{< img alt="Good Designers, Good Clients, my post on A List Apart" src="good-designers-good-clients.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

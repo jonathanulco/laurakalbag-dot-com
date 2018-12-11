@@ -23,7 +23,7 @@ colours:
 A while ago I wrote[ a post about how I was going to do a talk at WordPress London where I would try to design a WordPress admin icon live](/speaking-at-the-wordpress-london-january-meetup/ "Speaking at the WordPress London January meetup"). Well, I did it, and it didn’t go too badly. In fact, I was very lucky as the first suggestion for what I should design was a calendar icon. That’s mostly squares, so not too tricky!
 
 {{< figure caption="The final calendar icons (as designed quickly in 30 minutes or so)" >}}
-  	{{< imgsrcset alt="small and large calendar icons" src="final-icons.png" >}}
+  	{{< img alt="small and large calendar icons" src="final-icons.png" >}}
 {{< /figure >}}
 
 The WordPress London guys kindly filmed my talk and I’ve included it below. The audio quality isn’t great, and the screen is quite hard to see, particularly during the live demo. (This is mostly a problem with the un-dimmable room lighting rather than the distance and angle of the camera).
@@ -37,7 +37,7 @@ The WordPress London guys kindly filmed my talk and I’ve included it below. Th
 I know I rave about the wonderful Mac app [Sketch](http://www.bohemiancoding.com/sketch/) non-stop on Twitter, but this was a chance for me to show people how easy Sketch is to use on a particular project. In the screenshot below you can see how I made use of their multiple artboards (canvases) among other features. As explained in the talk, I design my icons side-by-side with the existing icons to achieve a consistent feel.
 
 {{< figure caption="Using multiple artboards for WordPress admin icons in Sketch" >}}
-  {{< imgsrcset alt="screenshot of the Sketch app showing WordPress admin icons on different artboards for different sizes" src="icons-in-sketch.png" >}}
+  {{< img alt="screenshot of the Sketch app showing WordPress admin icons on different artboards for different sizes" src="icons-in-sketch.png" >}}
 {{< /figure >}}
 
 If you’re already a lucky owner of Sketch, and want to have a closer look at how the icons were made, you can [download the .sketch file](http://an.lklink.at/MauH) (it’s about 670kb.)

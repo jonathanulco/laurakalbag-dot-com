@@ -30,7 +30,7 @@ Individual tickets are just $99, but you can get a whole 20% off if you use the 
 
 {{< figure >}}
   {{< link href="http://environmentsforhumans.com/2015/web-sherpa-summit/" >}}
-  	{{< imgsrcset src="Sherpa-Summit.png" alt="Sherpa Summit - the virtual, live, web professionals conference" >}}
+  	{{< img src="Sherpa-Summit.png" alt="Sherpa Summit - the virtual, live, web professionals conference" >}}
   {{< /link >}}
 {{< /figure >}}
 

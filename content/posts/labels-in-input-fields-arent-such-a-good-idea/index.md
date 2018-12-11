@@ -24,7 +24,7 @@ There’s something that’s been bothering me lately. It seems to be some kind 
 
 Example:
 
-{{< imgsrcset title="a form field where the label is shown inside the text input field" alt="a form field where the label is shown inside the text input field" src="Screen-shot-2011-05-27-at-16.48.49.png" >}}
+{{< img title="a form field where the label is shown inside the text input field" alt="a form field where the label is shown inside the text input field" src="Screen-shot-2011-05-27-at-16.48.49.png" >}}
 
 ## There might be some pros
 
@@ -48,11 +48,11 @@ As part of Project Noah, you upload photos of nature. The aim is to identify the
 
 {{< figure >}}
   {{< link href="http://projectnoah.org" >}}
-  	{{< imgsrcset alt="Reference URLs on Project Noah, where the label is shown inside the text input" src="Screen-shot-2011-05-27-at-16.55.42.png" >}}
+  	{{< img alt="Reference URLs on Project Noah, where the label is shown inside the text input" src="Screen-shot-2011-05-27-at-16.55.42.png" >}}
   {{< /link >}}
 {{< /figure >}}It’s a beautiful interface, but I have an issue. I’ll go and paste in a URL, then I’ll select the other text box:
 
-{{< imgsrcset alt="Reference URL input on Project Noah, where one URL input is filled in and the other is focused but empty" src="Screen-shot-2011-05-27-at-16.59.40.png" >}}
+{{< img alt="Reference URL input on Project Noah, where one URL input is filled in and the other is focused but empty" src="Screen-shot-2011-05-27-at-16.59.40.png" >}}
 Then I have this thought:
 
 > Did I put the URL in the right box? Is Encyclopedia of Life the top input or the bottom input? How do I find out?!
@@ -65,15 +65,15 @@ Another example from an interface that I use on a regular basis and generally lo
 
 Before:
 
-{{< imgsrcset alt="WordPress 2.7 post editor" src="Screen-shot-2011-05-27-at-1.png" >}}
+{{< img alt="WordPress 2.7 post editor" src="Screen-shot-2011-05-27-at-1.png" >}}
 After:
 
-{{< imgsrcset class="wp-image-429" title="WordPress 3.1 post editor" alt="WordPress 3.1 post editor" src="Screen-shot-2011-05-27-at-17.19.17.png" >}}
+{{< img class="wp-image-429" title="WordPress 3.1 post editor" alt="WordPress 3.1 post editor" src="Screen-shot-2011-05-27-at-17.19.17.png" >}}
 
 The problem is that the first input box you’ll click into is the top title input. It actually auto-focuses, and some clever script means that it puts the label back in after the auto-focus, but then the second you start typing you’ve lost that label. If you start typing, then backspace because you made a mistake, you’ve lost that label:
 
 {{< figure caption="" >}}
-  	{{< imgsrcset alt="WordPress 3.1 post editor with no title label" src="Screen-shot-2011-05-27-at-17.18.48.png" >}}
+  	{{< img alt="WordPress 3.1 post editor with no title label" src="Screen-shot-2011-05-27-at-17.18.48.png" >}}
 {{< /figure >}}
 
 #### Designers often make assumptions
@@ -84,7 +84,7 @@ It’s all very well to assume that the user will remember that the title belong
 
 Originally we used pre-entered text in an input field as an example, to help users understand the input required. WordPress itself has a great example of this on the Writing Settings page in the WordPress admin:
 
-{{< imgsrcset alt="WordPress Writing Settings uses text inside input boxes to help users understand the input required" src="Screen-shot-2011-05-27-at-17.30.53.png" >}}
+{{< img alt="WordPress Writing Settings uses text inside input boxes to help users understand the input required" src="Screen-shot-2011-05-27-at-17.30.53.png" >}}
 
 These fantastic triggers mean that users who aren’t necessary technically minded can see the type of input that’s required to set up post via email, match that to the information they have and easily enter it into the boxes.
 
@@ -94,12 +94,12 @@ When did these useful triggers become a way to hinder users, instead of help the
 
 HTML5 has a fantastic new form input attribute for adding placeholder information into the input boxes so that you can easily give your users cues without the need for JavaScript or CSS hacks:
 
-{{< imgsrcset alt="HTML5 form snippet" src="Screen-shot-2011-05-27-at-17.38.39.png" >}}
+{{< img alt="HTML5 form snippet" src="Screen-shot-2011-05-27-at-17.38.39.png" >}}
 
 **Edit:** “*name*” should actually be “*id*” here in the text input, I always get those two mixed up! (Thanks [Mike](/labels-in-input-fields-arent-such-a-good-idea/#comment-2794), for the heads up)
 
 {{< figure caption="I’m concerned that people will misuse or misunderstand the placeholder attribute as a way to replace form labels" >}}
-  	{{< imgsrcset alt="HTML5 form preview" src="Screen-shot-2011-05-27-at-17.39.00.png" >}}
+  	{{< img alt="HTML5 form preview" src="Screen-shot-2011-05-27-at-17.39.00.png" >}}
 {{< /figure >}}
 
 But it’s not the same thing!

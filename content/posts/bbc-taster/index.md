@@ -26,6 +26,6 @@ Looking through, I liked the content and the concept interested me, but there we
 
 > “I’m particularly wary of anything that says something won’t be accessible because it’s experimental (see [Terms of Use](http://www.bbc.co.uk/taster/about" target="_blank)). Surely they’re just missing out on the opinions of anyone with accessibility needs?”
 
-{{< imgsrcset src="qotw_bbctaster_primary.jpg" alt="Screenshot of BBC Taster" >}}
+{{< img src="qotw_bbctaster_primary.jpg" alt="Screenshot of BBC Taster" >}}
 
 	

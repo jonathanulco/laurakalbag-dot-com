@@ -26,6 +26,6 @@ instagramurl: ""
 
 {{< figure caption="Springtime!" >}}
 
-    {{< imgsrcset src="osky-3" alt="Oskar the huskamute standing in amongst bluebells in a wood." >}}
+    {{< img src="osky-3" alt="Oskar the huskamute standing in amongst bluebells in a wood." >}}
 
 {{< /figure >}}

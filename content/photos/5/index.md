@@ -24,7 +24,7 @@ primaryimagealt: "Selfie of me and Oskar the huskamute, he’s licking my face."
 
 {{< figure class="grid two" caption="Inevitable" >}}
 
-    {{< imgsrcset src="osky-1" alt="Selfie of me and Oskar the huskamute, he’s looking at me." >}}
-    {{< imgsrcset src="osky-2" alt="Selfie of me and Oskar the huskamute, he’s licking my face." >}}
+    {{< img src="osky-1" alt="Selfie of me and Oskar the huskamute, he’s looking at me." >}}
+    {{< img src="osky-2" alt="Selfie of me and Oskar the huskamute, he’s licking my face." >}}
 
 {{< /figure >}}

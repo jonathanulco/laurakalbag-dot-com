@@ -28,6 +28,6 @@ The tickets are incredibly reasonable for a two-day event, and it looks like Lis
 
 {{< figure >}}
   {{< link href="http://2013.lxjs.org/" >}}
-  	{{< imgsrcset alt="JAVASCRIPT MEETS LISBON - A 2-day not-for-profit by-the-community and for-the-community international conference about the New Worlds of JavaScript. Event Details: Lisbon, Portugal October 2-3, 2013" src="lxjs.png" >}}
+  	{{< img alt="JAVASCRIPT MEETS LISBON - A 2-day not-for-profit by-the-community and for-the-community international conference about the New Worlds of JavaScript. Event Details: Lisbon, Portugal October 2-3, 2013" src="lxjs.png" >}}
   {{< /link >}}
 {{< /figure >}}

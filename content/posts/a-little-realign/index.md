@@ -35,13 +35,13 @@ Now I’ve rewritten all the CSS from scratch using Sass, and added in a few new
 I love Avenir, I really do, but I was increasingly aware that it can be hard work to read as body text. After falling in love with [Brandon Text](http://hvdfonts.com/#189-Brandon%20Text "Brandon Text typeface"), I decided it was a nice evolution from Avenir, keeping the geometric shapes but in a softer, more legible, way.
 
 {{< figure caption="Avenir as display and body text on the old version of my site" >}}
-  {{< imgsrcset class="wp-image-4455" alt="Avenir as display and body text" src="previous-typography.jpg" >}}
+  {{< img class="wp-image-4455" alt="Avenir as display and body text" src="previous-typography.jpg" >}}
 {{< /figure >}}
 
 I recently read Tim Brown’s fantastic [Combining Typefaces](http://nicewebtype.com/notes/2013/04/23/pocket-guide-to-combining-typefaces/) book and felt encouraged to be braver with my typefaces choices. I didn’t want to just keep using different weights of the same family as I had before. After some [deliberation](https://dribbble.com/shots/1510342-Freight-Micro-and-Brandon-Text-dilemma?list=users&amp;offset=6 "Dribbble shots showing the process of my heading typeface choice") and advice, I settled on [Arek](http://www.rosettatype.com/Arek) for headings, to add a bit of quirky personality to my site. This is the first time I’ve used [Fontdeck](http://fontdeck.com) properly, and I’m really pleased with the quality of the font and the speedy rendering.
 
 {{< figure caption="Arek for the display, and Brandon Text for the body on the new realign" >}}
-  {{< imgsrcset class="wp-image-4456" alt="Arek for the display text, and Brandon Text for the body text" src="new-typography.jpg" >}}
+  {{< img class="wp-image-4456" alt="Arek for the display text, and Brandon Text for the body text" src="new-typography.jpg" >}}
 {{< /figure >}}
 
 I’m both self-hosting and using external JavaScript to pull in fonts for my site. Brandon Text is self-hosted whereas Arek is hosted on Fontdeck. I can’t quite make up my mind whether I prefer to suffer slow loading times on my self-hosted fonts, or the risk of my site depending on another site for the fonts to load with a font delivery service.
@@ -51,23 +51,23 @@ I’m both self-hosting and using external JavaScript to pull in fonts for my si
 The illustrations had to go. I’m always trying to tame my temptation to over-decorate, and while the illustrations in the previous version were a nice responsive bonus for large screens, a cleaner design is less distracting.
 
 {{< figure caption="Previous homepage layout, with portfolio images, blog posts and a messy illustration" >}}
-  {{< imgsrcset class="wp-image-4460" alt="Previous homepage layout, with portfolio images, blog posts and a messy illustration" src="previous-homepage.jpg" >}}
+  {{< img class="wp-image-4460" alt="Previous homepage layout, with portfolio images, blog posts and a messy illustration" src="previous-homepage.jpg" >}}
 {{< /figure >}}
 
 For a long time, my homepage was my most hated page. And the most visited. It just felt like everything had been thrown on, it was unstructured and untidy. Given that the second most popular area of my site is the Past Projects, I decided to include twelve (nicely divisible for smaller screen sizes) images from my past projects and a brief introduction.
 
 {{< figure caption="New version of the homepage, with just an introduction and larger portfolio images" >}}
-  {{< imgsrcset class="wp-image-4458" alt="New version of the homepage, with just an introduction and larger portfolio images" src="new-homepage.jpg" >}}
+  {{< img class="wp-image-4458" alt="New version of the homepage, with just an introduction and larger portfolio images" src="new-homepage.jpg" >}}
 {{< /figure >}}
 
 WordPress, by default, gives you so many options for meta information on archive pages. I previously listed the amount of comments, categories and tags on each post on the blog archive. On the projects archive I listed the dates and type of project. I realised these were unnecessary chunks of information that were easy enough to find on the single post or project pages. Just because I *could* add everything to each template, it didn’t mean I should. Less repetitive content means the pages are now cleaner, easier to read, and nowhere near as long as before.
 
 {{< figure caption="Previous blog, with lots of information about each post" >}}
-  {{< imgsrcset class="wp-image-4459" alt="Previous blog, showing comments, categories and tags for each post" src="previous-blog.jpg" >}}
+  {{< img class="wp-image-4459" alt="Previous blog, showing comments, categories and tags for each post" src="previous-blog.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="New blog post layout with no unnecessary meta information" >}}
-  {{< imgsrcset class="wp-image-4457" alt="New blog post layout without comments, tags or category information" src="new-blog.jpg" >}}
+  {{< img class="wp-image-4457" alt="New blog post layout without comments, tags or category information" src="new-blog.jpg" >}}
 {{< /figure >}}
 
 ## New projects with Dribbble shots
@@ -75,13 +75,13 @@ WordPress, by default, gives you so many options for meta information on archive
 I’ve been terrible at keeping my portfolio up to date in the last year. I’ve still got five projects that are halfway to being documented, but I’ve added four recent projects with some more in-depth explanations of the process. I want to keep adding more useful explanations to each project, making it more of a case study, so they’ll inevitably take a little longer.
 
 {{< figure caption="four new case studies: Indie Phone, Freelancing map illustration, Rachel Andrew’s site and the Turbine logo" >}}
-  {{< imgsrcset class="wp-image-4454" alt="thumbnails of four new case studies" src="Screen-Shot-2014-05-02-at-13.07.28.png" >}}
+  {{< img class="wp-image-4454" alt="thumbnails of four new case studies" src="Screen-Shot-2014-05-02-at-13.07.28.png" >}}
 {{< /figure >}}
 
 After hearing [Andy Clarke chat with Dan Cederholm on Unfinished Business](http://unfinished.bz/37) a few months ago, I shamelessly borrowed Andy’s great idea to include Dribbble shots from a project in my portfolio. I found a handy plugin to grab my Dribbble shots as they’re posted and add them into WordPress, so I can now easily connect my Dribbble shots to the relevant post and include a little gallery at the end of each project case study.
 
 {{< figure caption="progress shots from the Indie Phone project" >}}
-  {{< imgsrcset class="wp-image-4453" alt="four Dribbble shots showing the rocket logo design process" src="Screen-Shot-2014-05-02-at-12.58.24.png" >}}
+  {{< img class="wp-image-4453" alt="four Dribbble shots showing the rocket logo design process" src="Screen-Shot-2014-05-02-at-12.58.24.png" >}}
 {{< /figure >}}
 
 ## There’s probably more to do…

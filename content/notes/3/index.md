@@ -26,11 +26,11 @@ instagramurl: ""
 
 {{< figure class="grid three" caption="Finally got Sam in the room to properly produce the Accessibility For Everyone audiobook in person. " >}}
 
-    {{< imgsrcset src="laura" alt="Selfie of me speaking into a pop shield in front of a microphone." >}}
+    {{< img src="laura" alt="Selfie of me speaking into a pop shield in front of a microphone." >}}
 
-    {{< imgsrcset src="sam" alt="Half of Sam’s head and body, partly obscured by the microphone. It’s my view of him and the desk while we’re recording." >}}
+    {{< img src="sam" alt="Half of Sam’s head and body, partly obscured by the microphone. It’s my view of him and the desk while we’re recording." >}}
 
-    {{< imgsrcset src="desk" alt="Our desk setup for recording featuring the microphone and pop shield, laptop, and Indie mug." >}}
+    {{< img src="desk" alt="Our desk setup for recording featuring the microphone and pop shield, laptop, and Indie mug." >}}
 
 {{< /figure >}}
 

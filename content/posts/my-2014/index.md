@@ -27,51 +27,51 @@ I wrote a lot more, with regular slots on[ A List Apart](http://alistapart.com/a
 Again, I’ve summarised my year in photos:
 
 {{< figure caption="Saw Skindred twice. What a fantastic live band." >}}
-  {{< imgsrcset src="skindred.jpg" alt="Skindred on stage" >}}
+  {{< img src="skindred.jpg" alt="Skindred on stage" >}}
 {{< /figure >}}
 
 {{< figure caption="Moved around the corner to a lovely little house." >}}
-  {{< imgsrcset src="kemptown.jpg" alt="Looking down our new road" >}}
+  {{< img src="kemptown.jpg" alt="Looking down our new road" >}}
 {{< /figure >}}
 
 {{< figure caption="Ind.ie began with Jo joining as Director of Operations (I wasn’t full time yet…)" >}}
-  {{< imgsrcset src="indie-beginnings.jpg" alt="Jo, Aral and Oskar in the Ind.ie office" >}}
+  {{< img src="indie-beginnings.jpg" alt="Jo, Aral and Oskar in the Ind.ie office" >}}
 {{< /figure >}}
 
 {{< figure caption="Another trip to North Cyprus where we managed to work the WHOLE TIME." >}}
-  {{< imgsrcset src="cyprus.jpg" alt="Aral and me pulling silly faces in summer hats" >}}
+  {{< img src="cyprus.jpg" alt="Aral and me pulling silly faces in summer hats" >}}
 {{< /figure >}}
 
 {{< figure caption="In June, I joined the Ind.ie team part time and we got the full team working from the office at our house." >}}
-  {{< imgsrcset src="indie-team.jpg" alt="Ind.ie Team photo" >}}
+  {{< img src="indie-team.jpg" alt="Ind.ie Team photo" >}}
 {{< /figure >}}
 
 {{< figure caption="The Ind.ie team worked from London for four days in June." >}}
-  {{< imgsrcset src="london.jpg" alt="London at night" >}}
+  {{< img src="london.jpg" alt="London at night" >}}
 {{< /figure >}}
 
 {{< figure caption="We ran the [Indie Tech Summit](https://ind.ie/about/summit) in July, meeting brilliant people from around the world." >}}
-  {{< imgsrcset src="indie-tech-summit.jpg" alt="Richard Stallman and Aral speaking at Indie Tech Summit" >}}
+  {{< img src="indie-tech-summit.jpg" alt="Richard Stallman and Aral speaking at Indie Tech Summit" >}}
 {{< /figure >}}
 
 {{< figure caption="Went on a last-minute Mediterranean cruise, where we got drenched up Mount Vesuvius." >}}
-  {{< imgsrcset src="pompeii.jpg" alt="Aral and Laura in wet-weather ponchos" >}}
+  {{< img src="pompeii.jpg" alt="Aral and Laura in wet-weather ponchos" >}}
 {{< /figure >}}
 
 {{< figure caption="Started doing Pilates with [Brighton Pilates](http://www.brightonpilates.co.uk) at Yellowave. The best beach view in town!" >}}
-  {{< imgsrcset src="pilates.jpg" alt="Beach view from Yellowave beach hut" >}}
+  {{< img src="pilates.jpg" alt="Beach view from Yellowave beach hut" >}}
 {{< /figure >}}
 
 {{< figure caption="Gave my first talk and workshop representing Ind.ie at [border:none](https://border-none.net/2014) in Nuremberg." >}}
-  {{< imgsrcset src="border-none.jpg" alt="Stickers of people's 'auroras' and names at border:none." >}}
+  {{< img src="border-none.jpg" alt="Stickers of people's 'auroras' and names at border:none." >}}
 {{< /figure >}}
 
 {{< figure caption="My little sister Annie got married to the lovely Sarah." >}}
-  {{< imgsrcset src="nini-and-sarah-wedding.jpg" alt="Sarah and Annie standing in front of their wedding bus" >}}
+  {{< img src="nini-and-sarah-wedding.jpg" alt="Sarah and Annie standing in front of their wedding bus" >}}
 {{< /figure >}}
 
 {{< figure caption="Went to the Big Brother Awards in Amsterdam with Aral, where Edward Snowden gave a fantastic talk." >}}
-  {{< imgsrcset src="big-brother.jpg" alt="Edward Snowden giving a talk via live feed" >}}
+  {{< img src="big-brother.jpg" alt="Edward Snowden giving a talk via live feed" >}}
 {{< /figure >}}
 
 ## Following goals for 2014

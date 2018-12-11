@@ -48,7 +48,7 @@ It works the other way round too. By constructively criticising other people’s
 
 Late last night the furore over the Gap logo redesign came about.
 
-{{< imgsrcset src="Screen-shot-2010-10-06-at-10.09.54.png" alt="The new Gap logo" >}}
+{{< img src="Screen-shot-2010-10-06-at-10.09.54.png" alt="The new Gap logo" >}}
 
 [Scrivs](http://alpha.drawar.com/posts/The-World-isn-t-a-Dribbble-Showcase "The World isn't a Dribbble Showcase on Drawar") puts it way better than I could but it seems like madness. The logo isn’t *that bad*. It’s average, and thus an improvement on 99% of logos in the world. Get some perspective!
 

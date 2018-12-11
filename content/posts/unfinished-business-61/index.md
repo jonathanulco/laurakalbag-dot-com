@@ -24,7 +24,7 @@ Last weekend I was a guest on the [Unfinished Business podcast](http://unfinishe
 
 {{< figure >}}
   {{< link href="http://unfinished.bz/61" >}}
-  	{{< imgsrcset alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." src="unfinishedbusiness.png" >}}
+  	{{< img alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." src="unfinishedbusiness.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

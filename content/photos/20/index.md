@@ -26,6 +26,6 @@ primaryimagealt: "Oskar the huskamute standing in the woods looking directly at 
 
 {{< figure caption="We ❤️ the woods" >}}
 
-    {{< imgsrcset src="woods-3" alt="Oskar the huskamute standing in the woods looking directly at the camera." >}}
+    {{< img src="woods-3" alt="Oskar the huskamute standing in the woods looking directly at the camera." >}}
 
 {{< /figure >}}

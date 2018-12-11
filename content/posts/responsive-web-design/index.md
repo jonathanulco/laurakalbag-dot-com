@@ -23,7 +23,7 @@ colours:
 I had ordered [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design "Responsive Web Design on the A Book Apart store") by [Ethan Marcotte](http://ethanmarcotte.com/) as soon as it came out, but being at [Ampersand conference](/digest-from-ampersand-conf/ "Notes from Ampersand conference — My Digest"), and hearing *so many* people recommend it, really spurred me to take a few hours out to get on and read it.
 
 {{< figure caption="My copy of Responsive Web Design, already featuring a &#39;much used&#39; cover curl..." >}}
-  	{{< imgsrcset title="Responsive Web Design by Ethan Marcotte" src="web.jpg" alt="Responsive Web Design by Ethan Marcotte" >}}
+  	{{< img title="Responsive Web Design by Ethan Marcotte" src="web.jpg" alt="Responsive Web Design by Ethan Marcotte" >}}
 {{< /figure >}}
 
 **Responsive web design** is a term summarising design that has a flexibility allowing it to be optimised for different browsing experiences. This might be low levels of detail for mobile devices, big readable layouts for massive projector screens or dumbed-down CSS for old-fashioned browsers. I’m so sure that Responsive Web Design will be our bible for flexible web design for years to come.

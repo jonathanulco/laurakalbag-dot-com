@@ -26,7 +26,7 @@ I’d seen the iPad apps available before launch, and Autodesk’s SketchBook Pr
 
 This is my most recent drawing:
 
-{{< imgsrcset src="photo.jpg" alt="drawing of a fish using SketchBook Pro" >}}
+{{< img src="photo.jpg" alt="drawing of a fish using SketchBook Pro" >}}
 
 I was sitting at the fishing lake at Longleat, sketching from a photo in Matt’s fishing magazine whilst he fishes. (And using the WordPress app for writing this, but that’s a story for another time.) Asides from the sunlight making it a bit tricky to see anything other than my greasy fingerprints, it felt incredibly natural painting with my finger. Some clever person has probably come up with a way of using a stylus but I think that might spoil some of the charm. Finger painting is a bit thick, blobby and impressionist. I’m actually surprised by how much this looks like if I’d painted it in acrylics.
 
@@ -36,7 +36,7 @@ The capabilities of the tools are just amazing for an iPad app.
 
 ### The Brushes palette
 
-{{< imgsrcset class="wp-image-42"  src="photo_4.png" alt="the brushes palette in SketchBook Pro" >}}The amount of elements you can combine to create your own style and perfect the texture and colour you want are just incredible. I’ve not even tried everything yet, but some of my favourite elements are:
+{{< img class="wp-image-42"  src="photo_4.png" alt="the brushes palette in SketchBook Pro" >}}The amount of elements you can combine to create your own style and perfect the texture and colour you want are just incredible. I’ve not even tried everything yet, but some of my favourite elements are:
 
 * Radius—for going from the rough fat splodges to the tiniest little pixels, this gives you very fine-tuned control though it can be tricky to accurately choose the right radius with the small slider (despite my little fingers)
 * Opacity—opacity of your brush. I reckon it’s best used at less than 100% to give a more realistic painting effect, the more solid your brush, the more it’ll look like an old-school MS Paint picture!
@@ -49,13 +49,13 @@ You can only have five layers, but you can merge your layers together when you�
 
 In my fish picture, I started with some basic line-drawing and blocking out colour. Then on a layer above, I gave it a wash of light yellow with a big fat, mostly transparent, brush and set that layer to 50%. This made that wash more subtle, then I merged the layer down (I knew I wouldn’t need to finely edit this rough stuff later) to make my basic base layer.
 
-{{< imgsrcset src="photo_3.png" alt="lowest layer of blocked colour" >}}
+{{< img src="photo_3.png" alt="lowest layer of blocked colour" >}}
 
 The next layer I used to add some more fiddly detail and shadow. I kept this separate from the layer below for if I wanted to go back and erase parts without wiping my base layer.
 
-{{< imgsrcset src="photo2.jpg" alt="middle layer on my fish picture" >}}Then over the top, I tried to make the detail a bit more subtle and give the fish a slightly more realistic 3D multi-coloured appearance.
+{{< img src="photo2.jpg" alt="middle layer on my fish picture" >}}Then over the top, I tried to make the detail a bit more subtle and give the fish a slightly more realistic 3D multi-coloured appearance.
 
-{{< imgsrcset src="photo1.jpg" alt="layers in SketchBook Pro" >}}
+{{< img src="photo1.jpg" alt="layers in SketchBook Pro" >}}
 
 I’m pretty pleased with the overall effect and I’ll definitely keep trying to practice drawing and sketching.
 

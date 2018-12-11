@@ -26,7 +26,7 @@ It’ll be my first conference in France and I’ll be trying to remember my Fre
 
 {{< figure >}}
   {{< link href="http://kiwiparty.fr" >}}
-  	{{< imgsrcset alt="KiwiParty Vendredi 13 juin 2014" src="kiwiparty.png" >}}
+  	{{< img alt="KiwiParty Vendredi 13 juin 2014" src="kiwiparty.png" >}}
   {{< /link >}}
 {{< /figure >}}
 
