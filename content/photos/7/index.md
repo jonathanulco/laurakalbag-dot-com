@@ -25,6 +25,6 @@ primaryimagealt: "Oskar the huskamute lying flat on the patio fast asleep."
 
 {{< figure caption="Sleepy pup" >}}
 
-    {{< imgsrcset original="osky-3" alt="Oskar the huskamute lying flat on the patio fast asleep." >}}
+    {{< imgsrcset src="osky-3" alt="Oskar the huskamute lying flat on the patio fast asleep." >}}
 
 {{< /figure >}}

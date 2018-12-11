@@ -24,7 +24,7 @@ Today [my column on Me and My Big Fat Ego](http://alistapart.com/column/me-and-m
 
 {{< figure >}}
   {{< link href="http://alistapart.com/column/me-and-my-big-fat-ego" >}}
-  	{{< imgsrcset alt="Me and My Big Fat Ego column on A List Apart" original="me-and-my-big-fat-ego.png" >}}
+  	{{< imgsrcset alt="Me and My Big Fat Ego column on A List Apart" src="me-and-my-big-fat-ego.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

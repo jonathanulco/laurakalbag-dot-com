@@ -50,7 +50,7 @@ Sales are still going steadily, so I’m really happy. That’s a steady number 
 
 {{< link href="https://abookapart.com/products/accessibility-for-everyone" >}}
 
-    {{< imgsrcset original="book" alt="Two Accessibility For Everyone paperback books stacked." >}}
+    {{< imgsrcset src="book" alt="Two Accessibility For Everyone paperback books stacked." >}}
 
 {{< /link >}}
 

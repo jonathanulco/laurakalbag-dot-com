@@ -26,6 +26,6 @@ primaryimagealt: "a knitted baby monkey with shiny button eyes."
 
 {{< figure caption="Knitting has been great for occupying my fidgeting, and keeping me away from the social network scrolling." >}}
 
-    {{< imgsrcset original="monkey" alt="a knitted baby monkey with shiny button eyes." >}}
+    {{< imgsrcset src="monkey" alt="a knitted baby monkey with shiny button eyes." >}}
 
 {{< /figure >}}

@@ -30,11 +30,11 @@ Almost a year after [last year’s realign](/a-little-realign/ "A little realign
 My blog has been fairly quiet, but actually that’s because I’ve been writing a lot elsewhere. I write a [weekly roundup on the Ind.ie site every week](https://ind.ie/blog/roundup-15-03-27/), and a [regular column on A List Apart](http://alistapart.com/author/laurakalbag). I want to keep up with linking back to this new content, and keep writing more blog posts specifically on this site. As the portfolio isn’t needed so much, as I’m not looking for clients, it doesn’t need as much focus, so I’ve moved latest posts to a more prominent position on the homepage. However, I *do* want to keep up with the project case studies. They’re fun to share, and help me remember what I’ve done. I’ve got a big backlog going back at least a year, but I will get those projects up!
 
 {{< figure caption="Old homepage with big portfolio, loud colours, and the ill-fitting Ind.ie banner (now the Ind.ie logo is more subtly in the header)" >}}
-  {{< imgsrcset original="old-homepage-812x1024.jpg" alt="Screenshot of the old laurakalbag.wpengine.com homepage" >}}
+  {{< imgsrcset src="old-homepage-812x1024.jpg" alt="Screenshot of the old laurakalbag.wpengine.com homepage" >}}
 {{< /figure >}}
 
 {{< figure caption="New homepage with blog posts, smaller portfolio and different colour mix" >}}
-  {{< imgsrcset original="new-homepage.jpg" alt="Screenshot of laurakalbag.wpengine.com homepage" >}}
+  {{< imgsrcset src="new-homepage.jpg" alt="Screenshot of laurakalbag.wpengine.com homepage" >}}
 {{< /figure >}}
 
 ## Less about me…
@@ -53,7 +53,7 @@ Recently I’ve been getting my head around [WAI-ARIA](https://dev.opera.com/art
 I’m just ashamed that it took me so long to get around to it. Now, thanks to Heydon’s fantastic rundown of [Practical Aria Examples](http://heydonworks.com/practical_aria_examples/#progressive-collapsibles), I’m using `aria-controls`, `aria-hidden`, and `aria-expanded` to great effect.
 
 {{< figure caption="The dropdown navigation menu which shows on narrower viewports is now more accessible. You can view the page source to see more." >}}
-  {{< imgsrcset original="menu.jpg" alt="Screenshot of page navigation expanded under the Menu button" >}}
+  {{< imgsrcset src="menu.jpg" alt="Screenshot of page navigation expanded under the Menu button" >}}
 {{< /figure >}}
 
 ## The colours
@@ -61,7 +61,7 @@ I’m just ashamed that it took me so long to get around to it. Now, thanks to H
 I love my brightly coloured site, and the custom colours for different pages, posts and projects. I’ve used Advanced Custom Fields to set up colour pickers for the WordPress page and post editors, so I just have to choose a colour every time I publish. The colours are pulled in via PHP, on top of my general styles, into the CSS in the &lt;head&gt; of each page. My pickers look something like this:
 
 {{< figure caption="The colour picker in the WordPress post editor" >}}
-  {{< imgsrcset original="Screen-Shot-2015-04-02-at-17.55.30.png" alt="Screenshot of four colour picking areas" >}}
+  {{< imgsrcset src="Screen-Shot-2015-04-02-at-17.55.30.png" alt="Screenshot of four colour picking areas" >}}
 {{< /figure >}}
 
 In the previous design of the site, I used brightly coloured backgrounds with white text. However, this was getting a little bit dicey with readability. While I made sure the colour combinations had a contrast that was *technically* accessible, I’d often go back to a post a few days later and shudder at my appalling colour choices. I needed to ease off the colour and go a little bit cleaner. However, I had picked a colour palette for every page, post and project on my site *ever* when I’d [redesigned in 2012](/really-a-redesign-this-cant-be-real/ "Really, a redesign? This can’t be real…"). It’d be a shame to waste all that effort. I decided to just switch some of the colour palette choices around, so the background was a simpler easy-on-the-eyes grey, and the text would take on the colour. Suddenly the site felt a lot less oppressive!

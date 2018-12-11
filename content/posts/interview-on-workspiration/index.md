@@ -26,7 +26,7 @@ Workspiration seems to have collected interviews from a huge variety of people w
 
 {{< figure >}}
   {{< link href="http://workspiration.org/laura-kalbag" >}}
-  	{{< imgsrcset alt="" original="Workspiration.png" >}}
+  	{{< imgsrcset alt="" src="Workspiration.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

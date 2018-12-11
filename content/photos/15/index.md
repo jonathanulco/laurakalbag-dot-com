@@ -27,6 +27,6 @@ primaryimagealt: "Me lying on my back on the grass next to Osky the huskamute wh
 
 {{< figure caption="Mowed the overgrown garden. Now we’re too tired to get up." >}}
 
-    {{< imgsrcset original="post-mow" alt="Me lying on my back on the grass next to Osky the huskamute who is yawning." >}}
+    {{< imgsrcset src="post-mow" alt="Me lying on my back on the grass next to Osky the huskamute who is yawning." >}}
 
 {{< /figure >}}

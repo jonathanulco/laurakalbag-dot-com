@@ -24,6 +24,6 @@ colours:
 
 <p style="text-align: center;">{{< figure >}}
   {{< link href="http://unfinished.bz/97" >}}
-  	{{< imgsrcset original="unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." >}}
+  	{{< imgsrcset src="unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." >}}
   {{< /link >}}
 {{< /figure >}}</p>

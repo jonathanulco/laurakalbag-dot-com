@@ -24,7 +24,7 @@ Following on from [my post yesterday about working with Indie Phone for 50% of m
 
 {{< figure >}}
   {{< link href="https://the-pastry-box-project.net/laura-kalbag/2014-June-5" >}}
-  	{{< imgsrcset original="pastry-box-june.png" alt="Laura Kalbag on The Pastry Box, Thursday 5th June 2014" >}}
+  	{{< imgsrcset src="pastry-box-june.png" alt="Laura Kalbag on The Pastry Box, Thursday 5th June 2014" >}}
   {{< /link >}}
 {{< /figure >}}
 

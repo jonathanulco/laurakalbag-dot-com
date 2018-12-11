@@ -28,7 +28,7 @@ The best place to walk in the area (and conveniently [near to where we live is E
 
 {{< figure >}}
   {{< link href="https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.821011,-0.095851&amp;spn=0.010316,0.027874" >}}
-  	{{< imgsrcset alt="Brighton and the walking route around East Brighton Park/Sheepcote valley" original="brighton-map.png" caption="The routes (zoomed out) on Google Maps. Select the map to see the full map." >}}
+  	{{< imgsrcset alt="Brighton and the walking route around East Brighton Park/Sheepcote valley" src="brighton-map.png" caption="The routes (zoomed out) on Google Maps. Select the map to see the full map." >}}
   {{< /link >}}
 {{< /figure >}}
 
@@ -46,6 +46,6 @@ The best place to walk in the area (and conveniently [near to where we live is E
 And now I wait and see if anyone can come along. If this day/time is inconvenient, then I’m happy to reschedule next time!
 
 {{< figure caption="Oskar in Sheepcote Valley" >}}
-  {{< imgsrcset alt="Oskar the husky/malamute cross in Sheepcote Valley" original="osky.jpg" >}}
+  {{< imgsrcset alt="Oskar the husky/malamute cross in Sheepcote Valley" src="osky.jpg" >}}
 {{< /figure >}}
 

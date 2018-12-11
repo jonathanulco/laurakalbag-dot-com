@@ -25,6 +25,6 @@ primaryimagealt: "Portrait photo of me aged six, smiling with a long 90s fringe.
 
 {{< figure caption="I’ve not changed much in twenty-six years." >}}
 
-    {{< imgsrcset original="six-years-old" alt="Portrait photo of me aged six, smiling with a long 90s fringe." >}}
+    {{< imgsrcset src="six-years-old" alt="Portrait photo of me aged six, smiling with a long 90s fringe." >}}
 
 {{< /figure >}}

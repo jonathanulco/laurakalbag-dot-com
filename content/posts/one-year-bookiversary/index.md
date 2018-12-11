@@ -27,5 +27,5 @@ It’s been one whole year since my book, Accessibility For Everyone, came out i
 Did you read it? Did it help you make more accessible websites? If you didn’t read it yet (or even want to read it again…!) you can always listen to [the audiobook on Audible](https://www.audible.com/pd/B07G24HLXS). The whole book takes less than an afternoon…
 
 {{< figure caption="Please tell me you enjoyed it more than Osky did…" >}}
-  {{< imgsrcset original="book-photo.jpg" alt="me reading Accessibility For Everyone in the garden next to Oskar the huskamute who couldn’t care less." >}}
+  {{< imgsrcset src="book-photo.jpg" alt="me reading Accessibility For Everyone in the garden next to Oskar the huskamute who couldn’t care less." >}}
 {{< /figure >}}

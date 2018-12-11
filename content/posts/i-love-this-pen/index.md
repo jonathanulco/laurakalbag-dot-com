@@ -20,7 +20,7 @@ colours:
   tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
-{{< imgsrcset alt="Pen, ink and 'I love this pen' handwritten in my notebook" original="I-love-this-pen.jpg" >}}
+{{< imgsrcset alt="Pen, ink and 'I love this pen' handwritten in my notebook" src="I-love-this-pen.jpg" >}}
 
 It’s a [J Herbin metal pen](http://www.bureaudirect.co.uk/j-herbin-metal-rollerball-pen/p3655). It’s a rollerball but it takes any standard ink cartridge. I use it with the [J Herbin ink cartridges](http://www.bureaudirect.co.uk/j-herbin-ink-cartridges-pk-6/p2926) as they come in loads of different colours and packaged in cute little tins.
 

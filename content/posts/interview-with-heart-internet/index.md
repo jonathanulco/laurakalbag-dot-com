@@ -24,7 +24,7 @@ Yesterday, Heart Internet posted [an interview with me](http://www.heartinternet
 
 {{< figure >}}
   {{< link href="http://www.heartinternet.co.uk/blog/article/interview-with-web-accessibility-champion-laura-kalbag" >}}
-  	{{< imgsrcset alt="Interview with Laura Kalbag on Heart Internet" original="heart-interview.png" >}}
+  	{{< imgsrcset alt="Interview with Laura Kalbag on Heart Internet" src="heart-interview.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

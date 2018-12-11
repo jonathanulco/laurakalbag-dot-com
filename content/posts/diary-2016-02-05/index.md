@@ -33,7 +33,7 @@ To that end, [we’re selling some of the stuff from our storage room](/office-f
 ## Oskar status
 
 {{< figure caption="Making the most of the British countryside!" >}}
-  {{< imgsrcset original="2016-02-05.jpg" alt="Oskar on a muddy path in 10m visibility fog" >}}
+  {{< imgsrcset src="2016-02-05.jpg" alt="Oskar on a muddy path in 10m visibility fog" >}}
 {{< /figure >}}
 
 Originally posted on the [Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-friday-5th-february-2016](https://forum.ind.ie/t/laura-s-diary-friday-5th-february-2016)

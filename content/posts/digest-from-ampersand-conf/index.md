@@ -36,14 +36,14 @@ Comic Sans was created for Microsoft Home software, when computers were starting
 
 {{< figure >}}
   {{< link href="http://www.flickr.com/photos/xxv/5446317470/" >}}
-  	{{< imgsrcset original="comicsans.jpg" alt="Comic Sans on an Antiques shop sign" caption="Comic Sans on an Antiques shop sign (credit xxv, Flickr)" >}}
+  	{{< imgsrcset src="comicsans.jpg" alt="Comic Sans on an Antiques shop sign" caption="Comic Sans on an Antiques shop sign (credit xxv, Flickr)" >}}
   {{< /link >}}
 {{< /figure >}}
 
 Jon Tan and Jonathan Hoefler both spoke about Bell Centennial, a font designed by Matthew Carter for phone books. The considerations in creating this font included environmental awareness, such as how the font is used and where it’s used. Matthew Carter made Bell Centennial easy to skim-read at 6pt and used ink traps for where the ink was likely to bleed on the texture of the phone book paper making the small text even harder to read.
 
 {{< figure caption="a sample of Bell Centennial" >}}
-  {{< imgsrcset original="BellCentennial_sample.gif" alt="a sample of Bell Centennial" >}}
+  {{< imgsrcset src="BellCentennial_sample.gif" alt="a sample of Bell Centennial" >}}
 {{< /figure >}}
 
 #### Content first
@@ -76,7 +76,7 @@ Tim went on to describe how using a *modular* scale, rather than arbitrary numbe
 
 {{< figure caption="A golden ratio modular scale created using Tim’s website modularscale.com" >}}
   {{< link href="http://modularscale.com" >}}
-  	{{< imgsrcset original="Screen-shot-2011-06-22-at-09.15.55.png" alt="A modular scale created using Tim's website modularscale.com" >}}
+  	{{< imgsrcset src="Screen-shot-2011-06-22-at-09.15.55.png" alt="A modular scale created using Tim's website modularscale.com" >}}
   {{< /link >}}
 {{< /figure >}}
 
@@ -99,7 +99,7 @@ This is controlled by a part of our brain called the amygdala which can evoke em
 Vincent Connare made an interesting point when speaking about the design of Tahoma as a replacement for MS Sans. Tahoma was designed by Matthew Carter who is a real type designer and he created a technically superior font compared to MS Sans which was created by an engineer. Still, many users complained that they preferred MS Sans. As people get an emotional attachment and loyalty to that which they know, MS Sans was generally considered the ‘better’ font even though it was technically inferior.
 
 {{< figure caption="MS Sans (left) and Tahoma (right) samples" >}}
-  {{< imgsrcset title="MS Sans and Tahoma samples" original="tahoma-ms-sans.gif" alt="MS Sans and Tahoma samples" >}}
+  {{< imgsrcset title="MS Sans and Tahoma samples" src="tahoma-ms-sans.gif" alt="MS Sans and Tahoma samples" >}}
 {{< /figure >}}
 
 ### Typography is hard
@@ -144,7 +144,7 @@ Rendering is a big issue, mentioned by most of the speakers. Jonathan Hoefler sp
 <p style="text-align: center;">
 {{< figure caption="Museo Slab as seen in Safari on OSX and Internet Explorer on Windows (samples from Typekit)" >}}
   {{< link href="http://typekit.com/fonts/museo-slab" >}}
-  	{{< imgsrcset original="museo-slab.gif" alt="Museo Slab as seen in Safari on OSX and Internet Explorer on Windows" >}}
+  	{{< imgsrcset src="museo-slab.gif" alt="Museo Slab as seen in Safari on OSX and Internet Explorer on Windows" >}}
   {{< /link >}}
 {{< /figure >}}
 

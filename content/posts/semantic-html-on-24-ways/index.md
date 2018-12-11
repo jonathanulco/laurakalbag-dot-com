@@ -23,7 +23,7 @@ It’s been a few years since I wrote something for [24ways](http://24ways.org),
 
 {{< figure >}}
   {{< link href="https://24ways.org/2017/accessibility-through-semantic-html/" >}}
-  	{{< imgsrcset original="screenshot.png" alt="Screenshot of the article on 24ways including the title “Accessibility Through Semantic HTML” and an avatar of me with a pen in my mouth." >}}
+  	{{< imgsrcset src="screenshot.png" alt="Screenshot of the article on 24ways including the title “Accessibility Through Semantic HTML” and an avatar of me with a pen in my mouth." >}}
   {{< /link >}}
 {{< /figure >}}
 

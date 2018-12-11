@@ -24,7 +24,7 @@ Recently I’ve been doing a lot of research in web accessibility, and it’s le
 
 This afternoon I was testing a new feature I want to add to [Ind.ie’s accessible video player](https://ind.ie/blog/accessible-video-player), and started moving down our [style guide (work in progress!) page](https://ind.ie/style-guide/), tabbing through the links. Our style guide is really long, so I’ve added skip links at the top of the page, allowing you to jump to the relevant section without having to scroll such a long way. Skip links are very common as an accessibility feature to skip past lengthy navigation to get straight to the page content. They’ve also become a common form of navigation used on one-page sites that have a lot of content on one page.
 
-{{< imgsrcset original="skip-links.jpg" alt="Contents list of links on the Ind.ie style guide" >}}
+{{< imgsrcset src="skip-links.jpg" alt="Contents list of links on the Ind.ie style guide" >}}
 
 The code usually looks something like:
 

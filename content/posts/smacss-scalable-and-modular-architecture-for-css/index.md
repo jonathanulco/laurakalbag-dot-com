@@ -22,7 +22,7 @@ colours:
 
 I bought [Jonathan Snook’s Scalable and Modular Architecture for CSS](http://smacss.com/) five months ago and, embarrassingly, I’ve only just read it. As a “flexible guide to developing sites small and large”, it’s fantastic.
 
-{{< imgsrcset original="IMG_5259.jpg" alt="SMACSS book cover" >}}
+{{< imgsrcset src="IMG_5259.jpg" alt="SMACSS book cover" >}}
 
 Last month I was lucky enough to see Jonathan speak about [State-Based Design](http://2012.fromthefront.it/) (a concept which he covers in SMACSS) at the[ FromTheFront conference](http://2012.fromthefront.it/) and it reminded me to put the book at the top of my to-read pile. It’s not a long book, it’s about the same easy-to-digest length as [the A Book Apart series](http://www.abookapart.com/), which meant I got through it (whilst taking notes) in a couple of hours. I also love that there’s a [mailing list](http://smacss.com/) that keeps you updated with the latest methods and other relevant news.
 

@@ -22,7 +22,7 @@ colours:
 
 This week I went all out and bought all the currently-released [Five Simple Steps](http://www.fivesimplesteps.com) [Pocket Guide digital books](http://www.fivesimplesteps.com/products/pocket-guides-collection-one). I say “went all out”, they’re an absolute bargain at £6 for a collection of four, or £2 per book. Reading this book thoroughly, following the links in the text, took me about an hour. I’m a fairly fast reader but can be slow to digest new ideas.
 
-{{< imgsrcset alt="Psychology for designers by Joe Leech" original="psychology-for-designers-cover.png" >}}
+{{< imgsrcset alt="Psychology for designers by Joe Leech" src="psychology-for-designers-cover.png" >}}
 
 I started reading with [Psychology for designers by Joe Leech](http://www.fivesimplesteps.com/products/psychology-for-designers) first. It appeared to be one of the least specific of the books, and so looked slightly different. Having downloaded six books, it was very hard to choose! Funnily enough, this was exactly the example topic dealt with by Joe in the book: making choices easier for users when faced with a (navigation) menu.
 
@@ -35,7 +35,7 @@ When I look at the list of upcoming Pocket Guide books, it makes me quite giddy.
 *Side note: I read this whole book on my phone! I didn’t need to, I had my laptop and iPad right next to me, but the PDF in landscape seemed to be the ideal easy reading environment for me. Although I did struggle reading some of the linked sites which weren’t so well-optimised.*
 
 {{< figure caption="Reading Psychology for designers on my phone" >}}
-  {{< imgsrcset alt="Reading Psychology for designers on my phone" original="handheld.jpg" >}}
+  {{< imgsrcset alt="Reading Psychology for designers on my phone" src="handheld.jpg" >}}
 {{< /figure >}}
 
 

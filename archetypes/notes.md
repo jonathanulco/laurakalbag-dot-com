@@ -30,6 +30,6 @@ Note text<!--more-->
 
 {{< figure caption="caption text" >}}
 
-    {{< imgsrcset original="filenameX" alt="alt text" >}}
+    {{< imgsrcset src="filenameX" alt="alt text" >}}
 
 {{< /figure >}}

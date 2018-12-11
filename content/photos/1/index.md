@@ -26,6 +26,6 @@ primaryimagealt: "Oskar the huskamute standing in amongst bluebells in a wood."
 
 {{< figure caption="Springtime!" >}}
 
-    {{< imgsrcset original="osky" alt="Oskar the huskamute standing in amongst bluebells in a wood." >}}
+    {{< imgsrcset src="osky" alt="Oskar the huskamute standing in amongst bluebells in a wood." >}}
 
 {{< /figure >}}

@@ -25,7 +25,7 @@ I’m running my [‘Design theory for the web’ workshop at Interlink conferen
 
 {{< figure >}}
   {{< link href="http://interlinkconference.com/workshops/#design-theory-web" >}}
-  	{{< imgsrcset alt="Design theory for web workshop at Interlink conference" original="interlink-workshop.png" >}}
+  	{{< imgsrcset alt="Design theory for web workshop at Interlink conference" src="interlink-workshop.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

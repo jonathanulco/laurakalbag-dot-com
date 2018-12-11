@@ -30,6 +30,6 @@ I’ll be back for a handover episode with Andy this week, so I’m not going an
 
 <p style="text-align: center;">{{< figure >}}
   {{< link href="http://unfinished.bz/82" >}}
-  	{{< imgsrcset original="unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." >}}
+  	{{< imgsrcset src="unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." >}}
   {{< /link >}}
 {{< /figure >}}</p>

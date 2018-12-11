@@ -46,7 +46,7 @@ My post is a little summary of some of the themes that jumped out at me over the
 
 {{< figure >}}
   {{< link href="http://2014.dconstruct.org/" >}}
-  	{{< imgsrcset original="dconstruct-2014.png" alt="dConstruct 2014" >}}
+  	{{< imgsrcset src="dconstruct-2014.png" alt="dConstruct 2014" >}}
   {{< /link >}}
 {{< /figure >}}
 

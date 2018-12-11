@@ -24,7 +24,7 @@ colours:
 
 {{< figure >}}
   {{< link href="https://ind.ie/blog/the-destiny-machine/" >}}
-  	{{< imgsrcset original="Screen-Shot-2015-05-25-at-09.49.27.png" alt="Screenshot of the Ind.ie Roundup titled The Destiny Machine" >}}
+  	{{< imgsrcset src="Screen-Shot-2015-05-25-at-09.49.27.png" alt="Screenshot of the Ind.ie Roundup titled The Destiny Machine" >}}
   {{< /link >}}
 {{< /figure >}}
 

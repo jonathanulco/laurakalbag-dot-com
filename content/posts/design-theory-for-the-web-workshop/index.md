@@ -26,7 +26,7 @@ It’s a low-cost workshop. The early bird tickets are just £125, and the full-
 
 {{< figure >}}
   {{< link href="http://makedo.in/design-theory-for-the-web" >}}
-  	{{< imgsrcset alt="The Digital Barn 3 workshops - Design theory for the web" original="design-theory-for-the-web.png" >}}
+  	{{< imgsrcset alt="The Digital Barn 3 workshops - Design theory for the web" src="design-theory-for-the-web.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

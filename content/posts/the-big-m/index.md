@@ -20,7 +20,7 @@ colours:
   tab-six: "205,68%,51%" # hsl(205,68%,51%)
 ---
 
-{{< imgsrcset original="badge.jpg" alt="Big M badge" >}}
+{{< imgsrcset src="badge.jpg" alt="Big M badge" >}}
 
 First off, let me declare my complete bias. I’ve been involved with the Big M conference from pretty early on, I was lucky enough to do all the design work and the organisers are lovely guys who I’m proud to call my friends. I’m still on a high from how much I enjoyed myself (and just about recovered from the surreal feeling of being in a place with my own design work *everywhere*) so this is really going to be the most biased event review you’ve ever read!</p>
 ## The Attendees
@@ -41,7 +41,7 @@ Here’s a brief rundown of some of the main points (and some of my terrible iPh
 
 ### Raam Thakrar –; App distribution and monetisation –; the only things more important than lines of code
 
-{{< imgsrcset original="IMG_0537.jpg" alt="Raam Thakrar" >}}
+{{< imgsrcset src="IMG_0537.jpg" alt="Raam Thakrar" >}}
 
 > Thakrar: We need to think about why a consumer buys a phone, what part we play in the decision &amp; how can we monetise this [From @bigmconf](http://twitter.com/bigmconf/status/49767361464647680)
 
@@ -51,7 +51,7 @@ Here’s a brief rundown of some of the main points (and some of my terrible iPh
 
 ### Aral Balkan –; Beyond Usability on Mobile
 
-{{< imgsrcset original="IMG_0540.jpg" alt="Aral Balkan" >}}
+{{< imgsrcset src="IMG_0540.jpg" alt="Aral Balkan" >}}
 
 > The differentiating factor that allows Apple to charge more for phones, tablets, mp3 players and PCs is user experience
 
@@ -61,7 +61,7 @@ Here’s a brief rundown of some of the main points (and some of my terrible iPh
 
 ### Panel: led by Dan Appelquist –; Openness: Open Standards/Source/Data in Mobile
 
-{{< imgsrcset original="IMG_0546.jpg" alt="Panel session" >}}
+{{< imgsrcset src="IMG_0546.jpg" alt="Panel session" >}}
 
 > Openness is about giving developers choice so they can come to one platform and create content they can use on other platforms [From @bigmconf](http://twitter.com/bigmconf/status/49810212210737153)
 
@@ -71,7 +71,7 @@ Here’s a brief rundown of some of the main points (and some of my terrible iPh
 
 ### Bruce Lawson –; Breaking out of the “Walled Garden”: HTML5 and open technology for mobile development
 
-{{< imgsrcset original="IMG_0544.jpg" alt="Bruce Lawson" >}}
+{{< imgsrcset src="IMG_0544.jpg" alt="Bruce Lawson" >}}
 
 > When using new web technologies, make use of them, but don’t rely on them. Always use progressive enhancement
 
@@ -81,7 +81,7 @@ Here’s a brief rundown of some of the main points (and some of my terrible iPh
 
 ### Ewan MacLeod –; State of the Union –; Mobile Address
 
-{{< imgsrcset original="IMG_0547.jpg" alt="Ewan MacLeod" >}}
+{{< imgsrcset src="IMG_0547.jpg" alt="Ewan MacLeod" >}}
 
 > Apps being separate from the handsets and operators are barriers to the most *useful* mobile experiences. It needs to be seamless
 
@@ -91,7 +91,7 @@ Here’s a brief rundown of some of the main points (and some of my terrible iPh
 
 ### Paul Golding –; Future Innovations In Mobile
 
-{{< imgsrcset original="IMG_0549.jpg" alt="Paul Golding" >}}
+{{< imgsrcset src="IMG_0549.jpg" alt="Paul Golding" >}}
 
 > Golding: There is a myth that being first is really important. You want to be the first to win not the first to market [From @bigmconf](http://twitter.com/bigmconf/status/49872937783799808)
 

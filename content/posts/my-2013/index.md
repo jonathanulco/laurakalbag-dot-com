@@ -25,63 +25,63 @@ My 2013 has been another big year. Oskar and I moved down to Brighton to live wi
 Like last year, I thought it would be fun to sum up my year in pictures. Looking back through my collection of photos, I’ve done so much that I’d forgotten half of it! But these are some of the best bits…
 
 {{< figure caption="Oskar had a great start to the winter in the snow." >}}
-  {{< imgsrcset alt="Oskar the husky-malamute cross, standing in the snow" original="osky-first-snow.jpg" >}}
+  {{< imgsrcset alt="Oskar the husky-malamute cross, standing in the snow" src="osky-first-snow.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="In March I spoke at [Responsive Day Out](http://responsiveconf.com). Probably the most nervous I’ve ever been…" >}}
-  {{< imgsrcset alt="Jeremy Keith introducing Responsive Day Out" original="responsive-day-out.jpg" >}}
+  {{< imgsrcset alt="Jeremy Keith introducing Responsive Day Out" src="responsive-day-out.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="I went to see Skunk Anansie with my sister, Nini. It was the best gig I’ve experienced." >}}
-  {{< imgsrcset alt="Laura and Annie at Skunk Anansie" original="skunk-anansie.jpg" >}}
+  {{< imgsrcset alt="Laura and Annie at Skunk Anansie" src="skunk-anansie.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="Every year it’s harder to get all the family in one room, but whenever we do, it’s like this…" >}}
-  {{< imgsrcset alt="My family pulling stupid faces" original="family.jpg" >}}
+  {{< imgsrcset alt="My family pulling stupid faces" src="family.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="We went to Faenza in Italy for the excellent Kerning conference and ended up on an impromptu day trip to Venice with our new friend Nina" >}}
-  {{< imgsrcset alt="Aral, me and Nina in Venice" original="venice.jpg" >}}
+  {{< imgsrcset alt="Aral, me and Nina in Venice" src="venice.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="I moved to Brighton, and moved in with this nice man." >}}
-  {{< imgsrcset alt="Aral in the window inside our flat" original="moving.jpg" >}}
+  {{< imgsrcset alt="Aral in the window inside our flat" src="moving.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="While Oskar loves Brighton, he wasn’t so impressed by the salty taste of the sea." >}}
-  {{< imgsrcset alt="Oskar the dog in the sea" original="osky-sea.jpg" >}}
+  {{< imgsrcset alt="Oskar the dog in the sea" src="osky-sea.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="Winning the .net award for Brilliant Newcomer. That was pretty amazing." >}}
-  {{< imgsrcset alt=".net award 2013 Winner, Brilliant Newcomer" original="award.jpg" >}}
+  {{< imgsrcset alt=".net award 2013 Winner, Brilliant Newcomer" src="award.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="I started [Web Talk Dog Walk](http://webtalkdogwalk.in/brighton), a fortnightly dog walk for locals wanting to chat about the web in the great outdoors." >}}
-  {{< imgsrcset alt="Six walkers and their dogs in Sheepcote Valley" original="web-talk-dog-walk.jpg" >}}
+  {{< imgsrcset alt="Six walkers and their dogs in Sheepcote Valley" src="web-talk-dog-walk.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="Then winning the Critter award for Next Big Thing just a couple of weeks later made me totally giddy." >}}
-  {{< imgsrcset alt="Critter award for Next Big Thing" original="critter-award.jpg" >}}
+  {{< imgsrcset alt="Critter award for Next Big Thing" src="critter-award.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="We had a lovely holiday in the very hot North Cyprus" >}}
-  {{< imgsrcset alt="Two flags at the Northern point of North Cyprus" original="north-cyprus.jpg" >}}
+  {{< imgsrcset alt="Two flags at the Northern point of North Cyprus" src="north-cyprus.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="Oskar got big enough for cuddles to be like this…" >}}
-  {{< imgsrcset alt="Me cuddling Oskar, he's bigger than me" original="osky-cuddle.jpg" >}}
+  {{< imgsrcset alt="Me cuddling Oskar, he's bigger than me" src="osky-cuddle.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="I gave my first solo workshop in Barnsley to these lovely people" >}}
-  {{< imgsrcset alt="Workshop attendees on a rooftop in Barnsley" original="workshop.jpg" >}}
+  {{< imgsrcset alt="Workshop attendees on a rooftop in Barnsley" src="workshop.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="I sprained my ankle *again* and broke my toe a week later. I’m hoping this doesn’t become a yearly occurance…" >}}
-  {{< imgsrcset alt="My sprained ankle up on a pillow with the dog leaning against it" original="sprained-ankle.jpg" >}}
+  {{< imgsrcset alt="My sprained ankle up on a pillow with the dog leaning against it" src="sprained-ankle.jpg" >}}
 {{< /figure >}}
 
 {{< figure caption="I managed to convince the whole family to wear matching jumpers at Christmas…" >}}
-  {{< imgsrcset alt="My family in matching Christmas jumpers" original="christmas-jumpers.jpg" >}}
+  {{< imgsrcset alt="My family in matching Christmas jumpers" src="christmas-jumpers.jpg" >}}
 {{< /figure >}}
 
 ## Following goals for 2013

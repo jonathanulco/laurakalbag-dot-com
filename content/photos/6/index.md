@@ -24,6 +24,6 @@ primaryimagealt: "Photo of me and my cousins and their partners all in formal we
 
 {{< figure caption="Back from a weekend in the UK with this beautiful family. We look pretty fancy when we try!" >}}
 
-    {{< imgsrcset original="family" alt="Photo of me and my cousins and their partners all in formal wear in the garden." >}}
+    {{< imgsrcset src="family" alt="Photo of me and my cousins and their partners all in formal wear in the garden." >}}
 
 {{< /figure >}}

@@ -22,7 +22,7 @@ I added a flexbox layout to our Universal Video Player (accessible HTML5 video p
 
 {{< figure >}}
   {{< link href="https://ind.ie/labs/blog/video-player-flexbox/" >}}
-  	{{< imgsrcset original="Screen-Shot-2015-10-26-at-13.05.13.png" alt="Screenshot of the blog post" >}}
+  	{{< imgsrcset src="Screen-Shot-2015-10-26-at-13.05.13.png" alt="Screenshot of the blog post" >}}
   {{< /link >}}
 {{< /figure >}}
 

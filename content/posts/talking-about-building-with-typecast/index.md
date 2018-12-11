@@ -25,7 +25,7 @@ Last November at Build conference 2012, I had fun talking to some of the folks f
 
 {{< figure >}}
   {{< link href="http://typecast.com/build" >}}
-  	{{< imgsrcset alt="Talking About Building - a screenshot of the Typecast building videos" original="typecast-build.jpg" >}}
+  	{{< imgsrcset alt="Talking About Building - a screenshot of the Typecast building videos" src="typecast-build.jpg" >}}
   {{< /link >}}
 {{< /figure >}}
 

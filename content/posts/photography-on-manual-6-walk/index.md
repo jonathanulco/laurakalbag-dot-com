@@ -25,6 +25,6 @@ When I started doing this course, I knew I’d probably end up with a lot of dog
 After [exploring the self-timer in my last photo](/photography-on-manual-5-levitation/), I thought I’d try it again. Dog photos are obviously great, but I wanted something to show how we exist as a pair. Also outdoors.
 
 {{< figure caption="**East Brighton rest.** I knocked the grass back a bit, as it was very bright, and I brought out the blue in the sky with curves." >}}
-  {{< imgsrcset original="DSCF4196-small.jpg" alt="Me and Oskar the dog, sitting together on a bench on the horizon of a big park" >}}
+  {{< imgsrcset src="DSCF4196-small.jpg" alt="Me and Oskar the dog, sitting together on a bench on the horizon of a big park" >}}
 {{< /figure >}}
 

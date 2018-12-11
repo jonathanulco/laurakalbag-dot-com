@@ -24,7 +24,7 @@ I’d been a freelance web designer/developer full-time, working for myself, for
 
 <p>And that’s what happened. In June, I wrote about [becoming part of Indie Phone](/indie-phone/ "Becoming part of Indie Phone") for 50% of my time. Then some time in August I became full time. 50/50 sounds like a great idea in theory, but in reality it meant I wasn’t able to concentrate fully on client work or [Ind.ie](https://ind.ie). The work I’m doing would be the jobs of a few people in a larger organisation. I cover all the branding, web design and front-end development, run the blog and email newsletters. I also work with the rest of the team on the design (which includes strategy) for everything under the Ind.ie bracket. Everyone on the team is working cross-discipline and covering a lot of different jobs. It leaves little room for any other work.
 
-{{< imgsrcset original="indie-stratosphere1.png" alt="ind.ie balloon leaving stratosphere" >}}
+{{< imgsrcset src="indie-stratosphere1.png" alt="ind.ie balloon leaving stratosphere" >}}
 
 ## Indie Phone became Ind.ie
 

@@ -24,7 +24,7 @@ I’m a massive fan of Unfinished Business and listen to every episode so it was
 
 {{< figure >}}
   {{< link href="http://unfinished.bz/19" >}}
-  	{{< imgsrcset alt="Andy &amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." original="unfinished-bz.png" >}}
+  	{{< imgsrcset alt="Andy &amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." src="unfinished-bz.png" >}}
   {{< /link >}}
 {{< /figure >}}
 
@@ -34,6 +34,6 @@ One of the sponsors this week was [Slide + Stage](http://thelink.is/unfinishedbu
 
 {{< figure >}}
   {{< link href="http://thelink.is/unfinishedbusiness" >}}
-  	{{< imgsrcset alt="Slide + Stage" original="slideandstage.png" >}}
+  	{{< imgsrcset alt="Slide + Stage" src="slideandstage.png" >}}
   {{< /link >}}
 {{< /figure >}}

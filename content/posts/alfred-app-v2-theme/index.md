@@ -24,7 +24,7 @@ I was playing around with the appearance and made a really minimal theme. There 
 
 {{< figure >}}
   {{< link href="http://an.lklink.at/NwQZ" >}}
-  	{{< imgsrcset alt="Minimal Alfred v2 theme" original="alfred-theme.png" caption="Minimal Alfred v2 theme" >}}
+  	{{< imgsrcset alt="Minimal Alfred v2 theme" src="alfred-theme.png" caption="Minimal Alfred v2 theme" >}}
   {{< /link >}}
 {{< /figure >}}
 

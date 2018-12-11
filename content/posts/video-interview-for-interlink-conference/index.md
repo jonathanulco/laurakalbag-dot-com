@@ -29,7 +29,7 @@ If you want to know a bit more about my workshop, I’ve put [some extra details
 
 {{< figure >}}
   {{< link href="http://interlinkconference.com/2014/03/laura-kalbag-design-gretzky-maple-syrup/" >}}
-  	{{< imgsrcset alt="Laura Kalbag and Steve Fisher talk about Interlink conference" original="interlinkinterview.png" >}}
+  	{{< imgsrcset alt="Laura Kalbag and Steve Fisher talk about Interlink conference" src="interlinkinterview.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

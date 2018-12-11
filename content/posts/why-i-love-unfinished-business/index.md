@@ -40,7 +40,7 @@ These are good people. And [you should listen to their podcast](http://unfinishe
 
 {{< figure >}}
   {{< link href="http://unfinished.bz/" >}}
-  	{{< imgsrcset alt="Andy &amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." original="unfinished-bz.png" >}}
+  	{{< imgsrcset alt="Andy &amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." src="unfinished-bz.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

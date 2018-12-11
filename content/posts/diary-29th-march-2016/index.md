@@ -29,7 +29,7 @@ I’ve been working to create a more consistent style language across our logos 
 ## Oskar status
 
 {{< figure caption="Cosy on his fancy office bed…" >}}
-  {{< imgsrcset original="Screen-Shot-2016-03-29-at-16.50.33.png" alt="Oskar the dog lying curled up on his raised canvas camping-style bed" >}}
+  {{< imgsrcset src="Screen-Shot-2016-03-29-at-16.50.33.png" alt="Oskar the dog lying curled up on his raised canvas camping-style bed" >}}
 {{< /figure >}}
 
 This diary entry was originally posted [on the Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-tuesday-29th-march-2016](https://forum.ind.ie/t/laura-s-diary-tuesday-29th-march-2016)

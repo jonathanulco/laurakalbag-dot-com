@@ -26,6 +26,6 @@ primaryimagealt: "Oskar the huskamute lying on the top of some stone steps with 
 
 {{< figure caption="What a poser." >}}
 
-    {{< imgsrcset original="poser" alt="Oskar the huskamute lying on the top of some stone steps with his paws draped over the edge." >}}
+    {{< imgsrcset src="poser" alt="Oskar the huskamute lying on the top of some stone steps with his paws draped over the edge." >}}
 
 {{< /figure >}}

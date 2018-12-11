@@ -24,7 +24,7 @@ I don’t know if you know, but I made the website for the upcoming super exciti
 
 {{< figure >}}
   {{< link href="http://thebigm.mobi" >}}
-  	{{< imgsrcset original="full-site-589square.jpg" alt="The Big M website" >}}
+  	{{< imgsrcset src="full-site-589square.jpg" alt="The Big M website" >}}
   {{< /link >}}
 {{< /figure >}}
 

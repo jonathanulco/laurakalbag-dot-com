@@ -27,27 +27,27 @@ Over the next month, I’m going to try to blog some of my photos taken during A
 The first task was to switch my camera to manual…
 
 {{< figure caption="**First photo on manual**. Fallen at the first hurdle, I turned my settings on to manual and fiddled with the shutter speed and aperture but couldn’t seem to get any exposure at all." >}}
-  {{< imgsrcset original="DSCF3427-small.jpg" alt="All-black dark shot" >}}
+  {{< imgsrcset src="DSCF3427-small.jpg" alt="All-black dark shot" >}}
 {{< /figure >}}
 
 {{< figure caption="**Narrow depth of field**. Following the examples in Ashley’s email, I tried to get a narrow depth of field on Oskar. The shadow in the room made it a bit awkward, as your eyes are drawn to his leg rather than his head, but at least the background is blurry!" >}}
-  {{< imgsrcset original="DSCF3442-small.jpg" alt="Photo of Oskar the dog curled up on the sofa, with a blurry background" >}}
+  {{< imgsrcset src="DSCF3442-small.jpg" alt="Photo of Oskar the dog curled up on the sofa, with a blurry background" >}}
 {{< /figure >}}
 
 {{< figure caption="**Narrow aperture**. To mimic the landscape shot, I was a bit lazy and looked out of our back window. The built-up buildings round here are pretty maze-like." >}}
-  {{< imgsrcset original="DSCF3446-small.jpg" alt="Photo of back of tall higgledy-piggledy regency buildings" >}}
+  {{< imgsrcset src="DSCF3446-small.jpg" alt="Photo of back of tall higgledy-piggledy regency buildings" >}}
 {{< /figure >}}
 
 {{< figure caption="**Shutter speed 1**. These next few shots were playing with the shutter speed to see what would be blurry, and what would be sharp. I couldn’t seem to get any of them very sharp!" >}}
-  {{< imgsrcset original="DSCF3450-small.jpg" alt="Mostly blurry photo of Oskar the dog scratching" >}}
+  {{< imgsrcset src="DSCF3450-small.jpg" alt="Mostly blurry photo of Oskar the dog scratching" >}}
 {{< /figure >}}
 
 {{< figure caption="**Shutter speed 2**. The sharpest of the Osky shots." >}}
-  {{< imgsrcset original="DSCF3456-small.jpg" alt="Quite blurry photo of Oskar the dog scratching" >}}
+  {{< imgsrcset src="DSCF3456-small.jpg" alt="Quite blurry photo of Oskar the dog scratching" >}}
 {{< /figure >}}
 
 {{< figure caption="**Shutter speed 3**. The blurriest of the Osky shots." >}}
-  {{< imgsrcset original="DSCF3468-small.jpg" alt="Blurry photo of Oskar the dog scratching" >}}
+  {{< imgsrcset src="DSCF3468-small.jpg" alt="Blurry photo of Oskar the dog scratching" >}}
 {{< /figure >}}
 
 I’m also going to try to take more than just dog photos!

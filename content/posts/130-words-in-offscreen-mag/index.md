@@ -22,11 +22,11 @@ I’m slightly behind on my posts, but I wanted to share my contribution in the 
 
 You can [buy a copy, or get a subscription to Offscreen by visiting their website](http://www.offscreenmag.com/buy/).
 
-{{< imgsrcset original="Offscreen.jpg" alt="Photo of my 130 words in print" >}}
+{{< imgsrcset src="Offscreen.jpg" alt="Photo of my 130 words in print" >}}
 
 {{< figure >}}
   {{< link href="http://www.offscreenmag.com" >}}
-  	{{< imgsrcset original="Offscreen-cover.jpg" alt="the cover of Offscreen magazine issue 10" >}}
+  	{{< imgsrcset src="Offscreen-cover.jpg" alt="the cover of Offscreen magazine issue 10" >}}
   {{< /link >}}
 {{< /figure >}}
 

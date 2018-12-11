@@ -26,7 +26,7 @@ Recently I found that [he’d published the interview](http://typequest.org/arti
 
 {{< figure >}}
   {{< link href="http://typequest.org/articles/kalbag/" >}}
-  	{{< imgsrcset class="wp-image-4252" alt="Interview with Laura Kalbag on Type Quest" original="type-quest.png" >}}
+  	{{< imgsrcset class="wp-image-4252" alt="Interview with Laura Kalbag on Type Quest" src="type-quest.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

@@ -30,41 +30,41 @@ Of course, all of this can be done with the command line and other terrifying to
 
 {{< figure >}}
   {{< link href="http://incident57.com/codekit/" >}}
-  	{{< imgsrcset alt="screenshot of the Codekit website" original="codekit.png" >}}
+  	{{< imgsrcset alt="screenshot of the Codekit website" src="codekit.png" >}}
   {{< /link >}}
 {{< /figure >}}
 
 In order to get started with Codekit and Sass, you’ll need a /sass folder in your project where you keep all your Sass files. Sass files can contain plain old CSS or Sass-style CSS but they must have the extension .scss.
 
-{{< imgsrcset alt="screenshot showing .scss file in the /sass folder" original="sass-folder.png" >}}
+{{< imgsrcset alt="screenshot showing .scss file in the /sass folder" src="sass-folder.png" >}}
 
 Next you open Codekit and add your project folder in the Files section.
 
-{{< imgsrcset alt="screenshot of adding a new project to the Files pane in Codekit" original="codekit-new1.png" >}}
+{{< imgsrcset alt="screenshot of adding a new project to the Files pane in Codekit" src="codekit-new1.png" >}}
 
 After you’ve added your project folder, Codekit will automatically find the Sass file inside your project.
 
-{{< imgsrcset alt="screenshot of a project in Codekit" original="project-in-codekit.png" >}}
+{{< imgsrcset alt="screenshot of a project in Codekit" src="project-in-codekit.png" >}}
 
 If you then go into your .scss file and add some Sass, as soon as you save that file, Codekit will compile it into CSS for you.
 
-{{< imgsrcset alt="screenshot of basic Sass being written into a .scss file" original="new-sass.png" >}}
+{{< imgsrcset alt="screenshot of basic Sass being written into a .scss file" src="new-sass.png" >}}
 
 If you go to the Log tab in Codekit, you can see that your Sass was successfully compiled into CSS.
 
-{{< imgsrcset alt="screenshot of the Log in Codekit showing a file successfully compiled" original="codekit-log1.png" >}}
+{{< imgsrcset alt="screenshot of the Log in Codekit showing a file successfully compiled" src="codekit-log1.png" >}}
 
 If you then go back to look in your project folder, you can see where Codekit has compiled your CSS into a /css folder containing a .css file. It’s this file that you will reference in your HTML, not the .scss file.
 
-{{< imgsrcset alt="screenshot showing the /css folder created by Codekit" original="css-folder.png" >}}
+{{< imgsrcset alt="screenshot showing the /css folder created by Codekit" src="css-folder.png" >}}
 
 Codekit is very smart. If you write invalid Sass, it will give you an error. This can be really helpful if you’re new to writing Sass. For example, here I’ve used a `#` hash symbol instead of a `$` dollar sign when creating a variable.
 
-{{< imgsrcset alt="screenshot of invalid Sass using # instead of $" original="bad-sass.png" >}}
+{{< imgsrcset alt="screenshot of invalid Sass using # instead of $" src="bad-sass.png" >}}
 
 As with all validators, it’s not always easy to understand what the validation error message means (!) but it can be helpful to be pointed towards the line where the error occurs.
 
-{{< imgsrcset alt="screenshot of Codekit showing an error in the Sass" original="codekit-error.png" >}}
+{{< imgsrcset alt="screenshot of Codekit showing an error in the Sass" src="codekit-error.png" >}}
 
 ## And you’re done
 

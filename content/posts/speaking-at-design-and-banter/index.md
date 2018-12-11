@@ -26,7 +26,7 @@ Nicklas Persson and Cole Peters are also speaking so I’m really chuffed to be 
 
 {{< figure >}}
   {{< link href="http://designandbanter.com" >}}
-  	{{< imgsrcset alt="Design + Banter  - An intimate event in London bringing together 175 designers from the city’s brightest startups and best agencies." original="designandbanter.png" >}}
+  	{{< imgsrcset alt="Design + Banter  - An intimate event in London bringing together 175 designers from the city’s brightest startups and best agencies." src="designandbanter.png" >}}
   {{< /link >}}
 {{< /figure >}}
 

@@ -26,6 +26,6 @@ I’m not sure if the audio quality is as good as it usually is on Unfinished Bu
 
 <p style="text-align: center;">{{< figure >}}
   {{< link href="http://unfinished.bz/80" >}}
-  	{{< imgsrcset original="unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." >}}
+  	{{< imgsrcset src="unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." >}}
   {{< /link >}}
 {{< /figure >}}</p>

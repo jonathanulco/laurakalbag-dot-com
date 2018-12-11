@@ -27,7 +27,7 @@ We’ve got a few events that I’ll add to the site in the coming few weeks, an
 ## Oskar status
 
 {{< figure caption="Mostly chill" >}}
-  {{< imgsrcset original="2016-04-22.jpg" alt="Oskar walking on a grey beach, reflected in the seawater" >}}
+  {{< imgsrcset src="2016-04-22.jpg" alt="Oskar walking on a grey beach, reflected in the seawater" >}}
 {{< /figure >}}
 
 This diary entry was originally posted [on the Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-friday-22nd-april-2016](https://forum.ind.ie/t/laura-s-diary-friday-22nd-april-2016)

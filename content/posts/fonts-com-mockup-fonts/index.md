@@ -30,7 +30,7 @@ The plans on fonts.com are frustrating. I have a Pro plan. It’s a very reasona
 
 {{< figure >}}
   {{< link href="http://www.fonts.com/web-fonts/plans-and-pricing" >}}
-  	{{< imgsrcset alt="Fonts.com plans from http://www.fonts.com/web-fonts/plans-and-pricing" original="plans.jpg" >}}
+  	{{< imgsrcset alt="Fonts.com plans from http://www.fonts.com/web-fonts/plans-and-pricing" src="plans.jpg" >}}
   {{< /link >}}
 {{< /figure >}}
 
@@ -44,7 +44,7 @@ This sounds like a very reasonable amount. Am I likely to use more than 20 diffe
 
 {{< figure >}}
   {{< link href="http://www.fonts.com/web-fonts/plans-and-pricing" >}}
-  	{{< imgsrcset alt="Fonts.com plans with details from http://www.fonts.com/web-fonts/plans-and-pricing" original="plans-hover.jpg" >}}
+  	{{< imgsrcset alt="Fonts.com plans with details from http://www.fonts.com/web-fonts/plans-and-pricing" src="plans-hover.jpg" >}}
   {{< /link >}}
 {{< /figure >}}
 

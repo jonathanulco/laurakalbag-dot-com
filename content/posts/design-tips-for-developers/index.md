@@ -26,7 +26,7 @@ And you might have seen on [my post from last week](/bathcamp-plea-for-bad-desig
 
 [Tim Perrett](http://twitter.com/timperrett) had been asking me for a while to help redesign [liftweb.net](http://liftweb.net). Even though the design isn’t awful, and I’m not even sure whether it was done by a developer, it did need some designery love.
 
-{{< imgsrcset original="original.png" alt="liftweb.net original homepage design" >}}
+{{< imgsrcset src="original.png" alt="liftweb.net original homepage design" >}}
 
 ## My redesign
 
@@ -34,7 +34,7 @@ I wasn’t aiming for a full-on redesign, more of a re-alignment of the existing
 
 I’ll explain my decisions below, based on my design tips for developers. I’m only including the most relevant tips from my talk, as very few designs would cover all of them!
 
-{{< imgsrcset original="01.png" alt="my redesign of liftweb.net" >}}
+{{< imgsrcset src="01.png" alt="my redesign of liftweb.net" >}}
 
 ## My Design Tips For Developers
 
@@ -53,7 +53,7 @@ The inconsistency in colour contrast was fairly noticeable on the original Lift 
 However, in the ‘Taking Off’, ‘Flying in Formation’, ‘Team’ and ‘Wiki’ pages, the descriptions are black on a dark gradient background. This makes the text harder to read, as well as drawing attention to this part of the text as it’s significantly different from the contrast patterns on the rest of the page.
 
 {{< figure caption="Black on a coloured gradient is quite hard to read" >}}
-  {{< imgsrcset original="odd-contrast.png" alt="Black on a coloured gradient is quite hard to read" >}}
+  {{< imgsrcset src="odd-contrast.png" alt="Black on a coloured gradient is quite hard to read" >}}
 {{< /figure >}}
 
 Contrast is something that loads of designers get wrong, as well as developers. Silly things like light grey text on a white background, a big hit with print designers. Screens are incredibly inconsistent, and our eyesight is better saved for more important things than squinting at text on a screen.
@@ -61,23 +61,23 @@ Contrast is something that loads of designers get wrong, as well as developers. 
 I really recommend using [Jonathan Snook’s Colour Contrast Check](http://www.snook.ca/technical/colour_contrast/colour.html). This analyses the contrast between your foreground and background colours against the WCAG guidelines. Everybody knows that guidelines are just for guidance, so I wouldn’t stress if you’re colours aren’t AAA compliant (this produces very extreme contrasts that are pretty hard on the eyes) but if you make sure your colours are AAA compliant at 18pt+ then you should be on to a readable winner.
 
 {{< figure caption="Checking my redesign colour contrast on the quotes section" >}}
-  {{< imgsrcset original="snook-colour-contrast.png" alt="Checking my redesign colour contrast on the quotes section" >}}
+  {{< imgsrcset src="snook-colour-contrast.png" alt="Checking my redesign colour contrast on the quotes section" >}}
 {{< /figure >}}
 
 #### If you’re going to use a strong colour, just use one
 
 With a lot of purples and blues teamed with white, the Lift page was suffering from a bit of a 90s colour scheme. The trick is to stay away from using multiple strong colours (the dark blue and purpley blue) together.
 
-{{< imgsrcset original="original-scheme.png" alt="The original Lift main colours" >}}
+{{< imgsrcset src="original-scheme.png" alt="The original Lift main colours" >}}
 
 To calm a design like this down, I tried using less of the extreme colour contrasts (dark blue and white) and more of the in-between, softer and more muted colours. Where I felt the purpley blues and dark blues were a bit harsh, I just toned them down to a slightly greyer version.
 
-{{< imgsrcset original="my-scheme.png" alt="My Lift redesign main colours" >}}
+{{< imgsrcset src="my-scheme.png" alt="My Lift redesign main colours" >}}
 
 I then used these colours to help differentiate between areas of content. The original Lift design did a good job of emphasising the quotes at the top of the page through using dark text on a light background, where the rest of the page used the inverse. I took this theory further.
 
 {{< figure caption="On the original design, you can see how the quote area stands out" >}}
-  {{< imgsrcset original="light-on-dark.png" alt="On the original design, you can see how the quote area stands out" >}}
+  {{< imgsrcset src="light-on-dark.png" alt="On the original design, you can see how the quote area stands out" >}}
 {{< /figure >}}
 
 Whilst I thought it was good to keep the quotes at the top of the page, as they’re vital to helping sell the benefits of Lift to potential high-profile groups, they’re not really as valuable as the four links below to ‘Get Started’, ‘Lift community’ etc.
@@ -85,7 +85,7 @@ Whilst I thought it was good to keep the quotes at the top of the page, as they�
 As this content, and the content immediately below is most useful to the page visitors, I used the dark-on-light contrast to draw the user to those areas. It stands out more than the light-on-dark areas above as it is a greater contrast against the overall page background.
 
 {{< figure caption="At this small size, you can see how my redesign colours draw the eye to the most important content" >}}
-	{{< imgsrcset original="dark-on-ligt.png" alt="At this small size, you can see how my redesign draws the eye to the most important content" >}}
+	{{< imgsrcset src="dark-on-ligt.png" alt="At this small size, you can see how my redesign draws the eye to the most important content" >}}
 {{< /figure >}}
 
 
@@ -96,13 +96,13 @@ As this content, and the content immediately below is most useful to the page vi
 When you look at the original design, what really jumps out is the huge amount of space in the middle of the page. This is caused by the amount of ‘Latest Happenings’ appearing down the right hand column. Obviously, this wouldn’t have been originally designed like this, but it emphasises the importance of imagining how the content on a page may evolve.
 
 {{< figure caption="the main page content on the original Lift page" >}}
-  {{< imgsrcset original="original-middle.png" alt="the main page content on the original Lift page" >}}
+  {{< imgsrcset src="original-middle.png" alt="the main page content on the original Lift page" >}}
 {{< /figure >}}
 
 I’ve limited the ‘Latest Happenings’ to only five events on my design. My reasoning being that if you have many more than that, they’re not really ‘latest’ anymore. This way we can ensure that the amount of happenings are well-balanced with the content on the left side of the page. Although the ‘What is Lift?’ content is liable to changing, I imagine that it wouldn’t increase too much more in length, as any further information and you’re going into the depths of documentation that probably isn’t suitable for a home page.
 
 {{< figure caption="my redesigned main content area" >}}
-  {{< imgsrcset original="middle.png" alt="my redesigned main content area" >}}
+  {{< imgsrcset src="middle.png" alt="my redesigned main content area" >}}
 {{< /figure >}}
 
 I felt that the ‘What is Scala?’ and ‘Lift Books’ information was also a little hidden-away at the bottom of the ‘Latest Happenings’ sidebar. I brought this out into its own area underneath the main content and gave it a light-on-dark contrast to clearly separate it from the content above. This also makes the text look less intimidating. As the areas are clearly separated, it doesn’t look like a huge amount to read.
@@ -114,7 +114,7 @@ With some large areas of white space and some slightly squashed looking text in 
 Using a grid makes a lot of the design decisions less of a decision, as your grid will help dictate where the elements belong. Little details like having all the bottom of the text line up against a base grid, and main content areas having the same proportions, make a design look a lot cleaner and much classier.
 
 {{< figure caption="The grid I used for my redesign" >}}
-  {{< imgsrcset original="gridded.png" alt="The grid I used for my redesign" >}}
+  {{< imgsrcset src="gridded.png" alt="The grid I used for my redesign" >}}
 {{< /figure >}}
 
 Above you can see how I used a grid to line up all of my elements. I started with a main content area width of 960px. This is a useful value as it’s divisible by many different multiples, giving you nice round numbers to work with. It doesn’t really matter if you’re using pixels, ems or percentages, it’s just working from one value to get your proportions that helps.
@@ -134,7 +134,7 @@ I also used the yellow grid lines for rows. It’s hard designing with rows on a
 I actually work on all web designs with a 10px square grid underneath as a baseline for all content, especially text. As most of the text has a line-height of 25px, every other line of text sits on the 10px grid. Below is what a small segment of the design looks like sitting on a 10px grid.
 
 {{< figure caption="my redesign on 10px grid" >}}
-  {{< imgsrcset original="Screen-shot-2010-11-04-at-14.07.13.png" alt="my redesign on 10px grid" >}}
+  {{< imgsrcset src="Screen-shot-2010-11-04-at-14.07.13.png" alt="my redesign on 10px grid" >}}
 {{< /figure >}}
 
 And that’s where the bananas go. *Just seeing if you’re still here!*
@@ -148,7 +148,7 @@ I know the original page didn’t have any stock photography. In fact, I think t
 So first off I found some appropriate images to illustrate the content. A quick bit of Googling and I located the book covers for the Lift books. This will make the books easier to identify in passing, and really work to break up that text-heavy area at the bottom.
 
 {{< figure caption="Book information with book images on my redesigned page" >}}
-  {{< imgsrcset original="Screen-shot-2010-11-04-at-15.41.35.png" alt="Book information with book images on my redesigned page" >}}
+  {{< imgsrcset src="Screen-shot-2010-11-04-at-15.41.35.png" alt="Book information with book images on my redesigned page" >}}
 {{< /figure >}}
 
 The difficulty in sites about web development and other non-visual subjects is there isn’t much in the way of obvious imagery you can use to illustrate your pages. But stay away from the stock photos! These are never the solution as they mostly look generic, cheesy and cheap.
@@ -156,7 +156,7 @@ The difficulty in sites about web development and other non-visual subjects is t
 Illustrations can be expensive, though stock illustrations are often better than stock photos. However there are a lot of high quality free icon sets out there. If you find icons relevant to the content, they can serve to break up a very text-heavy site *and* act as signifiers to help the user understand what the text, call-to-action or button is for.
 
 {{< figure caption="the icons I used to illustrate my redesign" >}}
-  {{< imgsrcset original="icons.png" alt="the icons I used to illustrate my redesign" >}}
+  {{< imgsrcset src="icons.png" alt="the icons I used to illustrate my redesign" >}}
 {{< /figure >}}
 
 I had a look through my icon collections and found some [Shine icons](http://www.iconeden.com/icon/shine.html) that suited the content and were the right sizes for button links and bigger calls-to-action.
@@ -166,7 +166,7 @@ I had a look through my icon collections and found some [Shine icons](http://www
 I’d almost completed my design, and it felt like it was looking a bit flat. This is usually the way when you’re using a different solid colours. To combat this effect, I added some subtle noise and shadows to give it a more ‘real’ feeling.
 
 {{< figure caption="the background of my redesign without (above) and with (below) noise textured background" >}}
-  {{< imgsrcset original="noise2.png" alt="the background of my redesign without (above) and with (below) noise textured background" >}}
+  {{< imgsrcset src="noise2.png" alt="the background of my redesign without (above) and with (below) noise textured background" >}}
 {{< /figure >}}
 
 I know I’d usually say that something like ‘noise’ is [possibly a current trend](http://dribbble.com/search?q=noise&amp;x=0&amp;y=0 "Search noise on Dribbble"), but I think it’s more of a recent discovery. It’s all very well using grungy textures if it’s appropriate to your site, but it really wouldn’t be for most software, corporate or family sites. Subtle noise is a great way to add some texture and definition without theming a site. Just make sure it’s very gentle. It looks best when not instantly visible, it should be *that* subtle.
@@ -180,7 +180,7 @@ The thing that people forget when they use gradients, box shadows and text shado
 The incoming problems with [CSS3](http://www.css3.info/) is that people are using shadows willy-nilly, chucking them in to make their design look fancy without thinking about the effect they’re creating. This is visible on the random text-shadow on the original Lift design.
 
 {{< figure caption="Random text-shadow on the Lift original design" >}}
-  {{< imgsrcset original="odd-contrast.png" alt="Random text-shadow on the Lift original design" >}}
+  {{< imgsrcset src="odd-contrast.png" alt="Random text-shadow on the Lift original design" >}}
 {{< /figure >}}
 
 If  you want to use gradients and shadows to make your site feel more real, and give it more depth, the trick is to choose a natural-style imaginary light source, and make all your shadows follow that.
@@ -188,7 +188,7 @@ If  you want to use gradients and shadows to make your site feel more real, and
 There could be two light sources, though that could quickly get complicated, and beyond the realms of CSS, so I just went with the simplest possible for my design–;top-down. I imagined there was a light behind/above me and so it was projecting shadows that were equal sizes on each side of the boxes. It might not be completely scientifically sound, but it’s close-enough to feel real.
 
 {{< figure caption="Light shadows visible around the boxes" >}}
-  {{< imgsrcset original="shadows.png" alt="Light shadows visible around the boxes" >}}
+  {{< imgsrcset src="shadows.png" alt="Light shadows visible around the boxes" >}}
 {{< /figure >}}
 
 Colour is also important. Since when have you seen a white shadow? Pure black shadows are also very rare unless it’s very very dark. A shadow is usually just a darker shade of the surface it’s casting on to, follow that principle and you’ll have realism in no time.

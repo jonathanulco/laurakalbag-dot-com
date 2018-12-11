@@ -26,7 +26,7 @@ For once, I’m ahead of the schedule, and tickets will be released this Wednesd
 
 {{< figure >}}
   {{< link href="http://12devs.co.uk/events/12-devs-of-winter-2014/" >}}
-  	{{< imgsrcset alt="12 Devs of Winter website" original="12devs.png" >}}
+  	{{< imgsrcset alt="12 Devs of Winter website" src="12devs.png" >}}
   {{< /link >}}
 {{< /figure >}}
 
