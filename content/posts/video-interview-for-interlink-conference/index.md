@@ -27,10 +27,10 @@ Last week I had [a chat with my friend Steve Fisher about my upcoming talk and w
 
 If you want to know a bit more about my workshop, I’ve put [some extra details in a blog post about the workshop](/design-theory-for-the-web-workshop-at-interlink-conference/ "Design theory for the web workshop at Interlink conference"), and you should check out the amazing [conference lineup](http://interlinkconference.com/conference/). It looks like there’s still some [Super Early Bird tickets](http://interlinkconference.com/register/) left, so you should grab them before they’re gone!
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://interlinkconference.com/2014/03/laura-kalbag-design-gretzky-maple-syrup/" >}}
   	{{< imgsrcset alt="Laura Kalbag and Steve Fisher talk about Interlink conference" original="interlinkinterview.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

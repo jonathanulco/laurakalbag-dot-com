@@ -23,8 +23,8 @@ colours:
 primaryimagealt: "Osky the huskamute walking in woods dripping and in lush green."
 ---
 
-{{< figured caption="Walking in the woods in the mist makes it feel like how I imagine a rainforest must be." >}}
+{{< figure caption="Walking in the woods in the mist makes it feel like how I imagine a rainforest must be." >}}
 
     {{< imgsrcset original="rainforest" alt="Osky the huskamute walking in woods dripping and in lush green." >}}
 
-{{< /figured >}}
+{{< /figure >}}

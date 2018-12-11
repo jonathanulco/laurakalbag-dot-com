@@ -22,8 +22,8 @@ colours:
 
 Andy is back this week and so we did a handover [episode of Unfinished Business](http://unfinished.bz/83). This week we talked about our different approaches to the podcast and what’s relevant to “business”. Andy found an interesting article on the BBC website about smartphone stress, so we talked about how we handle disconnecting when we go on holiday, and in our downtime at home.
 
-<p style="text-align: center;">{{< figured >}}
+<p style="text-align: center;">{{< figure >}}
   {{< link href="http://unfinished.bz/83" >}}
   	{{< imgsrcset original="unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." >}}
   {{< /link >}}
-{{< /figured >}}</p>
+{{< /figure >}}</p>

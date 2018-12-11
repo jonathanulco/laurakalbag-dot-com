@@ -24,9 +24,9 @@ The [latest Unfinished Business podcast](http://unfinished.bz/54) has just been 
 
 A very big thank you to [my friend Jo](http://twitter.com/Jo_annaP) who let me take over her internet and bedroom for the recording, as our internet is still terrible!
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://unfinished.bz/54" >}}
   	{{< imgsrcset alt="Unfinished Business episode #54" original="unfinished-business-54.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 

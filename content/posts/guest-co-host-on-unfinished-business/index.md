@@ -22,10 +22,10 @@ Last week I was guest co-host on [one of my most favourite podcasts](/why-i-love
 
 We talked about smoking chimps, mentoring and how we can try to help newcomers in the community, tools and techniques for dealing with client feedback, egos and constructive criticism among many other things.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://unfinished.bz/12" >}}
   	{{< imgsrcset alt="Andy &amp; Anna have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." original="unfinished-bz.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

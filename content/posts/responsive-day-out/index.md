@@ -46,9 +46,9 @@ Many of the speakers at Responsive Day Out spoke about how we need to break away
 
 > “Device detection isn’t futureproof. Avoid.” Anna Debenham on designing for devices
 
-{{< figured caption="Anna Debenham—Device detection isn’t future proof. Avoid." >}}
+{{< figure caption="Anna Debenham—Device detection isn’t future proof. Avoid." >}}
   {{< imgsrcset alt="Anna Debenham—Device detection isn't future proof. Avoid." original="devicedetection.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 As Tom Maslen pointed out, we’re foolish focusing on devices. Before responsive design, did we ever talk about whether a website worked on a particular Dell PC or a MacBook? We didn’t, we thought in terms of browsers and whether our sites worked in Internet Explorer 8 or the most recent version of Firefox. This makes it much easier to test and gives us a much narrower set of requirements that our sites need to fulfil.
 
@@ -88,9 +88,9 @@ Tom pointed out that using this technique would mean no time wasted on polyfilli
 
 This approach is far easier to manage than the BBC’s previous strategy of supporting a specific table of browsers, using graceful degradation to give a similar experience to all users. This was all easy enough when all browsers were free, uncomplicated and easy to test; where you could test most browsers on either a PC or Mac, but now you need to invest in an enormous array of devices to test on every browser.
 
-{{< figured caption="Tom Maslen demonstrating the BBC’s previous strategy of supporting a specific table of browsers" >}}
+{{< figure caption="Tom Maslen demonstrating the BBC’s previous strategy of supporting a specific table of browsers" >}}
   {{< imgsrcset alt="Tom Maslen demonstrating the BBC's previous strategy of supporting a specific table of browsers" original="browsercompatibility.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 # More markup and code
 
@@ -150,11 +150,11 @@ Performance was a key word of the day. Many speakers mentioned how we’ve been 
 * Content
 * Decorative
 
-{{< figured caption="Paul Robert Lloyd’s slide on types of images" >}}
+{{< figure caption="Paul Robert Lloyd’s slide on types of images" >}}
   {{< link href="https://speakerdeck.com/paulrobertlloyd/the-edge-of-the-web?slide=22" >}}
   	{{< imgsrcset class="" original="types-of-images.png" alt="Paul Robert Lloyd’s slide on types of images" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Asset fonts
 
@@ -178,9 +178,9 @@ In my talk, I spoke about how text makes up so much of web design that typograph
 
 Richard Rutter spoke about how we could improve the experience of web fonts. Richard pointed out the problems that occur when there’s no visible text until the weighty-but-beautiful web font loads. Richard saw it as us having four options:
 
-{{< figured caption="Richard Rutters potential solutions for web font loading wait-time" >}}
+{{< figure caption="Richard Rutters potential solutions for web font loading wait-time" >}}
   {{< imgsrcset alt="Richard Rutters potential solutions for web font loading wait-time" original="webfontoptions.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 1. Default: text appears as each web font loads
 2. Don’t send web fonts to small screens
@@ -219,9 +219,9 @@ As a general rule, David suggested we should aim for as few menu items as possib
 
 It’s also important to bear in mind that it’s not just the mouse or keyboard that we’re trying to accommodate, we must make navigation work with any form of input. Still, any interaction made with any of these forms of input is, in essence, the equivalent of one click-event and so still requires effort from the user and potentially slowing the user down with more page loads.
 
-{{< figured caption="David Bushell on types of input" >}}
+{{< figure caption="David Bushell on types of input" >}}
   {{< imgsrcset alt="David Bushell on types of input" original="typesofinput.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 A few of the different types of navigation David talked about were:
 

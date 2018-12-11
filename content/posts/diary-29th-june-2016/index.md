@@ -28,9 +28,9 @@ Oh, and I nearly forgot the…
 
 ## Oskar status
 
-{{< figured caption="King of the park" >}}
+{{< figure caption="King of the park" >}}
   {{< imgsrcset original="2016-06-29.jpg" alt="Oskar the husky dog on top of a hill" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 This diary entry was originally posted [on the Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-wednesday-29th-june-2016](https://forum.ind.ie/t/laura-s-diary-wednesday-29th-june-2016)
 

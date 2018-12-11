@@ -23,11 +23,11 @@ colours:
 primaryimagealt: "Paper printed icon graphic dangling by thread with a phone taking a photo of it."
 ---
 
-{{< figured class="grid four" caption="When you’re rubbish at 3D modelling software but want to get some vaguely realistic shading on your icon design…" >}}
+{{< figure class="grid four" caption="When you’re rubbish at 3D modelling software but want to get some vaguely realistic shading on your icon design…" >}}
 
     {{< imgsrcset class="image1" original="setup" command="Resize" alt="Paper printed icon graphic dangling by thread with a phone taking a photo of it." >}}
     {{< imgsrcset class="image2" original="folded" command="Resize" alt="Paper printed icon graphic with a strong shadow dangling by thread against a paper background." >}}
     {{< imgsrcset class="image3" original="folded-softer" command="Resize" alt="Another paper printed icon graphic with a strong shadow dangling by thread against a paper background." >}}
     {{< imgsrcset class="image4" original="not-so-folded" command="Resize" alt="A third paper printed icon graphic with a strong shadow dangling by thread against a paper background." >}}
 
-{{< /figured >}}
+{{< /figure >}}

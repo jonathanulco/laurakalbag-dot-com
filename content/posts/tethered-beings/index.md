@@ -20,8 +20,8 @@ colours:
 
 This week the Ind.ie roundup returns with a big one. Great news on the UK surveillance legislation front, and lots of corporation news. Read the [Ind.ie roundup: Tethered Beings](https://ind.ie/blog/tethered-beings/).
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="https://ind.ie/blog/tethered-beings/" >}}
   	{{< imgsrcset original="Screen-Shot-2015-07-17-at-18.49.31.png" alt="Screenshot of Ind.ie roundup" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}

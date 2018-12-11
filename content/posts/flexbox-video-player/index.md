@@ -20,11 +20,11 @@ colours:
 
 I added a flexbox layout to our Universal Video Player (accessible HTML5 video player) and wrote [a blog post on Ind.ie Labs about using flexbox with progressive enhancement](https://ind.ie/labs/blog/video-player-flexbox/).
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="https://ind.ie/labs/blog/video-player-flexbox/" >}}
   	{{< imgsrcset original="Screen-Shot-2015-10-26-at-13.05.13.png" alt="Screenshot of the blog post" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 
 

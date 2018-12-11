@@ -26,11 +26,11 @@ image: "/images/2017/12/book-collage.jpg"
 
 I wrote a book! It’s called *Accessibility For Everyone*, and you can [buy it in paperback and ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone), and as an [audiobook on Audible](https://www.audible.com/pd/Science-Technology/Accessibility-for-Everyone-Audiobook/B07G24HLXS?source_code=AUDFPWS0223189MWT-BK-ACX0-123554&ref=acx_bty_BK_ACX0_123554_rh_us&ipRedirectOverride=true&overrideBaseCountry=true&pf_rd_p=a2114686-0da6-4a69-b176-801cc68d86c0&pf_rd_r=CJKZGDNQVCGAKRBFC54Z&). Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.<!--more-->
 
-{{< figured caption="Photos taken by folks on Twitter" >}}
+{{< figure caption="Photos taken by folks on Twitter" >}}
 
     {{< imgsrcset original="book-collage" alt="Collage of photos of the Accessibility For Everyone paperback posted on people’s desks, tables and outside." >}}
 
-{{< /figured >}}
+{{< /figure >}}
 
 For those more experienced in the web, *Accessibility For Everyone* can fill in the accessibility-sized gaps in your knowledge. And for people entirely new to making websites, it should help you get started on the right track. The book is aimed at web designers, developers, content strategists, copywriters, researchers, testers, and anybody else who makes websites.
 
@@ -73,8 +73,8 @@ I got some celeb endorsements too… 😆
 
 A Book Apart also sells [mugs printed with each of their book covers](https://abookapart.com/products/book-cover-mug). If you want a beautifully-designed mug that reminds everybody you’re a well-read person who cares about accessibility, you should buy one!
 
-{{< figured caption="Osky and me trying the mug out!" >}}
+{{< figure caption="Osky and me trying the mug out!" >}}
 
     {{< imgsrcset original="book-mug" alt="Two photos. One showing Laura drinking from a green mug with the Accessibility For Everyone book cover printed on it. The other showing Oskar the husky-malamute dog looking at the same mug and licking his nose." >}}
 
-{{< /figured >}}
+{{< /figure >}}

@@ -24,10 +24,10 @@ We’re not just designing a phone. A crowdfunding campaign for a phone that you
 
 Follow us on [@indie](http://twitter.com/indie "ind.ie on Twitter") for the latest news.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="https://ind.ie" >}}
   	{{< imgsrcset original="indie-stratosphere1.png" alt="ind.ie balloon leaving stratosphere" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

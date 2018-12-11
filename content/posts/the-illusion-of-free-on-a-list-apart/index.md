@@ -22,10 +22,10 @@ colours:
 
 Last week, [my column on The Illusion Of Free](http://alistapart.com/column/the-illusion-of-free) was published on A List Apart. I took a lot of time writing it, as I think it’s an incredibly important issue, and it reflects my thinking around [Ind.ie](https://ind.ie). As ever, a massive thank you to the wonderful editor Rose Weisburd who helped me round things out, made me sound smarter and encouraged me in the first place.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://alistapart.com/column/the-illusion-of-free" >}}
   	{{< imgsrcset original="Illusion-of-Free.png" alt="Screenshot of column on The Illusion of Free" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

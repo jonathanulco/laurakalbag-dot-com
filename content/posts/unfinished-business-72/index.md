@@ -24,8 +24,8 @@ colours:
 
 I sent Sue some questions, which she answered and sent back to me, without Andy seeing the answers. During the show, I asked Andy about his thoughts and read Sue’s answers. Andy’s posted [the full list of questions and Sue’s answers on the Stuff and Nonsense blog](http://stuffandnonsense.co.uk/blog/about/hide-sharp-objects). After hearing so many stories about Stuff and Nonsense on Unfinished Business, I was expecting some funny answers. I wasn’t disappointed, but I was also struck about how kind, thoughtful and caring Andy and Sue are in their working relationship. That must be their secret to working together for so long!
 
-<p style="text-align: center;">{{< figured >}}
+<p style="text-align: center;">{{< figure >}}
   {{< link href="http://unfinished.bz/72" >}}
   	{{< imgsrcset original="unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." >}}
   {{< /link >}}
-{{< /figured >}}</p>
+{{< /figure >}}</p>

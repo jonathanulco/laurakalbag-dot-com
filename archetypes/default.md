@@ -21,8 +21,8 @@ colours:
 
 Default text<!--more-->
 
-{{< figured caption="caption text" >}}
+{{< figure caption="caption text" >}}
 
     {{< imgsrcset original="filenameX" alt="alt text" >}}
 
-{{< /figured >}}
+{{< /figure >}}

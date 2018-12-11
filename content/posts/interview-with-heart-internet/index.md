@@ -22,10 +22,10 @@ colours:
 
 Yesterday, Heart Internet posted [an interview with me](http://www.heartinternet.co.uk/blog/article/interview-with-web-accessibility-champion-laura-kalbag) on their site. They start off saying some very kind things about me, and then it covers accessibility, design, speaking at conferences and a bit of client work. As a bonus, it’s interspersed with photos of me pulling weird faces at conferences (and being business on the phone!)
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://www.heartinternet.co.uk/blog/article/interview-with-web-accessibility-champion-laura-kalbag" >}}
   	{{< imgsrcset alt="Interview with Laura Kalbag on Heart Internet" original="heart-interview.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

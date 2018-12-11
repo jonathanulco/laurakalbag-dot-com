@@ -24,97 +24,97 @@ colours:
 
 I started writing a long post detailing each month and realised I have too many highlights and I’d be here all night. However this year was the year I started taking lots of photos. So I thought I’d share the few that mean the most to me.
 
-{{< figured caption="Bringing a baby Osky home in January" >}}
+{{< figure caption="Bringing a baby Osky home in January" >}}
   	{{< imgsrcset alt="Bringing a baby Osky home in January" original="baby-osky.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="The little Osky who prevented me from working most of February whilst I was trying to keep him out of trouble" >}}
+{{< figure caption="The little Osky who prevented me from working most of February whilst I was trying to keep him out of trouble" >}}
   	{{< imgsrcset alt="The little Osky who prevented me from working most of February whilst I was trying to keep him out of trouble" original="little-osky.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Oskar at four months old during the few weeks we lived with my parents" >}}
+{{< figure caption="Oskar at four months old during the few weeks we lived with my parents" >}}
   	{{< imgsrcset alt="Oskar at four months old during the few weeks we lived with my parents" original="osky-at-parents.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="My new home and new independence, the only place I have lived alone." >}}
+{{< figure caption="My new home and new independence, the only place I have lived alone." >}}
   	{{< imgsrcset alt="My new home and new independence, the only place I have lived alone." original="31E.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="I began an obsession with vegetable boxes, buying a pot luck box every couple of weeks and trying to cook as many new healthy dishes as possible." >}}
+{{< figure caption="I began an obsession with vegetable boxes, buying a pot luck box every couple of weeks and trying to cook as many new healthy dishes as possible." >}}
   	{{< imgsrcset alt="I began an obsession with vegetable boxes, buying a pot luck box every couple of weeks and trying to cook as many new healthy dishes as possible." original="veg-obsession.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="One of a few sunrises I experienced whilst extremely jetlagged at Future Insights Live in Vegas" >}}
+{{< figure caption="One of a few sunrises I experienced whilst extremely jetlagged at Future Insights Live in Vegas" >}}
   	{{< imgsrcset alt="One of a few sunrises I experienced whilst extremely jetlagged at Future Insights Live in Vegas" original="sunrise-in-vegas.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Oskar enduring a week of hell after his operation at six months" >}}
+{{< figure caption="Oskar enduring a week of hell after his operation at six months" >}}
   	{{< imgsrcset alt="Oskar enduring a week of hell after his operation at six months" original="cone-of-shame.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="The photo booth at the Critters, a very silly night" >}}
+{{< figure caption="The photo booth at the Critters, a very silly night" >}}
   	{{< imgsrcset alt="The photo booth at the Critters, a very silly night" original="critters.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Some of the lovely friends and family keeping my house warm this year" >}}
+{{< figure caption="Some of the lovely friends and family keeping my house warm this year" >}}
   	{{< imgsrcset class="attachment-1649" alt="Some of the lovely friends and family keeping my house warm this year" original="housewarming.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="The Spartan Race where I did 5k and obstacles in the burning sun and lots of mud" >}}
+{{< figure caption="The Spartan Race where I did 5k and obstacles in the burning sun and lots of mud" >}}
   	{{< imgsrcset alt="The Spartan Race where I did 5k and obstacles in the burning sun and lots of mud" original="spartan.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="One of the many lovely views of Istanbul" >}}
+{{< figure caption="One of the many lovely views of Istanbul" >}}
   	{{< imgsrcset alt="One of the many lovely views of Istanbul" original="istanbul.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="My frequent view in Istanbul after I ask the native-speaking Aral to pick something good off the menu for me." >}}
+{{< figure caption="My frequent view in Istanbul after I ask the native-speaking Aral to pick something good off the menu for me." >}}
   	{{< imgsrcset alt="My frequent view in Istanbul after I ask the native-speaking Aral to pick something good off the menu for me." original="food-in-istanbul.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="One of the many times I came back to a living room destroyed by Oskar" >}}
+{{< figure caption="One of the many times I came back to a living room destroyed by Oskar" >}}
   	{{< imgsrcset alt="One of the many times I came back to a living room destroyed by Oskar" original="osky-mess.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Nutella ice cream whilst on holiday in Madeira" >}}
+{{< figure caption="Nutella ice cream whilst on holiday in Madeira" >}}
   	{{< imgsrcset alt="Nutella ice cream whilst on holiday in Madeira" original="nutella-icecream.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="When I realised Osky had really gotten *that big*" >}}
+{{< figure caption="When I realised Osky had really gotten *that big*" >}}
   	{{< imgsrcset alt="When I realised Osky had really gotten *that big*" original="giant-osky.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="My wonderful family who have been further apart but so much closer in the last year" >}}
+{{< figure caption="My wonderful family who have been further apart but so much closer in the last year" >}}
   	{{< imgsrcset alt="My wonderful family who have been further apart but so much closer in the last year" original="family.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="My first ever workshop with seasoned workshop veteran, Aral. In the beautiful Bologna." >}}
+{{< figure caption="My first ever workshop with seasoned workshop veteran, Aral. In the beautiful Bologna." >}}
   	{{< imgsrcset alt="My first ever workshop with seasoned workshop veteran, Aral." original="workshop.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Seven puddings at an amazing restaurant with lovely people in Bologna" >}}
+{{< figure caption="Seven puddings at an amazing restaurant with lovely people in Bologna" >}}
   	{{< imgsrcset alt="Seven puddings at an amazing restaurant with lovely people in Bologna" original="seven-puddings.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Rooftops of Bologna" >}}
+{{< figure caption="Rooftops of Bologna" >}}
   	{{< imgsrcset alt="Rooftops of Bologna" original="bologna.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Seb Lee-Delisle’s amazing digital fireworks display at Brighton Digital Festival." >}}
+{{< figure caption="Seb Lee-Delisle’s amazing digital fireworks display at Brighton Digital Festival." >}}
   	{{< imgsrcset alt="Seb Lee-Delisle's amazing digital fireworks display at Brighton Digital Festival." original="sebs-fireworks.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Tongue tattoos in Brighton, one of many visits" >}}
+{{< figure caption="Tongue tattoos in Brighton, one of many visits" >}}
   	{{< imgsrcset alt="Tongue tattoos in Brighton, one of many visits" original="ampersand-tongue-stamp.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="My sprained ankle which made November very difficult" >}}
+{{< figure caption="My sprained ankle which made November very difficult" >}}
   	{{< imgsrcset alt="My sprained ankle which made November very difficult" original="sprained-ankle.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="A very big Oskar under the tree at Christmas" >}}
+{{< figure caption="A very big Oskar under the tree at Christmas" >}}
   	{{< imgsrcset alt="A very big Oskar under the tree at Christmas" original="osky-under-the-tree.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## Goals for 2013
 

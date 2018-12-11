@@ -22,10 +22,10 @@ colours:
 
 In [this week’s Ind.ie roundup](https://ind.ie/blog/windows-to-your-soul/), I wrote about privacy, politics, tracking, Timelines, and a little thing called “corporate nullification.”
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="https://ind.ie/blog/windows-to-your-soul/" >}}
   	{{< imgsrcset class="wp-image-4789" original="Screen-Shot-2015-07-31-at-18.37.10.png" alt="Screenshot of Ind.ie roundup Windows To Your Soul" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

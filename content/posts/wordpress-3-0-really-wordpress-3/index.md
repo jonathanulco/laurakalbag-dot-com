@@ -37,9 +37,9 @@ For any content that you need to act like a post, but not *actually* **be** a po
 
 One of my latest site designs, stuartclayton.com, I used no fewer than four different custom post types:
 
-{{< figured caption="Custom post types menus in use in the WordPress admin" >}}
+{{< figure caption="Custom post types menus in use in the WordPress admin" >}}
   {{< imgsrcset original="Screen-shot-2010-07-16-at-20.36.02.png" alt="Custom post types in the WordPress admin" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 1. #### Discography
 
@@ -59,9 +59,9 @@ For this I used a custom post type of ‘Feature’ with a featured image to sho
 
 The gear is pretty special as I made use of a ‘Gear’ custom post type with a ‘Type of gear’ custom taxonomy. You certainly couldn’t do that a few versions ago!
 
-{{< figured caption="Types of gear custom taxonomy panel" >}}
+{{< figure caption="Types of gear custom taxonomy panel" >}}
   {{< imgsrcset original="Screen-shot-2010-07-16-at-20.37.20.png" alt="Types of gear custom taxonomy panel in the WordPress editor" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 Each item of musical gear that Stuart has is (or will be) listed under the ‘Gear’ section. Then to group the different gear by whether it’s a bass, an amp, strings or effects, a category-style custom taxonomy is used. This helps dictate how the pages are laid out.
 
@@ -69,9 +69,9 @@ I struggled a bit with custom post types at first. I think it It was probably b
 
 If you, like me, get a bit confused with the huge amount of options for custom post types in the functions.php file, I really would recommend you give [Custom Post Type UI](http://wordpress.org/extend/plugins/custom-post-type-ui/?compatibility%5Bversion%5D=3.0&amp;compatibility%5Btopic_version%5D=0.5.2&amp;compatibility%5Bcompatible%5D=1) by [WebDevStudios](http://webdevstudios.com/) a go. This excellent plugin does just what you would do in your functions.php file but gives it a friendly checkbox and text input interface in your WordPress admin so you needn’t write any code.
 
-{{< figured caption="Custom Post Types UI in action" >}}
+{{< figure caption="Custom Post Types UI in action" >}}
   {{< imgsrcset original="Screen-shot-2010-07-16-at-19.27.32.png" alt="Custom Post Types UI in action" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 For those that more confident, these are the best resources I’ve found on creating custom post types straight into your themes (or plugins):
 

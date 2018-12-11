@@ -52,17 +52,17 @@ Ok, so here’s where the [Fitbit](http://www.shareasale.com/r.cfm?b=286239&amp;
 
 The Fitbit is a small plastic pedometer that you wear on your person. I favour the waistband or pocket, as I tend to mostly wear trousers, though I have occasionally worn it on my underwear when wearing dresses or trying to stop it spoiling the line of my clothes (that’s a rather girly power-user tip right there.)
 
-{{< figured caption="My Fitbit on my waistband" >}}
+{{< figure caption="My Fitbit on my waistband" >}}
   	{{< imgsrcset original="fitbit-on-waistband.jpg" alt="My Fitbit on my waistband" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 The amount of stuff it records is pretty cool. It will record your steps, distance travelled, floors climbed (with the help of an altimeter,) calories burned and activity score. The activity score is a rating of how active you’ve been throughout the day, which gives you a nice goal to aim towards if you don’t want to obsess over steps, floors or calories.
 
 It is a thing of beauty. It has a seamless display which shows you your pedometer statistics in clear blue text, which you can cycle through using the single button. You can also hold the button down to start/stop recording an activity session which allows you to record periods of sleep or specific periods of activity (it records all activity by default, but activity records can be handy if you want to know how far you travelled when you walked to the shops or similar.)
 
-{{< figured caption="Fitbit gives me encouraging messages and greetings too" >}}
+{{< figure caption="Fitbit gives me encouraging messages and greetings too" >}}
   	{{< imgsrcset original="encouraging.jpg" alt="Fitbit gives me encouraging messages and greetings too" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 The Fitbit syncs wirelessly to a small dock which works with OS software to sync its stats to the web app. The dock also acts as a charger, which you rarely have to use as the Fitbit seems to have weeks of battery life at a time and charges up to full battery within an hour or so.
 
@@ -70,9 +70,9 @@ The Fitbit syncs wirelessly to a small dock which works with OS software to sync
 
 The sleep recording functionality is pretty cool. Usually you’d move a lot less during your sleep, so you need to wear your Fitbit around your wrist. I found the provided wristband a little bit uncomfortable, the band itself is soft but the velcro fastening is a little bit abrasive round the edges. I made my own Fitbit wristband out of a tennis sweatband. I cut a hole in the sweatband, and stitched a Fitbit shape into it to stop it from getting stuck inside the band. This is much more comfortable and works just as well as the admittedly-slightly-slicker provided wristband.
 
-{{< figured caption="Fitbit wristband (left) and my homemade wristband (right)" >}}
+{{< figure caption="Fitbit wristband (left) and my homemade wristband (right)" >}}
   	{{< imgsrcset original="wristbands.jpg" alt="Fitbit wristband (left) and my homemade wristband (right)" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 You start the sleep function by holding down the button. The Fitbit is smart enough to know that you’re sleeping by the amount of movement you’re (not) making.
 
@@ -80,35 +80,35 @@ You start the sleep function by holding down the button. The Fitbit is smart eno
 
 Now by itself, you could argue that the Fitbit is just a rather fancy, slightly expensive sleep-recording pedometer. Really, it’s the addition of the web app that makes it so incredibly valuable.
 
-{{< figured caption="The Fitbit dashboard" >}}
+{{< figure caption="The Fitbit dashboard" >}}
   	{{< imgsrcset original="fitbit-dashboard.jpg" alt="The Fitbit dashboard" >}}
-{{< /figured >}}
+{{< /figure >}}
   
 ### Sleep log
 
 Starting with the sleep log, the Fitbit will tell you how long you slept for, how often you woke up and use that to judge your quality of sleep. This is pretty handy if you want to improve your sleep quality, especially as you can see your sleep history, comparing each night.
 
-{{< figured caption="one night’s sleep with the Fitbit" >}}
+{{< figure caption="one night’s sleep with the Fitbit" >}}
   	{{< imgsrcset original="sleep-log.jpg" alt="one night's sleep with the Fitbit" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="My sleep history" >}}
+{{< figure caption="My sleep history" >}}
   	{{< imgsrcset original="sleep-stats.jpg" alt="My sleep history" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Activity Log
 
 This is my favourite part. There is no better way to motivate yourself than seeing how much exercise you’ve been doing in statistic form. And if you’re competitive? You can also share your information with friends (this allows you to lock down or make public as much or as little info as you’d like) to compete and motivate yourself to beat the other people in your group with daily, weekly or lifetime scores.
 
-{{< figured caption="Friends’ leaderboard" >}}
+{{< figure caption="Friends’ leaderboard" >}}
   	{{< imgsrcset original="leaderboard.jpg" alt="Friends' leaderboard" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 And, as with all good apps, you can earn badges for your achievements (I love badges!) I’m doing fairly well with mine. It’s actually really lovely when you get a little notification email telling you you’ve earned a new badge. The achievements seem to be infrequent enough that they actually feel meaningful (you don’t get a badge for just **anything**) but not so rare that they feel like hard work.
 
-{{< figured caption="My Fitbit badges" >}}
+{{< figure caption="My Fitbit badges" >}}
   	{{< imgsrcset original="fitbit-badges.jpg" alt="My Fitbit badges" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 {{< imgsrcset original="fitbit-badge-notification.jpg" alt="A Fitbit badge notification email" >}}
 
@@ -116,41 +116,41 @@ I’d say that the Fitbit is really best if you’re a walker or a runner, as it
 
 {{< imgsrcset original="activity-log.jpg" alt="Fitbit activity log" >}}
 
-{{< figured caption="a graph of my calories burnt so far today" >}}
+{{< figure caption="a graph of my calories burnt so far today" >}}
   	{{< imgsrcset original="calories-burnt-graph.jpg" alt="a graph of my calories burnt so far today" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Food Log
 
 I truly believe that the best way to lose weight is to keep a food and drink diary. It really makes you realise what you’re putting into your body. The Fitbit food log helps with this as you can quickly enter in your foods from its extensive database, in whatever quantities suit you best. Like other food databases, it tends to mostly feature food from the US, but you can easily add new foods yourself, and they’ve got a much better database of raw ingredients (fruit, veg etc.) than any other web app I’ve used.
 
-{{< figured caption="Fitbit food log" >}}
+{{< figure caption="Fitbit food log" >}}
   	{{< imgsrcset original="food-log.jpg" alt="Fitbit food log" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 My main criticism of the Fitbit web app is the focus on calories in the food log. Their food plans allow you to set reasonable goals based around calorie consumption, but this isn’t necessarily the healthiest way to lose weight. Whilst you do get an indication of how much Fat, Carbs and Protein you’re consuming, the emphasis is still on losing calories when an emphasis on less fat and carbs would probably be more beneficial to people looking for a healthy diet. Apps like [Daily Burn](http://dailyburn.com/) do this better.
 
-{{< figured caption="Fitbit food goals" >}}
+{{< figure caption="Fitbit food goals" >}}
   	{{< imgsrcset original="food-goals.jpg" alt="Fitbit food goals" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Weight Log
 
 The weight log is handy and has become even more so since I got the Fitbit Aria scales two weeks ago (prior to that you had to enter your weight and body fat statistics directly into the app yourself.) These beautiful scales look lovely in the bathroom and sync wirelessly to the Fitbit web app via WiFi. This means there’s no tricking the scales by rounding up or down when you enter your values into the app, it’s all completely automatic, and that really adds to the motivation to lose weight!
 
-{{< figured caption="Fitbit Aria scales" >}}
+{{< figure caption="Fitbit Aria scales" >}}
   	{{< imgsrcset original="aria.jpg" alt="Fitbit Aria scales" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 You can also manually input your body measurements, which is great because it helps defeat that myth that appearance and body shape is all about weight, and you’re presented with some lovely graphs and charts of your body data to help you see how you’re doing and where you want to be.
 
-{{< figured caption="My weight as recorded by the Aria scales" >}}
+{{< figure caption="My weight as recorded by the Aria scales" >}}
   	{{< imgsrcset original="weight.jpg" alt="My weight as recorded by the Aria scales" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="A lovely lean vs fat graph" >}}
+{{< figure caption="A lovely lean vs fat graph" >}}
   	{{< imgsrcset original="weight-graph.jpg" alt="A lovely lean vs fat graph" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Other logs
 
@@ -158,25 +158,25 @@ There’s also a whole host of other logs that you can use to keep an eye on you
 
 I make use of the Mood log a fair bit. I think it’s healthy to assess your mood from time to time, understand yourself better and try to get to the root of what’s making you feel happy or sad.
 
-{{< figured caption="Mood history" >}}
+{{< figure caption="Mood history" >}}
   	{{< imgsrcset original="mood-log.jpg" alt="Mood history" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 #### Custom trackers
 
 I’ve also made use of the one custom tracker you’re allowed on the free plan (unlimited on Premium) to record how many fruits and vegetables I eat in a day. This is a great motivation for me to eat more!
 
-{{< figured caption="my custom fruit and veg tracker" >}}
+{{< figure caption="my custom fruit and veg tracker" >}}
   	{{< imgsrcset original="fruit-and-veg.jpg" alt="my custom fruit and veg tracker" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Email Motivations
 
 A lovely little addition to the Fitbit web app is the weekly stats you get sent via email. A nice little reminder of how you’re doing compared to last week, and a kick up the bum if you’ve been lazy.
 
-{{< figured caption="Weekly stats email" >}}
+{{< figure caption="Weekly stats email" >}}
   	{{< imgsrcset original="weekly-stats.jpg" alt="Weekly stats email" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Extensibility
 

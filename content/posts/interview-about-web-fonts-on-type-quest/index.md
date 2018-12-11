@@ -24,11 +24,11 @@ A few months ago Tyler Sanguinette sent me some questions about design and web t
 
 Recently I found that [he’d published the interview](http://typequest.org/articles/kalbag/), and interviews with a load of very smart people, on the [Type Quest website](http://typequest.org). Type Quest also has some really useful information on the OpenType features of web fonts, so it’s well-worth a look.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://typequest.org/articles/kalbag/" >}}
   	{{< imgsrcset class="wp-image-4252" alt="Interview with Laura Kalbag on Type Quest" original="type-quest.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## One comment
 

@@ -23,10 +23,10 @@ Last November at Build conference 2012, I had fun talking to some of the folks f
 
 [Typecast are also giving away a ticket to Build conference 2013 and some Typecast subscriptions](http://typecast.com/build#win). The draw closes tomorrow, so you’d better be quick!
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://typecast.com/build" >}}
   	{{< imgsrcset alt="Talking About Building - a screenshot of the Typecast building videos" original="typecast-build.jpg" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

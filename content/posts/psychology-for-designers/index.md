@@ -34,9 +34,9 @@ When I look at the list of upcoming Pocket Guide books, it makes me quite giddy.
 
 *Side note: I read this whole book on my phone! I didn’t need to, I had my laptop and iPad right next to me, but the PDF in landscape seemed to be the ideal easy reading environment for me. Although I did struggle reading some of the linked sites which weren’t so well-optimised.*
 
-{{< figured caption="Reading Psychology for designers on my phone" >}}
+{{< figure caption="Reading Psychology for designers on my phone" >}}
   {{< imgsrcset alt="Reading Psychology for designers on my phone" original="handheld.jpg" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 
 

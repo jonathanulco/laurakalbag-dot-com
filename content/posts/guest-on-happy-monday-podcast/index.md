@@ -20,9 +20,9 @@ colours:
 
 Last Friday I was a guest for today’s [Happy Monday podcast](http://www.happymondaypodcast.com/episodes/laura-kalbag). It was great fun chatting with Josh and Sarah about design, client work and inspiration.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://www.happymondaypodcast.com/episodes/laura-kalbag" >}}
   	{{< imgsrcset alt="HAPPY MONDAY. A new, short-burst, industry podcast available every Monday from 7am GMT." original="happy-monday.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 

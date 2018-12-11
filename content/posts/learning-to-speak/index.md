@@ -46,11 +46,11 @@ Aral didn’t ask me to write this post. If he did, I would’ve said no, I’m 
 
 A lot of people ask my advice on speaking, and honestly, I just pass on what Aral’s taught me. The best piece of advice *I* can give you is to [take this masterclass](http://slideandstage.com). It’s very affordable (I say this as a wary freelancer!) And I promise it will make a huge difference to your talks.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://slideandstage.com/" >}}
   	{{< imgsrcset alt="Slide and Stage: a one day workshop on presenting by Aral Balkan." original="slide-and-stage.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## 7 comments
 

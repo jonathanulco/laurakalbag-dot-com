@@ -24,8 +24,8 @@ mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100571131117625459"
 primaryimagealt: "small grey cat sitting on Aral’s lap looking chilled out."
 ---
 
-{{< figured caption="Such a happy cat. Loves Aral’s lap." >}}
+{{< figure caption="Such a happy cat. Loves Aral’s lap." >}}
 
     {{< imgsrcset original="happy-cat" alt="small grey cat sitting on Aral’s lap looking chilled out." >}}
 
-{{< /figured >}}
+{{< /figure >}}

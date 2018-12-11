@@ -24,10 +24,10 @@ Today [my thought for March was posted on The Pastry Box](https://the-pastry-box
 
 I’ve started formulating a draft of my “purpose” for this site, but it’s not quite ready yet.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="https://the-pastry-box-project.net/laura-kalbag/2014-march-11" >}}
   	{{< imgsrcset alt="Laura Kalbag on The Pastry Box, Tuesday, 11 March 2014" original="pastry-box-march.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

@@ -22,10 +22,10 @@ colours:
 
 Last week I had a lovely chat with El for her [Nothing To Display podcast](http://nothingtodisplay.co.uk/2013/03/02/nothing-to-display-podcast-no-3-the-web-freelance-life-mentoring-with-laura-kalbag/). We talked about technology and how people get started with technology, accessibility, mentoring and dystopian futures! It was a real treat.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://nothingtodisplay.co.uk/" >}}
   	{{< imgsrcset alt="Nothing To Display podcast" original="nothing-to-display.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

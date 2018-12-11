@@ -25,11 +25,11 @@ colours:
 <hr/>
 This is very very exciting. In June, I’m going to speak at [Interlink conference](http://interlinkconference.com) in Toronto, Canada. The line-up is incredible, and I can’t believe I’m a part of it. It’s also my first trip to Canada, and only my second trip to North America. I can’t wait!
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://interlinkconference.com" >}}
   	{{< imgsrcset alt="Interlink conference June 18th-20th, 2014" original="interlink.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## One comment
 

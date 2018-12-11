@@ -24,10 +24,10 @@ I’m speaking at [Design + Banter](http://designandbanter.com) on Monday in Lon
 
 Nicklas Persson and Cole Peters are also speaking so I’m really chuffed to be part of a great lineup!
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://designandbanter.com" >}}
   	{{< imgsrcset alt="Design + Banter  - An intimate event in London bringing together 175 designers from the city’s brightest startups and best agencies." original="designandbanter.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

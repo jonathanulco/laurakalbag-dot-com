@@ -23,8 +23,8 @@ colours:
 primaryimagealt: "Osky the huskamute walking through the woods, the sunlight is bright behind the trees."
 ---
 
-{{< figured caption="Morning walk" >}}
+{{< figure caption="Morning walk" >}}
 
     {{< imgsrcset original="woods-2" alt="Osky the huskamute walking through the woods, the sunlight is bright behind the trees." >}}
 
-{{< /figured >}}
+{{< /figure >}}

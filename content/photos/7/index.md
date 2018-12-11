@@ -23,8 +23,8 @@ colours:
 primaryimagealt: "Oskar the huskamute lying flat on the patio fast asleep."
 ---
 
-{{< figured caption="Sleepy pup" >}}
+{{< figure caption="Sleepy pup" >}}
 
     {{< imgsrcset original="osky-3" alt="Oskar the huskamute lying flat on the patio fast asleep." >}}
 
-{{< /figured >}}
+{{< /figure >}}

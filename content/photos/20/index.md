@@ -24,8 +24,8 @@ mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100748427705939150"
 primaryimagealt: "Oskar the huskamute standing in the woods looking directly at the camera."
 ---
 
-{{< figured caption="We ❤️ the woods" >}}
+{{< figure caption="We ❤️ the woods" >}}
 
     {{< imgsrcset original="woods-3" alt="Oskar the huskamute standing in the woods looking directly at the camera." >}}
 
-{{< /figured >}}
+{{< /figure >}}

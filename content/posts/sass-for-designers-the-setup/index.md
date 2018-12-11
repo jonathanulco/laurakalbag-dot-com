@@ -28,11 +28,11 @@ Of course, all of this can be done with the command line and other terrifying to
 
 [Codekit](http://incident57.com/codekit/) does all the processing for you. It takes your Sass and spits it out into fully-working CSS. It does loads of other clever things too, but I mostly just use it for Sass. [Go download it](http://incident57.com/codekit/) and give it a go. I think you’ll find it’s definitely worth paying for.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://incident57.com/codekit/" >}}
   	{{< imgsrcset alt="screenshot of the Codekit website" original="codekit.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 In order to get started with Codekit and Sass, you’ll need a /sass folder in your project where you keep all your Sass files. Sass files can contain plain old CSS or Sass-style CSS but they must have the extension .scss.
 

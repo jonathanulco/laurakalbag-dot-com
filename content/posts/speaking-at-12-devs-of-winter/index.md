@@ -24,11 +24,11 @@ I’m speaking at [12 Devs of Winter on the 22nd January in Shoreditch](http://1
 
 For once, I’m ahead of the schedule, and tickets will be released this Wednesday 8th January at 10am.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://12devs.co.uk/events/12-devs-of-winter-2014/" >}}
   	{{< imgsrcset alt="12 Devs of Winter website" original="12devs.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## One comment
 

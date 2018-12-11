@@ -22,17 +22,17 @@ colours:
 
 The last few days have brought a very miscellaneous collection of photos.
 
-{{< figured caption="**Rama on the beach.** I was out trying to get the sea and the pier, but the weather was grim, and I found this little figure instead. I think it might be Rama, but I might be wrong…" >}}
+{{< figure caption="**Rama on the beach.** I was out trying to get the sea and the pier, but the weather was grim, and I found this little figure instead. I think it might be Rama, but I might be wrong…" >}}
   {{< imgsrcset original="DSCF4833-small.jpg" alt="A Rama figurine, standing in pebbles on Brighton beach" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 The next photo is part of our overlaying exercise set by Ashley. I did it in post-processing, before I discovered that my camera has a multiple exposure setting. It’s pretty cheesy, but an okay first try.
 
-{{< figured caption="**Overlay.** Aral and the sky. Looks a bit film poster…" >}}
+{{< figure caption="**Overlay.** Aral and the sky. Looks a bit film poster…" >}}
   {{< imgsrcset original="DSCF4869-small.jpg" alt="Profile of Aral, overlaid on purple and blue clouds in the sky" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="**Grove.** The tree outside the back of our house looks like it’s glowing at night." >}}
+{{< figure caption="**Grove.** The tree outside the back of our house looks like it’s glowing at night." >}}
   {{< imgsrcset original="DSCF4894-small.jpg" alt="A tree with leaves glowing in the streetlight against a background of garages and the backs of buildings" >}}
-{{< /figured >}}
+{{< /figure >}}
 

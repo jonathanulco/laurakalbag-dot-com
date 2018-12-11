@@ -35,9 +35,9 @@ What’s left is the things that we really would’ve kept, but can’t. Fancy 
 * <del>80 cm depth</del>
 * <del>73 – 120 cm height range (sit-stand)</del>
 
-{{< figured caption="Biurko desk. It’s bigger than it looks. This is at full height. Legs come out wider when desk is lowered." >}}
+{{< figure caption="Biurko desk. It’s bigger than it looks. This is at full height. Legs come out wider when desk is lowered." >}}
   	{{< imgsrcset original="Screen-Shot-2016-02-02-at-15.49.09.png" alt="Biurko desk at full height." >}}
-{{< /figured >}}
+{{< /figure >}}
 
 <del>They’re already packaged with special wrapping to protect the tops from damage in transit. They weigh a lot, and are very big, so you will need a large van and more than one person!</del>
 
@@ -46,9 +46,9 @@ What’s left is the things that we really would’ve kept, but can’t. Fancy 
 
 Big Apple Thunderbolt displays in mint condition and their original packaging. Requires a Thunderbolt port to connect to a Mac.
 
-{{< figured caption="Apple Display as seen on a messy desk. Ridiculous dog not included." >}}
+{{< figure caption="Apple Display as seen on a messy desk. Ridiculous dog not included." >}}
   	{{< imgsrcset original="my-desk-1200.jpeg" alt="A messy desk with Apple Display, iPad, MacBook Pro, and dog" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 The older display has a defect since purchase that it cannot act as a power supply for the Mac (the power lead doesn’t work) but it’s otherwise in perfect working order. This defect won’t affect you if you already have a charging power supply for your Mac.
 
@@ -59,9 +59,9 @@ Depending on how old your Mac is, you may need one of the tiny magnetic adapters
 
 <del>The iconic office chair. Dark grey, size B (medium sized) with lumbar support. Bought refurbished 18 months ago. Costs ~£900 new.</del>
 
-{{< figured caption="Aeron chair" >}}
+{{< figure caption="Aeron chair" >}}
   	{{< imgsrcset original="front.jpg" alt="Aeron chair" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 <h2 id="whiteboard">1x Nobo Double-sided 1200 x 900mm mobile whiteboard</h2>
 ### £200
@@ -77,9 +77,9 @@ It’s large and heavy (great for writing on, harder to lift.) It’s currently 
 
 Great condition, stays in tune. With soft case and guitar stand included. Goes for ~£300 online.
 
-{{< figured caption="The guitar is on the left side. Only photo I could find with it in! Dog not included." >}}
+{{< figure caption="The guitar is on the left side. Only photo I could find with it in! Dog not included." >}}
   	{{< imgsrcset original="15516043930_93144778c6_k.jpg" alt="living room showing guitar and prominent dog" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 <h2 id="long-board">Long board (Loaded Tan Tien complete)</h2>
 **£100**

@@ -22,35 +22,35 @@ A couple of months ago, Ian from logogeek.co.uk, asked if I’d share some of my
 
 Last week, Ian added some pages from my sketchbook to [his post, “A look inside a designers sketchbook”](http://learnlogodesign.com/logo-design-process/a-look-inside-a-designers-sketchbook). He included some of my sketches from the [Indie Phone](/project/indiephone-logo/ "IndiePhone logo") and [Turbine](/project/turbine-logo/ "Turbine logo") projects. As he didn’t include all of them, I thought I’d share them all below.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://learnlogodesign.com/logo-design-process/a-look-inside-a-designers-sketchbook" >}}
   	{{< imgsrcset original="Logo-designers-sketchbook.png" alt="Screenshot of the logo designer's sketchbook post" caption="Ian’s post" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Rocket sketches from Indie Phone" >}}
+{{< figure caption="Rocket sketches from Indie Phone" >}}
   {{< imgsrcset original="Indie-Phone-01.jpg" alt="Rocket sketches from Indie Phone" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="More rocket sketches from Indie Phone" >}}
+{{< figure caption="More rocket sketches from Indie Phone" >}}
   {{< imgsrcset original="Indie-Phone-02.jpg" alt="Rocket sketches from Indie Phone" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Even more rocket sketches from Indie Phone (and these aren’t even all of them!)" >}}
+{{< figure caption="Even more rocket sketches from Indie Phone (and these aren’t even all of them!)" >}}
   {{< imgsrcset original="Indie-Phone-03.jpg" alt="Rocket sketches from Indie Phone" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="More Turbine shape sketches" >}}
+{{< figure caption="More Turbine shape sketches" >}}
   {{< imgsrcset original="Turbine-01.jpg" alt="Turbine shape sketches" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Turbine shape sketches" >}}
+{{< figure caption="Turbine shape sketches" >}}
   {{< imgsrcset original="Turbine-02.jpg" alt="Turbine shape sketches" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Turbine letter sketches" >}}
+{{< figure caption="Turbine letter sketches" >}}
   {{< imgsrcset original="Turbine-03.jpg" alt="Turbine letter sketches" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 
 

@@ -27,9 +27,9 @@ This is the talk I gave at DIBI Conference in Edinburgh in March 2017. Many peop
 
 Nowadays performance seems to be the hot topic of the web industry. So let’s have a look at how we might improve the speed of a web page.
 
-{{< figured caption="theonion.com" >}}
+{{< figure caption="theonion.com" >}}
   {{< imgsrcset original="006.jpg" alt="Screenshot of the Onion homepage" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 Looking at [the Onion homepage](http://www.theonion.com), you can see it’s loading lots of images and a few videos. It’s mostly images and text content. There’s a big sticky ad at the bottom of the viewport that takes a while to load.
 
@@ -80,9 +80,9 @@ You know what that means? Your web performance effort counts for little to noth
 
 ## Facebook
 
-{{< figured caption="Me on Facebook" >}}
+{{< figure caption="Me on Facebook" >}}
   {{< imgsrcset original="044.jpg" alt="Screenshot of my Facebook profile" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 Let’s look at this phenomenon from the perspective of the people browsing the web. We feel like we know Facebook’s game. They show us adverts, and we get to socialise for free. Simple as that?
 
@@ -111,11 +111,11 @@ Well it might just be a strange coincidence, but maybe too close to be a coincid
 
 But how else could Facebook have known?
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://www.sbs.com.au/news/article/2016/03/10/facebook-button-violates-privacy" >}}
   	{{< imgsrcset original="074.jpg" alt="Screenshot of CBS news article on Facebook buttons violating privacy" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 If I was browsing funeral-related sites, maybe Facebook would have that information if those sites had Facebook Share Buttons or Facebook login. As [this article in SBS News](http://www.sbs.com.au/news/article/2016/03/10/facebook-button-violates-privacy) points out, those Facebook buttons track you across the web, violating your privacy. (Also note the hypocrisy of this news site using multiple Facebook buttons on this article.)
 
@@ -218,11 +218,11 @@ Psychologists and a Computer Scientist from the Universities of Cambridge and St
 
 > “Inputting 70 ‘Likes’ allowed it to obtain a truer picture of someone’s character than a friend or room-mate, while 150 ‘Likes’ outperformed a parent, sibling or partners.”—[Sarah Knapton, Science Editor, Daily Telegraph. January 2015](http://www.telegraph.co.uk/news/science/science-news/11340166/Facebook-knows-you-better-than-your-members-of-your-own-family.html)
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://www.pnas.org/content/112/4/1036/F2.large.jpg" >}}
   	{{< imgsrcset original="161.jpg" alt="Diagram showing the correlation between how many likes on Facebook and how well the algorithm knows you" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 > “It took 300 ‘Likes’ before the programme was able to judge character better than a spouse.”—[Sarah Knapton, Science Editor, Daily Telegraph. January 2015](http://www.telegraph.co.uk/news/science/science-news/11340166/Facebook-knows-you-better-than-your-members-of-your-own-family.html)
 
@@ -510,9 +510,9 @@ Once our product respects human rights and human effort, we can layer the deligh
 
 Delightful isn’t just making products fun and fluffy. It’s about creating a genuinely great experience, which is reinforced because it’s built upon the strong foundation of respecting your effort and rights. Basecamp is a good example of this, where they have little touches of delight.
 
-{{< figured caption="The Basecamp schedule when you haven’t had any past events yet" >}}
+{{< figure caption="The Basecamp schedule when you haven’t had any past events yet" >}}
   {{< imgsrcset original="368.jpg" alt="Screenshot of Basecamp schedule with a cute pen drawing of a Basecamp icon toasting marshmallows over a campfire" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 Basecamp can only get away with whimsical details because they already respect your human rights and effort. As [Sara Wachter-Boettcher wrote in a fabulous article](https://medium.com/@sara_ann_marie/dear-tech-you-suck-at-delight-86382d101575) last year:
 
@@ -576,11 +576,11 @@ And remember [when Google’s Allo was heralded for its privacy features?](http:
 
 You can learn about the value of metadata by watching the fantastic documentary, [A Good American](http://agoodamerican.org). In this film, Bill Binney, working on surveillance for the US, says that meta information is the most valuable information that the <abbr title="National Security Agency of the US">NSA</abbr> can collect. Without meta data, surveilling people is like looking for a needle in a haystack. (I also recommend the recent Oliver Stone [Snowden](https://snowdenfilm.com) film for learning about how corporate surveillance and government surveillance come together.)
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="https://better.fyi/spotlight/" >}}
   	{{< imgsrcset original="418.jpg" alt="Screenshot of the Better.fyi spotlight" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 As we become more aware of the problems, the people behind the trackers are getting defensive. Massive German publisher [Axel Springer says their “core business is delivering ads to its visitors. Journalistic content is just a vehicle to get readers to view the ads”](https://better.fyi/spotlight). According to Lindsay Rowntree, who writes for a marketing and advertising blog…
 

@@ -30,9 +30,9 @@ One week to go!
 
 ## Oskar status
 
-{{< figured caption="If I look cute, I won’t be told off for being on the sofa…" >}}
+{{< figure caption="If I look cute, I won’t be told off for being on the sofa…" >}}
   {{< imgsrcset  original="2016-02-16.jpg" alt="Oskar the dog lying curled up on a leather sofa" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 Originally posted on the [Ind.ie forum at https://forum.ind.ie/t/laura-s-diary-tuesday-16th-february-2016](https://forum.ind.ie/t/laura-s-diary-tuesday-16th-february-2016)
 

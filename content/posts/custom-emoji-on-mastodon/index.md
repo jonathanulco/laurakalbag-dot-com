@@ -24,14 +24,14 @@ description: ""
 
 This morning I made an `:indieHeart:` custom emoji for Mastodon. Here are some things I learned.<!--more-->
 
-{{< figured caption="One of the many cool features of Mastodon is that you can create custom emoji for your instances which can be duplicated and adopted by other instances." >}}
+{{< figure caption="One of the many cool features of Mastodon is that you can create custom emoji for your instances which can be duplicated and adopted by other instances." >}}
   {{< imgsrcset original="local-emoji.png" alt="screenshot of the Mastodon admin showing my local instance’s custom emoji including two Indie heart emojis." >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured class="grid two" caption="The :indieHeart: shortcode in action" >}}
+{{< figure class="grid two" caption="The :indieHeart: shortcode in action" >}}
   {{< imgsrcset max-width="1000px" original="toot-on-dark.png" link="https://mastodon.ind.ie/web/statuses/100661113916027342" alt="a toot in the dark Mastodon theme with a little Indie heart emoji." >}}
   {{ imgsrcset original="toot-on-light.png" alt="the same toot in the light Mastodon theme with a little Indie heart emoji." >}}
-{{< /figured >}}
+{{< /figure >}}
 
 - Firstly, you need to have admin access to your instance to add custom emoji. ([Another reason to get your own instance!](/what-is-mastodon-and-why-should-i-use-it/#why-set-up-an-instance-of-one)) If you don’t have admin access, you could probably politely ask your instance’s admin to add your emoji to the instance’s list.
 - You need to be able to tell what the emoji is at 20x20 pixels, as this is the standard size it’s displayed on the Mastodon web view.

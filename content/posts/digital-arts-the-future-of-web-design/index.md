@@ -22,10 +22,10 @@ Over the next few days I’m catching up on things I failed to share in recent m
 
 In April, I spoke to Neil Bennett about [the future of web design](http://www.digitalartsonline.co.uk/features/interactive-design/whats-future-of-web-design/), and the challenges we face. There were some good questions, and it’s interesting to see the answers of difference people from different areas side-by-side.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://www.digitalartsonline.co.uk/features/interactive-design/whats-future-of-web-design/" >}}
   	{{< imgsrcset original="Digital-Arts-future-of-web-design.png" alt="Digital Arts - The future of web design: leading creatives discuss what's coming next" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

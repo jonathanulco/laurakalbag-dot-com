@@ -22,10 +22,10 @@ colours:
 
 Last weekend I was a guest on the [Unfinished Business podcast](http://unfinished.bz/61) again. I had a lovely time chatting to Andy about speaking at conferences, working for free and I even managed to squeeze in a rant about accessibility.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://unfinished.bz/61" >}}
   	{{< imgsrcset alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." original="unfinishedbusiness.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

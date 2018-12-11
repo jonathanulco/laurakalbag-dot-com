@@ -22,10 +22,10 @@ Last week, the wonderful [Ashley Baxter](http://twitter.com/iamashley) asked me 
 
 By the way, if you want business insurance, you really should get a quote from [Insurance By Jack](http://insurancebyjack.co.uk/).
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://insurancebyjack.co.uk/business-and-marketing/2014/05/20/how-to-get-started-with-public-speaking.html" >}}
   	{{< imgsrcset original="Insurance-By-Jack-public-speaking.png" alt="How To Get Started With Public Speaking on Insurance By Jack" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

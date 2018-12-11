@@ -171,13 +171,13 @@ When we look at web typography from an aesthetic point of view, we have two majo
 
 The technical part of web typography is considering how a font might look applied straight to text without any interference/fancy CSS typesetting, or any control over it whatsoever. Because this is what we work with on a basic level without JavaScript or the CSS that only works on a few platforms. We also need to consider how it renders cross-browser. Looking at fonts through progressive enhancement and cross-browser consistency is definitely an accessible approach to typography.
 
-{{< figured caption="Text with a web font applied, but no other styling." >}}
+{{< figure caption="Text with a web font applied, but no other styling." >}}
   {{< imgsrcset original="Accessibility-By-Design.066.jpg" alt="Text in ordinary black text with blue underlined links." >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Checking cross-browser rendering using Typekit" >}}
+{{< figure caption="Checking cross-browser rendering using Typekit" >}}
   {{< imgsrcset original="Accessibility-By-Design.067.jpg" alt="Screenshots of Typekit’s interface for cross-browser rendering" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Practical typography
 
@@ -185,15 +185,15 @@ It’s slightly less obvious when it comes to the practical part of web typograp
 
 We need to remember that typography exists to represent content, and so it’s always worthwhile to read the text before we design it. Our aim is to invite the reader in, and make the text appear easy to read, not an intimidating mass. Typography should also reveal the meaning of the text. Comic Sans isn’t appropriate for a formal restaurant site, and a swirling script typeface isn’t appropriate for the website of a party clown.
 
-{{< figured caption="Blackoak Std makes for chunky intimidating body text, Heinemann makes for a more inviting paragraph." >}}
+{{< figure caption="Blackoak Std makes for chunky intimidating body text, Heinemann makes for a more inviting paragraph." >}}
   {{< imgsrcset original="Accessibility-By-Design.070.jpg" alt="A paragraph set in Blackoak Std, and a paragraph set in Heinemann" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 When we read through the text, we can understand where it needs special treatment: where does the structure and order need to be made clear? The connections and differences between elements should be shown. The visual relationships between the text and other elements should reflect their real relationship. A heading is more important than a paragraph, and its importance should be revealed through size differences at the very least. All of these factors can be combined together to induce an ideal state for reading.
 
-{{< figured caption="Clear headings, links, and typographic hierarchy." >}}
+{{< figure caption="Clear headings, links, and typographic hierarchy." >}}
   {{< imgsrcset original="Accessibility-By-Design.073.jpg" alt="A paragraph with larger and smaller headings" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 The easiest win in accessible typography is just getting the text at a readable size. The most readable typeface is unreadable at a small size, yet so many sizes squeeze tiny text so they can fit more into a layout. Responsive design should have made it more obvious that scrolling is perfectly acceptable. The smaller the x-height (the height of a lowercase x), the bigger your text will need to be in order to be readable.
 
@@ -205,9 +205,9 @@ Whilst good structure and a strong differentiation between elements will help a 
 
 Uniform texture is more important than the shapes of the individual characters in a typeface. Typography isn’t the same as logo design. When we look at the relationship between the letters, an even texture helps our eyes flow over the text, not getting caught up on unexpected spaces and distracting shapes.
 
-{{< figured caption="If you squint at the top paragraph, it has an even texture. If you squint at the lower paragraph, it’s a much more blobby, uneven texture." >}}
+{{< figure caption="If you squint at the top paragraph, it has an even texture. If you squint at the lower paragraph, it’s a much more blobby, uneven texture." >}}
   {{< imgsrcset original="Accessibility-By-Design.077.jpg" alt="Paragraphs of uniform and uneven texture" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 Since high resolution displays became the designers’ favourite, thin text is all the rage. Apple did it, and now everybody else does too. But so often thin text is just too thin, making the text appear very light against the background, making it harder to read. Heavy text also doesn’t provide enough contrast between the text and the background, as its chunkiness makes it hard to distinguish letterforms. You want to choose the Goldilocks of typeface weights: not too heavy, not too light. A high contrast of crisp letterforms with enough space around and between the shapes will make text much easier to read.
 
@@ -215,9 +215,9 @@ Since high resolution displays became the designers’ favourite, thin text is a
 
 The lines of each letterform also need attention. Serif fonts, in particular, often contrast thick and thin lines within one letter. Your eyes are naturally drawn to the thick lines, and less to the thin, which creates an uneven and distracting texture, making it harder to read.
 
-{{< figured caption="High-contrast serif" >}}
+{{< figure caption="High-contrast serif" >}}
   {{< imgsrcset original="Accessibility-By-Design.079.jpg" alt="High-contrast serif" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 We also want to avoid complex details in the letterforms. The loops in Giddyup Std are cute, but overcrowd body text too much. You can see how our reading would be disrupted and tripped up by a loop or a curl in an unusual place.
 
@@ -229,33 +229,33 @@ Another feature of letterforms that affects the readability of a typeface is the
 
 Some typefaces are specifically designed to be easier for people with cognitive difficulties. Heinemann is a beautiful typeface designed in-house at Heinemann educational publishing for young readers. The ascenders and descenders (the parts of the letters that ascend above the lowercase letters, and the parts that descend below the lowercase letters) are emphasised to make it easier for readers to distinguish between letters. The letterforms such as lowercase a and g are drawn in the same shape as we learn to write by hand, to make them more recognisable.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://www.myfonts.com/fonts/fw-heinemann/heinemann/gallery.html" >}}
   	{{< imgsrcset original="Accessibility-By-Design.083.jpg" alt="Heinemann type family" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 While many designers look down on Comic Sans, it shares those same early-learner letterforms as Heinemann, and is often favoured by teachers in classrooms as the letterforms are the same as those the children are using when they’re learning to write.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://www.myfonts.com/fonts/ascender/comic-sans/" >}}
   	{{< imgsrcset original="Accessibility-By-Design.084.jpg" alt="Comic Sans typeface" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 Read Regular, Dyslexie and Open Dyslexic are both fonts designed with dyslexic readers in mind, but with very different approaches. Read Regular is more similar to Heinemann in that it takes a sans serif style, and simple letterforms to assist in readability. However Dyslexie and Open Dyslexic take a very different approach, with noticeably heavier sections around the baseline to prevent readers from accidentally reading the letters upside down (a common issue in dyslexia.) The counters have been opened up, and similar looking letters (such as n and m, or vwy), have been adjusted in shape and height so they look different, and are easier to tell apart.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://www.readregular.com/english/typography.html" >}}
   	{{< imgsrcset original="Accessibility-By-Design.085.jpg" alt="Read Regular typeface" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://opendyslexic.org" >}}
   	{{< imgsrcset original="Accessibility-By-Design.086.jpg" alt="Dyslexie and Open Dyslexic typefaces" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Colour
 
@@ -263,35 +263,35 @@ Read Regular, Dyslexie and Open Dyslexic are both fonts designed with dyslexic r
 
 When we’re designing for the web, we tend interact with colour via colour pickers.
 
-{{< figured caption="Colour wheel (left) is a more classic layout, with blended hues in a ring. The colour spectrum on the right is more recognisable as it takes the blends you see in the colour wheel, and adds white and black to give you varying shades. The bars in the middle are usually sliders, and allow you to slide between different hues, saturation and brightness for your chosen colour." >}}
+{{< figure caption="Colour wheel (left) is a more classic layout, with blended hues in a ring. The colour spectrum on the right is more recognisable as it takes the blends you see in the colour wheel, and adds white and black to give you varying shades. The bars in the middle are usually sliders, and allow you to slide between different hues, saturation and brightness for your chosen colour." >}}
   {{< imgsrcset original="Accessibility-By-Design.088.jpg" alt="Colour pickers" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 The benefit of using hues visualised on a colour wheel is that you’re more likely to find colours that work well in a palette. You can pick from side-by-side colours for an analogous blend, or from colours opposite each other on the wheel for a more striking colour contrast.
 
-{{< figured caption="Colour picking from opposite sides of the colour wheel" >}}
+{{< figure caption="Colour picking from opposite sides of the colour wheel" >}}
   {{< imgsrcset original="Accessibility-By-Design.096.jpg" alt="Colour picking with droppers on opposite sides of the colour wheel" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 But the accessibility of colour is more than just picking two different colours. In order to make our foreground text readable against our background colour, we need **contrast**.
 
 When we’re trying to find a good contrast, the colour wheel isn’t much help. The key is the sliders for brightness and saturation. A high contrast is caused by a greater difference the foreground and background brightness, and the foreground and background saturation.
 
-{{< figured caption="Varying the brightness for colour contrast" >}}
+{{< figure caption="Varying the brightness for colour contrast" >}}
   {{< imgsrcset original="Accessibility-By-Design.105.jpg" alt="Varying the brightness for colour contrast" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 For example, a blue background with blue text of a similar lightness will be hard to read, whereas a lighter blue against a darker blue is much easier, making a more accessible foreground-background contrast.
 
-{{< figured caption="Varying the saturation for colour contrast" >}}
+{{< figure caption="Varying the saturation for colour contrast" >}}
   {{< imgsrcset original="Accessibility-By-Design.106.jpg" alt="Different strengths of saturation, with greater difference comes higher contrast" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 The same applies to saturation. Deeply saturated yellow text will have a low contrast against a similarly deeply saturated yellow. However, using a desaturated yellow in the background makes for a more accessible foreground-background contrast.
 
-{{< figured caption="Using the different colour pairs with the same brightness and saturation as before" >}}
+{{< figure caption="Using the different colour pairs with the same brightness and saturation as before" >}}
   {{< imgsrcset original="Accessibility-By-Design.107.jpg" alt="High contrast with different colours, but the same contrast between brightness and saturation as before" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 The same rules apply even when you’re using different colours for the foreground and background.
 
@@ -301,9 +301,9 @@ Very high contrast foreground and background combinations can also suffer from a
 
 To avoid screaming high contrast, I would recommend softening the difference between the foreground and background values slightly, bringing one value slightly closer to the other. By tweaking these contrasts slightly, they’re much easier on the eyes.
 
-{{< figured caption="Softening the high contrast values" >}}
+{{< figure caption="Softening the high contrast values" >}}
   {{< imgsrcset original="Accessibility-By-Design.109.jpg" alt="A slightly less saturated green and a slightly brighter grey" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## Accessibility and Branding
 
@@ -311,21 +311,21 @@ If we considered accessibility at a brand level, what would that be like?
 
 What if we designed our logos and associated colour palettes with an accessible colour contrast in mind? I’ve been doing this for years, not really thinking much of it. As a designer who usually created a logo and would then go on to design and develop a site around it, it just made sense to me.
 
-{{< figured caption="Some of my old logo designs" >}}
+{{< figure caption="Some of my old logo designs" >}}
   {{< imgsrcset original="Accessibility-By-Design.111.jpg" alt="Logo designs with accessible text colours" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 If we make the colours accessible, then the colours we use on the site can be consistently on-brand later on; we won’t suddenly need to use a darker colour for our body text because our brand’s colour palette produces unreadable results.
 
-{{< figured caption="Some early designs for logos, with accessible, web-compatible typography" >}}
+{{< figure caption="Some early designs for logos, with accessible, web-compatible typography" >}}
   {{< imgsrcset original="Accessibility-By-Design.113.jpg" alt="Early typography-based logo designs" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 What if we choose our logo and brand typefaces with readability and web typography in mind, not just which typeface has three letters that look good for our logo? Maybe if our logo is a swirling script face, we should consider a complementary body text early on, when we’re designing the rest of our brand. This could prevent us getting caught out when our site designer or developer has to pick a completely off-brand typeface because our brand typography is so hard to read as body text.
 
-{{< figured caption="A beautiful script logo and beautiful web typography, but the brand doesn’t quite match up." >}}
+{{< figure caption="A beautiful script logo and beautiful web typography, but the brand doesn’t quite match up." >}}
   {{< imgsrcset original="Accessibility-By-Design.114.jpg" alt="A script based logo with an upright sans serif body text. They don’t quite work together." >}}
-{{< /figured >}}
+{{< /figure >}}
 
 The earlier we, as designers, learn to consider accessibility, the less likely we’ll have our designs diluted and confused further down the line.
 

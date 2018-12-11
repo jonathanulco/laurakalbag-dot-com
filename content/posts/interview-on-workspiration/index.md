@@ -24,10 +24,10 @@ A few weeks ago [I answered some questions](http://workspiration.org/laura-kalba
 
 Workspiration seems to have collected interviews from a huge variety of people working in and around tech, and with everybody answering the same questions, it makes for a really interesting read. Bonus is that they also (eventually) translate the interviews into Russian. It’s nice to see a site that’s open to non-English speakers!
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://workspiration.org/laura-kalbag" >}}
   	{{< imgsrcset alt="" original="Workspiration.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

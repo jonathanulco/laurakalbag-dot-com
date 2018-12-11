@@ -30,9 +30,9 @@ I’ve been a member [on Dribbble](http://dribbble.com/players/laurakalbag "Laur
 
 I didn’t post every tiny iteration of the Stockyoo logo online as I thought it’d drive people mad. I had twelve images in total ([all posted to Forrst](http://forrst.com/people/laurakalbag/posts "All my Stockyoo posts on Forrst")) which covered four or five major iterations of the design. As soon as I felt ready to send something to Andy for feedback, that was when I felt ready to post the images online.
 
-{{< figured caption="My first Stockyoo post on Dribbble" >}}
+{{< figure caption="My first Stockyoo post on Dribbble" >}}
   {{< imgsrcset original="Screen-shot-2010-09-14-at-18.50.23.png" alt="My first Stockyoo post on Dribbble" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 {{< imgsrcset original="Screen-shot-2010-09-14-at-18.50.00.png" alt="My first Stockyoo post on Forrst" >}}
 
@@ -64,29 +64,29 @@ Overall, there was a lot of approval and a positive reaction to my design. This 
 
 {{< imgsrcset original="Screen-shot-2010-09-14-at-18.53.29.png" alt="Positive feedback" >}}
 
-{{< figured caption="More positive feedback from Dribbble" >}}
+{{< figure caption="More positive feedback from Dribbble" >}}
   {{< imgsrcset original="Screen-shot-2010-09-14-at-18.54.22.png" alt="More positive feedback from Dribbble" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Improving the lens
 
-{{< figured caption="My first detailed lens design" >}}
+{{< figure caption="My first detailed lens design" >}}
   {{< imgsrcset original="Screen-shot-2010-09-14-at-18.56.07.png" alt="My first detailed lens design" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 One aspect I had trouble with initially was the design of the lens. I hadn’t done anything quite like it before so needed some help with getting it right. Luckily, the lovely people on Forrst and Dribbble were willing to give me a hand!
 
-{{< figured caption="Lens design feedback from Dribbble" >}}
+{{< figure caption="Lens design feedback from Dribbble" >}}
   {{< imgsrcset original="Screen-shot-2010-09-14-at-18.56.16.png" alt="Lens design feedback from Dribbble" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Lens design feedback from Forrst" >}}
+{{< figure caption="Lens design feedback from Forrst" >}}
   {{< imgsrcset original="Screen-shot-2010-09-14-at-18.56.37.png" alt="Lens design feedback from Forrst" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Next draft of the lens design" >}}
+{{< figure caption="Next draft of the lens design" >}}
   {{< imgsrcset original="Screen-shot-2010-09-14-at-18.56.58.png" alt="Next draft of the lens design" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 {{< imgsrcset title="Further feedback on the lens design" original="Screen-shot-2010-09-14-at-18.57.06.png" alt="Further feedback on the lens design" >}}
 
@@ -94,25 +94,25 @@ One aspect I had trouble with initially was the design of the lens. I hadn’t d
 
 The original name for Stockyoo was ‘StockYoo’ with the uppercase S and Y. When I did my first draft of the logo design, I just went straight for all lowercase as I found it easier on the eye. Andy (quite rightly!) pointed out that it needed some uppercase for consistency when showing the name without the logo, but said he’d be ok with just the uppercase S, so we put it to the vote on Dribbble and Forrst and got 100% preference for the lowercase ‘y’.
 
-{{< figured caption="The different logo text options" >}}
+{{< figure caption="The different logo text options" >}}
   {{< imgsrcset original="Screen-shot-2010-09-14-at-19.50.16.png" alt="The different logo text options" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Feedback for the different logo text options on Forrst" >}}
+{{< figure caption="Feedback for the different logo text options on Forrst" >}}
   {{< imgsrcset original="Screen-shot-2010-09-14-at-19.01.32.png" alt="Feedback for the different logo text options on Forrst" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 <span style="font-size: 18px; color: #000000; line-height: 27px;">Dropshadows</span>
 
 One area where the users of Forrst and Dribbble didn’t really help was on whether I used a strong drop-shadow behind the lens or not. A small detail, but opinion was divided so I really just had to weigh up the opinions and make the decision for myself. (Serves me right for being so lazy!)
 
-{{< figured caption="A bit too much drop-shadow behind the lens?" >}}
+{{< figure caption="A bit too much drop-shadow behind the lens?" >}}
   {{< imgsrcset  original="Screen-shot-2010-09-14-at-19.53.29.png" alt="A bit too much drop-shadow behind the lens?" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Feedback from Dribbble on the shadow" >}}
+{{< figure caption="Feedback from Dribbble on the shadow" >}}
   {{< imgsrcset original="Screen-shot-2010-09-14-at-19.12.20.png" alt="Feedback from Dribbble on the shadow" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 {{< imgsrcset original="Screen-shot-2010-09-14-at-19.12.33.png" alt="Further feedback from Dribbble on the lens shadow" >}}
 
@@ -154,9 +154,9 @@ I think the benefits and negatives above apply to the overall usage of Dribbble 
 
 I’d like to try using Dribbble and Forrst for feedback on a longer-term project. I can imagine they’re potentially useful for the in-house designers of web apps, creating a buzz around teaser shots and getting feedback on visual elements, especially if they’re used regularly.
 
-{{< figured caption="The final Stockyoo logo" >}}
+{{< figure caption="The final Stockyoo logo" >}}
   {{< imgsrcset original="Screen-shot-2010-09-14-at-19.55.54.png" alt="The final Stockyoo logo" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ---
 

@@ -22,10 +22,10 @@ colours:
 
 Today [my column on Me and My Big Fat Ego](http://alistapart.com/column/me-and-my-big-fat-ego) was published on A List Apart. It’s not that I’d say I have a huge ego, but it’s definitely something that’s easily bruised when I feel like things aren’t going my way.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://alistapart.com/column/me-and-my-big-fat-ego" >}}
   	{{< imgsrcset alt="Me and My Big Fat Ego column on A List Apart" original="me-and-my-big-fat-ego.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

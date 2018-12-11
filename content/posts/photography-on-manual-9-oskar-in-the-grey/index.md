@@ -22,15 +22,15 @@ colours:
 
 This week we’ve been looking more at natural light, and portraits with foreground detail. I took my trusty (actually incredibly unreliable) model, Oskar, out for a walk and hounded him with the camera. It was a very grey day, but with a lot of light.
 
-{{< figured caption="**Oskar in the cow parsley.** It’s much easier to get a shot in focus when the model is sitting still! I’m pleased with the depth from the different layers of cow parsley." >}}
+{{< figure caption="**Oskar in the cow parsley.** It’s much easier to get a shot in focus when the model is sitting still! I’m pleased with the depth from the different layers of cow parsley." >}}
   {{< imgsrcset original="DSCF4660-small.jpg" alt="Oskar the dog amongst cow parsley plants" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="**Oskar walking.** Trying to rotate the shot to make it feel less wonky meant it ended up quite closely cropped." >}}
+{{< figure caption="**Oskar walking.** Trying to rotate the shot to make it feel less wonky meant it ended up quite closely cropped." >}}
   {{< imgsrcset original="DSCF4677-small.jpg" alt="Oskar the dog walking on grass" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="**Oskar in the hedgerow.** I used Ashley’s trick of picking some weeds and holding them in front of the camera." >}}
+{{< figure caption="**Oskar in the hedgerow.** I used Ashley’s trick of picking some weeds and holding them in front of the camera." >}}
   {{< imgsrcset original="DSCF4721-small.jpg" alt="Oskar the dog in the hedgerow, with blue flowers and weeds in the foreground" >}}
-{{< /figured >}}
+{{< /figure >}}
 

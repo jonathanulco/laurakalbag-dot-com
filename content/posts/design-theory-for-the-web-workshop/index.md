@@ -24,11 +24,11 @@ I often get asked about the best way to “learn design”, and I usually say th
 
 It’s a low-cost workshop. The early bird tickets are just £125, and the full-price tickets are just £165. Fancy joining me for the day? [Grab a ticket from the makedo site](http://makedo.in/design-theory-for-the-web/#nav-register).
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://makedo.in/design-theory-for-the-web" >}}
   	{{< imgsrcset alt="The Digital Barn 3 workshops - Design theory for the web" original="design-theory-for-the-web.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## 3 comments
 

@@ -25,8 +25,8 @@ mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100565725899701508"
 primaryimagealt: "Selfie with a small grey cat, she’s enjoying having her head stroked."
 ---
 
-{{< figured caption="Back in the homeland with the home cat." >}}
+{{< figure caption="Back in the homeland with the home cat." >}}
 
     {{< imgsrcset original="home-cat" alt="Selfie with a small grey cat, she’s enjoying having her head stroked." >}}
 
-{{< /figured >}}
+{{< /figure >}}

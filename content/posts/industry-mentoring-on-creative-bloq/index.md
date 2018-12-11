@@ -24,10 +24,10 @@ Craig Grannell has written [a fantastic article on Creative Bloq about mentoring
 
 It’s well-worth a read if you want to mentor somebody, or would like to find a mentor yourself.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://www.creativebloq.com/netmag/why-industry-mentoring-utterly-invaluable-11410363" >}}
   	{{< imgsrcset alt="Why industry mentoring is utterly invaluable on Creative Bloq" original="creative-bloq-mentoring.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

@@ -22,8 +22,8 @@ colours:
 
 [This week’s episode of Unfinished Business](http://unfinished.bz/97) was great fun to record. Both Ashley Baxter and I were Andy’s guests, and we talked about unhealthy food, being a podcast guest, Christmas decorations, and everything that’s in store for the three of us over the next year.
 
-<p style="text-align: center;">{{< figured >}}
+<p style="text-align: center;">{{< figure >}}
   {{< link href="http://unfinished.bz/97" >}}
   	{{< imgsrcset original="unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." >}}
   {{< /link >}}
-{{< /figured >}}</p>
+{{< /figure >}}</p>

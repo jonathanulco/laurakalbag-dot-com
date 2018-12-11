@@ -22,17 +22,17 @@ colours:
 
 The first step in my grid design was to choose an appropriate typeface. I knew this would be everything on such a text-heavy site, and I really struggled because, as with all the elements on my personal site, I wanted it to reflect “me”. I wanted a typeface that felt friendly and not too formal whilst still appearing clean, readable and professional. I sunk money on a few lesser-known typefaces (everybody wants to be different and original, right?!) before completely falling for Avenir. [Avenir was only available (with the delivery method I preferred) as a web font from fonts.com](http://www.fonts.com/font/linotype/avenir?QueryFontType=Web "Avenir web font on fonts.com") so that made choosing the font service much easier.
 
-{{< figured caption="Avenir typeface sample" >}}
+{{< figure caption="Avenir typeface sample" >}}
   	{{< imgsrcset original="72.png" alt="Avenir typeface sample" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Basic setting of the typeface
 
 Playing with Avenir in [Typecast](http://beta.typecastapp.com/) gave me an idea of the size I wanted to use it. Making it pretty big allowed its character to show whilst maximising readability. I’m also keen on a bigger line height on rounded sans serif type faces as their spacious counters can make their lines harder to distinguish if the leading is tighter.
 
-{{< figured caption="Playing with content set in Avenir in Typecast" >}}
+{{< figure caption="Playing with content set in Avenir in Typecast" >}}
   	{{< imgsrcset original="Screen-Shot-2012-10-12-at-19.58.47.png" alt="Playing with content set in Avenir in Typecast" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## Base units and vertical rhythm
 
@@ -44,13 +44,13 @@ When I was creating the grid design for this site I was dying to play more with 
 
 Having this flexibility in my content meant the fancy grids in Gridset were mine to try out. I chose grid A as my primary grid to stick to for as many of the layouts as suited the content, and B as my secondary grid when the content better fitted to points between the grid A’s columns. Using the grids overlaid in this way gave me consistency whilst still maintaining a level of flexibility.
 
-{{< figured caption="Grid A and Grid B overlaid on my base unit grid" >}}
+{{< figure caption="Grid A and Grid B overlaid on my base unit grid" >}}
   	{{< imgsrcset original="grid-a-and-grid-b.png" alt="Grid A and Grid B overlaid on my base unit grid" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Grids A and B overlaid" >}}
+{{< figure caption="Grids A and B overlaid" >}}
   	{{< imgsrcset original="grids-a-and-b-overlaid.png" alt="Grids A and B overlaid" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Flexible grids
 
@@ -58,29 +58,29 @@ Now I don’t really believe in creating a fully (often based entirely on percen
 
 Instead, as my viewport reduces in width, I remove the columns from the right end of the grid and re-distribute the content where relevant in order to achieve readable content and consistent, structured feel. So this might be me as designer ‘not letting go’ of fixed constraints or embracing fluidity as much as I possibly can, but I believe that it’s this structure that allows us to maintain a level of control over the measure (line length) necessary for pleasurable reading experience. If you’re going to create breakpoints at arbitrary positions in order to keep your text readable, why not fit it around a balanced grid layout instead?
 
-{{< figured caption="Wide About page, utilising the full grid" >}}
+{{< figure caption="Wide About page, utilising the full grid" >}}
   	{{< imgsrcset original="about-large.png" alt="Wide About page" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Wide Blog page, utilising the full grid" >}}
+{{< figure caption="Wide Blog page, utilising the full grid" >}}
   	{{< imgsrcset original="blog-large.png" alt="Wide Blog page" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Medium-width About page, moved one column to the left" >}}
+{{< figure caption="Medium-width About page, moved one column to the left" >}}
   	{{< imgsrcset original="about-medium.png" alt="Medium-width About page" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Medium-width blog page, with meta content shown below the main content rather than in left column" >}}
+{{< figure caption="Medium-width blog page, with meta content shown below the main content rather than in left column" >}}
   	{{< imgsrcset original="blog-medium.png" alt="Medium-width blog page" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Smaller-width About page, not using the grid structure but using padding based on the base unit size" >}}
+{{< figure caption="Smaller-width About page, not using the grid structure but using padding based on the base unit size" >}}
   	{{< imgsrcset original="about-small.png" alt="Smaller-width About page" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Smaller-width Blog page, not using the grid structure but using padding based on the base unit size" >}}
+{{< figure caption="Smaller-width Blog page, not using the grid structure but using padding based on the base unit size" >}}
   	{{< imgsrcset original="blog-small.png" alt="Smaller-width Blog page" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Paddings and margins
 
@@ -90,9 +90,9 @@ Just like in my vertical rhythm my column padding, and with any horizontal margi
 
 There were points at which I broke from my grid structure in order to better serve my content: project archive pages. These are more optimised for the viewport width to keep the images big enough to identify their subject but small enough that they’re not creating excessive page length (or indeed weight.) But these image/column widths are still multiples of the base unit grid, so subtly remain consistent and true to my grid design.
 
-{{< figured caption="Past projects page breaks the grid by having a more content-appropriate layout" >}}
+{{< figure caption="Past projects page breaks the grid by having a more content-appropriate layout" >}}
   	{{< imgsrcset original="past-projects.png" alt="Past projects page" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### Left-aligning the grid
 
@@ -100,9 +100,9 @@ For a long time, I had centred my page layouts in the browser window, believing 
 
 Often the whitespace resulting from a left-aligned page layout would could feel gaping, so I decided (on pages that didn’t otherwise have much imagery) I would use that space for a background illustration that I hoped would be better use of otherwise redundant space.
 
-{{< figured caption="Very wide About page showing the background illustration" >}}
+{{< figure caption="Very wide About page showing the background illustration" >}}
   	{{< imgsrcset original="about-wide.png" alt="Very wide About page" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## Tweaks
 

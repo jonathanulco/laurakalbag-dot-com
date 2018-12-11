@@ -27,7 +27,7 @@ You can find my [upcoming talks on the Ind.ie site](https://ind.ie/events). Ther
 
 If you think I might be a good fit for speaking at your event, please [drop me an email](mailto:laura@ind.ie), I’d love to hear from you. My talks are easy-to-understand introductions to privacy, ethical design, and accessibility/inclusive design. They are usually designed for a wide audience of people in the web and tech industry, but can contain more technical detail or more accessible explanations to better suit the background of the audience. I’m very friendly to non-technical audiences, and try to practice accessibility and inclusivity in everything I do.
 
-{{< figured caption="A photo of me speaking at 12 Devs of Winter in 2014, taken by the talented Alex Jegtnes" >}}
+{{< figure caption="A photo of me speaking at 12 Devs of Winter in 2014, taken by the talented Alex Jegtnes" >}}
 
     {{< link href="http://www.flickr.com/photos/68110573@N02/12132726904/" >}}
 
@@ -35,7 +35,7 @@ If you think I might be a good fit for speaking at your event, please [drop me a
     
     {{< /link >}}
 
-{{< /figured >}}
+{{< /figure >}}
 
 ## Past Talks
 

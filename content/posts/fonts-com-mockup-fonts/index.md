@@ -28,11 +28,11 @@ Fonts.com have this new system that really works. It involves [an app called Sky
 
 The plans on fonts.com are frustrating. I have a Pro plan. It’s a very reasonable price for what I get, including [a Typecast subscription](http://typecast.com/) and 1 million pageviews a month.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://www.fonts.com/web-fonts/plans-and-pricing" >}}
   	{{< imgsrcset alt="Fonts.com plans from http://www.fonts.com/web-fonts/plans-and-pricing" original="plans.jpg" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### 20 mockup fonts a month
 
@@ -42,11 +42,11 @@ This sounds like a very reasonable amount. Am I likely to use more than 20 diffe
 
 **Mockup fonts remain active for 1 day. **This means that if I want to use the same font two days running, I use two of my allowed fonts. This means working on a mockup for three days with four fonts, I’ve nearly burned through my allowance already.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://www.fonts.com/web-fonts/plans-and-pricing" >}}
   	{{< imgsrcset alt="Fonts.com plans with details from http://www.fonts.com/web-fonts/plans-and-pricing" original="plans-hover.jpg" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ### The next plan up allows unlimited mockup fonts but costs nearly three times as much
 

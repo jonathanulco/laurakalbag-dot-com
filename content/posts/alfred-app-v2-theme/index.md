@@ -22,11 +22,11 @@ Today I finally got around to playing with [Alfred v2](http://www.alfredapp.com/
 
 I was playing around with the appearance and made a really minimal theme. There was a handy sharing feature so I thought I may as well share it…
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://an.lklink.at/NwQZ" >}}
   	{{< imgsrcset alt="Minimal Alfred v2 theme" original="alfred-theme.png" caption="Minimal Alfred v2 theme" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 [Grab my Alfred v2 ‘Minimal’ theme](http://an.lklink.at/NwQZ). If you’ve got v2 installed on your machine, this link should auto-add the theme to your app. If you don’t, it won’t do anything!
 

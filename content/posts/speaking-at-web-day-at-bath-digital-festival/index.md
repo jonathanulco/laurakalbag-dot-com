@@ -22,9 +22,9 @@ colours:
 
 I’m speaking at [Web Day at Bath Digital Festival](http://2014.bathdigitalfestival.com/event/web-day/) on the 28th of October. Bath is great, I went to university there, and it’s full of lovely people. I’m looking forward to going back and giving a talk about accessibility. [Tickets are a very reasonable £15](https://www.eventbrite.co.uk/e/web-day-tickets-13137878749), and it looks like it’ll be a very interesting day.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://2014.bathdigitalfestival.com/event/web-day/" >}}
   	{{< imgsrcset original="web-day.png" alt="Web Day at Bath Digital Festival" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 

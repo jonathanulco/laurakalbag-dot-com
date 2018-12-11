@@ -24,9 +24,9 @@ I’m speaking at the very first [418:conf web meetup](http://418conf.co.uk) on�
 
 If you’re local, you should get your ticket now. They’re free!
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://418conf.co.uk" >}}
   	{{< imgsrcset original="418conf.png" alt="Screenshot of the 418conf homepage" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 

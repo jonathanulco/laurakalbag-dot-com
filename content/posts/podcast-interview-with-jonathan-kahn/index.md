@@ -24,9 +24,9 @@ Ahead of [speaking at Dare conference](/speaking-at-dare-conference/ "Speaking a
 
 It was lovely chatting to Jonathan, and his [podcast also has a proper transcript](http://lucidplot.com/2013/08/05/kalbag-podcast/) if you’re more of a reading person than a listening person :)
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://lucidplot.com/2013/08/05/kalbag-podcast/" >}}
   	{{< imgsrcset alt="lucid plot - Jonathan Kahn's blog about changing culture through digital work" original="lucid-plot-podcast.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 

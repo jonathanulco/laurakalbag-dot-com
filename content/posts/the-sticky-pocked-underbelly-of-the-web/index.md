@@ -20,9 +20,9 @@ colours:
 
 [This week’s roundup](https://ind.ie/blog/the-sticky-pocked-underbelly-of-the-web/) covers Swiss Cheese Internet vs The Database Of Ruin, The Right To Be Forgotten, and Diversity. Lots of variety!
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="https://ind.ie/blog/the-sticky-pocked-underbelly-of-the-web/" >}}
   	{{< imgsrcset original="Screen-Shot-2015-08-07-at-20.33.08.png" alt="Screenshot of the Ind.ie blog roundup The Sticky, Pocked Underbelly Of The Web" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 

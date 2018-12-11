@@ -34,9 +34,9 @@ The benefit of using the red flag for ‘Needs Attention’ as a way of noting e
 
 However, I have a terrible memory for shortcut keys. I couldn’t remember which colours related to which mailboxes, and so couldn’t remember the relevant keyboard shortcuts (as these used the first letter of the name of the colour).
 
-{{< figured caption="Mail.app smart mailboxes in the Favourites bar" >}}
+{{< figure caption="Mail.app smart mailboxes in the Favourites bar" >}}
   {{< imgsrcset alt="Mail.app smart mailboxes in the Favourites bar" original="Screen-Shot-2013-02-10-at-15.10.31.png" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## The solution
 
@@ -46,9 +46,9 @@ I knew Mail.app wasn’t hugely customisable, but I thought I could try using [e
 
 After some quick web searches, I couldn’t find any sites or apps that allowed me to grab the emoji I wanted. So I just wrote myself an iMessage with the emoji characters I thought might worked and send it to myself. With iMessage’s unreliability, I didn’t get it for ages, so in the meantime I copied and pasted the emoji into an email and sent it to myself.
 
-{{< figured caption="Emailing myself emoji characters" >}}
+{{< figure caption="Emailing myself emoji characters" >}}
   {{< imgsrcset alt="Emailing myself emoji characters" original="Screen-Shot-2013-02-10-at-15.16.35.png" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 As you can see, a few of the characters didn’t quite work as they’re mapped to other characters in OSX.
 

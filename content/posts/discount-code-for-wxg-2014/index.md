@@ -22,10 +22,10 @@ You might have seen that I’m speaking at WXG in Guildford in September. If you
 
 There’s some great speakers in the lineup, and it’s sure to be a fun day!
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://wxg.co.uk" >}}
   	{{< imgsrcset original="wxg-2014.png" alt="WXG 2014, a one-day web conference — Friday 26 September, Guildford, UK." >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

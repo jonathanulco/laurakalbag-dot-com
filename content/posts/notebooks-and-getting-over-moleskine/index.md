@@ -34,9 +34,9 @@ I know a lot of us rely on email as a second memory. A lot of detail from variou
 
 You don’t have to worry about hierarchy as you would on note taking software (text mostly has to go from top to bottom, not laid out randomly across the page) and you can mix sketches and written notes without having to switch apps. (Fancy that! Old school!)
 
-{{< figured caption="Random notes, post-its mixed in, who cares?!" >}}
+{{< figure caption="Random notes, post-its mixed in, who cares?!" >}}
   	{{< imgsrcset original="IMG_0587.jpg" alt="Random notes, post-its mixed in, who cares?!" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## It’s not about making it neat
 
@@ -48,9 +48,9 @@ One of the stigmas that I find are attached to Moleskines is the idea of the ‘
 
 It’s not about making it tidy, it’s about trying to get ideas out as quickly as possible without being held back by formatting. I can’t imagine most people show their sketchbooks to anybody else. For me it’s almost like a diary. You can see how many more rubbish ideas I come out with over good ones&#8230;
 
-{{< figured caption="Probably rubbish ideas, straight lines not available…" >}}
+{{< figure caption="Probably rubbish ideas, straight lines not available…" >}}
   	{{< imgsrcset original="IMG_0585.jpg" alt="Probably rubbish ideas, straight lines not available…" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## What’s the perfect notebook?
 
@@ -66,25 +66,25 @@ Recently I decided I wanted to go for something different. I saw the [Leuchtturm
 
 So I bought myself a [lime green large squared notebook](http://www.thepaperie.co.uk/notebooks/leuchtturm1917-notebooks/leuchtturm1917-large-lime-notebook-squared.html "Leuchtturm1917 Large Lime Notebook, squared at The Paperie"). Along with a little pen holder, as I could get it in a matching colour. This notebook is lovely.
 
-{{< figured caption="My Leuchtturm1917 Lime Notebook" >}}
+{{< figure caption="My Leuchtturm1917 Lime Notebook" >}}
   	{{< imgsrcset original="IMG_0580.jpg" alt="Leuchtturm1917 Lime Notebook" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 The squares aren’t all the way up to the edges, like the Moleskine, it has margins at the top and bottom of each page and a space for the date. It has contents pages for you to fill in and comes with labels so you can index your notebooks. It isn’t quite as big as a XLarge Moleskine, but is a more manageable size than the larger Leuchtturm1917 notebooks and, being hardback, it makes it easier to handle.
 
-{{< figured caption="Contents page in my Leuchtturm1917 notebook" >}}
+{{< figure caption="Contents page in my Leuchtturm1917 notebook" >}}
   	{{< imgsrcset original="IMG_0581.jpg" alt="Contents page in my Leuchtturm1917 notebook" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 Probably most importantly, the squares are more subtle. Moleskine squares are bold and black and you notice their presence. With the Leuchtturm1917, the squares are so subtle that once you’ve used a page, you barely notice them behind the contrast of ink pen. This would make it much better for pencil drawings as they’d definitely be harder to see on the Moleskine counterpart.
 
-{{< figured caption="Subtle squares in my Leuchtturm1917 notebook" >}}
+{{< figure caption="Subtle squares in my Leuchtturm1917 notebook" >}}
   	{{< imgsrcset original="IMG_0582.jpg" alt="Subtle squares in my Leuchtturm1917 notebook" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Noisy squares in the Moleskine squared notebook" >}}
+{{< figure caption="Noisy squares in the Moleskine squared notebook" >}}
   	{{< imgsrcset original="IMG_0586.jpg" alt="Noisy squares in the Moleskine squared notebook" >}}
-{{< /figured >}}
+{{< /figure >}}
 &nbsp;
 
 ## What was this post?

@@ -24,11 +24,11 @@ I’ve finally made [a site for the web talk dog walks](http://webtalkdogwalk.in
 
 It also makes use of [Perch, that wonderful little content management system](http://grabaperch.com/). I really would recommend it.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://webtalkdogwalk.in/brighton/" >}}
   	{{< imgsrcset alt="Web talk dog walk" original="Screen-Shot-2013-07-25-at-17.51.08.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## One comment
 

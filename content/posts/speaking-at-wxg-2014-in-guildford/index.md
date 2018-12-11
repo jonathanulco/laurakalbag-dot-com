@@ -26,10 +26,10 @@ The [tickets](http://www.eventbrite.co.uk/e/wxg-2014-tickets-9070836115) are a b
 
 I’m going to talk about how we design the web. These days, “web designer” is used to describe all sorts of jobs and people. I’m going to discuss what we really create when we design for the web, where our responsibilities and loyalties lie, and how we hone our design skills.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://wxg.co.uk" >}}
   	{{< imgsrcset alt="WXG 2014, a one-day web conference — Friday 26 September, Guildford, UK." original="wxg-2014.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

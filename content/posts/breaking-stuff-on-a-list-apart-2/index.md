@@ -22,9 +22,9 @@ Last week [my latest column, Breaking Stuff](http://alistapart.com/column/breaki
 
 I’ve also finally updated that terrible avatar to something much better. I look uncharacteristically pale, but at least I’m normal colours! (Unlike the last terrible photo I’d used.)
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://alistapart.com/column/breaking-stuff" >}}
   	{{< imgsrcset original="Breaking-Stuff.png" alt="Breaking Stuff column on A List Apart" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 

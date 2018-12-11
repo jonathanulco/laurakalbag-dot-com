@@ -22,11 +22,11 @@ colours:
 
 Next Friday I’m speaking at MobX Conference in Berlin about designing for accessibility, covering problems that affect many different types of screens and devices. It will be my first time in Germany, so I’m very excited!
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://2013.mobxcon.com/" >}}
   	{{< imgsrcset alt="MobX - Friday, September 13, 2013 in Berlin MobX Conference. Mobile Experience Design &amp; Usability - Meet the Experts!" original="mobx.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 
 

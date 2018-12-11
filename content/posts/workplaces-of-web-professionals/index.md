@@ -24,10 +24,10 @@ This morning Martin Wolf published an interesting [blog post with photos of the 
 
 The featured photo of my workplace (in our ind.ie home office) shows the fairly typical mess on my desk, and the very typical dog getting in the way.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://martinwolf.org/2014/08/14/workplaces-of-web-professionals-part-1/" >}}
   	{{< imgsrcset original="workplaces-of-web-professionals.png" alt="a photo of my desk, complete with a lot of junk and a dog in shot" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

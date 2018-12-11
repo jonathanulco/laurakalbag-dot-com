@@ -23,8 +23,8 @@ colours:
 primaryimagealt: "Woods lit with evening sunbeams, Oskar the huskamute in the distance looking back at me."
 ---
 
-{{< figured caption="Like being in a painting" >}}
+{{< figure caption="Like being in a painting" >}}
 
     {{< imgsrcset original="sunbeam-woods" alt="Woods lit with evening sunbeams, Oskar the huskamute in the distance looking back at me." >}}
 
-{{< /figured >}}
+{{< /figure >}}

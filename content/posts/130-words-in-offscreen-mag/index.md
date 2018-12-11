@@ -24,9 +24,9 @@ You can [buy a copy, or get a subscription to Offscreen by visiting their websit
 
 {{< imgsrcset original="Offscreen.jpg" alt="Photo of my 130 words in print" >}}
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://www.offscreenmag.com" >}}
   	{{< imgsrcset original="Offscreen-cover.jpg" alt="the cover of Offscreen magazine issue 10" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 

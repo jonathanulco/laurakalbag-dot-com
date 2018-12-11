@@ -22,8 +22,8 @@ colours:
 
 I was slow to post about[ my April Pastry Box post](https://the-pastry-box-project.net/laura-kalbag/2014-april-19) as [my realign](/a-little-realign/ "A little realign") got in the way. It was really a little insecure thought about how my writing and thinking is improving, but I’m finding it hard.
 
-<p style="text-align: center;">{{< figured >}}
+<p style="text-align: center;">{{< figure >}}
   {{< link href="https://the-pastry-box-project.net/laura-kalbag/2014-april-19" >}}
   	{{< imgsrcset alt="Laura Kalbag on The Pastry Box, Saturday 19th April 2014" original="pastry-box-april.png" >}}
   {{< /link >}}
-{{< /figured >}}</p>
+{{< /figure >}}</p>

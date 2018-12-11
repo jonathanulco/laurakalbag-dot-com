@@ -22,10 +22,10 @@ Last week, Craig Grannell asked me some questions about designing for the unknow
 
 The title image is from my writeup of the [Default Perch Theme project](/project/default-perch-theme/ "Default Perch Theme") I did with Perch.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://www.digitalartsonline.co.uk/features/graphic-design/designing-for-unknown-how-design-templates-frameworks/" >}}
   	{{< imgsrcset original="digital-arts-designing-for-the-unknown.png" alt="Digital Arts: Designing for the unknown" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

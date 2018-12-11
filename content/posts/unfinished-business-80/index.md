@@ -24,8 +24,8 @@ Andy Clarke is on holiday for three weeks and has handed over the [Unfinished Bu
 
 I’m not sure if the audio quality is as good as it usually is on Unfinished Business, as my editing skills are rather rusty… But this episode does feature a little bit of [Oskar](http://twitter.com/gigapup)!
 
-<p style="text-align: center;">{{< figured >}}
+<p style="text-align: center;">{{< figure >}}
   {{< link href="http://unfinished.bz/80" >}}
   	{{< imgsrcset original="unfinishedbusiness.png" alt="Andrew Clarke &amp; guests have Unfinished Business - A weekly discussion show about the business end, the sharp end of web, design and creative industries." >}}
   {{< /link >}}
-{{< /figured >}}</p>
+{{< /figure >}}</p>

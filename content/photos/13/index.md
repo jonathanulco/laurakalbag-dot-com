@@ -24,8 +24,8 @@ mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100567174692648743"
 primaryimagealt: "Cat sitting on laptop keyboard staring angrily into the camera."
 ---
 
-{{< figured caption="No more work for you." >}}
+{{< figure caption="No more work for you." >}}
 
     {{< imgsrcset original="no-more-work" alt="Cat sitting on laptop keyboard staring angrily into the camera." >}}
 
-{{< /figured >}}
+{{< /figure >}}

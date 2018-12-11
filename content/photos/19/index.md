@@ -24,8 +24,8 @@ mastodonurl: "https://mastodon.laurakalbag.com/web/accounts/1114"
 primaryimagealt: "Oskar the huskamute lying on the top of some stone steps with his paws draped over the edge."
 ---
 
-{{< figured caption="What a poser." >}}
+{{< figure caption="What a poser." >}}
 
     {{< imgsrcset original="poser" alt="Oskar the huskamute lying on the top of some stone steps with his paws draped over the edge." >}}
 
-{{< /figured >}}
+{{< /figure >}}

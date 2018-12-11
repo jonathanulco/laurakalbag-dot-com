@@ -24,7 +24,7 @@ mastodonurl: ""
 instagramurl: ""
 ---
 
-{{< figured class="grid three" caption="Finally got Sam in the room to properly produce the Accessibility For Everyone audiobook in person. " >}}
+{{< figure class="grid three" caption="Finally got Sam in the room to properly produce the Accessibility For Everyone audiobook in person. " >}}
 
     {{< imgsrcset original="laura" alt="Selfie of me speaking into a pop shield in front of a microphone." >}}
 
@@ -32,6 +32,6 @@ instagramurl: ""
 
     {{< imgsrcset original="desk" alt="Our desk setup for recording featuring the microphone and pop shield, laptop, and Indie mug." >}}
 
-{{< /figured >}}
+{{< /figure >}}
 
 Today we learned I use US English pronunciation for a few random words. As the book is in US English, and I’m very British, hopefully it won’t be too off-putting… 😬

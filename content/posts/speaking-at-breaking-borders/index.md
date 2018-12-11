@@ -26,10 +26,10 @@ The inaugural Breaking Borders event will have the lovely Steve Workman speaking
 
 If you’re in the area, I really recommend you join us. If Ben’s events are anything like his front-end development skills, it’s going to be great!
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://breakingborde.rs/" >}}
   	{{< imgsrcset alt="Breaking Borders" original="breaking-borders1.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

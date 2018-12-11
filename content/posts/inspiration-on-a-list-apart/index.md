@@ -22,10 +22,10 @@ colours:
 
 Last week my column on Inspiration was published on A List Apart. It follows roughly the same structure as [the talk](https://speakerdeck.com/laurakalbag/inspiration "slides from my talk at Design + Banter") I gave at [Design + Banter](http://designandbanter.com) a few weeks ago.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://alistapart.com/column/inspiration" >}}
   	{{< imgsrcset alt="Column on Inspiration on A List Apart" original="inspiration.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

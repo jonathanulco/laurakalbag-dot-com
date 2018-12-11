@@ -24,11 +24,11 @@ On the 13th of June, I’m speaking at [KiwiParty in Strasbourg](http://kiwipart
 
 It’ll be my first conference in France and I’ll be trying to remember my French from AS Level ten years ago! I won’t be giving my talk in my terrible French, but if you’re coming along, please find me and test my conversational French. Especially if you want a good laugh!
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://kiwiparty.fr" >}}
   	{{< imgsrcset alt="KiwiParty Vendredi 13 juin 2014" original="kiwiparty.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## One comment
 

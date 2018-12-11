@@ -46,11 +46,11 @@ Here’s an example from a site that is otherwise a shimmering beacon of awesome
 
 As part of Project Noah, you upload photos of nature. The aim is to identify the creature or plant in your photo, and part of that is providing the relevant links to that species’ page on Wikipedia and the Encyclopedia of Life.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://projectnoah.org" >}}
   	{{< imgsrcset alt="Reference URLs on Project Noah, where the label is shown inside the text input" original="Screen-shot-2011-05-27-at-16.55.42.png" >}}
   {{< /link >}}
-{{< /figured >}}It’s a beautiful interface, but I have an issue. I’ll go and paste in a URL, then I’ll select the other text box:
+{{< /figure >}}It’s a beautiful interface, but I have an issue. I’ll go and paste in a URL, then I’ll select the other text box:
 
 {{< imgsrcset alt="Reference URL input on Project Noah, where one URL input is filled in and the other is focused but empty" original="Screen-shot-2011-05-27-at-16.59.40.png" >}}
 Then I have this thought:
@@ -72,9 +72,9 @@ After:
 
 The problem is that the first input box you’ll click into is the top title input. It actually auto-focuses, and some clever script means that it puts the label back in after the auto-focus, but then the second you start typing you’ve lost that label. If you start typing, then backspace because you made a mistake, you’ve lost that label:
 
-{{< figured caption="" >}}
+{{< figure caption="" >}}
   	{{< imgsrcset alt="WordPress 3.1 post editor with no title label" original="Screen-shot-2011-05-27-at-17.18.48.png" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 #### Designers often make assumptions
 
@@ -98,9 +98,9 @@ HTML5 has a fantastic new form input attribute for adding placeholder informatio
 
 **Edit:** “*name*” should actually be “*id*” here in the text input, I always get those two mixed up! (Thanks [Mike](/labels-in-input-fields-arent-such-a-good-idea/#comment-2794), for the heads up)
 
-{{< figured caption="I’m concerned that people will misuse or misunderstand the placeholder attribute as a way to replace form labels" >}}
+{{< figure caption="I’m concerned that people will misuse or misunderstand the placeholder attribute as a way to replace form labels" >}}
   	{{< imgsrcset alt="HTML5 form preview" original="Screen-shot-2011-05-27-at-17.39.00.png" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 But it’s not the same thing!
 

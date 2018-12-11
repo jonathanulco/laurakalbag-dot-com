@@ -23,11 +23,11 @@ colours:
 <hr/>
 I’m running my [‘Design theory for the web’ workshop at Interlink conference](http://interlinkconference.com/workshops/#design-theory-web) in Canada on the 18th of June.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://interlinkconference.com/workshops/#design-theory-web" >}}
   	{{< imgsrcset alt="Design theory for web workshop at Interlink conference" original="interlink-workshop.png" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 It’s a one day workshop and I’ve written a mega description below for anyone wanting to know more:
 

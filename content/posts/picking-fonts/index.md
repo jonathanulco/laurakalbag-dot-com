@@ -82,9 +82,9 @@ Not much effort, maximum kindness to the user.
 
 Whichever fonts you choose, you want to make sure it looks good in as many browsers as possible. For us lucky mac users, the fonts tend to normally look smooth and light and lovely. Unfortunately many Windows users aren’t so lucky. Craggy, pixelly and oddly squashed-looking fonts are very common.
 
-{{< figured caption="Typodermic’s Bouffant font in Mac’s Safari (top) and Windows’ Internet Explorer 6 (bottom)" >}}
+{{< figure caption="Typodermic’s Bouffant font in Mac’s Safari (top) and Windows’ Internet Explorer 6 (bottom)" >}}
   {{< imgsrcset original="Screen-shot-2010-07-05-at-19.14.52.jpg" alt="Typodermic's Bouffant font in Mac's Safari (top) and Windows' Internet Explorer 6 (bottom) " >}}
-{{< /figured >}}
+{{< /figure >}}
 
 Many Windows people aren’t as fussy as me, or just don’t notice, but it’s really worth checking that what the Windows’ users see is actually *legible*.
 

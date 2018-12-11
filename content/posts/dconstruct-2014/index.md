@@ -44,10 +44,10 @@ Cory Doctorow pointed out that business models don’t exist in a vacuum, they r
 
 My post is a little summary of some of the themes that jumped out at me over the course of Friday. Lucky for you, [all the talks are available in audio format on huffduffer](http://huffduffer.com/dConstruct/tags/dconstruct2014), and they’re well worth a listen.
 
-{{< figured >}}
+{{< figure >}}
   {{< link href="http://2014.dconstruct.org/" >}}
   	{{< imgsrcset original="dconstruct-2014.png" alt="dConstruct 2014" >}}
   {{< /link >}}
-{{< /figured >}}
+{{< /figure >}}
 
 	

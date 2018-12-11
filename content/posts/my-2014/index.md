@@ -26,53 +26,53 @@ I wrote a lot more, with regular slots on[ A List Apart](http://alistapart.com/a
 
 Again, I’ve summarised my year in photos:
 
-{{< figured caption="Saw Skindred twice. What a fantastic live band." >}}
+{{< figure caption="Saw Skindred twice. What a fantastic live band." >}}
   {{< imgsrcset original="skindred.jpg" alt="Skindred on stage" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Moved around the corner to a lovely little house." >}}
+{{< figure caption="Moved around the corner to a lovely little house." >}}
   {{< imgsrcset original="kemptown.jpg" alt="Looking down our new road" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Ind.ie began with Jo joining as Director of Operations (I wasn’t full time yet…)" >}}
+{{< figure caption="Ind.ie began with Jo joining as Director of Operations (I wasn’t full time yet…)" >}}
   {{< imgsrcset original="indie-beginnings.jpg" alt="Jo, Aral and Oskar in the Ind.ie office" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Another trip to North Cyprus where we managed to work the WHOLE TIME." >}}
+{{< figure caption="Another trip to North Cyprus where we managed to work the WHOLE TIME." >}}
   {{< imgsrcset original="cyprus.jpg" alt="Aral and me pulling silly faces in summer hats" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="In June, I joined the Ind.ie team part time and we got the full team working from the office at our house." >}}
+{{< figure caption="In June, I joined the Ind.ie team part time and we got the full team working from the office at our house." >}}
   {{< imgsrcset original="indie-team.jpg" alt="Ind.ie Team photo" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="The Ind.ie team worked from London for four days in June." >}}
+{{< figure caption="The Ind.ie team worked from London for four days in June." >}}
   {{< imgsrcset original="london.jpg" alt="London at night" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="We ran the [Indie Tech Summit](https://ind.ie/about/summit) in July, meeting brilliant people from around the world." >}}
+{{< figure caption="We ran the [Indie Tech Summit](https://ind.ie/about/summit) in July, meeting brilliant people from around the world." >}}
   {{< imgsrcset original="indie-tech-summit.jpg" alt="Richard Stallman and Aral speaking at Indie Tech Summit" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Went on a last-minute Mediterranean cruise, where we got drenched up Mount Vesuvius." >}}
+{{< figure caption="Went on a last-minute Mediterranean cruise, where we got drenched up Mount Vesuvius." >}}
   {{< imgsrcset original="pompeii.jpg" alt="Aral and Laura in wet-weather ponchos" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Started doing Pilates with [Brighton Pilates](http://www.brightonpilates.co.uk) at Yellowave. The best beach view in town!" >}}
+{{< figure caption="Started doing Pilates with [Brighton Pilates](http://www.brightonpilates.co.uk) at Yellowave. The best beach view in town!" >}}
   {{< imgsrcset original="pilates.jpg" alt="Beach view from Yellowave beach hut" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Gave my first talk and workshop representing Ind.ie at [border:none](https://border-none.net/2014) in Nuremberg." >}}
+{{< figure caption="Gave my first talk and workshop representing Ind.ie at [border:none](https://border-none.net/2014) in Nuremberg." >}}
   {{< imgsrcset original="border-none.jpg" alt="Stickers of people's 'auroras' and names at border:none." >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="My little sister Annie got married to the lovely Sarah." >}}
+{{< figure caption="My little sister Annie got married to the lovely Sarah." >}}
   {{< imgsrcset original="nini-and-sarah-wedding.jpg" alt="Sarah and Annie standing in front of their wedding bus" >}}
-{{< /figured >}}
+{{< /figure >}}
 
-{{< figured caption="Went to the Big Brother Awards in Amsterdam with Aral, where Edward Snowden gave a fantastic talk." >}}
+{{< figure caption="Went to the Big Brother Awards in Amsterdam with Aral, where Edward Snowden gave a fantastic talk." >}}
   {{< imgsrcset original="big-brother.jpg" alt="Edward Snowden giving a talk via live feed" >}}
-{{< /figured >}}
+{{< /figure >}}
 
 ## Following goals for 2014
 
