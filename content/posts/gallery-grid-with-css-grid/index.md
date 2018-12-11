@@ -24,20 +24,20 @@ Working on my [Notes](/notes) section, I realised I’d sometimes be adding mult
 
 My HTML for these notes looks something like this:
 
-```
+{{< highlight html >}}
 <figure class="note-image">
 	<img src="2018/06/14/21/osky1.jpg" alt="Oskar with his head on a cushion and begging eyes."/>
 	<img src="2018/06/14/21/osky2.jpg" alt="Oskar with his head on a cushion and closed eyes."/>
 	<img src="2018/06/14/21/osky3.jpg" alt="Oskar with his head on a cushion and begging eyes open again."/>
     <figcaption><p>How could you say no to this face?</p></figcaption>
 </figure>
-```
+{{< /highlight >}}
 
 Sometimes there is one image, sometimes two or three. I concluded there would rarely be more than three, though I’ll adjust the CSS accordingly if that is ever the case. Sometimes there is a caption, sometimes there isn’t.
 
 The CSS is remarkably minimal:
 
-```
+{{< highlight css >}}
 figure {
     display: grid;
     grid-template-areas:
@@ -48,7 +48,7 @@ figure {
 figcaption {
     grid-area: figcaption;
 }
-```
+{{< /highlight >}}
 
 The images auto-fill across the first row, filling all available space. If there’s no image2 or image3, image1 fills 100% of the available width.
 
