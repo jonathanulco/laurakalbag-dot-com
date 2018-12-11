@@ -25,7 +25,7 @@ instagramurl: ""
 image: "/notes/2018/07/20/21/28/osky-1.jpg"
 ---
 
-{{< figure class="grid two" caption="Inevitable" >}}
+{{< figure class="grid two" figcaption="Inevitable" >}}
 
     {{< img src="osky-1" alt="Selfie of me and Oskar the huskamute, he’s looking at me." >}}
 

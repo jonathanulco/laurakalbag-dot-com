@@ -37,7 +37,7 @@ For any content that you need to act like a post, but not *actually* **be** a po
 
 One of my latest site designs, stuartclayton.com, I used no fewer than four different custom post types:
 
-{{< figure caption="Custom post types menus in use in the WordPress admin" >}}
+{{< figure figcaption="Custom post types menus in use in the WordPress admin" >}}
   {{< img src="Screen-shot-2010-07-16-at-20.36.02.png" alt="Custom post types in the WordPress admin" >}}
 {{< /figure >}}
 
@@ -59,7 +59,7 @@ For this I used a custom post type of ‘Feature’ with a featured image to sho
 
 The gear is pretty special as I made use of a ‘Gear’ custom post type with a ‘Type of gear’ custom taxonomy. You certainly couldn’t do that a few versions ago!
 
-{{< figure caption="Types of gear custom taxonomy panel" >}}
+{{< figure figcaption="Types of gear custom taxonomy panel" >}}
   {{< img src="Screen-shot-2010-07-16-at-20.37.20.png" alt="Types of gear custom taxonomy panel in the WordPress editor" >}}
 {{< /figure >}}
 
@@ -69,7 +69,7 @@ I struggled a bit with custom post types at first. I think it It was probably b
 
 If you, like me, get a bit confused with the huge amount of options for custom post types in the functions.php file, I really would recommend you give [Custom Post Type UI](http://wordpress.org/extend/plugins/custom-post-type-ui/?compatibility%5Bversion%5D=3.0&amp;compatibility%5Btopic_version%5D=0.5.2&amp;compatibility%5Bcompatible%5D=1) by [WebDevStudios](http://webdevstudios.com/) a go. This excellent plugin does just what you would do in your functions.php file but gives it a friendly checkbox and text input interface in your WordPress admin so you needn’t write any code.
 
-{{< figure caption="Custom Post Types UI in action" >}}
+{{< figure figcaption="Custom Post Types UI in action" >}}
   {{< img src="Screen-shot-2010-07-16-at-19.27.32.png" alt="Custom Post Types UI in action" >}}
 {{< /figure >}}
 

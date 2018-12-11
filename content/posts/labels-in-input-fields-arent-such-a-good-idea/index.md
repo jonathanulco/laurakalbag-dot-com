@@ -72,7 +72,7 @@ After:
 
 The problem is that the first input box you’ll click into is the top title input. It actually auto-focuses, and some clever script means that it puts the label back in after the auto-focus, but then the second you start typing you’ve lost that label. If you start typing, then backspace because you made a mistake, you’ve lost that label:
 
-{{< figure caption="" >}}
+{{< figure figcaption="" >}}
   	{{< img alt="WordPress 3.1 post editor with no title label" src="Screen-shot-2011-05-27-at-17.18.48.png" >}}
 {{< /figure >}}
 
@@ -98,7 +98,7 @@ HTML5 has a fantastic new form input attribute for adding placeholder informatio
 
 **Edit:** “*name*” should actually be “*id*” here in the text input, I always get those two mixed up! (Thanks [Mike](/labels-in-input-fields-arent-such-a-good-idea/#comment-2794), for the heads up)
 
-{{< figure caption="I’m concerned that people will misuse or misunderstand the placeholder attribute as a way to replace form labels" >}}
+{{< figure figcaption="I’m concerned that people will misuse or misunderstand the placeholder attribute as a way to replace form labels" >}}
   	{{< img alt="HTML5 form preview" src="Screen-shot-2011-05-27-at-17.39.00.png" >}}
 {{< /figure >}}
 

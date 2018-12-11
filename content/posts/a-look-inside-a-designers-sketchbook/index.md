@@ -24,31 +24,31 @@ Last week, Ian added some pages from my sketchbook to [his post, “A look insid
 
 {{< figure >}}
   {{< link href="http://learnlogodesign.com/logo-design-process/a-look-inside-a-designers-sketchbook" >}}
-  	{{< img src="Logo-designers-sketchbook.png" alt="Screenshot of the logo designer's sketchbook post" caption="Ian’s post" >}}
+  	{{< img src="Logo-designers-sketchbook.png" alt="Screenshot of the logo designer's sketchbook post" figcaption="Ian’s post" >}}
   {{< /link >}}
 {{< /figure >}}
 
-{{< figure caption="Rocket sketches from Indie Phone" >}}
+{{< figure figcaption="Rocket sketches from Indie Phone" >}}
   {{< img src="Indie-Phone-01.jpg" alt="Rocket sketches from Indie Phone" >}}
 {{< /figure >}}
 
-{{< figure caption="More rocket sketches from Indie Phone" >}}
+{{< figure figcaption="More rocket sketches from Indie Phone" >}}
   {{< img src="Indie-Phone-02.jpg" alt="Rocket sketches from Indie Phone" >}}
 {{< /figure >}}
 
-{{< figure caption="Even more rocket sketches from Indie Phone (and these aren’t even all of them!)" >}}
+{{< figure figcaption="Even more rocket sketches from Indie Phone (and these aren’t even all of them!)" >}}
   {{< img src="Indie-Phone-03.jpg" alt="Rocket sketches from Indie Phone" >}}
 {{< /figure >}}
 
-{{< figure caption="More Turbine shape sketches" >}}
+{{< figure figcaption="More Turbine shape sketches" >}}
   {{< img src="Turbine-01.jpg" alt="Turbine shape sketches" >}}
 {{< /figure >}}
 
-{{< figure caption="Turbine shape sketches" >}}
+{{< figure figcaption="Turbine shape sketches" >}}
   {{< img src="Turbine-02.jpg" alt="Turbine shape sketches" >}}
 {{< /figure >}}
 
-{{< figure caption="Turbine letter sketches" >}}
+{{< figure figcaption="Turbine letter sketches" >}}
   {{< img src="Turbine-03.jpg" alt="Turbine letter sketches" >}}
 {{< /figure >}}
 

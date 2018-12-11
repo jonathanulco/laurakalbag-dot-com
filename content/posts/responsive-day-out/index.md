@@ -46,7 +46,7 @@ Many of the speakers at Responsive Day Out spoke about how we need to break away
 
 > “Device detection isn’t futureproof. Avoid.” Anna Debenham on designing for devices
 
-{{< figure caption="Anna Debenham—Device detection isn’t future proof. Avoid." >}}
+{{< figure figcaption="Anna Debenham—Device detection isn’t future proof. Avoid." >}}
   {{< img alt="Anna Debenham—Device detection isn't future proof. Avoid." src="devicedetection.jpg" >}}
 {{< /figure >}}
 
@@ -88,7 +88,7 @@ Tom pointed out that using this technique would mean no time wasted on polyfilli
 
 This approach is far easier to manage than the BBC’s previous strategy of supporting a specific table of browsers, using graceful degradation to give a similar experience to all users. This was all easy enough when all browsers were free, uncomplicated and easy to test; where you could test most browsers on either a PC or Mac, but now you need to invest in an enormous array of devices to test on every browser.
 
-{{< figure caption="Tom Maslen demonstrating the BBC’s previous strategy of supporting a specific table of browsers" >}}
+{{< figure figcaption="Tom Maslen demonstrating the BBC’s previous strategy of supporting a specific table of browsers" >}}
   {{< img alt="Tom Maslen demonstrating the BBC's previous strategy of supporting a specific table of browsers" src="browsercompatibility.jpg" >}}
 {{< /figure >}}
 
@@ -150,7 +150,7 @@ Performance was a key word of the day. Many speakers mentioned how we’ve been 
 * Content
 * Decorative
 
-{{< figure caption="Paul Robert Lloyd’s slide on types of images" >}}
+{{< figure figcaption="Paul Robert Lloyd’s slide on types of images" >}}
   {{< link href="https://speakerdeck.com/paulrobertlloyd/the-edge-of-the-web?slide=22" >}}
   	{{< img class="" src="types-of-images.png" alt="Paul Robert Lloyd’s slide on types of images" >}}
   {{< /link >}}
@@ -178,7 +178,7 @@ In my talk, I spoke about how text makes up so much of web design that typograph
 
 Richard Rutter spoke about how we could improve the experience of web fonts. Richard pointed out the problems that occur when there’s no visible text until the weighty-but-beautiful web font loads. Richard saw it as us having four options:
 
-{{< figure caption="Richard Rutters potential solutions for web font loading wait-time" >}}
+{{< figure figcaption="Richard Rutters potential solutions for web font loading wait-time" >}}
   {{< img alt="Richard Rutters potential solutions for web font loading wait-time" src="webfontoptions.jpg" >}}
 {{< /figure >}}
 
@@ -219,7 +219,7 @@ As a general rule, David suggested we should aim for as few menu items as possib
 
 It’s also important to bear in mind that it’s not just the mouse or keyboard that we’re trying to accommodate, we must make navigation work with any form of input. Still, any interaction made with any of these forms of input is, in essence, the equivalent of one click-event and so still requires effort from the user and potentially slowing the user down with more page loads.
 
-{{< figure caption="David Bushell on types of input" >}}
+{{< figure figcaption="David Bushell on types of input" >}}
   {{< img alt="David Bushell on types of input" src="typesofinput.jpg" >}}
 {{< /figure >}}
 

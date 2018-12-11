@@ -25,7 +25,7 @@ mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100583402305039222"
 primaryimagealt: "Me lying on my back on the grass next to Osky the huskamute who is yawning."
 ---
 
-{{< figure caption="Mowed the overgrown garden. Now we’re too tired to get up." >}}
+{{< figure figcaption="Mowed the overgrown garden. Now we’re too tired to get up." >}}
 
     {{< img src="post-mow" alt="Me lying on my back on the grass next to Osky the huskamute who is yawning." >}}
 

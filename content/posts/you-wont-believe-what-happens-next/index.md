@@ -27,7 +27,7 @@ This is the talk I gave at DIBI Conference in Edinburgh in March 2017. Many peop
 
 Nowadays performance seems to be the hot topic of the web industry. So let’s have a look at how we might improve the speed of a web page.
 
-{{< figure caption="theonion.com" >}}
+{{< figure figcaption="theonion.com" >}}
   {{< img src="006.jpg" alt="Screenshot of the Onion homepage" >}}
 {{< /figure >}}
 
@@ -80,7 +80,7 @@ You know what that means? Your web performance effort counts for little to noth
 
 ## Facebook
 
-{{< figure caption="Me on Facebook" >}}
+{{< figure figcaption="Me on Facebook" >}}
   {{< img src="044.jpg" alt="Screenshot of my Facebook profile" >}}
 {{< /figure >}}
 
@@ -510,7 +510,7 @@ Once our product respects human rights and human effort, we can layer the deligh
 
 Delightful isn’t just making products fun and fluffy. It’s about creating a genuinely great experience, which is reinforced because it’s built upon the strong foundation of respecting your effort and rights. Basecamp is a good example of this, where they have little touches of delight.
 
-{{< figure caption="The Basecamp schedule when you haven’t had any past events yet" >}}
+{{< figure figcaption="The Basecamp schedule when you haven’t had any past events yet" >}}
   {{< img src="368.jpg" alt="Screenshot of Basecamp schedule with a cute pen drawing of a Basecamp icon toasting marshmallows over a campfire" >}}
 {{< /figure >}}
 

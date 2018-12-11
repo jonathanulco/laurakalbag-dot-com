@@ -24,7 +24,7 @@ twitterurl: "https://twitter.com/laurakalbag/status/1012998982036049920"
 primaryimagealt: "Oskar the huskamute looking back at the camera, surrounded by colourful woodland."
 ---
 
-{{< figure caption="Had to do a late walk last night because it was so hot. Bonus was the glory of golden hour." >}}
+{{< figure figcaption="Had to do a late walk last night because it was so hot. Bonus was the glory of golden hour." >}}
 
     {{< img src="woods" alt="Oskar the huskamute looking back at the camera, surrounded by colourful woodland." >}}
 

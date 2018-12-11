@@ -28,7 +28,7 @@ I’ve been working to create a more consistent style language across our logos 
 
 ## Oskar status
 
-{{< figure caption="Cosy on his fancy office bed…" >}}
+{{< figure figcaption="Cosy on his fancy office bed…" >}}
   {{< img src="Screen-Shot-2016-03-29-at-16.50.33.png" alt="Oskar the dog lying curled up on his raised canvas camping-style bed" >}}
 {{< /figure >}}
 

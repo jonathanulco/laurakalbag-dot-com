@@ -24,7 +24,7 @@ mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100644958218086712"
 primaryimagealt: "Oskar the huskamute crammed between two big plant pots in order to stay out of the sun."
 ---
 
-{{< figure caption="Finding shade wherever possible…" >}}
+{{< figure figcaption="Finding shade wherever possible…" >}}
 
     {{< img src="between-pots" alt="Oskar the huskamute crammed between two big plant pots in order to stay out of the sun." >}}
 

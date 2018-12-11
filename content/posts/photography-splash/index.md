@@ -22,19 +22,19 @@ colours:
 
 The first exercise we’ve been given is to capture a splash in a cup…
 
-{{< figure caption="**First splash.** My kitchen is in a basement, so it’s a little bit dark. Even with the ISO jacked all the way up, this was the lightest I could get with the fastest possible shutter speed." >}}
+{{< figure figcaption="**First splash.** My kitchen is in a basement, so it’s a little bit dark. Even with the ISO jacked all the way up, this was the lightest I could get with the fastest possible shutter speed." >}}
   {{< img src="DSCF3495-small.jpg" alt="Tea splashing out of a mug on the kitchen floor" >}}
 {{< /figure >}}
 
-{{< figure caption="**Second splash.** So I went outside! Unfortunately my burst caught the splash a bit late." >}}
+{{< figure figcaption="**Second splash.** So I went outside! Unfortunately my burst caught the splash a bit late." >}}
   {{< img src="DSCF3521-small.jpg" alt="Tea splashing out of a mug, outdoors on a patio" >}}
 {{< /figure >}}
 
-{{< figure caption="**Best splash.** Finally got the hang of it. Though I wonder if the plant pot on the left spoils the composition." >}}
+{{< figure figcaption="**Best splash.** Finally got the hang of it. Though I wonder if the plant pot on the left spoils the composition." >}}
   {{< img src="DSCF3527-small.jpg" alt="Tea splashing out of a mug, outdoors on a patio. Plant pot on the left." >}}
 {{< /figure >}}
 
-{{< figure caption="**Best splash, cropped.** If I crop the pot out, but keep it landscape, I cut too much of the splash out. I’m not sure if square works either." >}}
+{{< figure figcaption="**Best splash, cropped.** If I crop the pot out, but keep it landscape, I cut too much of the splash out. I’m not sure if square works either." >}}
   {{< img src="DSCF3527-square-small.jpg" alt="Tea splashing out of a mug, outdoors on a patio. Square crop." >}}
 {{< /figure >}}
 

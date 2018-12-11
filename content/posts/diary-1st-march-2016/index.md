@@ -26,7 +26,7 @@ The last week has been meeting new friends, relocation admin, and arranging a fe
 
 ## Oskar status
 
-{{< figure caption="Loving the beach!" >}}
+{{< figure figcaption="Loving the beach!" >}}
   {{< img src="2016-03-26.jpg" alt="Oskar the dog on the sandy beach in Malmö" >}}
 {{< /figure >}}
 

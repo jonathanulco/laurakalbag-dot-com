@@ -73,7 +73,7 @@ One thing I’ve been realising is that I shouldn’t want one app to do *everyt
 
 Sketch features a lot of tools designed around the graphics we create for the web. Even featuring good CSS generation for individual shape styles. The export tools are also very helpful, allowing you to create multiple artboards and ‘slices’ within a document and then allowing you to choose which layers are exported, even including an automated @2x option.
 
-{{< figure caption="Sketch Export options" >}}
+{{< figure figcaption="Sketch Export options" >}}
   	{{< img src="sketch-export.png" alt="Sketch Export options" >}}
 {{< /figure >}}
 
@@ -87,7 +87,7 @@ There are a few little bugs here and there in Sketch, but it is in constant rapi
 
 A few people asked about the other apps I used (for development etc.) so I thought I’d give a quick rundown of what’s in my dock (my most used apps):
 
-{{< figure caption="screenshot of the apps in my Mac OSX dock" >}}
+{{< figure figcaption="screenshot of the apps in my Mac OSX dock" >}}
   	{{< img src="dock.png" alt="screenshot of the apps in my Mac OSX dock" >}}
 {{< /figure >}}
 

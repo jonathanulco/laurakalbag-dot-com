@@ -26,7 +26,7 @@ Last week we launched a refresh of the Ethical Design Manifesto, along with a vi
 
 It took a while to get my head around how to use the interface, but I found using the audio track from the video very useful, as I could sync the subtitles to the wave forms.
 
-{{< figure caption="Jubler in action" >}}
+{{< figure figcaption="Jubler in action" >}}
   {{< img src="Screen-Shot-2016-03-21-at-17.05.01.png" alt="Screenshot of Jubler with highlighted wave forms for subtitle editing" >}}
 {{< /figure >}}
 
@@ -34,7 +34,7 @@ It took a while to get my head around how to use the interface, but I found usin
 
 On Friday I also gave my first ever talk in Malmö/Sweden. It was at Creative Mornings Malmö which had a lovely venue at Djäkne. The topic was “Change” and I spoke about Ethical Design, and why we need it. Aral took lots of bad photos of me, and one of them is below.
 
-{{< figure caption="Me doing my impression of a crow" >}}
+{{< figure figcaption="Me doing my impression of a crow" >}}
   {{< img src="Screen-Shot-2016-03-21.png" alt="Me talking with a slide of the Ethical Design Manifesto (The 3 Rs of Ethical Design) in a fluffy black cardigan" >}}
 {{< /figure >}}
 
@@ -42,7 +42,7 @@ We’re settling into a good routine here in Malmö. We’re working from the of
 
 ## Oskar status
 
-{{< figure caption="Enjoying the beach life!" >}}
+{{< figure figcaption="Enjoying the beach life!" >}}
   {{< img  src="Screen-Shot-2016-03-21-at-17.17.54.png" alt="Oskar paddling in the sea in front of the Turning Torso in Malmö" >}}
 {{< /figure >}}
 

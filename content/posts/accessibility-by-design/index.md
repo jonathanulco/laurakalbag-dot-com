@@ -171,11 +171,11 @@ When we look at web typography from an aesthetic point of view, we have two majo
 
 The technical part of web typography is considering how a font might look applied straight to text without any interference/fancy CSS typesetting, or any control over it whatsoever. Because this is what we work with on a basic level without JavaScript or the CSS that only works on a few platforms. We also need to consider how it renders cross-browser. Looking at fonts through progressive enhancement and cross-browser consistency is definitely an accessible approach to typography.
 
-{{< figure caption="Text with a web font applied, but no other styling." >}}
+{{< figure figcaption="Text with a web font applied, but no other styling." >}}
   {{< img src="Accessibility-By-Design.066.jpg" alt="Text in ordinary black text with blue underlined links." >}}
 {{< /figure >}}
 
-{{< figure caption="Checking cross-browser rendering using Typekit" >}}
+{{< figure figcaption="Checking cross-browser rendering using Typekit" >}}
   {{< img src="Accessibility-By-Design.067.jpg" alt="Screenshots of Typekit’s interface for cross-browser rendering" >}}
 {{< /figure >}}
 
@@ -185,13 +185,13 @@ It’s slightly less obvious when it comes to the practical part of web typograp
 
 We need to remember that typography exists to represent content, and so it’s always worthwhile to read the text before we design it. Our aim is to invite the reader in, and make the text appear easy to read, not an intimidating mass. Typography should also reveal the meaning of the text. Comic Sans isn’t appropriate for a formal restaurant site, and a swirling script typeface isn’t appropriate for the website of a party clown.
 
-{{< figure caption="Blackoak Std makes for chunky intimidating body text, Heinemann makes for a more inviting paragraph." >}}
+{{< figure figcaption="Blackoak Std makes for chunky intimidating body text, Heinemann makes for a more inviting paragraph." >}}
   {{< img src="Accessibility-By-Design.070.jpg" alt="A paragraph set in Blackoak Std, and a paragraph set in Heinemann" >}}
 {{< /figure >}}
 
 When we read through the text, we can understand where it needs special treatment: where does the structure and order need to be made clear? The connections and differences between elements should be shown. The visual relationships between the text and other elements should reflect their real relationship. A heading is more important than a paragraph, and its importance should be revealed through size differences at the very least. All of these factors can be combined together to induce an ideal state for reading.
 
-{{< figure caption="Clear headings, links, and typographic hierarchy." >}}
+{{< figure figcaption="Clear headings, links, and typographic hierarchy." >}}
   {{< img src="Accessibility-By-Design.073.jpg" alt="A paragraph with larger and smaller headings" >}}
 {{< /figure >}}
 
@@ -205,7 +205,7 @@ Whilst good structure and a strong differentiation between elements will help a 
 
 Uniform texture is more important than the shapes of the individual characters in a typeface. Typography isn’t the same as logo design. When we look at the relationship between the letters, an even texture helps our eyes flow over the text, not getting caught up on unexpected spaces and distracting shapes.
 
-{{< figure caption="If you squint at the top paragraph, it has an even texture. If you squint at the lower paragraph, it’s a much more blobby, uneven texture." >}}
+{{< figure figcaption="If you squint at the top paragraph, it has an even texture. If you squint at the lower paragraph, it’s a much more blobby, uneven texture." >}}
   {{< img src="Accessibility-By-Design.077.jpg" alt="Paragraphs of uniform and uneven texture" >}}
 {{< /figure >}}
 
@@ -215,7 +215,7 @@ Since high resolution displays became the designers’ favourite, thin text is a
 
 The lines of each letterform also need attention. Serif fonts, in particular, often contrast thick and thin lines within one letter. Your eyes are naturally drawn to the thick lines, and less to the thin, which creates an uneven and distracting texture, making it harder to read.
 
-{{< figure caption="High-contrast serif" >}}
+{{< figure figcaption="High-contrast serif" >}}
   {{< img src="Accessibility-By-Design.079.jpg" alt="High-contrast serif" >}}
 {{< /figure >}}
 
@@ -263,13 +263,13 @@ Read Regular, Dyslexie and Open Dyslexic are both fonts designed with dyslexic r
 
 When we’re designing for the web, we tend interact with colour via colour pickers.
 
-{{< figure caption="Colour wheel (left) is a more classic layout, with blended hues in a ring. The colour spectrum on the right is more recognisable as it takes the blends you see in the colour wheel, and adds white and black to give you varying shades. The bars in the middle are usually sliders, and allow you to slide between different hues, saturation and brightness for your chosen colour." >}}
+{{< figure figcaption="Colour wheel (left) is a more classic layout, with blended hues in a ring. The colour spectrum on the right is more recognisable as it takes the blends you see in the colour wheel, and adds white and black to give you varying shades. The bars in the middle are usually sliders, and allow you to slide between different hues, saturation and brightness for your chosen colour." >}}
   {{< img src="Accessibility-By-Design.088.jpg" alt="Colour pickers" >}}
 {{< /figure >}}
 
 The benefit of using hues visualised on a colour wheel is that you’re more likely to find colours that work well in a palette. You can pick from side-by-side colours for an analogous blend, or from colours opposite each other on the wheel for a more striking colour contrast.
 
-{{< figure caption="Colour picking from opposite sides of the colour wheel" >}}
+{{< figure figcaption="Colour picking from opposite sides of the colour wheel" >}}
   {{< img src="Accessibility-By-Design.096.jpg" alt="Colour picking with droppers on opposite sides of the colour wheel" >}}
 {{< /figure >}}
 
@@ -277,19 +277,19 @@ But the accessibility of colour is more than just picking two different colours.
 
 When we’re trying to find a good contrast, the colour wheel isn’t much help. The key is the sliders for brightness and saturation. A high contrast is caused by a greater difference the foreground and background brightness, and the foreground and background saturation.
 
-{{< figure caption="Varying the brightness for colour contrast" >}}
+{{< figure figcaption="Varying the brightness for colour contrast" >}}
   {{< img src="Accessibility-By-Design.105.jpg" alt="Varying the brightness for colour contrast" >}}
 {{< /figure >}}
 
 For example, a blue background with blue text of a similar lightness will be hard to read, whereas a lighter blue against a darker blue is much easier, making a more accessible foreground-background contrast.
 
-{{< figure caption="Varying the saturation for colour contrast" >}}
+{{< figure figcaption="Varying the saturation for colour contrast" >}}
   {{< img src="Accessibility-By-Design.106.jpg" alt="Different strengths of saturation, with greater difference comes higher contrast" >}}
 {{< /figure >}}
 
 The same applies to saturation. Deeply saturated yellow text will have a low contrast against a similarly deeply saturated yellow. However, using a desaturated yellow in the background makes for a more accessible foreground-background contrast.
 
-{{< figure caption="Using the different colour pairs with the same brightness and saturation as before" >}}
+{{< figure figcaption="Using the different colour pairs with the same brightness and saturation as before" >}}
   {{< img src="Accessibility-By-Design.107.jpg" alt="High contrast with different colours, but the same contrast between brightness and saturation as before" >}}
 {{< /figure >}}
 
@@ -301,7 +301,7 @@ Very high contrast foreground and background combinations can also suffer from a
 
 To avoid screaming high contrast, I would recommend softening the difference between the foreground and background values slightly, bringing one value slightly closer to the other. By tweaking these contrasts slightly, they’re much easier on the eyes.
 
-{{< figure caption="Softening the high contrast values" >}}
+{{< figure figcaption="Softening the high contrast values" >}}
   {{< img src="Accessibility-By-Design.109.jpg" alt="A slightly less saturated green and a slightly brighter grey" >}}
 {{< /figure >}}
 
@@ -311,19 +311,19 @@ If we considered accessibility at a brand level, what would that be like?
 
 What if we designed our logos and associated colour palettes with an accessible colour contrast in mind? I’ve been doing this for years, not really thinking much of it. As a designer who usually created a logo and would then go on to design and develop a site around it, it just made sense to me.
 
-{{< figure caption="Some of my old logo designs" >}}
+{{< figure figcaption="Some of my old logo designs" >}}
   {{< img src="Accessibility-By-Design.111.jpg" alt="Logo designs with accessible text colours" >}}
 {{< /figure >}}
 
 If we make the colours accessible, then the colours we use on the site can be consistently on-brand later on; we won’t suddenly need to use a darker colour for our body text because our brand’s colour palette produces unreadable results.
 
-{{< figure caption="Some early designs for logos, with accessible, web-compatible typography" >}}
+{{< figure figcaption="Some early designs for logos, with accessible, web-compatible typography" >}}
   {{< img src="Accessibility-By-Design.113.jpg" alt="Early typography-based logo designs" >}}
 {{< /figure >}}
 
 What if we choose our logo and brand typefaces with readability and web typography in mind, not just which typeface has three letters that look good for our logo? Maybe if our logo is a swirling script face, we should consider a complementary body text early on, when we’re designing the rest of our brand. This could prevent us getting caught out when our site designer or developer has to pick a completely off-brand typeface because our brand typography is so hard to read as body text.
 
-{{< figure caption="A beautiful script logo and beautiful web typography, but the brand doesn’t quite match up." >}}
+{{< figure figcaption="A beautiful script logo and beautiful web typography, but the brand doesn’t quite match up." >}}
   {{< img src="Accessibility-By-Design.114.jpg" alt="A script based logo with an upright sans serif body text. They don’t quite work together." >}}
 {{< /figure >}}
 

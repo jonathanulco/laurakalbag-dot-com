@@ -73,7 +73,7 @@ So I’m going to experiment with posting my detritus. Finding the edges of what
 
 Here comes my first scrap:
 
-{{< figure caption="How I feel at the end of this blog post. I’m trying." src="weary-laura.jpg" >}}
+{{< figure figcaption="How I feel at the end of this blog post. I’m trying." src="weary-laura.jpg" >}}
   	{{< img alt="Photo of me looking wearily at the camera." >}}
 {{< /figure >}}
 

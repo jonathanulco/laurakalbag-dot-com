@@ -52,7 +52,7 @@ The inconsistency in colour contrast was fairly noticeable on the original Lift 
 
 However, in the ‘Taking Off’, ‘Flying in Formation’, ‘Team’ and ‘Wiki’ pages, the descriptions are black on a dark gradient background. This makes the text harder to read, as well as drawing attention to this part of the text as it’s significantly different from the contrast patterns on the rest of the page.
 
-{{< figure caption="Black on a coloured gradient is quite hard to read" >}}
+{{< figure figcaption="Black on a coloured gradient is quite hard to read" >}}
   {{< img src="odd-contrast.png" alt="Black on a coloured gradient is quite hard to read" >}}
 {{< /figure >}}
 
@@ -60,7 +60,7 @@ Contrast is something that loads of designers get wrong, as well as developers. 
 
 I really recommend using [Jonathan Snook’s Colour Contrast Check](http://www.snook.ca/technical/colour_contrast/colour.html). This analyses the contrast between your foreground and background colours against the WCAG guidelines. Everybody knows that guidelines are just for guidance, so I wouldn’t stress if you’re colours aren’t AAA compliant (this produces very extreme contrasts that are pretty hard on the eyes) but if you make sure your colours are AAA compliant at 18pt+ then you should be on to a readable winner.
 
-{{< figure caption="Checking my redesign colour contrast on the quotes section" >}}
+{{< figure figcaption="Checking my redesign colour contrast on the quotes section" >}}
   {{< img src="snook-colour-contrast.png" alt="Checking my redesign colour contrast on the quotes section" >}}
 {{< /figure >}}
 
@@ -76,7 +76,7 @@ To calm a design like this down, I tried using less of the extreme colour contra
 
 I then used these colours to help differentiate between areas of content. The original Lift design did a good job of emphasising the quotes at the top of the page through using dark text on a light background, where the rest of the page used the inverse. I took this theory further.
 
-{{< figure caption="On the original design, you can see how the quote area stands out" >}}
+{{< figure figcaption="On the original design, you can see how the quote area stands out" >}}
   {{< img src="light-on-dark.png" alt="On the original design, you can see how the quote area stands out" >}}
 {{< /figure >}}
 
@@ -84,7 +84,7 @@ Whilst I thought it was good to keep the quotes at the top of the page, as they�
 
 As this content, and the content immediately below is most useful to the page visitors, I used the dark-on-light contrast to draw the user to those areas. It stands out more than the light-on-dark areas above as it is a greater contrast against the overall page background.
 
-{{< figure caption="At this small size, you can see how my redesign colours draw the eye to the most important content" >}}
+{{< figure figcaption="At this small size, you can see how my redesign colours draw the eye to the most important content" >}}
 	{{< img src="dark-on-ligt.png" alt="At this small size, you can see how my redesign draws the eye to the most important content" >}}
 {{< /figure >}}
 
@@ -95,13 +95,13 @@ As this content, and the content immediately below is most useful to the page vi
 
 When you look at the original design, what really jumps out is the huge amount of space in the middle of the page. This is caused by the amount of ‘Latest Happenings’ appearing down the right hand column. Obviously, this wouldn’t have been originally designed like this, but it emphasises the importance of imagining how the content on a page may evolve.
 
-{{< figure caption="the main page content on the original Lift page" >}}
+{{< figure figcaption="the main page content on the original Lift page" >}}
   {{< img src="original-middle.png" alt="the main page content on the original Lift page" >}}
 {{< /figure >}}
 
 I’ve limited the ‘Latest Happenings’ to only five events on my design. My reasoning being that if you have many more than that, they’re not really ‘latest’ anymore. This way we can ensure that the amount of happenings are well-balanced with the content on the left side of the page. Although the ‘What is Lift?’ content is liable to changing, I imagine that it wouldn’t increase too much more in length, as any further information and you’re going into the depths of documentation that probably isn’t suitable for a home page.
 
-{{< figure caption="my redesigned main content area" >}}
+{{< figure figcaption="my redesigned main content area" >}}
   {{< img src="middle.png" alt="my redesigned main content area" >}}
 {{< /figure >}}
 
@@ -113,7 +113,7 @@ With some large areas of white space and some slightly squashed looking text in 
 
 Using a grid makes a lot of the design decisions less of a decision, as your grid will help dictate where the elements belong. Little details like having all the bottom of the text line up against a base grid, and main content areas having the same proportions, make a design look a lot cleaner and much classier.
 
-{{< figure caption="The grid I used for my redesign" >}}
+{{< figure figcaption="The grid I used for my redesign" >}}
   {{< img src="gridded.png" alt="The grid I used for my redesign" >}}
 {{< /figure >}}
 
@@ -133,7 +133,7 @@ I also used the yellow grid lines for rows. It’s hard designing with rows on a
 
 I actually work on all web designs with a 10px square grid underneath as a baseline for all content, especially text. As most of the text has a line-height of 25px, every other line of text sits on the 10px grid. Below is what a small segment of the design looks like sitting on a 10px grid.
 
-{{< figure caption="my redesign on 10px grid" >}}
+{{< figure figcaption="my redesign on 10px grid" >}}
   {{< img src="Screen-shot-2010-11-04-at-14.07.13.png" alt="my redesign on 10px grid" >}}
 {{< /figure >}}
 
@@ -147,7 +147,7 @@ I know the original page didn’t have any stock photography. In fact, I think t
 
 So first off I found some appropriate images to illustrate the content. A quick bit of Googling and I located the book covers for the Lift books. This will make the books easier to identify in passing, and really work to break up that text-heavy area at the bottom.
 
-{{< figure caption="Book information with book images on my redesigned page" >}}
+{{< figure figcaption="Book information with book images on my redesigned page" >}}
   {{< img src="Screen-shot-2010-11-04-at-15.41.35.png" alt="Book information with book images on my redesigned page" >}}
 {{< /figure >}}
 
@@ -155,7 +155,7 @@ The difficulty in sites about web development and other non-visual subjects is t
 
 Illustrations can be expensive, though stock illustrations are often better than stock photos. However there are a lot of high quality free icon sets out there. If you find icons relevant to the content, they can serve to break up a very text-heavy site *and* act as signifiers to help the user understand what the text, call-to-action or button is for.
 
-{{< figure caption="the icons I used to illustrate my redesign" >}}
+{{< figure figcaption="the icons I used to illustrate my redesign" >}}
   {{< img src="icons.png" alt="the icons I used to illustrate my redesign" >}}
 {{< /figure >}}
 
@@ -165,7 +165,7 @@ I had a look through my icon collections and found some [Shine icons](http://www
 
 I’d almost completed my design, and it felt like it was looking a bit flat. This is usually the way when you’re using a different solid colours. To combat this effect, I added some subtle noise and shadows to give it a more ‘real’ feeling.
 
-{{< figure caption="the background of my redesign without (above) and with (below) noise textured background" >}}
+{{< figure figcaption="the background of my redesign without (above) and with (below) noise textured background" >}}
   {{< img src="noise2.png" alt="the background of my redesign without (above) and with (below) noise textured background" >}}
 {{< /figure >}}
 
@@ -179,7 +179,7 @@ The thing that people forget when they use gradients, box shadows and text shado
 
 The incoming problems with [CSS3](http://www.css3.info/) is that people are using shadows willy-nilly, chucking them in to make their design look fancy without thinking about the effect they’re creating. This is visible on the random text-shadow on the original Lift design.
 
-{{< figure caption="Random text-shadow on the Lift original design" >}}
+{{< figure figcaption="Random text-shadow on the Lift original design" >}}
   {{< img src="odd-contrast.png" alt="Random text-shadow on the Lift original design" >}}
 {{< /figure >}}
 
@@ -187,7 +187,7 @@ If  you want to use gradients and shadows to make your site feel more real, and
 
 There could be two light sources, though that could quickly get complicated, and beyond the realms of CSS, so I just went with the simplest possible for my design–;top-down. I imagined there was a light behind/above me and so it was projecting shadows that were equal sizes on each side of the boxes. It might not be completely scientifically sound, but it’s close-enough to feel real.
 
-{{< figure caption="Light shadows visible around the boxes" >}}
+{{< figure figcaption="Light shadows visible around the boxes" >}}
   {{< img src="shadows.png" alt="Light shadows visible around the boxes" >}}
 {{< /figure >}}
 

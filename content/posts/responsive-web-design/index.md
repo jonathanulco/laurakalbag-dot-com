@@ -22,7 +22,7 @@ colours:
 
 I had ordered [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design "Responsive Web Design on the A Book Apart store") by [Ethan Marcotte](http://ethanmarcotte.com/) as soon as it came out, but being at [Ampersand conference](/digest-from-ampersand-conf/ "Notes from Ampersand conference — My Digest"), and hearing *so many* people recommend it, really spurred me to take a few hours out to get on and read it.
 
-{{< figure caption="My copy of Responsive Web Design, already featuring a &#39;much used&#39; cover curl..." >}}
+{{< figure figcaption="My copy of Responsive Web Design, already featuring a &#39;much used&#39; cover curl..." >}}
   	{{< img title="Responsive Web Design by Ethan Marcotte" src="web.jpg" alt="Responsive Web Design by Ethan Marcotte" >}}
 {{< /figure >}}
 

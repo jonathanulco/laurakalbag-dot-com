@@ -24,7 +24,7 @@ mastodonurl: ""
 instagramurl: ""
 ---
 
-{{< figure class="grid two" caption="Me vs my noble snow beast in the -11 bluster" >}}
+{{< figure class="grid two" figcaption="Me vs my noble snow beast in the -11 bluster" >}}
 
     {{< img src="me" alt="Me wrapped in layers of scarf, hat and coat, with a cold scrunched face, all covered in fine icy snow." >}}
     {{< img src="osky" alt="Oskar the huskamute sitting proudly on the beach looking unphased by the snow." >}}

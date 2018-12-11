@@ -28,7 +28,7 @@ The grief of bereavement surprised me. It wasn’t like it was in books or on TV
 
 Still, distraction is the strongest effect grief has had on me. It has gotten better over time, but I had long periods of struggling to focus on anything at all. Firstly months, then the odd week, now the odd day. Previous traumatic events have seen me plow everything into my work, but now I just couldn’t. My mind wouldn’t settle, it felt soft and cloudy. My short-term memory stopped functioning so well. My mind wasn’t always hurting, but it wasn’t doing much else either. But I was fidgety. I didn’t want to sit around feeling weird so I started knitting a lot. My mum taught me how to knit a few months earlier, and we’d bought a bear pattern together. In just over a week, Stanley was created.
 
-{{< figure caption="Stanley, as named by my brother Sam who has a knack for naming cuddly toys" >}}
+{{< figure figcaption="Stanley, as named by my brother Sam who has a knack for naming cuddly toys" >}}
   {{< img src="stanley.jpg" alt="Knitted teddybear with a slightly wonky face wearing a multicoloured knitted jumper" >}}
 {{< /figure >}}
 

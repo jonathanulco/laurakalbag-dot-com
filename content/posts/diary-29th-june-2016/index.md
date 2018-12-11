@@ -28,7 +28,7 @@ Oh, and I nearly forgot the…
 
 ## Oskar status
 
-{{< figure caption="King of the park" >}}
+{{< figure figcaption="King of the park" >}}
   {{< img src="2016-06-29.jpg" alt="Oskar the husky dog on top of a hill" >}}
 {{< /figure >}}
 

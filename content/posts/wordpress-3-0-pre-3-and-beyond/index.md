@@ -58,7 +58,7 @@ Then you can see the Featured Image box appear in your post and page editors.
 
 The image selection process is identical to that of adding standard images into the post. You can choose to select from your computer, from a URL or from the Media Library. All you need to make sure is that, instead of hitting the ‘Insert into Post’ button, you select ‘Use as featured image’.
 
-{{< figure caption="Ensure you select ‘Use as featured image’" >}}
+{{< figure figcaption="Ensure you select ‘Use as featured image’" >}}
   {{< img src="Screen-shot-2010-07-16-at-20.33.23.png" alt="When adding a featured image to a WordPress post, ensure you select 'Use as featured image' when selecting an image" >}}
 {{< /figure >}}
 

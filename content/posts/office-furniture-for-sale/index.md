@@ -35,7 +35,7 @@ What’s left is the things that we really would’ve kept, but can’t. Fancy 
 * <del>80 cm depth</del>
 * <del>73 – 120 cm height range (sit-stand)</del>
 
-{{< figure caption="Biurko desk. It’s bigger than it looks. This is at full height. Legs come out wider when desk is lowered." >}}
+{{< figure figcaption="Biurko desk. It’s bigger than it looks. This is at full height. Legs come out wider when desk is lowered." >}}
   	{{< img src="Screen-Shot-2016-02-02-at-15.49.09.png" alt="Biurko desk at full height." >}}
 {{< /figure >}}
 
@@ -46,7 +46,7 @@ What’s left is the things that we really would’ve kept, but can’t. Fancy 
 
 Big Apple Thunderbolt displays in mint condition and their original packaging. Requires a Thunderbolt port to connect to a Mac.
 
-{{< figure caption="Apple Display as seen on a messy desk. Ridiculous dog not included." >}}
+{{< figure figcaption="Apple Display as seen on a messy desk. Ridiculous dog not included." >}}
   	{{< img src="my-desk-1200.jpeg" alt="A messy desk with Apple Display, iPad, MacBook Pro, and dog" >}}
 {{< /figure >}}
 
@@ -59,7 +59,7 @@ Depending on how old your Mac is, you may need one of the tiny magnetic adapters
 
 <del>The iconic office chair. Dark grey, size B (medium sized) with lumbar support. Bought refurbished 18 months ago. Costs ~£900 new.</del>
 
-{{< figure caption="Aeron chair" >}}
+{{< figure figcaption="Aeron chair" >}}
   	{{< img src="front.jpg" alt="Aeron chair" >}}
 {{< /figure >}}
 
@@ -77,7 +77,7 @@ It’s large and heavy (great for writing on, harder to lift.) It’s currently 
 
 Great condition, stays in tune. With soft case and guitar stand included. Goes for ~£300 online.
 
-{{< figure caption="The guitar is on the left side. Only photo I could find with it in! Dog not included." >}}
+{{< figure figcaption="The guitar is on the left side. Only photo I could find with it in! Dog not included." >}}
   	{{< img src="15516043930_93144778c6_k.jpg" alt="living room showing guitar and prominent dog" >}}
 {{< /figure >}}
 

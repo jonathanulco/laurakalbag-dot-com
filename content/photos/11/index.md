@@ -23,7 +23,7 @@ colours:
 primaryimagealt: "Portrait photo of me aged six, smiling with a long 90s fringe."
 ---
 
-{{< figure caption="I’ve not changed much in twenty-six years." >}}
+{{< figure figcaption="I’ve not changed much in twenty-six years." >}}
 
     {{< img src="six-years-old" alt="Portrait photo of me aged six, smiling with a long 90s fringe." >}}
 

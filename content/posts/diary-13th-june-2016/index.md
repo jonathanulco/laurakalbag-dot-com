@@ -30,7 +30,7 @@ Hopefully I’ll be back to give you another update soon!
 
 ## Oskar status
 
-{{< figure caption="Making friends!" >}}
+{{< figure figcaption="Making friends!" >}}
   {{< img src="2016-06-13.jpg" alt="Oskar and another malamute sitting side-by-side in the park" >}}
 {{< /figure >}}
 

@@ -22,23 +22,23 @@ colours:
 
 This week, the Ind.ie team are at re:publica in Berlin, so I’m getting lots of opportunities to take photos that aren’t just of the dog!
 
-{{< figure caption="re:publica in Berlin" >}}
+{{< figure figcaption="re:publica in Berlin" >}}
   {{< img src="DSCF3596-small.jpg" alt="Sign for re:publica event, stage one" >}}
 {{< /figure >}}
 
-{{< figure caption="**Projection.** A very abstract photo." >}}
+{{< figure figcaption="**Projection.** A very abstract photo." >}}
   {{< img src="DSCF3538-small.jpg" alt="A projected luminous anti-gun symbol on a floor" >}}
 {{< /figure >}}
 
-{{< figure caption="**STG-1 (Stage 1) at re:publica.** A fairly dark location, lit very strongly at one end. I managed to get a blurry walking man against it all." >}}
+{{< figure figcaption="**STG-1 (Stage 1) at re:publica.** A fairly dark location, lit very strongly at one end. I managed to get a blurry walking man against it all." >}}
   {{< img src="DSCF3603-small.jpg" alt="Big hallway with lots of seats and a stage at one end. A few people in the distance." >}}
 {{< /figure >}}
 
-{{< figure caption="**Close up Aral.** Chopped the top of his head off, and he’s a bit coloured by the red light. I’m pleased I managed to get his face in focus, though it’s stronger around his mouth, whereas I guess the eyes is where we should be aiming for sharpness?" >}}
+{{< figure figcaption="**Close up Aral.** Chopped the top of his head off, and he’s a bit coloured by the red light. I’m pleased I managed to get his face in focus, though it’s stronger around his mouth, whereas I guess the eyes is where we should be aiming for sharpness?" >}}
   {{< img src="DSCF3612-small.jpg" alt="Close up photo of Aral Balkan" >}}
 {{< /figure >}}
 
-{{< figure caption="**Between heads.** It’s not the most interesting shot, but I was pleased to get an in-focus photo between the heads in front of me." >}}
+{{< figure figcaption="**Between heads.** It’s not the most interesting shot, but I was pleased to get an in-focus photo between the heads in front of me." >}}
   {{< img src="DSCF3679-small.jpg" alt="Photo of two women speaking on stage from behind the heads of two audience members" >}}
 {{< /figure >}}
 

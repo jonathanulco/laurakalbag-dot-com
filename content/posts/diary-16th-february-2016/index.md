@@ -30,7 +30,7 @@ One week to go!
 
 ## Oskar status
 
-{{< figure caption="If I look cute, I won’t be told off for being on the sofa…" >}}
+{{< figure figcaption="If I look cute, I won’t be told off for being on the sofa…" >}}
   {{< img  src="2016-02-16.jpg" alt="Oskar the dog lying curled up on a leather sofa" >}}
 {{< /figure >}}
 

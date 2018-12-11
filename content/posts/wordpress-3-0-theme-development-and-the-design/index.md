@@ -41,7 +41,7 @@ Now you can easily create drag-and-drop menus with custom links place anywhere w
 * Use different names for the pages in the navigation (handy if you want to call the ‘About’ page ‘Home’ in the navigation.
 * Link to pages on totally different websites.
 
-{{< figure caption="WordPress menus in action" >}}
+{{< figure figcaption="WordPress menus in action" >}}
   {{< img src="Screen-shot-2010-07-16-at-20.42.35.png" alt="WordPress menus in action" >}}
 {{< /figure >}}
 
@@ -63,7 +63,7 @@ I haven’t tried creating a theme with these features yet, as I tend to give my
 
 As you can see from my image below, it’s incredibly easy to upload your own header or you can pick from one of the beautiful photographs taken by Matt Mullenweg, the creator of WordPress.
 
-{{< figure caption="Custom headers in WordPress 3.0" >}}
+{{< figure figcaption="Custom headers in WordPress 3.0" >}}
   {{< img src="Screen-shot-2010-07-16-at-19.45.28.png" alt="Custom headers in WordPress 3.0" >}}
 {{< /figure >}}
 
@@ -77,7 +77,7 @@ WordPress 3.0 also comes with a cool new default theme called TwentyTen. It was 
 
 TwentyTen is clean and simple (and the theme I use on my blog) and takes advantage of the custom backgrounds, headers and menus to make it easy to change the look and feel without having to get into the CSS.
 
-{{< figure caption="TwentyTen default theme preview" >}}
+{{< figure figcaption="TwentyTen default theme preview" >}}
   {{< img src="Screen-shot-2010-07-16-at-20.45.55.png" alt="TwentyTen default theme preview" >}}
 {{< /figure >}}
 
@@ -89,7 +89,7 @@ If you follow me on Twitter, you might have heard me whining a bit about the new
 
 The idea behind these changes is that it brings the content into focus, and it is more legible to read dark text on a light background so it makes the WordPress admin, which is now entirely dark on light, more accessible.
 
-{{< figure caption="WordPress 3.0 admin" >}}
+{{< figure figcaption="WordPress 3.0 admin" >}}
   {{< img src="Screen-shot-2010-07-16-at-20.48.11.png" alt="WordPress 3.0 admin" >}}
 {{< /figure >}}
 
@@ -105,7 +105,7 @@ It is all dark grey against white and light grey backgrounds separated by light 
 
 2. #### When you select the title text box when creating a new post, the label for the text box disappears
 
-{{< figure caption="Um, what does that empty box do again? (title input in editor)" >}}
+{{< figure figcaption="Um, what does that empty box do again? (title input in editor)" >}}
   {{< img src="Screen-shot-2010-07-16-at-20.50.52.png" alt="The title input box in the WordPress editor with no label text" >}}
 {{< /figure >}}
 
@@ -113,7 +113,7 @@ If you have cognitive issues, I can’t see how this is accessible. Chances are,
 
 3. #### I find dark grey a really peculiar choice of colour for an alert
 
-{{< figure caption="Grey alert bubble" >}}
+{{< figure figcaption="Grey alert bubble" >}}
   {{< img src="Screen-shot-2010-07-16-at-20.52.41.png" alt="Grey alert bubble on the WordPress admin" >}}
 {{< /figure >}}
 

@@ -24,7 +24,7 @@ mastodonurl: ""
 instagramurl: ""
 ---
 
-{{< figure class="grid three" caption="Finally got Sam in the room to properly produce the Accessibility For Everyone audiobook in person. " >}}
+{{< figure class="grid three" figcaption="Finally got Sam in the room to properly produce the Accessibility For Everyone audiobook in person. " >}}
 
     {{< img src="laura" alt="Selfie of me speaking into a pop shield in front of a microphone." >}}
 

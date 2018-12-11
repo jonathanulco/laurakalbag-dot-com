@@ -24,7 +24,7 @@ twitterurl: "https://twitter.com/laurakalbag/status/1024627555863801856"
 primaryimagealt: "A little wooden shelving unit made to look like a house, containing five pairs of rolled up socks with sleeping animal faces."
 ---
 
-{{< figure caption="Bought some cute socks online, not realising they’d come in their own house." >}}
+{{< figure figcaption="Bought some cute socks online, not realising they’d come in their own house." >}}
 
     {{< img src="cute-socks" alt="A little wooden shelving unit made to look like a house, containing five pairs of rolled up socks with sleeping animal faces." >}}
 

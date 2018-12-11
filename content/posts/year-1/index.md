@@ -60,7 +60,7 @@ Feedback isn’t instant, work takes much longer or nowhere near as long as esti
 
 Work got miles easier when I had my own working area set up. Matt built me a great custom desk, shelf unit and wall-mounted my second screen. When I’m at my desk, I’m working. The division between working at home and just being at home makes a big difference.
 
-{{< figure caption="My desk area (if anybody knows a good way to keep those cables tidy, I'd love to hear it!!)" >}}
+{{< figure figcaption="My desk area (if anybody knows a good way to keep those cables tidy, I'd love to hear it!!)" >}}
 	{{< img src="desk.jpg" alt="desk area" >}}
 {{< /figure >}}
 

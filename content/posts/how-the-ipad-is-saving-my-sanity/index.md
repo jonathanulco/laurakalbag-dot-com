@@ -40,7 +40,7 @@ There’s added bonuses to this too. There are plenty of cool apps on the iPad t
 
 A couple of weeks ago I read my first full book (albeit a reasonably short 200-page one) using [iBooks](http://itunes.apple.com/us/app/ibooks/id364709193?mt=8 "iBooks on the App Store"). To all those saying it doesn’t beat a real book, I say stop being so old-fashioned. If you’re used to staring at a screen for 12 hours a day, your eyes won’t particularly complain. I set the settings to large-ish text, changed the colouring to sepia and turned the brightness down. My eyes were very happy.
 
-{{< figure caption="The Prince of Mist on iBooks" >}}
+{{< figure figcaption="The Prince of Mist on iBooks" >}}
   {{< img src="ibooks.jpg" alt="The Prince of Mist on iBooks" >}}
 {{< /figure >}}
 
@@ -52,7 +52,7 @@ RSS feeds are no longer a case of me fighting a losing battle. [Reeder](http://i
 
 Reeder also gives you loads of ways to make use of the articles you read so they’re not just lost in the ether of my bad memory. I’m a serial [Delicious](http://delicious.com/ljk "Delicious bookmarking") user so I can tag and save the useful bookmarks straight into Delicious. I also use <del>Instapaper</del> [Read It Later](http://readitlaterlist.com/) ([Instapaper](http://www.instapaper.com/) on iPad just doesn’t feel right) so I can save the longer read-it-later articles to there. If I want to add a cool image to [Zootool](/zootool-the-best-tool-for-storing-inspiration/ "Why I love Zootool"), I just open the link in Safari and lasso it from the browser.
 
-{{< figure caption="actions on Reeder for iPad" >}}
+{{< figure figcaption="actions on Reeder for iPad" >}}
   {{< img src="reeder.jpg" alt="actions on Reeder for iPad" >}}
 {{< /figure >}}
 
@@ -60,7 +60,7 @@ Reeder also gives you loads of ways to make use of the articles you read so they
 
 So now I’m typing this on [WordPress for iPad](http://itunes.apple.com/us/app/wordpress/id335703880?mt=8). It’s perfect for those wifi-less moments when you can’t access your WordPress admin. You can have drafts that are just local to your iPad or sync your drafts across to the web. It’s a fairly minimal interface, relying on HTML if you want to include any kind of formatting, and you can only attach images at the end of a post.
 
-{{< figure caption="the keyboard takes up a lot of space on the screen, but otherwise it’s very usable" >}}
+{{< figure figcaption="the keyboard takes up a lot of space on the screen, but otherwise it’s very usable" >}}
   {{< img src="wordpress.jpg" alt="WordPress on iPad" >}}
 {{< /figure >}}
 
@@ -72,19 +72,19 @@ Many people would agree that [Tweetie](http://www.atebits.com/tweetie-mac/) is t
 
 But [Twitterrific on iPad](http://itunes.apple.com/us/app/twitterrific-for-twitter/id359914600?mt=8) is a revelation. Landscape mode is totally where it’s at, it has the extra column/menu down the left hand side. Easy to browse, packed full of features (maybe not so many as [Twitter for iPhone](http://itunes.apple.com/us/app/twitter/id333903271?mt=8) or the so-ugly-I-seriously-can’t-stand-it [Tweetdeck](http://itunes.apple.com/us/app/tweetdeck-for-ipad/id364153769?mt=8)) but for a casual addict it feels just right.
 
-{{< figure caption="Twitterrific on iPad" >}}
+{{< figure figcaption="Twitterrific on iPad" >}}
   {{< img src="twitter.jpg" alt="Twitterrific on iPad" >}}
 {{< /figure >}}
 
 When you’re writing a tweet or replying you get a lovely huge box to work within. A particularly cool feature is that it shows the tweet you’re replying to as well for reference.
 
-{{< figure caption="Replying to a tweet on Twitterrific" >}}
+{{< figure figcaption="Replying to a tweet on Twitterrific" >}}
   {{< img class="wp-image-182" title="Replying to a tweet on Twitterrific" src="twitter-reply.jpg" alt="Replying to a tweet on Twitterrific" >}}
 {{< /figure >}}
 
 The little popup boxes are great too, you can instantly access all the relevant details about a person including their recent tweets from a few taps.
 
-{{< figure caption="Profile details on Twitterrific" >}}
+{{< figure figcaption="Profile details on Twitterrific" >}}
   {{< img src="twitter-profile.jpg" alt="Profile details on Twitterrific" >}}
 {{< /figure >}}
 
@@ -96,7 +96,7 @@ When I started writing blog posts on my iPad, and taking screenshots into the Ph
 
 I did a bit of searching on the App Store and came across [Crop Suey HD](http://itunes.apple.com/us/app/crop-suey-hd/id366891749?mt=8). This app is simple but does exactly what it says and with incredibly intuitive tools. With straighten, rotate, flip and crop you can easily get your images looking much neater and save them back into the library for use with other apps.
 
-{{< figure caption="The incredibly simple Crop Suey interface ensures you see mostly the image itself" >}}
+{{< figure figcaption="The incredibly simple Crop Suey interface ensures you see mostly the image itself" >}}
   {{< img src="cropsuey.jpg" alt="Crop Suey on iPad" >}}
 {{< /figure >}}
 
@@ -108,7 +108,7 @@ So you have to rely on the App Store. Unless you’re after a top 10 app, or a r
 
 [Appsfire’s App Stream](http://itunes.apple.com/us/app/appstream-for-ipad/id375288393?mt=8) is trying to solve the discoverability problem. A stream of small app icons rotate around the board. You can tap them to see more, basically all the info you get in the app store. If you like it, you can tap again to view and purchase on the App Store.
 
-{{< figure caption="App stream by Appsfire is useful but not totally beautiful" >}}
+{{< figure figcaption="App stream by Appsfire is useful but not totally beautiful" >}}
   {{< img src="appstream.jpg" alt="App stream by Appsfire" >}}
 {{< /figure >}}
 

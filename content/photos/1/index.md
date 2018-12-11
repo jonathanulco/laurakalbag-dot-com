@@ -24,7 +24,7 @@ description: "Springtime!"
 primaryimagealt: "Oskar the huskamute standing in amongst bluebells in a wood."
 ---
 
-{{< figure caption="Springtime!" >}}
+{{< figure figcaption="Springtime!" >}}
 
     {{< img src="osky" alt="Oskar the huskamute standing in amongst bluebells in a wood." >}}
 

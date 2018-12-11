@@ -30,7 +30,7 @@ Meeting at the same spot on the [corner of Wilson Avenue and Roedean Road](htt
 
 {{< figure >}}
   {{< link href="https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.821011,-0.095851&amp;spn=0.010316,0.027874" >}}
-  	{{< img alt="Brighton and the walking route around East Brighton Park/Sheepcote valley" src="brighton-map.png" caption="The routes (zoomed out) on Google Maps. Select the map to see [the full map.](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.821011,-0.095851&amp;spn=0.010316,0.027874)" >}}
+  	{{< img alt="Brighton and the walking route around East Brighton Park/Sheepcote valley" src="brighton-map.png" figcaption="The routes (zoomed out) on Google Maps. Select the map to see [the full map.](https://maps.google.com/maps/ms?msid=203285113495597462862.0004deb99f76f41c37bbd&amp;msa=0&amp;ll=50.821011,-0.095851&amp;spn=0.010316,0.027874)" >}}
   {{< /link >}}
 {{< /figure >}}
 

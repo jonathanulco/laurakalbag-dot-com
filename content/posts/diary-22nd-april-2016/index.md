@@ -26,7 +26,7 @@ We’ve got a few events that I’ll add to the site in the coming few weeks, an
 
 ## Oskar status
 
-{{< figure caption="Mostly chill" >}}
+{{< figure figcaption="Mostly chill" >}}
   {{< img src="2016-04-22.jpg" alt="Oskar walking on a grey beach, reflected in the seawater" >}}
 {{< /figure >}}
 

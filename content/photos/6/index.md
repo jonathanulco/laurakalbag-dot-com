@@ -22,7 +22,7 @@ colours:
 primaryimagealt: "Photo of me and my cousins and their partners all in formal wear in the garden."
 ---
 
-{{< figure caption="Back from a weekend in the UK with this beautiful family. We look pretty fancy when we try!" >}}
+{{< figure figcaption="Back from a weekend in the UK with this beautiful family. We look pretty fancy when we try!" >}}
 
     {{< img src="family" alt="Photo of me and my cousins and their partners all in formal wear in the garden." >}}
 

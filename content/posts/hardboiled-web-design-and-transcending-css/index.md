@@ -40,7 +40,7 @@ The book is predictably well-written. It’s not too formal, not overly-instruct
 
 The book is themed around detective stories. I found the detective novel references a bit much at times, but that’s because I’ve never read any (not that I wouldn’t, I just haven’t!) It started to feel a bit like an in-joke I wasn’t a part of, but did make for lovely illustrations and content examples.
 
-{{< figure caption="Beautiful front cover illustration" >}}
+{{< figure figcaption="Beautiful front cover illustration" >}}
   {{< img src="web-2.jpg" alt="Beautiful front cover illustration" >}}
 {{< /figure >}}
 
@@ -60,7 +60,7 @@ I bought [the bundle package from Five Simple Steps](http://fivesimplesteps.com/
 
 I liked the idea of having the PDF for reading using [iBooks](http://www.apple.com/ipad/features/ibooks.html "Apple's iBooks") on my iPhone and iPad. This was a bit of an issue, as the PDF has the same layout as the book itself, including very wide margins. This made for easy reading at full size on my mac, slightly eye-straining use on my iPad and a right nightmare on the iPhone. To read the text on iPhone, you have to zoom about a lot. Alongside constant scrolling to read the full width in the page, it’s not the most comfortable reading experience.
 
-{{< figure caption="reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4" >}}
+{{< figure figcaption="reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4" >}}
   {{< img src="web.png" alt="reading a sidenote from Hardboiled Web Design using iBooks on the iPhone 4" >}}
 {{< /figure >}}
 
@@ -82,7 +82,7 @@ Alongside [HTML5 For Web Designers](/html5-for-web-designers/ "Review of HTML5 F
 
 Not only do you get the low-down on how to use it, you get the most important arguments of **why** and **when** that seem to be holding so many designers back.
 
-{{< figure caption="Hardboiled Web Design by Andy Clarke" >}}
+{{< figure figcaption="Hardboiled Web Design by Andy Clarke" >}}
   {{< img src="web-3.jpg" alt="Hardboiled Web Design by Andy Clarke" >}}
 {{< /figure >}}
 

@@ -32,7 +32,7 @@ To that end, [we’re selling some of the stuff from our storage room](/office-f
 
 ## Oskar status
 
-{{< figure caption="Making the most of the British countryside!" >}}
+{{< figure figcaption="Making the most of the British countryside!" >}}
   {{< img src="2016-02-05.jpg" alt="Oskar on a muddy path in 10m visibility fog" >}}
 {{< /figure >}}
 

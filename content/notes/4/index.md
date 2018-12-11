@@ -22,7 +22,7 @@ colours:
 twitterurl: "https://twitter.com/gigapup/status/1007351729174786048"
 ---
 
-{{< figure class="grid two" caption="How could you say no to this face?" >}}
+{{< figure class="grid two" figcaption="How could you say no to this face?" >}}
 
     {{< img src="osky1" alt="Oskar with his head on a cushion and begging eyes." >}}
 

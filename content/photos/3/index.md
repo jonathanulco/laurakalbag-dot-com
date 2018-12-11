@@ -23,7 +23,7 @@ colours:
 primaryimagealt: "Aral smiling across the table from me, we both have glasses of sangria adorned with fruit slices."
 ---
 
-{{< figure caption="Cheeky Friday lunchtime sangria" >}}
+{{< figure figcaption="Cheeky Friday lunchtime sangria" >}}
 
     {{< img src="aral" alt="Aral smiling across the table from me, we both have glasses of sangria adorned with fruit slices." >}}
 

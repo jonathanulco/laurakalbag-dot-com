@@ -42,7 +42,7 @@ I made use of the 3G signal on my phone to make notes on Twitter about the confe
 
 (*You might want to click the image to see it larger so you can read the really dinky text.)*
 
-{{< figure caption="My notes from New Adventures in Web Design (click to view full size)" >}}
+{{< figure figcaption="My notes from New Adventures in Web Design (click to view full size)" >}}
   <img src="new-adventures-in-web-design.gif" alt="My notes from New Adventures in Web Design">
 {{< /figure >}}
 

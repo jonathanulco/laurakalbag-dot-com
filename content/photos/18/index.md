@@ -24,7 +24,7 @@ mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100647279590947634"
 primaryimagealt: "a knitted baby monkey with shiny button eyes."
 ---
 
-{{< figure caption="Knitting has been great for occupying my fidgeting, and keeping me away from the social network scrolling." >}}
+{{< figure figcaption="Knitting has been great for occupying my fidgeting, and keeping me away from the social network scrolling." >}}
 
     {{< img src="monkey" alt="a knitted baby monkey with shiny button eyes." >}}
 

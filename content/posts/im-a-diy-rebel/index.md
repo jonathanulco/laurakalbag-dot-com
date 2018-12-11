@@ -30,6 +30,6 @@ There’s a nice little paragraph where I sum up the why of it all…
 
 {{< img src="screenshot.jpg" alt="Screenshot of the top of the Guardian article ‘‘The punk rock internet – how DIY ​​rebels ​are working to ​replace the tech giants’" >}}
 
-{{< figure caption="Of course, Oskar had to be in the photos. Our faces was because I was really trying to get him to look at the photographer!" >}}
+{{< figure figcaption="Of course, Oskar had to be in the photos. Our faces was because I was really trying to get him to look at the photographer!" >}}
   {{< img src="screenshot-2.jpg" alt="Screenshot of the beginning of the Guardian article featuring a photo of me, Aral and Oskar our dog in our office. Oskar is on the left looking into the distance. Aral and I are not posing." >}}
 {{< /figure >}}

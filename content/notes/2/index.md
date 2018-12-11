@@ -24,7 +24,7 @@ mastodonurl: ""
 instagramurl: ""
 ---
 
-{{< figure caption="Springtime!" >}}
+{{< figure figcaption="Springtime!" >}}
 
     {{< img src="osky-3" alt="Oskar the huskamute standing in amongst bluebells in a wood." >}}
 

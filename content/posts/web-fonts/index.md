@@ -30,17 +30,17 @@ Despite being far easier to use, and more reliable, than the truly hideous (thou
 
 Then came along [Font Squirrel](http://www.fontsquirrel.com/).
 
-{{< figure caption="Quicksand font at Font Squirrel" >}}
+{{< figure figcaption="Quicksand font at Font Squirrel" >}}
   {{< img src="Screen-shot-2010-07-02-at-21.31.14.png" alt="Quicksand font at Font Squirrel" >}}
 {{< /figure >}}
 
 A wickedly cool site that shows you a huge array of fonts that are licensed for @font-face use, complete with @font-face kits containing the fonts, the license, a demo HTML file and the CSS you need to implement great-looking web fonts using @font-face.
 
-{{< figure caption="Font Squirrel @font-face kit download" >}}
+{{< figure figcaption="Font Squirrel @font-face kit download" >}}
   {{< img src="Screen-shot-2010-07-02-at-21.32.52.png" alt="Font Squirrel @font-face kit download" >}}
 {{< /figure >}}
 
-{{< figure caption="All the files in the Font Squirrel @font-face kit" >}}
+{{< figure figcaption="All the files in the Font Squirrel @font-face kit" >}}
   {{< img src="Screen-shot-2010-07-02-at-21.37.41.png" alt="All the files in the Font Squirrel @font-face kit" >}}
 {{< /figure >}}
 
@@ -72,19 +72,19 @@ And that’s where Typekit makes things awesome.
 
 I rarely buy fonts. I try to get away with system fonts, or free fonts, *a lot* of the time. As I mostly work on the web, it never made sense to use fonts that weren’t web-safe. I’d only indulge in paid fonts (and still pretty cheap ones) when I was doing logo or print design. I would have loved to use the beautiful, unusual and quality fonts from proper font foundries. I subscribed to [FontShop](http://www.fontshop.com/)‘s newsletters just so I could gaze longingly at the fonts that felt too good for me.
 
-{{< figure caption="One of FontShop’s lovely e-mail newsletters" >}}
+{{< figure figcaption="One of FontShop’s lovely e-mail newsletters" >}}
   {{< img src="Screen-shot-2010-07-02-at-21.43.02.png" alt="One of FontShop's lovely e-mail newsletters" >}}
 {{< /figure >}}
 
 Typekit brings those to-die-for fonts from top quality foundries to the web with a teensy bit of javascript. Typekit showcases [some of the most stunning fonts](http://typekit.com/foundries/veer) I’ve ever seen and allows you to use them on your site in a way that is quick and easy, but still preserves the licensing and distribution control that the foundries and font designers need to keep them going.
 
-{{< figure caption="Proper nice fonts from Typekit" >}}
+{{< figure figcaption="Proper nice fonts from Typekit" >}}
   {{< img src="Screen-shot-2010-07-02-at-21.46.36.png" alt="Proper nice fonts from Typekit" >}}
 {{< /figure >}}
 
 Since Typekit has launched, they have added loads more fonts, and they just keep getting better. The libraries are easy to browse, using tags and your own text samples, and you can even view browser samples of each font so you can see how bad it’s going to look in Windows’ browsers ;)
 
-{{< figure caption="Typekit preview of Atrament Web on Windows XP Internet Explorer 6" >}}
+{{< figure figcaption="Typekit preview of Atrament Web on Windows XP Internet Explorer 6" >}}
   {{< img src="Screen-shot-2010-07-02-at-21.50.10.png" alt="Typekit preview of Atrament Web on Windows XP Internet Explorer 6" >}}
 {{< /figure >}}
 
@@ -94,13 +94,13 @@ I use Typekit on my personal site, and this blog, and an increasing amount of cl
 
 There are other services around offering the same kind of solution as Typekit. One is [Google Web Fonts](http://code.google.com/webfonts), [who are working in collaboration](http://blog.typekit.com/2010/05/19/typekit-and-google/ "Typekit and Google Announce Open Source Collaboration") with Typekit, and another is Fontdeck. I haven’t got an invite to Fontdeck yet, so I reckon that one will remain a mystery for a while longer, and I took a quick look at Google Web Fonts, which only serves open source fonts, and it looks pretty similar to Typekit but only has a limited amount of fonts at the moment.
 
-{{< figure caption="Google Font Directory" >}}
+{{< figure figcaption="Google Font Directory" >}}
   {{< img src="Screen-shot-2010-07-02-at-21.55.27.png" alt="Google Font Directory" >}}
 {{< /figure >}}
 
 I had a quick go on [Fonts.com web fonts](http://webfonts.fonts.com/), and whilst the site design is a bit much, the service seems reasonable. It was a very straight-forward process picking and publishing the font I’d chosen to a site. However, the rendering of the font (Century Gothic) looked awful on Windows, despite being a system font that usually looked pretty decent. I’m not assuming that this is the situation with all fonts on Fonts.com, but not being able to preview it cross-browser at a glance seems like a disadvantage after the excellent previews on Typekit.
 
-{{< figure caption="Fonts.com Web Fonts using about a million fonts" >}}
+{{< figure figcaption="Fonts.com Web Fonts using about a million fonts" >}}
   {{< img src="Screen-shot-2010-07-02-at-21.57.05.png" alt="Fonts.com Web Fonts using about a million fonts" >}}
 {{< /figure >}}
 

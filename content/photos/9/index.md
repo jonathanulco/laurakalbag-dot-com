@@ -23,7 +23,7 @@ colours:
 primaryimagealt: "Selfie of me and Oskar the huskamute where I look like I’m trying to be cool and he looks fed up with his ears back."
 ---
 
-{{< figure caption="Slight blurry photo of me and an Oskar who is sick of my shit." >}}
+{{< figure figcaption="Slight blurry photo of me and an Oskar who is sick of my shit." >}}
 
     {{< img src="osky-4" alt="Selfie of me and Oskar the huskamute where I look like I’m trying to be cool and he looks fed up with his ears back." >}}
 

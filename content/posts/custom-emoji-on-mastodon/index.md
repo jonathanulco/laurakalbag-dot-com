@@ -24,11 +24,11 @@ description: ""
 
 This morning I made an `:indieHeart:` custom emoji for Mastodon. Here are some things I learned.<!--more-->
 
-{{< figure caption="One of the many cool features of Mastodon is that you can create custom emoji for your instances which can be duplicated and adopted by other instances." >}}
+{{< figure figcaption="One of the many cool features of Mastodon is that you can create custom emoji for your instances which can be duplicated and adopted by other instances." >}}
   {{< img src="local-emoji.png" alt="screenshot of the Mastodon admin showing my local instance’s custom emoji including two Indie heart emojis." >}}
 {{< /figure >}}
 
-{{< figure class="grid two" caption="The :indieHeart: shortcode in action" >}}
+{{< figure class="grid two" figcaption="The :indieHeart: shortcode in action" >}}
   {{< img max-width="1000px" src="toot-on-dark.png" link="https://mastodon.ind.ie/web/statuses/100661113916027342" alt="a toot in the dark Mastodon theme with a little Indie heart emoji." >}}
   {{ img src="toot-on-light.png" alt="the same toot in the light Mastodon theme with a little Indie heart emoji." >}}
 {{< /figure >}}
