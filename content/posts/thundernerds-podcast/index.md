@@ -31,5 +31,5 @@ I’ll definitely be listening to their back catalogue, and keeping an ear out f
 {{< figure figcaption="If you watch the whole video, you can see me slowly descend into darkness as the sun sets…" >}}
   {{< link href="https://www.thundernerds.io/2018/10/surveillance-capitalism-accessibility-w-laura-kalbag/" >}}
     {{< img src="thundernerds.jpg" alt="Screenshot of the video showing me in my spare room talking into a microphone with the three hosts’ video feeds visible in the corner." >}}
-  {{ /link }}
+  {{< /link >}}
 {{< /figure >}}
