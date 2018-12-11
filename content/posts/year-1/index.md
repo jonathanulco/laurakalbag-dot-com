@@ -42,7 +42,6 @@ I can’t believe how much I’ve done. I’ve just worked these out:
 * Website maintenance projects –; 3
 * HTML e-mail designs –; 1
 
-</div>
 ## Getting Work
 
 From the stats above, you can see that I’ve been busy! Thanks to Chris and Simon and a lot of really great clients, I’ve managed to be constantly booked up and busy since last October. I’m now booking up around two/three months in advance.
@@ -61,9 +60,9 @@ Feedback isn’t instant, work takes much longer or nowhere near as long as esti
 
 Work got miles easier when I had my own working area set up. Matt built me a great custom desk, shelf unit and wall-mounted my second screen. When I’m at my desk, I’m working. The division between working at home and just being at home makes a big difference.
 
-{{< imgsrcset class="wp-image-201" title="My desk area (if anybody knows a good way to keep those cables tidy, I'd love to hear it!!)" original="/images/2010/08/desk.jpg" alt="desk area" >}}
-
-</div>
+{{< figured caption="My desk area (if anybody knows a good way to keep those cables tidy, I'd love to hear it!!)" >}}
+	{{< imgsrcset original="desk.jpg" alt="desk area" >}}
+{{< /figured >}}
 
 3. ### Honesty, friendliness and manners go a long way.
 

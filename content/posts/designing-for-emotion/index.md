@@ -20,7 +20,7 @@ colours:
 
 I bought [Designing For Emotion](http://www.abookapart.com/products/designing-for-emotion "Designing For Emotion by Aarron Walter") as part of the [A Book Apart deal](http://www.abookapart.com/products/designing-for-emotion-mobile-first-bundle "Buy Designing For Emotion and Mobile First together from A Book Apart"), alongside Mobile First. After listening to [Jeffery Zeldman talking about the release of these books with Dan Benjamin on The Big Web Show](http://5by5.tv/bigwebshow/58 "The Big Web Show #58"), and hearing how they were perfect books to read before a redesign (my site is in a constant state of awaiting redesign) I was really eager to get stuck in. Oddly, I decided to read Mobile First second.
 
-{{< imgsrcset class="center size-full" original="/images/2011/11/20111115-090800.jpg" alt="20111115-090800.jpg" >}}
+{{< imgsrcset original="20111115-090800.jpg" alt="" >}}
 
 Designing For Emotion is the third book I’ve read in my read-a-chapter-a-day-for-inspiration series. I write this on a train journey after greedily guzzling the last three chapters in one go as I just couldn’t stop reading.
 

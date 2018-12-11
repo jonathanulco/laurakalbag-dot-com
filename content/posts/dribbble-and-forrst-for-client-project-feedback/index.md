@@ -31,10 +31,11 @@ I’ve been a member [on Dribbble](http://dribbble.com/players/laurakalbag "Laur
 I didn’t post every tiny iteration of the Stockyoo logo online as I thought it’d drive people mad. I had twelve images in total ([all posted to Forrst](http://forrst.com/people/laurakalbag/posts "All my Stockyoo posts on Forrst")) which covered four or five major iterations of the design. As soon as I felt ready to send something to Andy for feedback, that was when I felt ready to post the images online.
 
 {{< figured caption="My first Stockyoo post on Dribbble" >}}
-  {{< imgsrcset class="wp-image-216" title="My first Stockyoo post on Dribbble" original="/images/2010/09/Screen-shot-2010-09-14-at-18.50.23.png" alt="My first Stockyoo post on Dribbble" >}}
+  {{< imgsrcset original="Screen-shot-2010-09-14-at-18.50.23.png" alt="My first Stockyoo post on Dribbble" >}}
 {{< /figured >}}
 
-<p style="text-align: center;">{{< imgsrcset title="My first Stockyoo post on Forrst" original="/images/2010/09/Screen-shot-2010-09-14-at-18.50.00.png" alt="My first Stockyoo post on Forrst" >}}</p>
+{{< imgsrcset original="Screen-shot-2010-09-14-at-18.50.00.png" alt="My first Stockyoo post on Forrst" >}}
+
 I posted as much identical information as I could to both Dribbble and Forrst. Generally, I could include a larger, more detailed image on Forrst as there’s no size limitation. I also posted more frequently to Forrst as it has no limit on posts, whereas Dribbble limits the amount of posts over a month (usually around twenty if you use them all.)
 
 ### The Stats
@@ -61,43 +62,44 @@ As you can see, the Dribbblers seemed more likely to give their opinion, but muc
 
 Overall, there was a lot of approval and a positive reaction to my design. This was great as it made me feel as though I was heading in the right direction, and let Andy know that potential users of the site were keen on the logo.
 
-<p style="text-align: center;">{{< imgsrcset title="Positive feedback" original="/images/2010/09/Screen-shot-2010-09-14-at-18.53.29.png" alt="Positive feedback" >}}</p>
+{{< imgsrcset original="Screen-shot-2010-09-14-at-18.53.29.png" alt="Positive feedback" >}}
+
 {{< figured caption="More positive feedback from Dribbble" >}}
-  {{< imgsrcset class="wp-image-218" title="More positive feedback from Dribbble" original="/images/2010/09/Screen-shot-2010-09-14-at-18.54.22.png" alt="More positive feedback from Dribbble" >}}
+  {{< imgsrcset original="Screen-shot-2010-09-14-at-18.54.22.png" alt="More positive feedback from Dribbble" >}}
 {{< /figured >}}
 
 ### Improving the lens
 
 {{< figured caption="My first detailed lens design" >}}
-  {{< imgsrcset class="wp-image-219" title="My first detailed lens design" original="/images/2010/09/Screen-shot-2010-09-14-at-18.56.07.png" alt="My first detailed lens design" >}}
+  {{< imgsrcset original="Screen-shot-2010-09-14-at-18.56.07.png" alt="My first detailed lens design" >}}
 {{< /figured >}}
 
 One aspect I had trouble with initially was the design of the lens. I hadn’t done anything quite like it before so needed some help with getting it right. Luckily, the lovely people on Forrst and Dribbble were willing to give me a hand!
 
 {{< figured caption="Lens design feedback from Dribbble" >}}
-  {{< imgsrcset class="wp-image-220" title="Lens design feedback from Dribbble" original="/images/2010/09/Screen-shot-2010-09-14-at-18.56.16.png" alt="Lens design feedback from Dribbble" >}}
+  {{< imgsrcset original="Screen-shot-2010-09-14-at-18.56.16.png" alt="Lens design feedback from Dribbble" >}}
 {{< /figured >}}
 
 {{< figured caption="Lens design feedback from Forrst" >}}
-  {{< imgsrcset title="Lens design feedback from Forrst" original="/images/2010/09/Screen-shot-2010-09-14-at-18.56.37.png" alt="Lens design feedback from Forrst" >}}
+  {{< imgsrcset original="Screen-shot-2010-09-14-at-18.56.37.png" alt="Lens design feedback from Forrst" >}}
 {{< /figured >}}
 
 {{< figured caption="Next draft of the lens design" >}}
-  {{< imgsrcset title="Next draft of the lens design" original="/images/2010/09/Screen-shot-2010-09-14-at-18.56.58.png" alt="Next draft of the lens design" >}}
+  {{< imgsrcset original="Screen-shot-2010-09-14-at-18.56.58.png" alt="Next draft of the lens design" >}}
 {{< /figured >}}
 
-{{< imgsrcset title="Further feedback on the lens design" original="/images/2010/09/Screen-shot-2010-09-14-at-18.57.06.png" alt="Further feedback on the lens design" >}}
+{{< imgsrcset title="Further feedback on the lens design" original="Screen-shot-2010-09-14-at-18.57.06.png" alt="Further feedback on the lens design" >}}
 
 ### lowercase, CamelCase or Other?
 
 The original name for Stockyoo was ‘StockYoo’ with the uppercase S and Y. When I did my first draft of the logo design, I just went straight for all lowercase as I found it easier on the eye. Andy (quite rightly!) pointed out that it needed some uppercase for consistency when showing the name without the logo, but said he’d be ok with just the uppercase S, so we put it to the vote on Dribbble and Forrst and got 100% preference for the lowercase ‘y’.
 
 {{< figured caption="The different logo text options" >}}
-  {{< imgsrcset title="The different logo text options" original="/images/2010/09/Screen-shot-2010-09-14-at-19.50.16.png" alt="The different logo text options" >}}
+  {{< imgsrcset original="Screen-shot-2010-09-14-at-19.50.16.png" alt="The different logo text options" >}}
 {{< /figured >}}
 
 {{< figured caption="Feedback for the different logo text options on Forrst" >}}
-  {{< imgsrcset title="Feedback for the different logo text options on Forrst" original="/images/2010/09/Screen-shot-2010-09-14-at-19.01.32.png" alt="Feedback for the different logo text options on Forrst" >}}
+  {{< imgsrcset original="Screen-shot-2010-09-14-at-19.01.32.png" alt="Feedback for the different logo text options on Forrst" >}}
 {{< /figured >}}
 
 <span style="font-size: 18px; color: #000000; line-height: 27px;">Dropshadows</span>
@@ -105,48 +107,46 @@ The original name for Stockyoo was ‘StockYoo’ with the uppercase S and Y. Wh
 One area where the users of Forrst and Dribbble didn’t really help was on whether I used a strong drop-shadow behind the lens or not. A small detail, but opinion was divided so I really just had to weigh up the opinions and make the decision for myself. (Serves me right for being so lazy!)
 
 {{< figured caption="A bit too much drop-shadow behind the lens?" >}}
-  {{< imgsrcset title="A bit too much drop-shadow behind the lens?" original="/images/2010/09/Screen-shot-2010-09-14-at-19.53.29.png" alt="A bit too much drop-shadow behind the lens?" >}}
+  {{< imgsrcset  original="Screen-shot-2010-09-14-at-19.53.29.png" alt="A bit too much drop-shadow behind the lens?" >}}
 {{< /figured >}}
 
 {{< figured caption="Feedback from Dribbble on the shadow" >}}
-  {{< imgsrcset class="wp-image-225" title="Feedback from Dribbble on the shadow" original="/images/2010/09/Screen-shot-2010-09-14-at-19.12.20.png" alt="Feedback from Dribbble on the shadow" >}}
+  {{< imgsrcset original="Screen-shot-2010-09-14-at-19.12.20.png" alt="Feedback from Dribbble on the shadow" >}}
 {{< /figured >}}
 
-{{< imgsrcset title="Further feedback from Dribbble on the lens shadow" original="/images/2010/09/Screen-shot-2010-09-14-at-19.12.33.png" alt="Further feedback from Dribbble on the lens shadow" >}}
+{{< imgsrcset original="Screen-shot-2010-09-14-at-19.12.33.png" alt="Further feedback from Dribbble on the lens shadow" >}}
 
 ## Benefits of using Dribbble and Forrst for feedback
 
 There are a lot of benefits for using Dribbble and Forrst for feedback if you’re not overly sensitive to criticism.
 
-* 
-### Affirmation for a client
+* ### Affirmation for a client
 
 If a client is unsure of their feelings, or needs an outside opinion, they can see the reactions of others and use those reactions to help affirm their own beliefs.
 
-<p>If other designers (especially if they’re part of the target audience) have positive feelings towards your work then it can help convince a client that you’re heading in the right direction, even if the client feels otherwise.
-* 
-### Thoughtful opinions and inspiration
+If other designers (especially if they’re part of the target audience) have positive feelings towards your work then it can help convince a client that you’re heading in the right direction, even if the client feels otherwise.
 
-<p>If you’re struggling with some design (or code on Forrst) other users might have that valuable insight or piece of inspiration to help you on your way.
-* 
-### Early promotion
+* ### Thoughtful opinions and inspiration
 
-<p>This is likely to be especially effective where the users of Dribbble or Forrst are your target audience. Getting an idea of how these users feel towards your brand is very valuable. You’ll make them feel more important for asking them how they think, and giving them a part to play in the creation of the brand is likely to create a feeling of ownership and loyalty.
+If you’re struggling with some design (or code on Forrst) other users might have that valuable insight or piece of inspiration to help you on your way.
+
+* ### Early promotion
+
+This is likely to be especially effective where the users of Dribbble or Forrst are your target audience. Getting an idea of how these users feel towards your brand is very valuable. You’ll make them feel more important for asking them how they think, and giving them a part to play in the creation of the brand is likely to create a feeling of ownership and loyalty.
 
 ## The negative side
 
-* 
-### Time
+* ### Time
 
-<p>It takes a reasonable amount of time to post to Dribbble and Forrst. Making sure the screenshot shows enough, uploading everything and adding tags can take half an hour or so, especially when you’re doing a few images at a time. This isn’t a reflection on either site’s experience, they’re both very easy to use, but if you’re trying to add a useful description to your post it can take a pretty long time which brings me to&#8230;
-* 
-### It’s hard to provide context
+It takes a reasonable amount of time to post to Dribbble and Forrst. Making sure the screenshot shows enough, uploading everything and adding tags can take half an hour or so, especially when you’re doing a few images at a time. This isn’t a reflection on either site’s experience, they’re both very easy to use, but if you’re trying to add a useful description to your post it can take a pretty long time which brings me to…
 
-<p>The users viewing, liking and commenting on your images haven’t seen the brief, the communication between you and the client or tried other ideas out already. A small description isn’t really enough to give much context so a lot of the opinions you’ll get on your work is little more than “that’s pretty” or “that’s ugly”.
-* 
-### Subjective and unhelpful opinions
+* ### It’s hard to provide context
 
-<p>Somebody saying “that’s great” is all very lovely and ego-soothing, but doesn’t have much depth. An overall positive response is definitely better than negative, but without reasons and justifications in comments, it’s not going to help you better your work.
+The users viewing, liking and commenting on your images haven’t seen the brief, the communication between you and the client or tried other ideas out already. A small description isn’t really enough to give much context so a lot of the opinions you’ll get on your work is little more than “that’s pretty” or “that’s ugly”.
+
+* ### Subjective and unhelpful opinions
+
+Somebody saying “that’s great” is all very lovely and ego-soothing, but doesn’t have much depth. An overall positive response is definitely better than negative, but without reasons and justifications in comments, it’s not going to help you better your work.
 
 ## The conclusion
 
@@ -155,7 +155,7 @@ I think the benefits and negatives above apply to the overall usage of Dribbble 
 I’d like to try using Dribbble and Forrst for feedback on a longer-term project. I can imagine they’re potentially useful for the in-house designers of web apps, creating a buzz around teaser shots and getting feedback on visual elements, especially if they’re used regularly.
 
 {{< figured caption="The final Stockyoo logo" >}}
-  {{< imgsrcset class="wp-image-229" title="The final Stockyoo logo" original="/images/2010/09/Screen-shot-2010-09-14-at-19.55.54.png" alt="The final Stockyoo logo" >}}
+  {{< imgsrcset original="Screen-shot-2010-09-14-at-19.55.54.png" alt="The final Stockyoo logo" >}}
 {{< /figured >}}
 
 ---

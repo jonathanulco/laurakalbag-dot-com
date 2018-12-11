@@ -45,6 +45,7 @@ I had an epiphany in a spin class. I realised that just going along and doing wh
 It’s lonely freelancing from home. Especially when you live by yourself. Working out has a few more benefits, I get to see and speak to real human beings (rather than magical beings on Twitter) and I am forced to leave my desk by 6pm in order to be at the classes by 6.30pm most weekday evenings. I’m usually far too exhausted to work after the gym, which also results in me having lovely, proper sleep as my body is now physically exhausted rather than just mentally-frustrated from a day in front of the computer.
 
 <h2 id="main-review">Get on with the review of Fitbit!</h2>
+
 Ok, so here’s where the [Fitbit](http://www.shareasale.com/r.cfm?b=286239&amp;u=660076&amp;m=31379&amp;urllink=&amp;afftrack=) comes in. I got a [Jawbone Up band](http://jawbone.com/up/) for Christmas, but it went the way of all the other bands and was kaput within two weeks. Frustrated by the experience ([they’ve still not got new hardware in stock](http://jawbone.com/up/buy)!) I decided to buy a Fitbit on impulse.
 
 ### The Fitbit bit
@@ -82,7 +83,7 @@ Now by itself, you could argue that the Fitbit is just a rather fancy, slightly 
 {{< figured caption="The Fitbit dashboard" >}}
   	{{< imgsrcset original="fitbit-dashboard.jpg" alt="The Fitbit dashboard" >}}
 {{< /figured >}}
-
+  
 ### Sleep log
 
 Starting with the sleep log, the Fitbit will tell you how long you slept for, how often you woke up and use that to judge your quality of sleep. This is pretty handy if you want to improve your sleep quality, especially as you can see your sleep history, comparing each night.
@@ -166,7 +167,7 @@ I make use of the Mood log a fair bit. I think it’s healthy to assess your moo
 I’ve also made use of the one custom tracker you’re allowed on the free plan (unlimited on Premium) to record how many fruits and vegetables I eat in a day. This is a great motivation for me to eat more!
 
 {{< figured caption="my custom fruit and veg tracker" >}}
-  	{{< imgsrcset original="fruit-and-veg-960x425.jpg" alt="my custom fruit and veg tracker" >}}
+  	{{< imgsrcset original="fruit-and-veg.jpg" alt="my custom fruit and veg tracker" >}}
 {{< /figured >}}
 
 ### Email Motivations
