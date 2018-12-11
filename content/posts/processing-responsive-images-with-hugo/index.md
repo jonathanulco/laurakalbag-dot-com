@@ -54,12 +54,12 @@ It took a long time to get my head around page bundles. The Hugo documentation c
 
 So, to put my blog posts in page bundle hierarchy, where its images could be used as resources, I had to restructure them to match the following pattern:
 
-{{< highlight markdown >}}
+```
 /processing-responsive-images-with-hugo
 - index.md
 - screenshot.jpg
 - screenshot2.jpg
-{{< /highlight >}}
+```
 
 If you name your page `_index.md`, the images will not register as page resources, the image processing will not work. I lost an hour to that, I hope you don’t!
 
@@ -81,7 +81,7 @@ This will output the final HTML, resizing `theonion.jpg` into three sizes, 500px
 
 {{< highlight html >}}
 <img sizes="(min-width: 35em) 1200px, 100vw" 
-  srcset="/you-wont-believe-what-happens-next/006_hua7a82b7ab3c199a5d03fc2f0c814946c_472240_500x0_resize_q100_gaussian.jpg 500w, /you-wont-believe-what-happens-next/006_hua7a82b7ab3c199a5d03fc2f0c814946c_472240_800x0_resize_q100_gaussian.jpg 800w, /you-wont-believe-what-happens-next/006_hua7a82b7ab3c199a5d03fc2f0c814946c_472240_1200x0_resize_q100_gaussian.jpg 1200w" src="/you-wont-believe-what-happens-next/006_hua7a82b7ab3c199a5d03fc2f0c814946c_472240_1200x0_resize_q100_gaussian.jpg" 
+  srcset="/you-wont-believe-what-happens-next/006_…_472240_500x0_resize_q100_gaussian.jpg 500w, /you-wont-believe-what-happens-next/006_…_472240_800x0_resize_q100_gaussian.jpg 800w, /you-wont-believe-what-happens-next/006_…_472240_1200x0_resize_q100_gaussian.jpg 1200w" src="/you-wont-believe-what-happens-next/006_…_472240_1200x0_resize_q100_gaussian.jpg" 
   alt="Screenshot of the Onion homepage">
 {{< /highlight >}}
 
@@ -90,7 +90,7 @@ This will output the final HTML, resizing `theonion.jpg` into three sizes, 500px
 Using the shortcode code:
 
 `layouts/shortcodes/img.html`:
-{{< highlight go >}}
+{{< highlight go-html-template >}}
 {{/* get file that matches the filename as specified as src="" in shortcode */}}
 {{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
 
@@ -161,10 +161,10 @@ I’ve also included CSS that uses the `grid` and `two` class names to lay out t
 {{< highlight html >}}
 <figure class="grid two">
   <img sizes="(min-width: 35em) 1200px, 100vw" srcset="
-  /photos/5/osky-1_hue1127f699de9d07d4014b30bcd236c11_694081_500x0_resize_q100_gaussian.jpg 500w, /photos/5/osky-1_hue1127f699de9d07d4014b30bcd236c11_694081_800x0_resize_q100_gaussian.jpg 800w" src="/photos/5/osky-1_hue1127f699de9d07d4014b30bcd236c11_694081_1200x0_resize_q100_gaussian.jpg" 
+  /photos/5/osky-1_…_500x0_resize_q100_gaussian.jpg 500w, /photos/5/osky-1_…_800x0_resize_q100_gaussian.jpg 800w" src="/photos/5/osky-1_…_1200x0_resize_q100_gaussian.jpg" 
   alt="Selfie of me and Oskar the huskamute, he’s looking at me.">
-  <img sizes="(min-width: 35em) 1200px, 100vw" srcset="/photos/5/osky-2_hu134a8841c4b5d9e756df23965ed25486_687491_500x0_resize_q100_gaussian.jpg 500w, /photos/5/osky-2_hu134a8841c4b5d9e756df23965ed25486_687491_800x0_resize_q100_gaussian.jpg 800w"   
-  src="/photos/5/osky-2_hu134a8841c4b5d9e756df23965ed25486_687491_1200x0_resize_q100_gaussian.jpg" 
+  <img sizes="(min-width: 35em) 1200px, 100vw" srcset="/photos/5/osky-2_…_500x0_resize_q100_gaussian.jpg 500w, /photos/5/osky-2_…_800x0_resize_q100_gaussian.jpg 800w"   
+  src="/photos/5/osky-2_…_1200x0_resize_q100_gaussian.jpg" 
   alt="Selfie of me and Oskar the huskamute, he’s licking my face.">
   <figcaption>
     <p>Inevitable</p>
@@ -178,7 +178,7 @@ Using the shortcode code:
 
 `layouts/shortcodes/figure.html`:
 
-{{< highlight go >}}
+{{< highlight go-html-template >}}
 <figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
   {{.Inner}}
     <figcaption>
@@ -206,7 +206,7 @@ Nesting that many brackets makes it way too easy to make typos, so I just made a
 {{< /highlight >}}
 
 Using this shortcode `layouts/shortcodes/link.html`:
-{{< highlight html >}}
+{{< highlight go-html-template >}}
 <a {{ with .Get "href" }}href="{{.}}"{{ end }}>
   {{.Inner}}
 </a>
