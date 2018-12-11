@@ -54,12 +54,12 @@ It took a long time to get my head around page bundles. The Hugo documentation c
 
 So, to put my blog posts in page bundle hierarchy, where its images could be used as resources, I had to restructure them to match the following pattern:
 
-```
+{{< highlight markdown >}}
 /processing-responsive-images-with-hugo
 - index.md
 - screenshot.jpg
 - screenshot2.jpg
-```
+{{< /highlight >}}
 
 If you name your page `_index.md`, the images will not register as page resources, the image processing will not work. I lost an hour to that, I hope you don’t!
 
@@ -73,23 +73,24 @@ As my blog posts were all previously in a WordPress-style hierarchy that had bee
 
 In a post, I can include an image in the markdown using the `img` shortcode:
 
-```markdown
+{{< highlight markdown >}}
 {{</* img src="theonion.jpg" alt="Screenshot of the Onion homepage" */>}}
-```
+{{< /highlight >}}
 
 This will output the final HTML, resizing `theonion.jpg` into three sizes, 500px wide, 800px wide, and 1200px wide. For browsers that do not support the `srcset` attribute, the `src` is set to one of the middle-sized images (hopefully not too big too load or too small to look ok.) The `sizes` attribute has a sensible default for images that fill most of/the whole width of the viewport, but this can be overridden in the shortcode:
-```html
+
+{{< highlight html >}}
 <img sizes="(min-width: 35em) 1200px, 100vw" 
   srcset="/you-wont-believe-what-happens-next/006_hua7a82b7ab3c199a5d03fc2f0c814946c_472240_500x0_resize_q100_gaussian.jpg 500w, /you-wont-believe-what-happens-next/006_hua7a82b7ab3c199a5d03fc2f0c814946c_472240_800x0_resize_q100_gaussian.jpg 800w, /you-wont-believe-what-happens-next/006_hua7a82b7ab3c199a5d03fc2f0c814946c_472240_1200x0_resize_q100_gaussian.jpg 1200w" src="/you-wont-believe-what-happens-next/006_hua7a82b7ab3c199a5d03fc2f0c814946c_472240_1200x0_resize_q100_gaussian.jpg" 
   alt="Screenshot of the Onion homepage">
-```
+{{< /highlight >}}
 
 [See this image example in action on my post ‘Digital Assistants, Facebook Quizzes, And Fake News! You Won’t Believe What Happens Next’](/you-wont-believe-what-happens-next/).
 
 Using the shortcode code:
 
 `layouts/shortcodes/img.html`:
-```go
+{{< highlight go >}}
 {{/* get file that matches the filename as specified as src="" in shortcode */}}
 {{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
 
@@ -138,7 +139,7 @@ Using the shortcode code:
     src="{{ $src.RelPermalink }}" 
   {{ end }}
   {{ with .Get "alt" }}alt='{{.}}'{{ end }}>
-```
+{{< /highlight >}}
 
 Reading the comments above, you might notice that Hugo will upscale small images, so if your original image is only 1200px wide, it will still generate a blurry mess at 1500px wide. My solution was to include the images in the srcset list only if they were narrower than the original width.
 
@@ -146,18 +147,18 @@ Reading the comments above, you might notice that Hugo will upscale small images
 
 In a post, I can include one or more images wrapped in a figure using the `figure` shortcode:
 
-```markdown
+{{< highlight markdown >}}
 {{</* figure class="grid two" figcaption="Inevitable" */>}}
   {{</* img src="osky-1.jpg" alt="Selfie of me and Oskar the huskamute, he’s looking at me." */>}}
   {{</* img src="osky-2.jpg" alt="Selfie of me and Oskar the huskamute, he’s licking my face." */>}}
 {{</* /figure */>}}
-```
+{{< /highlight >}}
 
 This uses the `img` shortcode, and wraps it in the `figure` shortcode, just as you would with the `<img>` and `<figure>` elements in the HTML. The figcaption is included in the figure shortcode though (this wouldn’t work in HTML!) I may adjust that part of the shortcode to behave more like the `<figure>` HTML in the future.
 
 I’ve also included CSS that uses the `grid` and `two` class names to lay out the images to make better use of the available space. This will output the following HTML, similar to the previous example, but with an extra `figure` around it:
 
-```html
+{{< highlight html >}}
 <figure class="grid two">
   <img sizes="(min-width: 35em) 1200px, 100vw" srcset="
   /photos/5/osky-1_hue1127f699de9d07d4014b30bcd236c11_694081_500x0_resize_q100_gaussian.jpg 500w, /photos/5/osky-1_hue1127f699de9d07d4014b30bcd236c11_694081_800x0_resize_q100_gaussian.jpg 800w" src="/photos/5/osky-1_hue1127f699de9d07d4014b30bcd236c11_694081_1200x0_resize_q100_gaussian.jpg" 
@@ -169,7 +170,7 @@ I’ve also included CSS that uses the `grid` and `two` class names to lay out t
     <p>Inevitable</p>
   </figcaption>
 </figure>
-```
+{{< /highlight >}}
 
 [See this image example in action on a photo post](/photos/5/).
 
@@ -177,14 +178,14 @@ Using the shortcode code:
 
 `layouts/shortcodes/figure.html`:
 
-```go
+{{< highlight go >}}
 <figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
   {{.Inner}}
     <figcaption>
       <p>{{ .Get "figcaption" }}</p>
   </figcaption>
 </figure>
-```
+{{< /highlight >}}
 
 This shortcode is much simpler than the default Hugo `figure.html` shortcode because I’m fairly sure I use figures consistently on my site.
 
@@ -192,24 +193,24 @@ This shortcode is much simpler than the default Hugo `figure.html` shortcode bec
 
 Previously, I had a strange setup where, if I wanted an image to link to elsewhere, I would wrap the shortcode in a markdown link:
 
-```markdown
+{{< highlight markdown >}}
 [{{</* img etc */>}}](https://website.com)
-```
+{{< /highlight >}}
 
 Nesting that many brackets makes it way too easy to make typos, so I just made a quick little shortcode for links. It will work with anything, not just images, but is ideal for wrapping around other shortcodes:
 
-```markdown
+{{< highlight markdown >}}
 {{</* link href="https://theonion.com" */>}}
   {{</* img src="theonion.jpg" alt="Screenshot of the Onion homepage" */>}}
 {{</* /link */>}}
-```
+{{< /highlight >}}
 
 Using this shortcode `layouts/shortcodes/link.html`:
-```html
+{{< highlight html >}}
 <a {{ with .Get "href" }}href="{{.}}"{{ end }}>
   {{.Inner}}
 </a>
-```
+{{< /highlight >}}
 
 I could’ve called the shortcode “`a`” to be more consistent with HTML, but with my forgetful future self in mind, I thought `link` to be more memorable.
 
@@ -217,7 +218,7 @@ I could’ve called the shortcode “`a`” to be more consistent with HTML, but
 
 Even though these shortcodes are (mostly) consistent with their HTML output, I have a terrible memory for shortcodes, acronyms, and any type of code that doesn’t follow a memorable pattern. To save myself the time copy-pasting the shortcodes every time I write a new post, I added little placeholder shortcodes to the [archetypes](https://gohugo.io/content-management/archetypes) for each post type. So my `archetypes/post.md` file looks a little like this:
 
-```markdown
+{{< highlight markdown >}}
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
@@ -235,7 +236,7 @@ Post text<!--more-->
   {{</* img src="filenameX" alt="alt text" */>}}
 
 {{</* /figure */>}}
-```
+{{< /highlight >}}
 
 ### Handling galleries
 
@@ -243,7 +244,7 @@ One of the great features when using image processing in page bundles is that yo
 
 Each photo list page gets all the photo posts, and then uses my `summary-photo.html` partial to render each image. I needed the images in the photo gallery to display differently from a blog post. There’s no need to load massive images in for small thumbnails. I also wanted the photos arranged in a grid, so I used image processing to resize and crop the images the fill the desired space:
 
-```html
+{{< highlight html >}}
 <li class="post photo-post">
   <a href="{{.Permalink}}">
     <img
@@ -258,7 +259,7 @@ Each photo list page gets all the photo posts, and then uses my `summary-photo.h
     alt="{{ .Params.firstimagealt }}"/>
   </a>
 </li>
-```
+{{< /highlight >}}
 
 This code just grabs the first image associated with each photo post. But there’s a problem with only grabbing an image: there’s no alternative text (`alt` attribute) associated with that image file alone.
 
@@ -266,13 +267,13 @@ This code just grabs the first image associated with each photo post. But there�
 
 This is where the `alt="{{ .Params.firstimagealt }}"` comes in. For each photo post, it checks the post’s [front matter](https://gohugo.io/content-management/front-matter) for some alternative text. Going back to my earlier example, the first image in the figure looks like this:
 
-```markdown
+{{< highlight markdown >}}
 {{</* img src="osky-1.jpg" alt="Selfie of me and Oskar the huskamute, he’s looking at me." */>}}
-```
+{{< /highlight >}}
 
 So all I need to do is duplicate that `alt` text in the front matter of that post. The whole post looks something like this:
 
-```markdown
+{{< highlight markdown >}}
 ---
 title: 20 July 2018 21:28 IST
 date: 2018-07-20T21:28:23+01:00
@@ -288,7 +289,7 @@ primaryimagealt: "Selfie of me and Oskar the huskamute, he’s licking my face."
   {{</* img src="osky-2" alt="Selfie of me and Oskar the huskamute, he’s licking my face." */>}}
 {{</* /figure */>}}
 
-```
+{{< /highlight >}}
 
 In the future, I could probably find a way to automate this, rather than creating the repetition. But for now, my images are that bit more accessible, and that’s the important thing!
 
