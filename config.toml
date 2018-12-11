@@ -8,7 +8,6 @@ theme = "static-kalbag"
 [permalinks]
 	pages = "/:slug/"
 	posts = "/:filename/"
-	projects = "/project/:filename/"
 [params]
 	image = "/site-feature.png" # Default other stuff image for site
 	publisherLogo = "/site-feature.png" # Default other stuff image for site
