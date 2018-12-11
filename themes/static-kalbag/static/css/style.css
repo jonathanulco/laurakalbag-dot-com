@@ -334,7 +334,6 @@ pre {
 	font-size: 0.9em;
 	margin: 1em 0;
 	max-width: calc(var(--max-width)*1.195);
-	overflow-x: scroll;
 	overflow-y: visible;
 	padding: 2em var(--layout-unit) 3em var(--layout-unit);
 }
