@@ -1,9 +1,9 @@
 ---
 title: "Processing Responsive Images with Hugo"
-date: 2018-12-11T11:42:31Z
+date: 2018-12-13T11:42:31Z
 draft: true
-tags: []
-categories: []
+tags: ["responsive", "Image Processing", "Hugo"]
+categories: ["Development"]
 type: "post"
 body_classes: "blog"
 colours:
@@ -244,7 +244,7 @@ One of the great features when using image processing in page bundles is that yo
 
 Each photo list page gets all the photo posts, and then uses my `summary-photo.html` partial to render each image. I needed the images in the photo gallery to display differently from a blog post. There’s no need to load massive images in for small thumbnails. I also wanted the photos arranged in a grid, so I used image processing to resize and crop the images the fill the desired space:
 
-{{< highlight html >}}
+{{< highlight go-html-template >}}
 <li class="post photo-post">
   <a href="{{.Permalink}}">
     <img
@@ -293,4 +293,4 @@ imagealt: "Selfie of me and Oskar the huskamute, he’s licking my face."
 
 In the future, I could probably find a way to automate this, rather than creating the repetition. But for now, my images are that bit more accessible, and that’s the important thing!
 
-I hope documenting all of this will help someone else. I’m sorry my code examples aren’t very pretty and don’t have syntax highlighting. I’ll get on with that next!
+I hope documenting all of this will help someone else. I’m sorry my code examples aren’t very pretty, and I’ve not yet got all the dashes in to wrangle the [whitespace in Go](https://gohugo.io/templates/introduction/). Just before this post was published, I also got social media meta images in the `<head>` of my pages generating at the right sizes, so let me know if that might be a useful snippet to blog too!
