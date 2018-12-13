@@ -806,6 +806,188 @@ main, .site-header {
 	}
 }
 
+/*  - - - - - - - - SYNTAX HIGHLIGHTING
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
+/* Background */
+.chroma { color: hsl(var(--primary-bg)); background-color: hsl(var(--text)); }
+
+/* Error */
+.chroma .err { color: #FF8080; background-color: hsl(var(--darklinktext)) }
+
+/* LineTableTD */
+.chroma .lntd { vertical-align: top; padding: 0; margin: 0; border: 0; }
+
+/* LineTable */
+.chroma .lntable { border-spacing: 0; padding: 0; margin: 0; border: 0; width: auto; overflow: auto; display: block; }
+
+/* LineHighlight */
+.chroma .hl { display: block; width: 100%; background-color: hsl(var(--tab-two)) }
+
+/* LineNumbersTable */
+.chroma .lnt { margin-right: var(--layout-unit); padding: 0 var(--layout-unit) 0 var(--layout-unit); }
+
+/* LineNumbers */
+.chroma .ln { margin-right: var(--layout-unit); padding: 0 var(--layout-unit) 0 var(--layout-unit); }
+
+/* Keyword */
+.chroma .k { color: rgba(255,255,255,0.7) }
+
+/* KeywordConstant */
+.chroma .kc { color: rgba(255,255,255,0.7) }
+
+/* KeywordDeclaration */
+.chroma .kd { color: rgba(255,255,255,0.7) }
+
+/* KeywordNamespace */
+.chroma .kn { color: hsl(var(--tab-three)) }
+
+/* KeywordPseudo */
+.chroma .kp { color: rgba(255,255,255,0.7) }
+
+/* KeywordReserved */
+.chroma .kr { color: rgba(255,255,255,0.7) }
+
+/* KeywordType */
+.chroma .kt { color: rgba(255,255,255,0.7) }
+
+/* NameAttribute */
+.chroma .na { color: hsl(var(--tab-two)) }
+
+/* NameClass */
+.chroma .nc { color: hsl(var(--tab-two)) }
+
+/* NameConstant */
+.chroma .no { color: rgba(255,255,255,0.7) }
+
+/* NameDecorator */
+.chroma .nd { color: hsl(var(--tab-two)) }
+
+/* NameException */
+.chroma .ne { color: hsl(var(--tab-two)) }
+
+/* NameFunction */
+.chroma .nf { color: hsl(var(--tab-two)) }
+
+/* NameOther */
+.chroma .nx { color: hsl(var(--tab-two)) }
+
+/* NameTag */
+.chroma .nt { color: hsl(var(--tab-three)) }
+
+/* Literal */
+.chroma .l { color: rgba(255,255,255,0.8) }
+
+/* LiteralDate */
+.chroma .ld { color: rgba(255,255,255,0.6) }
+
+/* LiteralString */
+.chroma .s { color: hsl(var(--secondary-bg)) }
+
+/* LiteralStringAffix */
+.chroma .sa { color: hsl(var(--secondary-bg)) }
+
+/* LiteralStringBacktick */
+.chroma .sb { color: hsl(var(--secondary-bg)) }
+
+/* LiteralStringChar */
+.chroma .sc { color: hsl(var(--secondary-bg)) }
+
+/* LiteralStringDelimiter */
+.chroma .dl { color: hsl(var(--secondary-bg)) }
+
+/* LiteralStringDoc */
+.chroma .sd { color: hsl(var(--secondary-bg)) }
+
+/* LiteralStringDouble */
+.chroma .s2 { color: hsl(var(--secondary-bg)) }
+
+/* LiteralStringEscape */
+.chroma .se { color: rgba() }
+
+/* LiteralStringHeredoc */
+.chroma .sh { color: hsl(var(--secondary-bg)) }
+
+/* LiteralStringInterpol */
+.chroma .si { color: hsl(var(--secondary-bg)) }
+
+/* LiteralStringOther */
+.chroma .sx { color: hsl(var(--secondary-bg)) }
+
+/* LiteralStringRegex */
+.chroma .sr { color: hsl(var(--secondary-bg)) }
+
+/* LiteralStringSingle */
+.chroma .s1 { color: hsl(var(--secondary-bg)) }
+
+/* LiteralStringSymbol */
+.chroma .ss { color: hsl(var(--secondary-bg)) }
+
+/* LiteralNumber */
+.chroma .m { color: rgba() }
+
+/* LiteralNumberBin */
+.chroma .mb { color: rgba() }
+
+/* LiteralNumberFloat */
+.chroma .mf { color: rgba() }
+
+/* LiteralNumberHex */
+.chroma .mh { color: rgba() }
+
+/* LiteralNumberInteger */
+.chroma .mi { color: rgba() }
+
+/* LiteralNumberIntegerLong */
+.chroma .il { color: rgba() }
+
+/* LiteralNumberOct */
+.chroma .mo { color: rgba() }
+
+/* Operator */
+.chroma .o { color: hsl(var(--tab-three)) }
+
+/* OperatorWord */
+.chroma .ow { color: hsl(var(--tab-three)) }
+
+/* Comment */
+.chroma .c { color: hsl(var(--tab-four)); }
+
+/* CommentHashbang */
+.chroma .ch { color: hsl(var(--tab-four)); }
+
+/* CommentMultiline */
+.chroma .cm { color: hsl(var(--tab-four)); }
+
+/* CommentSingle */
+.chroma .c1 { color: hsl(var(--tab-four)); }
+
+/* CommentSpecial */
+.chroma .cs { color: hsl(var(--tab-four)); }
+
+/* CommentPreproc */
+.chroma .cp { color: hsl(var(--tab-four)); }
+
+/* CommentPreprocFile */
+.chroma .cpf { color: hsl(var(--tab-four)); }
+
+/* GenericDeleted */
+.chroma .gd { color: hsl(var(--tab-three)) }
+
+/* GenericEmph */
+.chroma .ge { font-style: italic }
+
+/* GenericInserted */
+.chroma .gi { color: hsl(var(--tab-two)) }
+
+/* GenericStrong */
+.chroma .gs { font-weight: bold }
+
+/* GenericSubheading */
+.chroma .gu { color: hsl(var(--tab-four)); }
+
+
 /*  - - - - - - - - COLOUR THEMES 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
