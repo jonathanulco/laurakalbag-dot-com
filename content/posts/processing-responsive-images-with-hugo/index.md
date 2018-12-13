@@ -17,10 +17,6 @@ colours:
     tab-four: "189,37%,64%" # hsl(189,37%,64%)
     tab-five: "200,54%,57%" # hsl(200,54%,57%)
     tab-six: "205,68%,51%" # hsl(205,68%,51%)
-image: ""
-imagealt: ""
-description: ""
-imagealt: ""
 ---
 
 Over the last few months, I’d become embarrassed to share my blog posts, particularly image-heavy posts, as I was handling responsive images so badly. The images were all huge and it was my only big barrier in web performance (no tracking here!). With an archive of blog posts going back nearly a decade, it was going to be a big job to get my whole site working consistently, but I had an inkling I might be able to do it with [Hugo’s Image Processing](https://gohugo.io/content-management/image-processing/).<!--more-->
@@ -42,6 +38,10 @@ Over the last few weeks, iteratively and clumsily, I’ve developed a system tha
 **For maintainability:**
 
 - An example of the shortcode is included by default with every new post. Because I have a terrible memory, and I can only keep updating my blog if it’s *really* easy to do so.
+
+## Responsive images
+
+*Edit*: I learned loads about `srcset` and responsive images from Mat Marquis’s wonderful book, [Image Performance](https://abookapart.com/products/image-performance). [Eric Portis’s thorough Srcset and sizes post](https://ericportis.com/posts/2014/srcset-sizes/) also helped me understand the basics with loads of examples.
 
 ## Hugo page bundles
 
@@ -296,3 +296,4 @@ imagealt: "Selfie of me and Oskar the huskamute, he’s licking my face."
 In the future, I could probably find a way to automate this, rather than creating the repetition. But for now, my images are that bit more accessible, and that’s the important thing!
 
 I hope documenting all of this will help someone else. I’m sorry my code examples aren’t very pretty, and I’ve not yet got all the dashes in to wrangle the [whitespace in Go](https://gohugo.io/templates/introduction/). Just before this post was published, I also got social media meta images in the `<head>` of my pages generating at the right sizes, so let me know if that might be a useful snippet to blog too!
+
