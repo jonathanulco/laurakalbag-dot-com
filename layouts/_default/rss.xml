@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ if eq .Type "photos" }}Photos from {{ .Site.Title }}{{ else if eq .Type "notes" }}Notes from {{ .Site.Title }}{{ else if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else if eq .Title "Home" }}All posts on {{ .Site.Title }}{{ else }}{{ with .Title }}Posts from {{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ .Site.Title }}’s {{ if eq .Type "photos" }}Photos{{ else if eq .Type "notes" }}Notes{{ else if eq .Title "Home" }}Blog Posts, Photos and Notes{{ else }}Blog Posts{{ end }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent posts from {{ .Site.Title }}</description>
+    <description>{{ if eq .Title "Home" }}All the recent{{ else }}Recent{{ end }} {{ if eq .Type "photos" }}photos {{ else if eq .Type "notes" }}notes {{ else }}posts {{ end }}on laurakalbag.com</description>
     <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
     <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
     <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
