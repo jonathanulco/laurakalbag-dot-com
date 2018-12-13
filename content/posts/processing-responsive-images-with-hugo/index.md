@@ -21,7 +21,7 @@ colours:
 image: ""
 imagealt: ""
 description: ""
-primaryimagealt: ""
+imagealt: ""
 ---
 
 I’d got to the point where I was embarrassed to share my blog posts, particularly image-heavy posts, as I was handling responsive images so badly. The images were all huge and it was my only big barrier in web performance (no tracking here!). With an archive of blog posts going back nearly a decade, it was going to be a big job to get my whole site working consistently, but I had an inkling I might be able to do it with [Hugo’s Image Processing](https://gohugo.io/content-management/image-processing/).<!--more-->
@@ -256,7 +256,7 @@ Each photo list page gets all the photo posts, and then uses my `summary-photo.h
         {{ end }}
       {{ end }}
     {{ end }}
-    alt="{{ .Params.firstimagealt }}"/>
+    alt="{{ .Params.imagealt }}"/>
   </a>
 </li>
 {{< /highlight >}}
@@ -265,7 +265,7 @@ This code just grabs the first image associated with each photo post. But there�
 
 ### Making the gallery more accessible
 
-This is where the `alt="{{ .Params.firstimagealt }}"` comes in. For each photo post, it checks the post’s [front matter](https://gohugo.io/content-management/front-matter) for some alternative text. Going back to my earlier example, the first image in the figure looks like this:
+This is where the `alt="{{ .Params.imagealt }}"` comes in. For each photo post, it checks the post’s [front matter](https://gohugo.io/content-management/front-matter) for some alternative text. Going back to my earlier example, the first image in the figure looks like this:
 
 {{< highlight markdown >}}
 {{</* img src="osky-1.jpg" alt="Selfie of me and Oskar the huskamute, he’s looking at me." */>}}
@@ -281,7 +281,7 @@ tags: ["oskar"]
 aliases:
   - /photos/2018/07/20/21/28/index.md
 body_classes: "notes latest"
-primaryimagealt: "Selfie of me and Oskar the huskamute, he’s licking my face."
+imagealt: "Selfie of me and Oskar the huskamute, he’s licking my face."
 ---
 
 {{</* figure class="grid two" figcaption="Inevitable" */>}}

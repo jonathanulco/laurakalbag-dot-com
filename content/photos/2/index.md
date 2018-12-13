@@ -21,7 +21,7 @@ colours:
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 twitterurl: "https://twitter.com/laurakalbag/status/1012998982036049920"
-primaryimagealt: "Oskar the huskamute looking back at the camera, surrounded by colourful woodland."
+imagealt: "Oskar the huskamute looking back at the camera, surrounded by colourful woodland."
 ---
 
 {{< figure figcaption="Had to do a late walk last night because it was so hot. Bonus was the glory of golden hour." >}}

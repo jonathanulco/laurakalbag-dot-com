@@ -21,7 +21,7 @@ colours:
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 twitterurl: https://twitter.com/gigapup/status/996736503173787649
 description: "Springtime!"
-primaryimagealt: "Oskar the huskamute standing in amongst bluebells in a wood."
+imagealt: "Oskar the huskamute standing in amongst bluebells in a wood."
 ---
 
 {{< figure figcaption="Springtime!" >}}

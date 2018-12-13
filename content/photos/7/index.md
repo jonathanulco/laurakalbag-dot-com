@@ -20,7 +20,7 @@ colours:
     tab-four: "199,52%,67%" # hsl(199,52%,67%)
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
-primaryimagealt: "Oskar the huskamute lying flat on the patio fast asleep."
+imagealt: "Oskar the huskamute lying flat on the patio fast asleep."
 ---
 
 {{< figure figcaption="Sleepy pup" >}}

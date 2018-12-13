@@ -22,7 +22,7 @@ colours:
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 twitterurl: "https://twitter.com/laurakalbag/status/1030440992921530368"
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100565725899701508"
-primaryimagealt: "Selfie with a small grey cat, she’s enjoying having her head stroked."
+imagealt: "Selfie with a small grey cat, she’s enjoying having her head stroked."
 ---
 
 {{< figure figcaption="Back in the homeland with the home cat." >}}

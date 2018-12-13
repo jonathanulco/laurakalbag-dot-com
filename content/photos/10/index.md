@@ -21,7 +21,7 @@ colours:
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 twitterurl: "https://twitter.com/laurakalbag/status/1024627555863801856"
-primaryimagealt: "A little wooden shelving unit made to look like a house, containing five pairs of rolled up socks with sleeping animal faces."
+imagealt: "A little wooden shelving unit made to look like a house, containing five pairs of rolled up socks with sleeping animal faces."
 ---
 
 {{< figure figcaption="Bought some cute socks online, not realising they’d come in their own house." >}}

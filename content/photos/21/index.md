@@ -20,7 +20,7 @@ colours:
     tab-four: "199,52%,67%" # hsl(199,52%,67%)
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
-primaryimagealt: "Paper printed icon graphic dangling by thread with a phone taking a photo of it."
+imagealt: "Paper printed icon graphic dangling by thread with a phone taking a photo of it."
 ---
 
 {{< figure class="grid four" figcaption="When you’re rubbish at 3D modelling software but want to get some vaguely realistic shading on your icon design…" >}}

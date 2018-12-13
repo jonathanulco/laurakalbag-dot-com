@@ -21,7 +21,7 @@ colours:
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100571131117625459"
-primaryimagealt: "small grey cat sitting on Aral’s lap looking chilled out."
+imagealt: "small grey cat sitting on Aral’s lap looking chilled out."
 ---
 
 {{< figure figcaption="Such a happy cat. Loves Aral’s lap." >}}

@@ -22,7 +22,7 @@ colours:
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 twitterurl: "https://twitter.com/laurakalbag/status/1031572395608494080"
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100583402305039222"
-primaryimagealt: "Me lying on my back on the grass next to Osky the huskamute who is yawning."
+imagealt: "Me lying on my back on the grass next to Osky the huskamute who is yawning."
 ---
 
 {{< figure figcaption="Mowed the overgrown garden. Now we’re too tired to get up." >}}

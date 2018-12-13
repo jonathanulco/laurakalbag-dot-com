@@ -21,7 +21,7 @@ colours:
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100567174692648743"
-primaryimagealt: "Cat sitting on laptop keyboard staring angrily into the camera."
+imagealt: "Cat sitting on laptop keyboard staring angrily into the camera."
 ---
 
 {{< figure figcaption="No more work for you." >}}

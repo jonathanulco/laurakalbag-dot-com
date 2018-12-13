@@ -21,7 +21,7 @@ colours:
     tab-five: "197,62%,59%" # hsl(197,62%,59%)
     tab-six: "196,68%,51%" # hsl(196,68%,51%)
 mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/100748427705939150"
-primaryimagealt: "Oskar the huskamute standing in the woods looking directly at the camera."
+imagealt: "Oskar the huskamute standing in the woods looking directly at the camera."
 ---
 
 {{< figure figcaption="We ❤️ the woods" >}}
