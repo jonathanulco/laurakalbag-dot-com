@@ -24,21 +24,24 @@ description: ""
 imagealt: ""
 ---
 
-I’d got to the point where I was embarrassed to share my blog posts, particularly image-heavy posts, as I was handling responsive images so badly. The images were all huge and it was my only big barrier in web performance (no tracking here!). With an archive of blog posts going back nearly a decade, it was going to be a big job to get my whole site working consistently, but I had an inkling I might be able to do it with [Hugo’s Image Processing](https://gohugo.io/content-management/image-processing/).<!--more-->
+Over the last few months, I’d become embarrassed to share my blog posts, particularly image-heavy posts, as I was handling responsive images so badly. The images were all huge and it was my only big barrier in web performance (no tracking here!). With an archive of blog posts going back nearly a decade, it was going to be a big job to get my whole site working consistently, but I had an inkling I might be able to do it with [Hugo’s Image Processing](https://gohugo.io/content-management/image-processing/).<!--more-->
 
 Over the last few weeks, iteratively and clumsily, I’ve developed a system that works for me:
 
-For writing content:
+**For writing content:**
+
 - My content is written in markdown, using shortcodes that mirror the HTML output as closely as possible.
 - Images live in the same folder as their post (in [page bundles](https://gohugo.io/content-management/page-bundles/)).
 - Every image can be used alone, wrapped in a `figure` with a `figcaption`, and/or wrapped in a link. Multiple images can be used inside one figure.
 - Every image has `alt` text, even if it’s used outside of its post.
 
-For responsiveness:
+**For responsiveness:**
+
 - Each image is resized into multiple sizes by Hugo, and included in the `srcset` list for the `img`.
 - Images grouped in figures can be arranged in a responsive grid.
 
-For maintainability:
+**For maintainability:**
+
 - An example of the shortcode is included by default with every new post. Because I have a terrible memory, and I can only keep updating my blog if it’s *really* easy to do so.
 
 ## Hugo page bundles
@@ -52,7 +55,7 @@ It took a long time to get my head around page bundles. The Hugo documentation c
 - if a file is called `_index.md`, it is considered the index of a section/kind, and so uses the list.html template.
 - if a file is called `index.md`, it is considered the index of a page/post, and so uses the single.html template.
 
-So, to put my blog posts in page bundle hierarchy, where its images could be used as resources, I had to restructure them to match the following pattern:
+So, to put my blog posts in page bundle hierarchy, where their images could be used as resources, I had to restructure them to match the following pattern:
 
 ```
 /processing-responsive-images-with-hugo
