@@ -22,7 +22,8 @@ colours:
 twitterurl: ""
 mastodonurl: ""
 instagramurl: ""
-image: "/notes/2018/07/20/21/28/osky-1.jpg"
+image: "notes/2018/07/20/21/28/osky-1.jpg"
+imagealt: "Selfie of me and Oskar the huskamute, he’s looking at me."
 ---
 
 {{< figure class="grid two" figcaption="Inevitable" >}}

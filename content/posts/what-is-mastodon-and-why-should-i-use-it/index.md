@@ -17,7 +17,7 @@ colours:
     tab-four: "219,50%,74%" # hsl(219,50%,74%)
     tab-five: "213,56%,66%" # hsl(213,56%,66%)
     tab-six: "211,61%,60%" # hsl(211,61%,60%)
-image: "/images/2018/08/mastodon-elephant.png"
+image: "images/2018/08/mastodon-elephant.png"
 imagealt: "The Mastodon mascot is a cute elephant."
 description: "Now you know why I’m moving away from Twitter, you probably have a vague idea of what I’m looking for in a social network. Mastodon is unique for a few reasons: it is federated, ethical, and inclusive."
 ---

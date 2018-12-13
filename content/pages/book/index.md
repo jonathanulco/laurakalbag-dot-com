@@ -21,7 +21,8 @@ colours:
     tab-six: "137,64%,42%" # hsl(137,64%,42%)
 slug: "book"
 description: "I wrote a book! It’s called *Accessibility For Everyone*, and you can buy it in paperback and ebook from A Book Apart."
-image: "/images/2017/12/book-collage.jpg"
+image: "images/2017/12/book-collage.jpg"
+imagealt: "Collage of photos of the Accessibility For Everyone paperback posted on people’s desks, tables and outside."
 ---
 
 I wrote a book! It’s called *Accessibility For Everyone*, and you can [buy it in paperback and ebook from A Book Apart](https://abookapart.com/products/accessibility-for-everyone), and as an [audiobook on Audible](https://www.audible.com/pd/Science-Technology/Accessibility-for-Everyone-Audiobook/B07G24HLXS?source_code=AUDFPWS0223189MWT-BK-ACX0-123554&ref=acx_bty_BK_ACX0_123554_rh_us&ipRedirectOverride=true&overrideBaseCountry=true&pf_rd_p=a2114686-0da6-4a69-b176-801cc68d86c0&pf_rd_r=CJKZGDNQVCGAKRBFC54Z&). Do you want to know about how to make your website more accessible to people with disabilities and other accessibility-related needs? My book helps you do just that.<!--more-->

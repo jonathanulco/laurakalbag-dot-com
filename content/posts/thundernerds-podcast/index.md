@@ -17,7 +17,7 @@ colours:
   tab-four: "5,55%,70%" # hsl(5,55%,70%)
   tab-five: "6,59%,62%" # hsl(6,59%,62%)
   tab-six: "4,57%,53%" # hsl(4,57%,53%)
-image: "/images/2018/10/thundernerds.jpg"
+image: "images/2018/10/thundernerds.jpg"
 imagealt: "Screenshot of the video showing me in my spare room talking into a microphone with the three hosts’ video feeds visible in the corner."
 description: ""
 ---

@@ -23,7 +23,7 @@ colours:
 twitterurl: ""
 mastodonurl: ""
 instagramurl: ""
-image: "/images/2018/08/book.jpg"
+image: "images/2018/08/book.jpg"
 imagealt: "Two Accessibility For Everyone paperback books stacked."
 description: ""
 ---
