@@ -1,7 +1,6 @@
 ---
 title: "Processing Responsive Images with Hugo"
-date: 2018-12-13T11:42:31Z
-draft: true
+date: 2018-12-13T16:19:31Z
 tags: ["responsive", "Image Processing", "Hugo"]
 categories: ["Development"]
 type: "post"
