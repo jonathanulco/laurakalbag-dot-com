@@ -1,7 +1,6 @@
 ---
 title: "A little update on the Accessibility For Everyone audiobook sales"
 date: 2018-12-19T09:23:18Z
-draft: true
 tags: ["Accessibility For Everyone", "book", "audiobook", "sales"]
 categories: ["Accessibility", "Writing"]
 type: "post"
