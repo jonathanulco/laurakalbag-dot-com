@@ -6,7 +6,7 @@
     <meta name="twitter:description" content="{{ .Summary }}">
     {{ else }}
     <meta name="twitter:title" content="{{ .Title }}">
-    <meta name="twitter:description" content="{{ .Description }}">
+    <meta name="twitter:description" content="{{ .Summary }}">
     {{ end }}
     {{ if .Params.Image }}
     <!-- Twitter Summary Card with Large Image data -->
@@ -40,7 +40,11 @@
     <meta property="og:type" content="article">
     <meta property="og:title" content="{{ .Title }}">
     <meta property="og:url" content="{{ .Permalink }}">
+    {{ if .Params.Description }}
     <meta property="og:description" content="{{ .Params.Description }}">
+    {{ else }}
+    <meta property="og:description" content="{{ .Summary }}">
+    {{ end }}
 
     {{ if .Params.Image }}
     <!-- If image present -->

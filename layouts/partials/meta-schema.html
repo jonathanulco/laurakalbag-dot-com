@@ -1,7 +1,7 @@
   <!-- From Indiego partials/micro-schema.html https://github.com/growdigital/indiego/blob/master/themes/indiegomin/layouts/partials/micro-schema.html -->
   <!-- Schema.org markup -->
   <meta itemprop="headline" content="{{ .Title }}">
-  <meta itemprop="description" content="{{ .Description }}">
+  <meta itemprop="description" content="{{ .Summary }}">
   {{ if .Params.image }}
   <meta itemprop="image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
   {{ else if eq .Type "photos" }}
