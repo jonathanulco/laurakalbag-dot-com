@@ -17,7 +17,7 @@ colours:
     tab-four: "17,40%,86%" # hsl(17,40%,86%)
     tab-five: "350,55%,85%" # hsl(350,55%,85%)
     tab-six: "337,75%,84%" # hsl(337,75%,84%)
-image: "/posts/my-2018/osky.jpg"
+image: "posts/my-2018/osky.jpg"
 imagealt: "Oskar the huskamute lounging in a statuesque manner on the top of some steps, surrounded by plants and flowers."
 ---
 
