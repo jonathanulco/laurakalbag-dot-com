@@ -1,14 +1,12 @@
-<li class="post photo-post">
-    <a href="{{.Permalink}}">
-        <img
-        {{ with .Resources }}
-            {{ with .GetMatch "{*.*,*.jpg,*.png,*.jpeg}" }}
-                 {{ $photo := .Fill "600x600" }}
-                 {{ with $photo }}
-                      src='{{ .Permalink }}'  
-                 {{ end }}
-            {{ end }}
+<a href="{{.Permalink}}">
+    <img
+    {{ with .Resources }}
+        {{ with .GetMatch "{*.*,*.jpg,*.png,*.jpeg}" }}
+                {{ $photo := .Fill "600x600" }}
+                {{ with $photo }}
+                    src='{{ .Permalink }}'  
+                {{ end }}
         {{ end }}
-        alt="{{ .Params.imagealt }}"/>
-    </a>
-</li>
+    {{ end }}
+    alt="{{ .Params.imagealt }}"/>
+</a>

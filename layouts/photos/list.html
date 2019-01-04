@@ -8,7 +8,7 @@
 	<ul class="posts-list latest-photos">
 		{{- $section := where .Data.Pages "Section" .Section -}}
 		{{- range $section -}}
-			{{ partial "summary-photo.html" . }}
+			<li class="post photo-post">{{ partial "summary-photo.html" . }}</li>
 		{{ end }}
 	</ul>
 {{ end }}
