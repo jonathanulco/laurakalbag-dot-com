@@ -4,17 +4,6 @@
 			{{ .Content }}
 		</div>
 	</article>
-	{{ range first 1 (where .Data.Pages "Section" "notes") }}
-		<h2>Latest Note</h2>
-		<div class="notes-list note-post">
-			<h3>
-				<a href="{{ .URL }}">
-				{{- .Title -}}
-				</a>
-			</h3>
-			{{ partial "summary.html" . }}
-		</div>
-	{{ end }}
 	{{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
 	{{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
 	{{/* Create a variable with that section to use in multiple places. */}}
@@ -29,7 +18,7 @@
 				{{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
 				{{ with .Site.GetPage "section" $section_name }}
 					<h2>
-						Recent Posts
+						Recent blog posts
 					</h2>
 				{{ end }}
 				<ul class="posts-list">
@@ -46,5 +35,22 @@
 				</ul>
 				</section>
 
+	{{ end }}
+	{{ range first 1 (where .Data.Pages "Section" "notes") }}
+		<h2>Latest Note</h2>
+		<div class="notes-list note-post">
+			<h3>
+				<a href="{{ .URL }}">
+				{{- .Title -}}
+				</a>
+			</h3>
+			{{ partial "summary.html" . }}
+		</div>
+	{{ end }}
+	{{ range first 1 (where .Data.Pages "Section" "photos") }}
+		<h2>Latest Photo</h2>
+		<div class="photos-list photo-post">
+			{{ partial "summary-photo.html" . }}
+		</div>
 	{{ end }}
 {{ end }}
