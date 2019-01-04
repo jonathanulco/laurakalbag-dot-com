@@ -595,6 +595,26 @@ body.contact-me .navigation-menu a[href="/"] {
 /*  - - - - - - - - VIEW-SPECIFIC
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
+/*  - - - - - - - - HOME
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+@media screen and (min-width: 70em) {
+	/* make latest note and photo on homepage split into two columns on wider views */
+	body.home .latest {
+		display: grid;
+		grid-template-columns: auto 50%;
+	}
+}
+
+body.home .note {
+	margin-left: 0;
+}
+
+body.home .latest-note h3 {
+    margin-top: 1.2em;
+}
+
+
 /*  - - - - - - - - BLOG
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
