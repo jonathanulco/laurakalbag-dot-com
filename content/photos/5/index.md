@@ -1,7 +1,7 @@
 ---
 title: 20 July 2018 21:28 IST
 date: 2018-07-20T21:28:23+01:00
-tags: ["oskar"]
+tags: ["oskar", "selfie"]
 categories: []
 visibility: ["public"]
 aliases:

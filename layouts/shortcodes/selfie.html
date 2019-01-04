@@ -1,0 +1,22 @@
+{{/* get latest photo post with the tag of "selfie" */}}
+
+{{ $selfie := .Site.Taxonomies.tags.selfie  }}
+{{ range ($selfie.Pages.GroupBy "Section") }}
+		{{ range last 1 .Pages.ByDate }}
+		<figure class="selfie">
+		<a href="{{.Permalink}}">
+			<img
+			{{ with .Resources }}
+				{{ with .GetMatch "{*.*,*.jpg,*.png,*.jpeg}" }}
+						{{ $photo := .Fit "400x400" }}
+						{{ with $photo }}
+							src='{{ .Permalink }}'  
+						{{ end }}
+				{{ end }}
+			{{ end }}
+			alt="{{ .Params.imagealt }}"/>
+		</a>
+		<figcaption><p>The latest selfie of me from <a href="/photos"></a>my Photos</a>.</p></figcaption>
+		</figure>
+ 	    {{ end }}
+{{ end }}

@@ -1,7 +1,7 @@
 ---
 title: 30 July 2018 18:37 IST
 date: 2018-07-30T18:37:47+01:00
-tags: []
+tags: ["selfie", "oskar"]
 categories: []
 type: ["photo", "latest"]
 visibility: ["public"]
