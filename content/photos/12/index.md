@@ -1,7 +1,7 @@
 ---
 title: 17 August 2018 14:06 IST
 date: 2018-08-17T14:06:55+01:00
-tags: []
+tags: ["selfie", "cat"]
 categories: []
 type: ["photo", "latest"]
 visibility: ["public"]
