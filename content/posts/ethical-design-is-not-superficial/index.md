@@ -17,7 +17,7 @@ colours:
     tab-four: "189,37%,64%" # hsl(189,37%,64%)
     tab-five: "200,54%,57%" # hsl(200,54%,57%)
     tab-six: "205,68%,51%" # hsl(205,68%,51%)
-image: "ethical-design-is-not-superficial/panel.jpg"
+image: "/ethical-design-is-not-superficial/panel.jpg"
 imagealt: "Matt Alagiah, me, Alex Macleod, Zander Brade and Deborah Goschalk sitting on stools on a stage, I’m waving my hand while speaking and everyone else is listening to me."
 description: "We are seeing more and more organisations starting to talk about ethical design. Unfortunately I suspect this has less to do with caring about the impact of unethical design on society, democracy and the environment, and more to do with organisations attempting to distance themselves from similar businesses who are finding it impossible to continue to disguise their toxicity."
 ---
