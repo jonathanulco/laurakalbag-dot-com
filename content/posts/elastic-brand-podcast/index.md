@@ -1,7 +1,6 @@
 ---
 title: "Elastic Brand podcast"
 date: 2019-02-05T12:03:06Z
-draft: true
 categories: ["Design", "Podcasts"]
 tags: ["accessibility", "inclusivity", "ethics", "podcast"]
 type: "post"
