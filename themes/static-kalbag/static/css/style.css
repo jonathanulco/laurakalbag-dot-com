@@ -79,7 +79,6 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
 :root {
-    --max-width: 37em;
     /* set a specific variable for left/right margin and padding units */
     /* so it can be consistent throughout site regardless of font size */
     --layout-unit: 1rem;
@@ -123,12 +122,13 @@ html {
     
 @media screen and (min-width: 35em) {
     html {
-        font-size: 135%; /* all font sizes and rems scale from here */
+        font-size: 125%; /* all font sizes and rems scale from here */
     }
 }
 
 body {
-	background: hsl(var(--secondary-bg));
+	/* make background colour before footer same as footer */
+	background: hsl(var(--primary-bg));
 	color: hsl(var(--text));
 	font-family: var(--font-family);
 	letter-spacing: -0.02em;
@@ -146,7 +146,6 @@ h1, h2, h3 {
 }
 	
 h1 {
-	display: table; /* make background only cover space behind text */
 	font-size: 2.5em;
     margin-top: 1em;
 }
@@ -305,10 +304,6 @@ ul, ol {
 	margin: 1em var(--layout-unit);
 	padding-left: var(--layout-unit);
 }
-
-p, small {
-	max-width: var(--max-width);
-}
 	
 small {
     font-size: 0.9em;
@@ -333,7 +328,6 @@ pre {
 	/* make font slightly smaller for boxed code */
 	font-size: 0.9em;
 	margin: 1em 0;
-	max-width: calc(var(--max-width)*1.195);
 	overflow-y: visible;
 	padding: 2em var(--layout-unit) 3em var(--layout-unit);
 }
@@ -352,8 +346,11 @@ hr {
 hr {
 	border: hsl(var(--brilliant)) dashed 0.075em;
 	margin: 1em var(--layout-unit);
-	max-width: var(--max-width);
 }
+
+/*  - - - - - - - - LAYOUT
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
 
 /*  - - - - - - - - CLASSES AND IDs
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
@@ -380,7 +377,7 @@ figcaption, .site-footer p, .site-footer small, .note {
 }
 
 .site-header {
-	background: hsl(var(--secondary-bg));
+	background: hsl(var(--primary-bg));
 	/* to clear contained margins */
 	padding: 0.5em 0 0 0;
 }
@@ -394,7 +391,7 @@ figcaption, .site-footer p, .site-footer small, .note {
 }
 	
 .site-title a {
-	background: hsl(var(--secondary-bg));
+	background: hsl(var(--primary-bg));
 	color: hsl(var(--text));
 	text-decoration: none;
 }
@@ -402,12 +399,9 @@ figcaption, .site-footer p, .site-footer small, .note {
 /*  - - - - - - - - MAIN */
 
 #content {
-	background: hsl(var(--primary-bg));
+	background: white;
 	/* to clear contained margins */
 	padding: 0.5em 0 4.5em;
-	/* to make svg stay below content */
-	position: relative;
-	z-index: 2;
 }
 
 .entry-notes {
@@ -421,7 +415,7 @@ figcaption, .site-footer p, .site-footer small, .note {
 /*  - - - - - - - - FOOTER */
 	
 .site-footer {
-	background: hsl(var(--secondary-bg));
+	background: hsl(var(--primary-bg));
 	/* to clear contained margins */
 	padding: 0.5em 0;
 }
@@ -578,20 +572,6 @@ body.contact-me .navigation-menu a[href="/"] {
 	color: hsl(var(--darklinktext));
 }
 
-/* add colour behind top elements on page so image doesn’t make it hard to read */
-#content h1, #content h2, #content .entry-content > p:nth-of-type(1), #content .entry-content > p:nth-of-type(2) {
-	background: hsl(var(--primary-bg));
-	box-shadow: hsl(var(--primary-bg)) 0 0 0 calc(var(--layout-unit)*0.5);
-	position: relative; /* so we can use z-index */
-	z-index: 2;
-}
-		
-@media screen and (min-width: 18em) {
-	#content h1, #content main > h2:nth-of-type(1), #content  .entry-content > p:nth-of-type(1) {
-		box-shadow: hsl(var(--primary-bg)) 0 0 0 calc(var(--layout-unit)*0.5);
-	}
-}
-
 /*  - - - - - - - - VIEW-SPECIFIC
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
@@ -643,10 +623,6 @@ body.home .latest-note h3 {
 .posts-list .entry-meta, .resources-list .entry-meta, .notes-list .entry-meta {
 	font-family: var(--font-family-black);
 	font-weight: bold;
-}
-
-.entry-content ul, .entry-content ol {
-	max-width: var(--max-width);
 }
 
 main article .entry-meta {
@@ -798,7 +774,7 @@ figcaption {
 
 /* SVGs are included in the HTML because otherwise they can’t pick up from the CSS variables */
 
-.tilett, .tilet {
+.tilet {
 	display: block;
 	height: 15em;
 	margin-top: -0.5em; /* offset top margin */
@@ -811,7 +787,7 @@ figcaption {
 	z-index: -1; /* position behind everything */
 }
 
-main, .site-header {
+.site-header {
 	position: relative; /* allow absolute positioning inside */
 }
 
