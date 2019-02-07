@@ -818,6 +818,45 @@ main article .entry-meta {
 	background: none;
 }
 
+/*  - - - - - - - - LATEST
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+@media screen and (min-width: 37em) {
+	section.latest {
+		display: grid;
+		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+	}
+
+	section.latest h2,
+	section.latest p {
+		grid-column: 2 / 6;
+		margin-left: 0;
+	}
+
+	section.latest .latest-photos {
+		grid-column: 2 / 7;
+	}
+}
+
+.latest-photos {
+	margin-top: 1em;
+}
+
+.latest-photos .photo-post img {
+	display: block;
+	margin: 0;
+}
+
+@media screen and (min-width: 15em) {
+	.latest-photos {
+		display: grid;
+		grid-template-columns: repeat(5, minmax(20%, 5.285714285em));
+		grid-gap: 0.25em;
+		justify-content: space-between;
+	}
+
+}
+
 /*  - - - - - - - - MEDIA 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
@@ -893,26 +932,6 @@ figure.grid figcaption {
 figcaption {
 	display: block;
 	margin-top: 0.5em;
-}
-
-.latest-photos {
-	margin-top: 1em;
-}
-
-.latest-photos .photo-post img {
-	display: block;
-	margin: 0;
-}
-
-@media screen and (min-width: 15em) {
-	.latest-photos {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(12em, 1fr));
-		grid-auto-rows: minmax(12em, auto);
-		grid-gap: 0.25em;
-		justify-content: space-between;
-	}
-
 }
 
 body.about-me figure.selfie {
