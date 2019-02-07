@@ -506,9 +506,12 @@ figcaption, .site-footer p, .site-footer small, .note {
 
 .navigation-menu ul {
 	background: hsla(var(--tab-five), 0.1);
-	display: grid;
-	grid-template-rows: auto;
-	grid-template-columns: auto auto auto auto auto auto auto;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: stretch;
+	align-items: stretch;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
