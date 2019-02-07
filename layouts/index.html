@@ -12,7 +12,7 @@
 		{{/* Derive the section name  */}}
 		{{ $section_name := index (.Site.Params.mainSections) 0 }}
 
-			<section class="recent-posts">
+			<section class="latest">
 				{{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
 				{{ with .Site.GetPage "section" $section_name }}
 					<h2>
@@ -34,27 +34,25 @@
 				</section>
 
 	{{ end }}
-	<div class="latest">
-		<section class="latest-note">
-		{{ range first 1 (where .Data.Pages "Section" "notes") }}
-			<h2>Latest Note</h2>
-			<div class="note">
-				<h3>
-					<a href="{{ .URL }}">
-					{{- .Title -}}
-					</a>
-				</h3>
-				{{ partial "summary.html" . }}
-			</div>
-		{{ end }}
-		</section>
-		<section class="latest-photo">
-		{{ range first 1 (where .Data.Pages "Section" "photos") }}
-			<h2>Latest Photo</h2>
-			<div class="photo">
-				{{ partial "summary-photo.html" . }}
-			</div>
-		{{ end }}
-		</section>
-	</div>
+	<section class="latest">
+	{{ range first 1 (where .Data.Pages "Section" "notes") }}
+		<h2>Latest Note</h2>
+		<div class="note">
+			<h3>
+				<a href="{{ .URL }}">
+				{{- .Title -}}
+				</a>
+			</h3>
+			{{ partial "summary.html" . }}
+		</div>
+	{{ end }}
+	</section>
+	<section class="latest">
+	{{ range first 1 (where .Data.Pages "Section" "photos") }}
+		<h2>Latest Photo</h2>
+		<div class="photo">
+			{{ partial "summary-photo.html" . }}
+		</div>
+	{{ end }}
+	</section>
 {{ end }}

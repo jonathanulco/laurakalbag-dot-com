@@ -8,7 +8,7 @@
 	<section class="latest">
 		<h2 id="latest-photos">Photos</h2>
 		<p><a href="/photos">See all photos</a>. <a href="/photos/index.xml">Subscribe to the Photos RSS feed</a>.</p>
-		<ul class="posts-list latest-photos">
+		<ul class="latest-photos">
 			{{ range first 5 (where .Site.Pages "Section" "=" "photos") }}
 				{{ partial "summary-photo.html" . }}
 			{{ end }}
