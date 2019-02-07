@@ -39,6 +39,8 @@ If you think I might be a good fit for speaking at your event, please [drop me a
 
 ## Past Talks
 
+* **Aracon** in Berlin, Germany <abbr class="dtstart" title="2019-01-29">29th-30th January 2019</abbr>
+* **Designing For Tomorrow** in London, UK <abbr class="dtstart" title="2019-01-21">21st January 2019</abbr>
 * **Ask Direct Fundraising Summer School** in Dublin, Ireland <abbr class="dtstart" title="2018-07-12">12th-13th July 2018</abbr>
 * **Futurefest** in London, UK <abbr class="dtstart" title="2018-07-6">6th-7th July 2018</abbr>
 * **Webinale** in Berlin, Germany <abbr class="dtstart" title="2018-06-5">5th June 2018</abbr>
