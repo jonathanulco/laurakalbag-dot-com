@@ -389,7 +389,7 @@ hr {
 		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
 	}
 
-	.h-entry h1,
+	h1,
 	.h-entry .entry-meta,
 	.h-entry .entry-notes {
 		grid-column: 2 / 7;
@@ -566,6 +566,7 @@ nav {
 		/* 7 = number of columns = number of links in nav */
 		display: grid;
 		grid-template-columns: repeat(7, auto);
+		justify-content: left;
 		padding: 0;
 	}
 }
