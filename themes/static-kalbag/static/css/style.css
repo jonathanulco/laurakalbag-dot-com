@@ -210,6 +210,10 @@ h3, footer h2 {
 	font-size: 1.75em;
 }
 
+h3, h4, h5, h6 {
+	margin-top: 1em;
+}
+
 @media screen and (min-width: 35em) {
     h3, footer h2 {
         font-size: 2em;
@@ -555,7 +559,8 @@ nav {
 .navigation-menu ul {
 	background: hsla(var(--tab-five), 0.1);
 	display: flex;
-    flex-wrap: wrap;
+	flex-wrap: wrap;
+	justify-content: center;
 	grid-template-columns: repeat(7, 1fr);
 	list-style-type: none;
 	margin: 0;
@@ -884,6 +889,10 @@ figcaption {
 		justify-content: space-between;
 	}
 
+}
+
+body.about-me figure.selfie {
+	grid-column: 6 / 9;
 }
 
 /*  - - - - - - - - SYNTAX HIGHLIGHTING
