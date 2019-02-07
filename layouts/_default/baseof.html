@@ -42,8 +42,10 @@
 			{{ partial "header.html" .}}
 		{{ end }}
 
-		<main id="content">
+		<main>
+			<div id="content">
 			{{ block "main" . }}{{ end }}
+			</div>
 		</main>
 
 		{{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}

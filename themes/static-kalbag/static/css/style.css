@@ -193,15 +193,17 @@ h2#latest-photos, h2#latest-notes {
         font-size: 2em;
     }
 }
-	
-h1, h1 a, h2, h2 a {
-	/* for really big text or long words */
-	-ms-word-break: break-all;
-	word-break: break-all;
-	word-break: break-word;
-	-webkit-hyphens: auto;
-	-moz-hyphens: auto;
-    hyphens: auto;
+
+@media screen and (max-width: 35em) {
+	h1, h1 a, h2, h2 a {
+		/* for really big text or long words on narrow viewports */
+		-ms-word-break: break-all;
+		word-break: break-all;
+		word-break: break-word;
+		-webkit-hyphens: auto;
+		-moz-hyphens: auto;
+		hyphens: auto;
+	}
 }
 	
 h3, footer h2 {
@@ -260,7 +262,10 @@ a {
 	text-decoration: underline;
 	text-decoration-color: hsl(var(--brilliant));
 	-webkit-text-decoration-color: hsl(var(--brilliant));
-	/* for really long URLs */
+}
+
+@media screen and (max-width: 35em) {
+	/* for really long URLs on narrow viewports */
 	-ms-word-break: break-all;
 	word-break: break-all;
 	word-break: break-word;
@@ -349,18 +354,110 @@ hr {
 /*  - - - - - - - - LAYOUT
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
-/*  - - - - - - - - Header */
+/* grid is applied to element level where it is required */
 
-header {
+@media screen and (min-width: 37em) {
+
+	/*  - - - - - - - - HEADER */
+
+	.header-wrap {
+		display: grid;
+		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+		/* centre everything */
+		margin: 0 auto;
+		max-width: 51.8em;
+	}
+
+	.header-wrap .site-title {
+		grid-column: 2 / 7;
+	}
+
+	.navigation-menu {
+		display: grid;
+		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+		/* centre everything */
+		margin: 0 auto;
+		max-width: 51.8em;
+	}
+
+	.navigation-menu ul {
+		grid-column: 2 / 7;
+	}
+
+	/*  - - - - - - - - MAIN/CONTENT */
+
+	/* centre everything */
+	#content {
+		margin: 0 auto;
+		max-width: 51.8em;
+	}
+
+	.h-entry {
+		display: grid;
+		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+	}
+
+	.h-entry h1,
+	.h-entry .entry-meta,
+	.h-entry .entry-notes {
+		grid-column: 2 / 7;
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.h-entry .entry-meta p,
+	.h-entry .entry-notes p {
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.entry-content {
+		grid-column: 1 / 8; /* inside h-entry */
+
+		display: grid;
+		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+	}
+
+	.entry-content h2,
+	.entry-content h3,
+	.entry-content h4,
+	.entry-content h5,
+	.entry-content h6,
+	.entry-content p,
+	.entry-content blockquote,
+	.entry-content ul,
+	.entry-content ol {
+		grid-column: 2 / 7;
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.entry-content figure,
+	.entry-content img {
+		grid-column: 2 / 8;
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	/*  - - - - - - - - FOOTER */
+
+	.footer-wrap {
+		display: grid;
+		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+		/* centre everything */
+		margin: 0 auto;
+		max-width: 51.8em;
+	}
+
+	.site-footer .footer-wrap h2,
+	.site-footer .footer-wrap p {
+		grid-column: 2 / 6;
+		margin-left: 0;
+		margin-right: 0;
+	}
 }
 
-main {
 
-}
-
-footer {
-
-}
 
 /*  - - - - - - - - CLASSES AND IDs
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
@@ -410,8 +507,11 @@ figcaption, .site-footer p, .site-footer small, .note {
 
 /*  - - - - - - - - MAIN */
 
-#content {
+main {
 	background: white;
+}
+
+#content {
 	/* to clear contained margins */
 	padding: 0.5em 0 4.5em;
 }
@@ -448,8 +548,8 @@ figcaption, .site-footer p, .site-footer small, .note {
 	top: -10em;
 }
 
-.navigation-menu {
-	background: hsla(var(--tab-five), 0.1);
+nav {
+	background: hsla(var(--secondary-bg), 1);
 }
 
 .navigation-menu ul {
@@ -784,39 +884,6 @@ figcaption {
 		justify-content: space-between;
 	}
 
-}
-
-/*  - - - - - - - - SVG TILE
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
-
-/* SVGs are included in the HTML because otherwise they can’t pick up from the CSS variables */
-
-.tilet {
-	display: block;
-	height: 15em;
-	margin-top: -0.5em; /* offset top margin */
-	position: absolute;
-	width: 100%;
-	z-index: 1;
-}
-
-.tilett {
-	z-index: -1; /* position behind everything */
-}
-
-.site-header {
-	position: relative; /* allow absolute positioning inside */
-}
-
-.site-header .tilet {
-	height: 3.4em; /* height of title */
-	margin-top: -1em; /* offset top margin */
-}
-
-@media screen and (min-width: 35em) {
-	.site-header .tilet {
-		height: 4em; /* height of title */
-	}
 }
 
 /*  - - - - - - - - SYNTAX HIGHLIGHTING
