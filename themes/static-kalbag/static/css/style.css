@@ -749,8 +749,26 @@ body.home .latest-note h3 {
 	padding-left: 0;
 }
 
+@media screen and (min-width: 37em) {
+	.posts-list, .resources-list {
+		display: grid;
+		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+	}
+}
+
 .posts-list li, .resources-list li, .notes-list li {
 	list-style-type: none
+}
+
+@media screen and (min-width: 37em) {
+	.posts-list > li, .resources-list > li {
+		grid-column: 2 / 7;
+	}
+
+	.posts-list > li h2, .resources-list > li h2,
+	.posts-list > li p, .resources-list > li p {
+		margin-left: 0;
+	}
 }
 
 .posts-list ul li, .resources-list ul li, .notes-list ul li {
