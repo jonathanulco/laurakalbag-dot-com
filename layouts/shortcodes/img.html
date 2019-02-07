@@ -23,10 +23,10 @@
 {{ $large := .Scratch.Get "large" }}
 
 {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
-{{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
+{{/* set the sizes attribute to (min-width: 1100px) 888px, (min-width: 600px) calc(77.92vw + 47px), calc(97.86vw - 28px) unless overridden in shortcode */}}
 
 <img 
-	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 35em) 1200px, 100vw"{{ end }}
+	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 1100px) 888px, (min-width: 600px) calc(77.92vw + 47px), calc(97.86vw - 28px)"{{ end }}
 	srcset='
 	{{ if ge $src.Width "500" }}
 		{{ with $tiny.Permalink }}{{.}} 500w{{ end }}
