@@ -376,18 +376,6 @@ hr {
 		grid-column: 2 / 7;
 	}
 
-	.navigation-menu {
-		display: grid;
-		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
-		/* centre everything */
-		margin: 0 auto;
-		max-width: 51.8em;
-	}
-
-	.navigation-menu ul {
-		grid-column: 2 / 7;
-	}
-
 	/*  - - - - - - - - MAIN/CONTENT */
 
 	/* centre everything */
@@ -442,25 +430,7 @@ hr {
 		margin-left: 0;
 		margin-right: 0;
 	}
-
-	/*  - - - - - - - - FOOTER */
-
-	.footer-wrap {
-		display: grid;
-		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
-		/* centre everything */
-		margin: 0 auto;
-		max-width: 51.8em;
-	}
-
-	.site-footer .footer-wrap h2,
-	.site-footer .footer-wrap p {
-		grid-column: 2 / 6;
-		margin-left: 0;
-		margin-right: 0;
-	}
 }
-
 
 
 /*  - - - - - - - - CLASSES AND IDs
@@ -535,10 +505,24 @@ main {
 	/* to clear contained margins */
 	padding: 0.5em 0;
 }
-		
-.site-footer p, .note, figcaption p {
-	margin-right: var(--layout-unit);
-	margin-left: var(--layout-unit);
+
+@media screen and (min-width: 37em) {
+
+	.footer-wrap {
+		display: grid;
+		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+		/* centre everything */
+		margin: 0 auto;
+		max-width: 51.8em;
+	}
+
+	.site-footer .footer-wrap h2,
+	.site-footer .footer-wrap p {
+		grid-column: 2 / 6;
+		margin-left: 0;
+		margin-right: 0;
+	}
+
 }
 
 /*  - - - - - - - - NAVIGATION
@@ -567,8 +551,18 @@ nav {
 	padding: 0 0 0.5em 0.5em;
 }
 
-@media screen and (min-width: 37em) {
+@media screen and (min-width: 45em) {
+	.navigation-menu {
+		display: grid;
+		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+		/* centre everything */
+		margin: 0 auto;
+		max-width: 51.8em;
+	}
+
 	.navigation-menu ul {
+		grid-column: 2 / 7; /* inside .navigation-menu */
+
 		/* 7 = number of columns = number of links in nav */
 		display: grid;
 		grid-template-columns: repeat(7, auto);
@@ -585,11 +579,12 @@ nav {
 	text-decoration: none;
 }
 
-@media screen and (min-width: 37em) {
+@media screen and (min-width: 45em) {
 	.navigation-menu ul a {
 		border-radius: 0;
 		display: block;
 		margin: 0;
+		padding: calc(var(--layout-unit)/3) var(--layout-unit);
 	}
 }
 
