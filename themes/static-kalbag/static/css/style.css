@@ -170,7 +170,7 @@ h1 {
 
 h2 {
 	font-size: 2em;
-	margin-top: 2em;
+	margin-top: 1em;
 }
 
 @media screen and (min-width: 35em) {
@@ -186,7 +186,6 @@ h2#latest-photos, h2#latest-notes {
 /* make h2s on notes smaller */
 .notes main h2 {
 	font-size: 1.75em;
-	margin-top: 2em;
 }
 
 @media screen and (min-width: 35em) {
@@ -207,7 +206,6 @@ h1, h1 a, h2, h2 a {
 	
 h3, footer h2 {
 	font-size: 1.75em;
-	margin-top: 2em;
 }
 
 @media screen and (min-width: 35em) {
@@ -655,7 +653,6 @@ body.home .note {
 }
 
 body.home .latest-note h3 {
-    margin-top: 1.2em;
 }
 
 
