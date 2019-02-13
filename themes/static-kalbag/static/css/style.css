@@ -406,9 +406,8 @@ hr {
 		grid-column: 2 / 7;
 	}
 
-	.entry-content figure,
-	.entry-content img {
-		grid-column: 2 / 8;
+	.entry-content figure {
+		grid-column: 1 / 8;
 	}
 }
 
@@ -428,7 +427,7 @@ h1 a, h2 a, h3 a, figure a, figure a:hover {
     font-size: 0.9em;
 }
 	
-figcaption, .site-footer p, .site-footer small, .note {
+.site-footer p, .site-footer small, .note {
     font-size: 0.9em;
 }
 	
@@ -872,43 +871,99 @@ img {
 	height: auto; /* fill ratio-appropriate space compared to width */
 	max-width: 100%; /* don’t exceed width of viewport, flex to available space when viewport is resized */
 }
+
+figure {
+	display: grid;
+	grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+	margin: 1em 0 2em;
+}
 	
 figure img {
 	margin-bottom: 0;
+	grid-column: 2 / 8;
 }
 
-figure {
-	margin: 1em 0 1em;
+figcaption {
+	display: block;
+	font-size: 0.85em;
+	grid-column: 2 / 7;
+	margin-top: 0.5em;
 }
+
+@media screen and (min-width: 37em) {
+	figcaption {
+		grid-column: 1 / 2;
+		grid-row: -1 / 2;
+		margin-top: 2em;
+	}
+
+	figcaption p {
+		padding-right: var(--layout-unit);
+	}
+}
+
+/* for photo grids */
+
+@media screen and (min-width: 37em) {
+	figure.grid figcaption {
+		grid-row: 2 / 3;
+	}
+}
+
+/* for photo grids with two rows */
+
+@media screen and (min-width: 37em) {
+	figure.grid.four figcaption {
+		grid-row: 1 / 2;
+	}
+}
+
+
+/* when layout gets wider, put captions in left column */
 	
-figure a {
+figure > a {
 	display: block;
 	text-decoration: none;
 }
 
-figure.grid.two {
-	display: grid;
-	grid-template-rows: 1fr auto;
-	grid-template-columns: 50% 50%;
-	grid-template-areas: 	"image1 	image2"
-							"figcaption	figcaption";
+@media screen and (min-width: 37em) {
+	figure > a {
+		grid-column: 2 / 8;
+	}
 }
 
-figure.grid.three {
-	display: grid;
-	grid-template-rows: 1fr auto;
-	grid-template-columns: 1fr 1fr 1fr;
-	grid-template-areas: 	"image1 	image2 		image3"
-							"figcaption	figcaption	figcaption";
+/* 2 photos */
+
+figure.grid.two img:nth-of-type(1n) {
+	grid-column: 2 / 5;
+} 
+
+figure.grid.two img:nth-of-type(2n) {
+	grid-column: 5 / 8;
 }
 
-figure.grid.four {
-	display: grid;
-	grid-template-rows: 1fr 1fr auto;
-	grid-template-columns: 50% 50%;
-	grid-template-areas: 	"image1		image2"
-							"image3		image4"
-							"figcaption	figcaption";
+/* 3 photos */
+
+figure.grid.three img:nth-of-type(1n) {
+	grid-column: 2 / 4;
+} 
+
+figure.grid.three img:nth-of-type(2n) {
+	grid-column: 4 / 6;
+}
+
+figure.grid.three img:nth-of-type(3n) {
+	grid-column: 6 / 8;
+}
+
+/* 4 photos */
+
+figure.grid.four img:nth-of-type(1n) {
+	grid-column: 2 / 5;
+} 
+
+figure.grid.four img:nth-of-type(2n) {
+	grid-column: 5 / 8;
 }
 
 figure.grid img {
@@ -916,30 +971,7 @@ figure.grid img {
 	height: auto;
 }
 
-figure.grid img:nth-of-type(1) {
-	grid-area: image1;
-}
-
-figure.grid img:nth-of-type(2) {
-	grid-area: image2;
-}
-
-figure.grid img:nth-of-type(3) {
-	grid-area: image3;
-}
-
-figure.grid img:nth-of-type(4) {
-	grid-area: image4;
-}
-
-figure.grid figcaption {
-	grid-area: figcaption;
-}
-
-figcaption {
-	display: block;
-	margin-top: 0.5em;
-}
+/* about page selfie */
 
 body.about-me figure.selfie {
 	grid-column: 6 / 9;
