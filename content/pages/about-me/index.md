@@ -27,7 +27,7 @@ I’m Laura Kalbag, a designer and British person, now living in Cork, Ireland. 
 
 {{< selfie >}}
 
-I’m one third of [Ind.ie](https://ind.ie), a tiny two-person-and-one-husky not-for-profit working for social justice in the digital age. At Ind.ie, we work on building a more ethical web, make [a web privacy tool called Better](https://better.fyi), and follow the [Ethical Design Manifesto](https://ind.ie/ethical-design).
+I’m one a co-founder of [Ind.ie](https://ind.ie), a tiny two-person-and-one-husky not-for-profit working for social justice in the digital age. At Ind.ie, we work on building a more ethical web, make [a web privacy tool called Better](https://better.fyi), and follow the [Ethical Design Manifesto](https://ind.ie/ethical-design).
 
 ### How do I pronounce Kalbag?
 
