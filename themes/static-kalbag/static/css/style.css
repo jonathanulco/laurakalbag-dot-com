@@ -139,7 +139,7 @@ h1, h2, h3 {
 	font-family: var(--font-family-black);
 	font-weight: bold;
 	letter-spacing: normal;
-	line-height: 1.1;
+	line-height: 1;
 	margin: 0 0 0.5em 0;
 }
 	
@@ -387,10 +387,6 @@ hr {
 		grid-column: 2 / 7;
 	}
 
-	.h-entry .entry-meta p,
-	.h-entry .entry-notes p {
-	}
-
 	.entry-content {
 		grid-column: 1 / 8; /* inside h-entry */
 
@@ -447,19 +443,17 @@ figcaption, .site-footer p, .site-footer small, .note {
 	padding: 0.5em 0 0 0;
 }
 
-
 .site-title {
-	margin-top: 0;
-	margin-bottom: 0.1em;
+	line-height: 0.85em; /* so background is equal above and below text */
+	margin: 0 0 0.1em 0;
 	position: relative; /* allow absolute positioning inside */
-	text-align: center;
-	z-index: 1;
+	z-index: 3;
 }
 	
 .site-title a {
-	background: hsl(var(--primary-bg));
 	color: hsl(var(--text));
 	font-size: 0.8em;
+	padding: 0 var(--layout-unit);
 	text-decoration: none;
 }
 
@@ -472,10 +466,14 @@ figcaption, .site-footer p, .site-footer small, .note {
 	position: absolute;
 	right: 0;
 	top: -10em;
+	z-index: 3;
 }
 
 nav {
 	background: hsla(var(--secondary-bg), 1);
+	z-index: 3;
+	/* so z-index works */
+	position: relative;
 }
 
 .navigation-menu ul {
@@ -534,7 +532,7 @@ nav {
 
 /* set active navigation link background colour */
 .navigation-menu li.active a, body.blog .navigation-menu a[href="/posts/"], body.latest .navigation-menu a[href="/latest/"] {
-	background: rgba(255,255,255,0.85);
+	background: white;
 	color: hsl(var(--text));
 }
 
@@ -649,7 +647,7 @@ main {
 
 #content {
 	/* to clear contained margins */
-	padding: 0.5em 0 4.5em;
+	padding: 2em 0 4.5em;
 }
 
 .entry-notes {
