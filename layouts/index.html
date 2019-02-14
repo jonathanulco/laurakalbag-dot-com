@@ -21,7 +21,7 @@
 				{{ end }}
 				<ul class="posts-list">
 				{{ range (first 3 $section) }}
-					<li class="post {{ if eq .Type "notes" }}note-post {{ end -}}">
+					<li class="post">
 						<h3>
 							<a href="{{ .URL }}">
 							{{- .Title -}}
