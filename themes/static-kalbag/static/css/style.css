@@ -758,6 +758,28 @@ main article .entry-meta {
 	font-weight: bold;
 }
 
+/* date bubble and date pulled into left col */
+
+@media screen and (min-width: 37em) {
+	.entry-meta {
+		grid-column: 1 / 2;
+	}
+}
+
+.entry-meta time .number {
+	background-color: hsl(var(--brilliant));
+	color: white;
+	display: block;
+	border-radius: 50%;
+	height: 1.8em;
+	width: 1.8em;
+	line-height: 1.8em;
+	text-align: center;
+	float: left;
+	margin-right: calc(var(--layout-unit)/2);
+	font-size: 0.8em;
+}
+
 .commentlist {
 	margin-top: 2em;
 	padding-left: 0;
