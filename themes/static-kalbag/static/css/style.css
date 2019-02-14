@@ -261,13 +261,14 @@ a {
 }
 
 @media screen and (max-width: 35em) {
-	/* for really long URLs on narrow viewports */
-	-ms-word-break: break-all;
-	word-break: break-all;
-	word-break: break-word;
-	-webkit-hyphens: auto;
-	-moz-hyphens: auto;
-    hyphens: auto;
+	a {
+		/* for really long URLs on narrow viewports */
+		word-break: break-all;
+		word-break: break-word;
+		-webkit-hyphens: auto;
+		-moz-hyphens: auto;
+		hyphens: auto;
+	}
 }
 
 a:hover, a:active {
