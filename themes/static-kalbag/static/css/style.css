@@ -128,7 +128,7 @@ html {
 
 body {
 	/* make background colour before footer same as footer */
-	background: hsl(var(--primary-bg));
+	background-color: hsl(var(--primary-bg));
 	color: hsl(var(--text));
 	font-family: var(--font-family);
 	letter-spacing: -0.02em;
@@ -635,7 +635,8 @@ body.contact-me .navigation-menu a[href="/"] {
 /*  - - - - - - - - MAIN */
 
 main {
-	background: white;
+	background-image: url(/images/square.svg);
+	background-size: 3em;
 }
 
 @media screen and (max-width: 37em) {
