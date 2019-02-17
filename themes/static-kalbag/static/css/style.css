@@ -357,11 +357,6 @@ pre code {
 	color: hsl(var(--primary-bg));
 }
 
-hr {
-	border: hsl(var(--brilliant)) dashed 0.1em;
-	margin: 2em 0;
-}
-
 /* when the hr is in a summary, make it a bit more subtle/not full width */
 hr {
 	border: hsl(var(--brilliant)) dashed 0.075em;
@@ -741,11 +736,15 @@ main {
 }
 
 .entry-notes {
-	padding-top: 2em;
+	border-top: hsl(var(--brilliant)) dashed 0.15em;
+	margin-top: 2em;
+	padding-top: 1em;
 }
 
 .notes-list .entry-notes, .posts-list .entry-notes {
-	padding-top: 0.5em;
+	border-top: none;
+	margin-top: 0;
+	padding-top: 0;
 }
 
 /*  - - - - - - - - FOOTER */
