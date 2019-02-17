@@ -911,6 +911,11 @@ main article .entry-meta {
 	padding-left: 0;
 }
 
+.latest-photos li {
+	list-style-type: none;
+	margin-bottom: 0;
+}
+
 .latest-photos .photo-post img {
 	display: block;
 	margin: 0;
@@ -924,7 +929,9 @@ main article .entry-meta {
 	}
 
 	.latest-photos a {
+		display: block;
 		margin-right: 0.1em;
+		margin-bottom: 0.1em;
 	}
 
 }

@@ -5,7 +5,7 @@
 			{{- .Content -}}
 		</div>
 	</article>
-	<ul class="posts-list latest-photos">
+	<ul class="latest-photos">
 		{{- $section := where .Data.Pages "Section" .Section -}}
 		{{- range $section -}}
 			<li class="post photo-post">{{ partial "summary-photo.html" . }}</li>
