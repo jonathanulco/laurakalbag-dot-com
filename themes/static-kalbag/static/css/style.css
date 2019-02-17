@@ -396,7 +396,7 @@ hr {
 
 /*  - - - - - - - - MAIN/CONTENT */
 
-.h-entry, .entry-content, section.latest {
+.entry-content, section.latest {
 	/* centre everything */
 	margin: 0 auto;
 	max-width: 51.8em;
@@ -406,12 +406,12 @@ hr {
 
 @media screen and (min-width: 37em) {
 
-	.h-entry, .entry-content {
+	.entry-content {
 		display: grid;
 		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
 	}
 
-	.h-entry, .entry-content, section.latest {
+	.entry-content, section.latest {
 		padding: 0;
 	}
 
@@ -932,25 +932,46 @@ main article .entry-meta {
 img {
 	margin: 1em 0;
 	height: auto; /* fill ratio-appropriate space compared to width */
-	max-width: 100%; /* don’t exceed width of viewport, flex to available space when viewport is resized */
 }
 
 figure {
-	margin: 0.75em 0 2em;
+	margin-top: 0.75em;
+	margin-bottom: 2em;
+	/* offset container's padding */
+	margin-left: -1rem;
+	margin-right: -1rem;
 }
 	
 figure img {
 	margin-bottom: 0;
+	width: 100%;
 }
 
 figcaption {
+	color: hsla(var(--text),.9);
 	display: block;
 	font-size: 0.85em;
 	line-height: 1.25;
 	margin-top: 0.5em;
+	/* put container’s padding back */
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+
+@media screen and (min-width: 37em) {
+	figure {
+		margin-left: 0;
+		margin-right: 0;
+	}
 }
 
 @media screen and (min-width: 60em) {
+
+	img {
+		max-width: 100%;
+		width: auto;
+	}
+	
 	figure {
 		display: grid;
 		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
@@ -969,6 +990,13 @@ figcaption {
 	figcaption p {
 		padding-right: var(--layout-unit);
 	}
+}
+
+@media screen and (min-width: 70em) {
+	figure img {
+		grid-column: 2 / 8;
+	}	
+
 }
 
 /* for photo grids */
