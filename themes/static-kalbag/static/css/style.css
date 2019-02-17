@@ -942,6 +942,7 @@ main article .entry-meta {
 img {
 	margin: 1em 0;
 	height: auto; /* fill ratio-appropriate space compared to width */
+	width: 100%;
 }
 
 figure {
@@ -954,7 +955,6 @@ figure {
 	
 figure img {
 	margin-bottom: 0;
-	width: 100%;
 }
 
 figcaption {
@@ -969,6 +969,11 @@ figcaption {
 }
 
 @media screen and (min-width: 37em) {
+	img {
+		/* when it’s an image not in a figure */
+		grid-column: 2 / 8;
+	}
+	
 	figure {
 		margin-left: 0;
 		margin-right: 0;
