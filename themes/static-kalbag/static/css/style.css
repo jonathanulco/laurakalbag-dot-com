@@ -327,8 +327,15 @@ small a {
 }
 		
 blockquote {
+	border-left: 0.5rem hsl(var(--secondary-bg)) solid;
+	color: hsla(var(--text),.9);
     font-style: italic;
-	margin: 1em 0
+	margin: 1em 0 0.75em -1.5rem;
+	padding-left: 1rem;
+}
+
+blockquote p:last-of-type {
+	margin-bottom: 0;
 }
 
 pre {
@@ -715,8 +722,8 @@ body.contact-me .navigation-menu a[href="/"] {
 
 main {
 	background-color: white;
-	background-image: url(/images/square.svg);
-	background-size: 3em;
+	/* background-image: url(/images/square.svg);
+	background-size: 3em; */
 }
 
 #content {
