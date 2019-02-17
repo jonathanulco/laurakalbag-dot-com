@@ -105,12 +105,12 @@
 
 html {
 	font-size: 100%; /* all font sizes and rems scale from here */
-	line-height: 1.35;
+	line-height: 1.375;
 }
 
 @media screen and (min-width: 18em) {
     html {
-        font-size: 105%; /* all font sizes and rems scale from here */
+        font-size: 101%; /* all font sizes and rems scale from here */
     }
 }
     
@@ -140,18 +140,27 @@ h1, h2, h3 {
 	font-weight: bold;
 	letter-spacing: normal;
 	line-height: 1;
-	margin: 0 0 0.5em 0;
+	margin: 0 0 0.75em 0;
 }
 	
 h1 {
 	font-size: 2.5em;
-    margin-top: 1.5em;
+	margin-top: 1em;
+	/* before grid kicks in */
+	padding: 0 var(--layout-unit);
 }
 	
 @media screen and (min-width: 35em) {
     h1 {
         font-size: 4em;
     }
+}
+
+/* when grid kicks in */
+@media screen and (min-width: 37em) {
+	h1 {
+		padding: 0;
+	}
 }
 
 /* make h1s on Notes and Photos single posts smaller */
@@ -250,7 +259,7 @@ h6 {
 }
 
 p {
-    margin: 0 0 0.5em 0;
+    margin: 0 0 0.75em 0;
 }
 	
 a {
@@ -277,6 +286,10 @@ a:hover, a:active {
 	text-decoration-color: hsl(var(--brilliant));
 	-webkit-text-decoration-color: hsl(var(--brilliant));
 	transition: 0.2s;
+}
+
+h1 a, h2 a, h3 a, figure a, figure a:hover {
+	color: hsl(var(--text));
 }
 
 abbr {
@@ -376,7 +389,7 @@ hr {
 
 /*  - - - - - - - - MAIN/CONTENT */
 
-.h-entry, .entry-content, .latest {
+.h-entry, .entry-content, section.latest {
 	/* centre everything */
 	margin: 0 auto;
 	max-width: 51.8em;
@@ -389,6 +402,10 @@ hr {
 	.h-entry, .entry-content {
 		display: grid;
 		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+	}
+
+	.h-entry, .entry-content, section.latest {
+		padding: 0;
 	}
 
 	h1,
@@ -479,12 +496,8 @@ section.latest, .posts-list {
 	}
 }
 
-/*  - - - - - - - - CLASSES AND IDs
+/*  - - - - - - - - HEADER
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
-
-h1 a, h2 a, h3 a, figure a, figure a:hover {
-	color: hsl(var(--text));
-}
 
 .entry-meta {
     font-size: 1.25em;
@@ -504,7 +517,7 @@ h1 a, h2 a, h3 a, figure a, figure a:hover {
 }
 
 .site-header {
-	background: hsl(var(--secondary-bg));
+	background: hsl(var(--primary-bg));
 	/* to clear contained margins */
 	padding: 0.5em 0 0 0;
 }
@@ -536,14 +549,14 @@ h1 a, h2 a, h3 a, figure a, figure a:hover {
 }
 
 nav {
-	background: hsla(var(--primary-bg), 1);
+	background: hsla(var(--secondary-bg), 1);
 	z-index: 3;
 	/* so z-index works */
 	position: relative;
 }
 
 .navigation-menu ul {
-	background: hsla(var(--primary-bg), 1);
+	background: hsla(var(--secondary-bg), 1);
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
@@ -702,12 +715,12 @@ body.contact-me .navigation-menu a[href="/"] {
 
 main {
 	background-color: white;
-	/* background-image: url(/images/square.svg);
-	background-size: 3em; */
+	background-image: url(/images/square.svg);
+	background-size: 3em;
 }
 
 #content {
-	/* to clear contained margins */
+	/* top padding to clear contained margins */
 	/* top padding is instead top margin on h1 */
 	padding: 0 0 4.5em;
 }
@@ -916,24 +929,30 @@ img {
 }
 
 figure {
-	display: grid;
-	grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
-	margin: 1em 0 2em;
+	margin: 0.75em 0 2em;
 }
 	
 figure img {
 	margin-bottom: 0;
-	grid-column: 2 / 8;
 }
 
 figcaption {
 	display: block;
 	font-size: 0.85em;
-	grid-column: 2 / 7;
+	line-height: 1.25;
 	margin-top: 0.5em;
 }
 
 @media screen and (min-width: 60em) {
+	figure {
+		display: grid;
+		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+	}
+
+	figure img {
+		grid-column: 2 / 8;
+	}	
+
 	figcaption {
 		grid-column: 1 / 2;
 		grid-row: -1 / 2;
