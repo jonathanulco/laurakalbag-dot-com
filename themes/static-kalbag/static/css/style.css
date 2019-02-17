@@ -368,26 +368,7 @@ hr {
 
 /* grid is applied to element level where it is required */
 
-/*  - - - - - - - - HEADER */
 
-.header-wrap {
-	/* centre everything */
-	margin: 0 auto;
-	max-width: 51.8em;
-}
-
-@media screen and (min-width: 37em) {
-
-	.header-wrap {
-		display: grid;
-		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
-	}
-
-	.site-title {
-		grid-column: 2 / 7;
-	}
-
-}
 
 /*  - - - - - - - - MAIN/CONTENT */
 
@@ -513,18 +494,6 @@ section.latest .posts-list, section.latest .notes-list {
 /*  - - - - - - - - HEADER
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
-.entry-meta {
-    font-size: 1.25em;
-}
-
-.entry-notes {
-    font-size: 0.9em;
-}
-	
-.site-footer p, .site-footer small, .note {
-    font-size: 0.9em;
-}
-	
 .site-title {
 	font-style: italic;
     text-transform: uppercase;
@@ -548,6 +517,30 @@ section.latest .posts-list, section.latest .notes-list {
 	font-size: 0.8em;
 	padding: 0 var(--layout-unit);
 	text-decoration: none;
+}
+
+.header-wrap {
+	/* centre everything */
+	margin: 0 auto;
+	max-width: 51.8em;
+}
+
+@media screen and (min-width: 37em) {
+
+	.header-wrap {
+		display: grid;
+		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+	}
+
+	.site-title {
+		grid-column: 2 / 7;
+	}
+
+	.site-title a {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
 }
 
 /*  - - - - - - - - NAVIGATION
@@ -577,25 +570,22 @@ nav {
 	grid-template-columns: repeat(7, 1fr);
 	list-style-type: none;
 	margin: 0;
-	padding: 0 0 0.5em 0.5em;
+	padding: 0 0 0.5em 0.5rem;
 }
 
 @media screen and (min-width: 52em) {
 	.navigation-menu {
 		display: grid;
 		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
-		/* centre everything */
-		margin: 0 auto;
-		max-width: 51.8em;
 	}
 
 	.navigation-menu ul {
-		grid-column: 2 / 7; /* inside .navigation-menu */
+		grid-column: 1 / 9; /* inside .navigation-menu */
 
 		/* 7 = number of columns = number of links in nav */
 		display: grid;
-		grid-template-columns: repeat(7, auto);
-		justify-content: left;
+		grid-template-columns: repeat(7, 1fr);
+		justify-content: stretch;
 		padding: 0;
 	}
 }
@@ -779,6 +769,10 @@ main {
 	max-width: 7em;
 }
 
+.site-footer p, .site-footer small, .note {
+    font-size: 0.9em;
+}
+
 @media screen and (min-width: 37em) {
 
 	.footer-wrap {
@@ -883,7 +877,19 @@ main {
 		margin-bottom: 0;
 	}
 }
-		
+
+.entry-meta {
+    font-size: 1.25em;
+}
+
+.entry-notes {
+    font-size: 0.9em;
+}
+	
+.note {
+    font-size: 0.9em;
+}
+
 main article .entry-meta {
 	font-family: var(--font-family-black);
 	font-weight: bold;
