@@ -23,3 +23,5 @@ description: ""
 ---
 
 # Latest
+
+Social networks come and go, and I really like posting social media. In this section (currently called ‘Latest’), I’m trying to mirror the stuff I post to social networks. You call follow what I post here using my [whole site RSS feed](/index.xml).
