@@ -396,7 +396,7 @@ hr {
 
 /*  - - - - - - - - MAIN/CONTENT */
 
-.entry-content, section.latest {
+.h-entry, .entry-content, section.latest {
 	/* centre everything */
 	margin: 0 auto;
 	max-width: 51.8em;
@@ -406,7 +406,7 @@ hr {
 
 @media screen and (min-width: 37em) {
 
-	.entry-content {
+	.h-entry, .entry-content {
 		display: grid;
 		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
 	}
@@ -729,7 +729,7 @@ main {
 #content {
 	/* top padding to clear contained margins */
 	/* top padding is instead top margin on h1 */
-	padding: 0 0 4.5em;
+	padding: 1px 0 4.5em 0;
 }
 
 .intro {
@@ -1065,20 +1065,19 @@ figure.grid img {
 @media screen and (min-width: 60em) {
 	body.about-me .h-entry h2, body.about-me .h-entry h3 {
 		grid-column: 2 / 6;
-		margin-right: var(--layout-unit);
 	}
 
 	body.about-me .h-entry p:nth-of-type(1),
 	body.about-me .h-entry p:nth-of-type(2),
 	body.about-me .h-entry p:nth-of-type(3) {
 		grid-column: 2 / 6;
-		margin-right: var(--layout-unit);
 	}
 
 	body.about-me figure.selfie {
 		display: block;
 		grid-column: 6 / 9;
 		grid-row: 1 / 6;
+		margin-left: calc(var(--layout-unit)*3);
 	}
 
 	body.about-me figure.selfie figcaption {
