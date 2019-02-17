@@ -430,7 +430,7 @@ section.latest, .posts-list {
 	padding: 0 var(--layout-unit);
 }
 
-section.latest .posts-list, section.latest .notes-list {
+section.latest .posts-list, section.latest .notes-list, .h-entry .entry-content {
 	padding: 0;
 }
 
@@ -733,6 +733,11 @@ main {
 	/* clear contained margins */
 	overflow: hidden;
 	padding-bottom: 3em;
+}
+
+h1 {
+	padding-left: 0;
+	padding-right: 0;
 }
 
 .entry-notes {
