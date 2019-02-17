@@ -456,6 +456,10 @@ section.latest, .posts-list {
 		padding: 0;
 	}
 
+	section.latest .notes-list {
+		margin-top: 0;
+	}
+
 	section.latest h2,
 	section.latest p {
 		grid-column: 2 / 6;
@@ -809,7 +813,7 @@ main {
 	margin-top: 2.5em;
 }
 
-.posts-list li, .resources-list li, .notes-list li {
+.posts-list > li, .resources-list > li, .notes-list > li {
 	list-style-type: none;
 	margin-bottom: 3em;
 }
@@ -842,6 +846,11 @@ main {
 }
 
 @media screen and (min-width: 37em) {
+
+	.posts-list, .resources-list, .notes-list {
+		padding-left: 0;
+	}
+
 	.posts-list h2, .resources-list h2, .notes-list h2 {
 		margin-bottom: 0.25em;
 	}
