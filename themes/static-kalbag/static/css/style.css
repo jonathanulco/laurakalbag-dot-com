@@ -449,6 +449,10 @@ section.latest, .posts-list {
 	padding: 0 var(--layout-unit);
 }
 
+section.latest .posts-list, section.latest .notes-list {
+	padding: 0;
+}
+
 @media screen and (min-width: 37em) {
 	section.latest, .posts-list {
 		display: grid;
@@ -474,7 +478,7 @@ section.latest, .posts-list {
 	}
 
 	section.latest .posts-list {
-		grid-column: 1 / 6;
+		grid-column: 1 / 9;
 	}
 
 	section.latest .notes-list {
@@ -494,6 +498,7 @@ section.latest, .posts-list {
 	}
 
 	.posts-list > li h2,
+	.posts-list > li h3,
 	.posts-list > li .entry-meta,
 	.posts-list > li .summary,
 	.posts-list > li .entry-notes {
@@ -998,6 +1003,21 @@ main article .entry-meta {
 		margin-bottom: 0.1em;
 	}
 
+}
+
+/*  - - - - - - - - HOME
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+body.home .latest h2 {
+	margin-bottom: 0.5em;
+}
+
+body.home .posts-list {
+	margin-top: 0;
+}
+
+body.home .latest .posts-list > li {
+	margin-bottom: 1em;
 }
 
 /*  - - - - - - - - MEDIA 
