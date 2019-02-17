@@ -727,13 +727,16 @@ main {
 }
 
 #content {
-	/* top padding to clear contained margins */
 	/* top padding is instead top margin on h1 */
-	padding: 1px 0 4.5em 0;
+	padding: 0 0 4.5em 0;
+	/* clear contained margins */
+	overflow: hidden;
 }
 
 .intro {
 	background-color: hsl(var(--primary-bg));
+	/* clear contained margins */
+	overflow: hidden;
 	padding-bottom: 3em;
 }
 
@@ -985,10 +988,6 @@ figcaption {
 		grid-column: 1 / 2;
 		grid-row: -1 / 2;
 		margin-top: 2em;
-	}
-
-	figcaption p {
-		padding-right: var(--layout-unit);
 	}
 }
 
