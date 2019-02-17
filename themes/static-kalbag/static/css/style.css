@@ -330,7 +330,7 @@ blockquote {
 	border-left: 0.5rem hsl(var(--secondary-bg)) solid;
 	color: hsla(var(--text),.9);
     font-style: italic;
-	margin: 1em 0 0.75em -1.5rem;
+	margin: 0em 0 0.75em -1.5rem;
 	padding-left: 1rem;
 }
 
@@ -973,7 +973,7 @@ figcaption {
 		/* when it’s an image not in a figure */
 		grid-column: 2 / 8;
 	}
-	
+
 	figure {
 		margin-left: 0;
 		margin-right: 0;
