@@ -1094,7 +1094,7 @@ figcaption {
 		grid-column: 2 / 8;
 	}
 
-	.posts-list figure img {
+	.posts-list figure img, .notes-list figure img {
 		grid-column: 1 / 8;
 	}
 
@@ -1104,7 +1104,7 @@ figcaption {
 		margin-top: 2em;
 	}
 
-	.posts-list figcaption {
+	.posts-list figcaption, .notes-list figcaption {
 		grid-column: 1 / 8;
 		grid-row: auto;
 		margin: 0.5em 0 0 0;
@@ -1201,6 +1201,8 @@ figure.grid img {
 
 	body.about-me figure.selfie figcaption {
 		margin-top: 0.5em;
+		margin-left: 0;
+		margin-right: 0;
 	}
 }
 
