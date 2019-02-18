@@ -577,10 +577,13 @@ nav {
 	.navigation-menu {
 		display: grid;
 		grid-template-columns: repeat(7, minmax(14.285714286%, 7.4em));
+		/* centre everything */
+		margin: 0 auto;
+		max-width: 51.8em;
 	}
 
 	.navigation-menu ul {
-		grid-column: 1 / 9; /* inside .navigation-menu */
+		grid-column: 1 / 8; /* inside .navigation-menu */
 
 		/* 7 = number of columns = number of links in nav */
 		display: grid;
