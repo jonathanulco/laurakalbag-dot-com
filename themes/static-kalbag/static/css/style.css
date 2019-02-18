@@ -412,7 +412,8 @@ hr {
 	.entry-content p,
 	.entry-content blockquote,
 	.entry-content ul,
-	.entry-content ol {
+	.entry-content ol,
+	.entry-content hr {
 		grid-column: 2 / 7;
 	}
 
