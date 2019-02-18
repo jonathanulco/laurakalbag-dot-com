@@ -26,7 +26,7 @@
 {{/* set the sizes attribute to (min-width: 1100px) 888px, (min-width: 600px) calc(77.92vw + 47px), calc(97.86vw - 28px) unless overridden in shortcode */}}
 
 <img 
-	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 1100px) 888px, (min-width: 600px) calc(77.92vw + 47px), calc(97.86vw - 28px)"{{ end }}
+	{{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 1180px) 888px, (min-width: 960px) calc(49.5vw + 314px), (min-width: 600px) calc(100vw - 40px), 100vw"{{ end }}
 	srcset='
 	{{ if ge $src.Width "500" }}
 		{{ with $tiny.Permalink }}{{.}} 500w{{ end }}
