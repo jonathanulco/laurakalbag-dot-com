@@ -1092,12 +1092,22 @@ figcaption {
 
 	figure img {
 		grid-column: 2 / 8;
-	}	
+	}
+
+	.posts-list figure img {
+		grid-column: 1 / 8;
+	}
 
 	figcaption {
 		grid-column: 1 / 2;
 		grid-row: -1 / 2;
 		margin-top: 2em;
+	}
+
+	.posts-list figcaption {
+		grid-column: 1 / 8;
+		grid-row: auto;
+		margin: 0.5em 0 0 0;
 	}
 }
 
