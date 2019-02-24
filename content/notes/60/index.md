@@ -1,7 +1,7 @@
 ---
 title: 23 February 2019 14:18 UTC
 date: 2019-02-23T14:18:52Z
-tags: []
+tags: ["selfie"]
 categories: []
 type: ["note", "latest"]
 visibility: ["public"]

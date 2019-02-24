@@ -1,4 +1,4 @@
-{{/* get latest photo post with the tag of "selfie" */}}
+{{/* get latest post with the tag of "selfie" */}}
 
 {{ $selfie := .Site.Taxonomies.tags.selfie  }}
 {{ range ($selfie.Pages.GroupBy "Section") }}
