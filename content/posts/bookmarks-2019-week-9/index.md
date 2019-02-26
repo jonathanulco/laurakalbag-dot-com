@@ -17,7 +17,7 @@ colours:
     tab-four: "189,37%,64%" # hsl(189,37%,64%)
     tab-five: "200,54%,57%" # hsl(200,54%,57%)
     tab-six: "205,68%,51%" # hsl(205,68%,51%)
-image: "bookmarks-2019-week-9/scott-video.png"
+image: "/bookmarks-2019-week-9/scott-video.png"
 imagealt: "Still from the video including a handdrawn dog with a bee on her nose."
 ---
 
