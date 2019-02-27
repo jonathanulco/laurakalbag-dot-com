@@ -17,10 +17,8 @@ colours:
     tab-four: "189,37%,64%" # hsl(189,37%,64%)
     tab-five: "200,54%,57%" # hsl(200,54%,57%)
     tab-six: "205,68%,51%" # hsl(205,68%,51%)
-image: ""
-imagealt: ""
-description: ""
-imagealt: ""
+image: "/mic-issues/panel.jpg"
+imagealt: "Photo of me on a panel where I am wearing a long button-up dress with a lapel microphone."
 ---
 
 In the last year, I’ve had two notably bad experiences with mic fittings when speaking at conferences. Nowadays most events have a Code of Conduct, but I’ve found them to be largely unenforced, with some of the worst conduct coming from organisers or people working for the event.<!--more-->
@@ -67,7 +65,7 @@ I asked for advice on Twitter and Mastodon because couldn’t find any useful or
 > 2. ask if they’re comfortable doing it themselves or if they need help with any steps
 > 3. if they need help at any point be very clear about where your hands will be and what you’re trying to do
 
-This really covers all the basics. Personally I don’t require someone of the same gender to fit my microphone (understandably this would make some people feel more comfortable.) I’m even fine with being touched by a person fitting a microphone, just as long as they ask first and warn me what they’re doing to do.
+This really covers all the basics. Personally I don’t require someone of the same gender to fit my microphone (understandably this would make some people feel more comfortable.) I’m even fine with being touched by a person fitting a microphone, just as long as they ask first and warn me what they’re doing to do. [Karen Reilly](https://twitter.com/akareilly) recommended [this interesting forum thread on etiquette for fitting mics](https://forums.prosoundweb.com/index.php?topic=149960.0). There’s so valuable advice in there too (along with some odd suggestions like wearing gloves!)
 
 If you’re a conference organiser reading this, I’d really appreciate you briefing your tech team on fitting microphones. Even if they’re a professional team where you assume they know what they’re doing. I’d consider it a vital part of enforcing a code of conduct, and a way to show you really care about the experience of your speakers. Little things make a difference.
 
