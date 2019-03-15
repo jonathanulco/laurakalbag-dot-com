@@ -17,7 +17,7 @@ colours:
     tab-four: "189,37%,64%" # hsl(189,37%,64%)
     tab-five: "200,54%,57%" # hsl(200,54%,57%)
     tab-six: "205,68%,51%" # hsl(205,68%,51%)
-image: "bookmarks-week-11-2019/emma.png"
+image: "/bookmarks-week-11-2019/emma.png"
 imagealt: "Cartoon of a woman staring at a pile of clothes on the floor thinking “Oh no.”"
 ---
 
