@@ -419,7 +419,9 @@ hr {
 	.entry-content ol,
 	.entry-content hr,
 	.entry-content img,
-	.entry-content > a {
+	.entry-content > a,
+	.entry-content pre,
+	.entry-content div.highlight {
 		grid-column: 2 / 7;
 	}
 
