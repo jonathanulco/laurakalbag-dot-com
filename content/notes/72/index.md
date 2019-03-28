@@ -25,3 +25,7 @@ mastodonurl: "https://mastodon.laurakalbag.com/web/statuses/101827856061948392"
 Given that [Apple have just removed Do Not Track from Safari because it was being used for tracking via “fingerprinting”](https://gizmodo.com/apple-is-removing-do-not-track-from-safari-1832400768), the decision to [add trackability for assistive tech](https://www.applevis.com/blog/apple-braille-ios-news/apple-releases-ios-122-bringing-apple-news-canada-and-four-new-animoji) is *baffling.*
 
 Léonie Watson wrote very clearly on this specific issue years ago: [Thoughts on screen reader detection](https://tink.uk/thoughts-on-screen-reader-detection/).
+
+I’m so angry and want to write more about this, but I also want to get a [Better](https://better.fyi) update out today (going to try to smash those trackers before they get to you.) In short: 
+
+TRACKING IS BAD and invasive. Consent dialogs are not good enough for consent, let alone opt-out options. Discrimination based on tracking impacts marginalised and vulnerable people first and most. Yet 99% of the web is complicit in it. Go check yourselves. I regularly post links about the impact of tracking on the [Ind.ie Radar](https://ind.ie/radar) if you want more background.
