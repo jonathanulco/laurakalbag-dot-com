@@ -17,9 +17,8 @@ colours:
     tab-four: "188,58%,58%" # hsl(188,58%,58%)
     tab-five: "185,55%,49%" # hsl(185,55%,49%)
     tab-six: "186,71%,42%" # hsl(186,71%,42%)
-image: "/posts/everyday-information-architecture/book.jpg"
+image: "/everyday-information-architecture/book.jpg"
 imagealt: "Everyday Information Architecture paperback book."
-description: ""
 ---
 
 When I found out that [Lisa Maria Martin](http://thefutureislikepie.com) was writing a book about information architecture, I was really excited. Ever since I was lucky enough to have Lisa Maria edit my book, I’ve wanted to learn more from this insightful and kind person. During the writing and editing process, my book was loooong, accidentally repetitive, and the structure mostly just a bunch of text in the order it exited my brain. The other wonderful editors helped me flesh out ideas, communicate them clearly and ensured they were technically correct. Lisa Maria gave the book its final shape and structure. She took text I found unwieldy and hard to understand as a whole, and put it in an order that made sense to a reader. Needless to say, I learned a lot from her, and the opportunity to learn more, and how I could apply her kind of thinking to projects I work on every day (websites!) meant I read [Everyday Information Architecture](https://abookapart.com/products/everyday-information-architecture) as soon as I could get my hands on it.<!--more-->
