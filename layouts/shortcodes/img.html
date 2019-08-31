@@ -45,4 +45,4 @@
 	{{ else }}
 	src="{{ $src.Permalink }}" 
 	{{ end }}
-	{{ with .Get "alt" }}alt='{{.}}'{{ end }}>
+	{{- with .Get "alt" -}}alt="{{.}}"{{ else }}alt=""{{- end -}}
